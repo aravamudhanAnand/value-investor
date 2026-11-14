@@ -1,0 +1,27 @@
+== SEC companyfacts AAPL: FAILED HTTPError: HTTP Error 403: Forbidden
+== SEC company tickers: FAILED HTTPError: HTTP Error 403: Forbidden
+== SEC frames (one call, all companies): FAILED HTTPError: HTTP Error 403: Forbidden
+== Stooq latest quote: FAILED HTTPError: HTTP Error 404: Not Found
+== Stooq daily history: HTTP 200, 796 bytes, 0.7s
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="robots" content="noindex,nofollow"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript an
+== Yahoo chart: HTTP 200, 28171 bytes, 0.2s
+{"chart":{"result":[{"meta":{"currency":"USD","symbol":"AAPL","exchangeName":"NMS","fullExchangeName":"NasdaqGS","instrumentType":"EQUITY","firstTradeDate":345479400,"regularMarketTime":1794603601,"hasPrePostMarketData":true,"gmtoffset":-18000,"timezone":"EST","exchangeTimezoneName":"America/New_Yor
+== Yahoo quoteSummary: FAILED HTTPError: HTTP Error 401: Unauthorized
+== S&P 500 constituents: HTTP 200, 53594 bytes, 0.0s
+Symbol,Security,GICS Sector,GICS Sub-Industry,Headquarters Location,Date added,CIK,Founded
+MMM,3M,Industrials,Industrial Conglomerates,"Saint Paul, Minnesota",1957-03-04,66740,1902
+AOS,A. O. Smith,Ind
+== US Treasury 10y (FRED csv): HTTP 200, 511 bytes, 0.4s
+observation_date,DGS10
+2026-10-01,5.24
+2026-10-02,5.28
+2026-10-05,5.31
+2026-10-06,5.27
+2026-10-07,5.28
+2026-10-08,5.22
+2026-10-09,5.24
+2026-10-12,
+2026-10-13,5.21
+2026-10-14,5.19
+2026-10-15,5.10
+2026-
