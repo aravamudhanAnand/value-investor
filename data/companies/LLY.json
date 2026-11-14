@@ -1,0 +1,966 @@
+{
+ "company": "Eli Lilly",
+ "ticker": "LLY",
+ "exchange": "NYSE",
+ "sector": "Health care",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-11-09",
+ "currency": "USD",
+ "price": 1393.45,
+ "market_cap": "$1.24T",
+ "verdict": "WATCHLIST",
+ "overall_score": 68,
+ "one_liner": "A wide-moat business worth owning, but it trades at 2.4x fair value. Interesting below about $410.",
+ "scores": {
+  "meaning": 8,
+  "moat": 8,
+  "industry": 6,
+  "management": 9,
+  "financial_health": 9,
+  "valuation": 1
+ },
+ "treasury_10y": 5.13,
+ "profile": {
+  "what": "Eli Lilly is the largest pharmaceutical company by market value, driven by Mounjaro and Zepbound (tirzepatide) for diabetes and obesity, plus medicines for cancer, immunology and Alzheimer's disease.",
+  "money": "It sells prescription drugs to wholesalers, pharmacies and governments, with patent protection that allows high prices for years. Tirzepatide now provides most of its growth, and Lilly sells Zepbound directly to patients. It is building factories to meet demand and developing a pill version (orforglipron).",
+  "valued": "Lilly trades at a P/E far above other drug companies because investors expect obesity medicines to keep growing for a decade. The multiple moves with obesity-drug prescriptions, pricing and competition.",
+  "kind": "Established operating business",
+  "metrics": [
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 45.23,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 39.47,
+    "sector_n": 14
+   },
+   {
+    "key": "fpe",
+    "label": "Price / forward earnings",
+    "value": 29.7,
+    "unit": "x",
+    "note": "Next twelve months, analyst estimates",
+    "sector_median": 17.43,
+    "sector_n": 15
+   },
+   {
+    "key": "pfcf",
+    "label": "Price / free cash flow",
+    "value": 63.13,
+    "unit": "x",
+    "note": "Before deducting stock-based pay",
+    "sector_median": 27.32,
+    "sector_n": 15
+   },
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 27.66,
+    "unit": "x",
+    "note": "Enterprise value includes debt",
+    "sector_median": 16.07,
+    "sector_n": 14
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 0.5,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 2.29,
+    "sector_n": 15
+   }
+  ],
+  "peer_group": "Health care",
+  "peers": [
+   {
+    "ticker": "MRK",
+    "company": "Merck",
+    "value": 148.21
+   },
+   {
+    "ticker": "ISRG",
+    "company": "Intuitive Surgical",
+    "value": 54.75
+   },
+   {
+    "ticker": "ABBV",
+    "company": "AbbVie",
+    "value": 50.14
+   },
+   {
+    "ticker": "LLY",
+    "company": "Eli Lilly",
+    "value": 45.23
+   },
+   {
+    "ticker": "PFE",
+    "company": "Pfizer",
+    "value": 41.99
+   },
+   {
+    "ticker": "JNJ",
+    "company": "Johnson & Johnson",
+    "value": 41.98
+   },
+   {
+    "ticker": "ABT",
+    "company": "Abbott Laboratories",
+    "value": 40.87
+   },
+   {
+    "ticker": "DHR",
+    "company": "Danaher",
+    "value": 38.07
+   },
+   {
+    "ticker": "TMO",
+    "company": "Thermo Fisher Scientific",
+    "value": 36.74
+   },
+   {
+    "ticker": "AMGN",
+    "company": "Amgen",
+    "value": 31.25
+   },
+   {
+    "ticker": "MDT",
+    "company": "Medtronic",
+    "value": 25.07
+   },
+   {
+    "ticker": "UNH",
+    "company": "UnitedHealth Group",
+    "value": 22.52
+   },
+   {
+    "ticker": "CVS",
+    "company": "CVS Health",
+    "value": 21.95
+   },
+   {
+    "ticker": "BMY",
+    "company": "Bristol-Myers Squibb",
+    "value": 13.78
+   }
+  ]
+ },
+ "market": {
+  "rating": "Buy",
+  "target": 1453.4,
+  "beta": 0.39,
+  "as_of": "2026-11-09",
+  "low52": 850.51,
+  "high52": 1453.0,
+  "range_pos": 90,
+  "below_high": 4.1,
+  "target_vs_price": 4.3,
+  "target_vs_fair": 148.1,
+  "above_low": 63.8
+ },
+ "summary": {
+  "sentence": "The leader in obesity and diabetes medicines, priced for a decade of growth.",
+  "strengths": [
+   "Revenue growth is extraordinary for its size.",
+   "Gross margin above 80%."
+  ],
+  "risks": [
+   "Heavy reliance on one drug class.",
+   "Debt has tripled to fund manufacturing."
+  ],
+  "swing": [
+   "Obesity-drug pricing",
+   "Competition and the pill launch",
+   "Manufacturing capacity"
+  ]
+ },
+ "dollar": {
+  "cogs": 16.4,
+  "opex": 32.4,
+  "op_profit": 51.3,
+  "net": 31.9,
+  "fcf": 22.7
+ },
+ "cash_use": {
+  "years": 5,
+  "first": "FY21",
+  "last": "FY25",
+  "ocf": "$44.8B",
+  "capex": 44,
+  "dividends": 46,
+  "buybacks": 23,
+  "left": -12,
+  "sbc": 6,
+  "capex_reported": true
+ },
+ "meaning": {
+  "score": 8,
+  "what_it_does": "Makes medicines for diabetes, obesity, cancer and immune diseases.",
+  "how_it_makes_money": "Patented drugs, led by the GLP-1 medicines Mounjaro and Zepbound.",
+  "how_it_keeps_making_money": "Obesity treatment is a very large market and Lilly is one of two leaders.",
+  "how_it_could_stop": "Price cuts, new competitors or patent expiry on its GLP-1 franchise."
+ },
+ "moat": {
+  "score": 8,
+  "strength": "Wide",
+  "sources": [
+   "Intellectual property",
+   "Scale"
+  ],
+  "summary": "Patents and manufacturing scale in the fastest-growing drug class in history."
+ },
+ "industry": {
+  "score": 6,
+  "pace": "Steady change",
+  "summary": "Drug discovery advances steadily; every product faces a patent cliff, so the pipeline must keep refilling."
+ },
+ "management": {
+  "score": 9,
+  "summary": "Has out-invested and out-executed its peers in research."
+ },
+ "financial_health": {
+  "score": 9,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+23.2% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "+38.7% a year, 1 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net profit margin",
+    "value": "31.9%",
+    "threshold": "≥ 5%",
+    "pass": true
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.39",
+    "threshold": "≤ 0.40",
+    "pass": true
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$9.2B → $33.9B, 0 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": true
+   },
+   {
+    "name": "ROIC",
+    "value": "42.7%",
+    "threshold": "≥ 10%",
+    "pass": true
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$6.1B → $9.0B; TTM $19.7B",
+    "threshold": "Positive every year and rising",
+    "pass": true
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 115.7x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": true
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 93% of net income over 5 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": false
+   }
+  ],
+  "red_flags": [],
+  "note": "",
+  "history": [
+   {
+    "period": "FY21",
+    "revenue": 28318.0,
+    "net_income": 5582.0,
+    "fcf": 6056.0
+   },
+   {
+    "period": "FY22",
+    "revenue": 28541.0,
+    "net_income": 6245.0,
+    "fcf": 5731.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 34124.0,
+    "net_income": 5240.0,
+    "fcf": 792.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 45043.0,
+    "net_income": 10590.0,
+    "fcf": 3760.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 65179.0,
+    "net_income": 20640.0,
+    "fcf": 8972.0
+   },
+   {
+    "period": "TTM",
+    "revenue": 86460.0,
+    "net_income": 27580.0,
+    "fcf": 19660.0
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "83.6%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": true
+     },
+     {
+      "name": "Operating margin",
+      "value": "51.3%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Net profit margin",
+      "value": "31.9%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "22.7%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Return on equity",
+      "value": "68.5%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "42.7%",
+      "threshold": "≥ 12%",
+      "pass": true
+     },
+     {
+      "name": "Return on assets",
+      "value": "19.4%",
+      "threshold": "≥ 6%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "1.23x",
+      "threshold": "≤ 1.0x",
+      "pass": false
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.39",
+      "threshold": "≤ 0.40",
+      "pass": true
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "1.0x",
+      "threshold": "≤ 2.5x",
+      "pass": true
+     },
+     {
+      "name": "Interest cover",
+      "value": "115.7x",
+      "threshold": "≥ 5x",
+      "pass": true
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "2.5",
+      "threshold": "≤ 4 years",
+      "pass": true
+     },
+     {
+      "name": "Current ratio",
+      "value": "1.39",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": true
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "7.27",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "93% over 5 years",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "52% over 5 years",
+      "threshold": "≥ 80%",
+      "pass": false
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "36%",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": true
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "5.2x",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$649M, 2% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": true
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "6 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+23.2%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Earnings per share",
+      "value": "+39.2%",
+      "threshold": "≥ 7%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow",
+      "value": "+10.3%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Book value per share",
+      "value": "+30.9%",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "0.5%",
+      "threshold": "For reference; 10-year Treasury 5.13%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "22%",
+      "threshold": "≤ 60% of earnings",
+      "pass": true
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "3.4x",
+      "threshold": "≥ 1.5x",
+      "pass": true
+     },
+     {
+      "name": "Buyback yield",
+      "value": "0.5%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "-1.4% over 4 years",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": true
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "61%",
+      "threshold": "≥ 12%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "2.2%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "1.5%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": false
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "1.5%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": false
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 22,
+   "total": 28
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 1,
+  "lifecycle_stage": "3 · Operating leverage",
+  "primary_metric": {
+   "name": "Forward P/E",
+   "value": "29.7"
+  },
+  "secondary_metric": {
+   "name": "P/FCF",
+   "value": "63.1"
+  },
+  "three_numbers": {
+   "pe": "45.2",
+   "forward_pe": "29.7",
+   "peg": "1.43"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "14.9"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "27.7"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "29.0"
+   },
+   {
+    "name": "P/E",
+    "value": "45.2"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "65.4"
+   },
+   {
+    "name": "P/FCF",
+    "value": "63.1"
+   },
+   {
+    "name": "P/B",
+    "value": "30.8"
+   }
+  ],
+  "intrinsic_value_low": 496.18,
+  "intrinsic_value_high": 675.67,
+  "margin_of_safety_pct": -137.8,
+  "interesting_below": 410.15,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow, capex held at depreciation: $10.3B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 5.2x depreciation, so most of it is expansion, not upkeep. (2) Damodaran: cash flow to the firm: Sales grow 12–18% for five years, fading to 3%; operating margin held at 51%; cost of capital 9.5%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 585.92,
+  "methods": [
+   {
+    "name": "Owner cash flow, capex held at depreciation",
+    "low": 272.38,
+    "high": 382.45,
+    "basis": "$10.3B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 5.2x depreciation, so most of it is expansion, not upkeep."
+   },
+   {
+    "name": "Damodaran: cash flow to the firm",
+    "low": 719.97,
+    "high": 968.9,
+    "basis": "Sales grow 12–18% for five years, fading to 3%; operating margin held at 51%; cost of capital 9.5%. Cash added, debt subtracted."
+   }
+  ],
+  "stress_case": {
+   "low": 151.56,
+   "high": 212.81,
+   "basis": "If the expansion spending never earns a return: $5.7B a year after deducting all capex and stock-based pay."
+  },
+  "damodaran": {
+   "growth": 15,
+   "growth_low": 12,
+   "growth_high": 18,
+   "margin": 51.3,
+   "tax": 25.0,
+   "roc": 40.0,
+   "reinvestment": 38,
+   "beta": 1.0,
+   "cost_of_equity": 9.6,
+   "cost_of_debt": 5.0,
+   "debt_weight": 4,
+   "cost_of_capital": 9.5,
+   "terminal_growth": 3.0,
+   "terminal_roc": 14.5,
+   "revenue_now": "$86.5B",
+   "revenue_year10": "$252.5B",
+   "low": 719.97,
+   "high": 968.9,
+   "implied_growth": 25.5,
+   "implied_note": null
+  }
+ },
+ "lenses": {
+  "graham": {
+   "passed": 4,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "1.39",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "5 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": true
+    },
+    {
+     "name": "Dividend record",
+     "value": "$6.92 a share (0.5% yield)",
+     "threshold": "Pays a dividend",
+     "pass": true
+    },
+    {
+     "name": "Earnings growth",
+     "value": "+403% ($6.12 → $30.81)",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": true
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "103.3x three-year average earnings ($13.49); 45.2x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "P/E × P/B = 1394; Graham number $177 vs price $1,393",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 2.2% vs 10-year Treasury 5.13%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "No financial distress",
+     "value": "Altman Z-score 7.27",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": true
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 5,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Owner earnings $18.7B (net income + depreciation − capex) = 1.5% yield vs 10-year Treasury 5.13%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "High return on equity without heavy debt",
+     "value": "ROE 68.5%, debt/equity 1.23",
+     "threshold": "ROE ≥ 15% and debt/equity ≤ 1.0",
+     "pass": false
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "EPS rose $16.83 on $27.79 a share retained over 4 years: 61% return",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": true
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 84%, 7.7-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": false
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Capex is 40% of net income",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": true
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest 115.7x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": true
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "1.8 years of net income",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": true
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "-1.4% over four fiscal years",
+     "threshold": "Fewer shares than four years ago",
+     "pass": true
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 4,
+   "total": 6,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 8 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Steady change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 1.43",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": null
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "(30% EPS growth (capped) + 0.5% yield) ÷ P/E 45.2 = 0.67",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "EPS +39.2% a year, 1 down year(s)",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": true
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Debt is 1.23x equity",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": false
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "Pays out 22% of earnings",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": true
+    }
+   ],
+   "category": "Fast grower",
+   "category_note": "Earnings compounding at 20% or more on sales growing at least 10%. Lynch's favourite hunting ground, provided the growth is not paid for twice: check the PEG."
+  },
+  "munger": {
+   "passed": 4,
+   "total": 6,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 8 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Steady change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 0.17%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": false
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count -0.58% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": true
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$649M, 2% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": true
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Operating cash flow was 93% of net income over 5 fiscal years",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": false
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 6 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "Government price controls on GLP-1 drugs.",
+    "A competitor's pill proves better or much cheaper."
+   ]
+  },
+  "pabrai": {
+   "passed": 3,
+   "total": 5,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 8 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Steady change",
+     "threshold": "Stable industry",
+     "pass": null
+    },
+    {
+     "name": "Durable moat",
+     "value": "Wide moat",
+     "threshold": "Wide moat",
+     "pass": true
+    },
+    {
+     "name": "Out of favour",
+     "value": "n/a",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": null
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety -138%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "Debt is 1.8 years of net income",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": true
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "No upside even to the high-case value ($676); 64% downside to the low case",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": -51.5,
+   "downside_pct": 64.4
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Wide moat: Intellectual property, Scale.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "A small share of the people who could be treated for obesity.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Revenue has roughly doubled in two years.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 43%.",
+   "threshold": "",
+   "pass": true
+  }
+ ],
+ "bull_case": [
+  "Revenue growth is extraordinary for its size.",
+  "Gross margin above 80%."
+ ],
+ "bear_case": [
+  "Heavy reliance on one drug class.",
+  "Debt has tripled to fund manufacturing."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "Eli Lilly statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/lly/statistics/"
+  },
+  {
+   "title": "Eli Lilly income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/lly/financials/"
+  },
+  {
+   "title": "Eli Lilly balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/lly/financials/balance-sheet/"
+  },
+  {
+   "title": "Eli Lilly cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/lly/financials/cash-flow-statement/"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+# SPG - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=211.63; date=2026-10-23; shares=379.39M; fpe=31.76; peg=n/a; cash=1.02B; debt=29.44B; equity=5.85B; eps=$14.19; cr=0.27; ic=3.07; roic=9.32%; gm=81.43%; rev=6.94B; ni=4.62B; ebitda=5.13B; ebit=3.29B; ocf=4.12B; capex=-905.41M; fcf=3.22B; dps=$9.00; sc=-0.28%; ins=0.32%; z=n/a; f=4; c52=+17.59%
+F FY21,5115,n/a,2246,6.84,3637
+F FY22,5291,n/a,2136,6.52,3767
+F FY23,5659,n/a,2280,6.98,3931
+F FY24,5964,n/a,2368,7.26,3815
+F FY25,6365,n/a,4624,14.17,4137
+B FY21,33777,25828,4401
+B FY22,33011,25458,3824
+B FY23,34283,26518,3688
+B FY24,32406,24787,3599
+B FY25,40606,29200,6705
+B Q,39709,29438,5847
+C FY21,1283,n/a,3637,n/a,-2352,-2.32
+C FY22,1253,n/a,3767,n/a,-2264,-187.18
+C FY23,1299,n/a,3931,n/a,-2439,-146.39
+C FY24,1331,n/a,3815,n/a,-2645,-10.56
+C FY25,1528,n/a,4137,n/a,-2793,-240.74
+C TTM,1835,n/a,4123,n/a,-2865,-578.11

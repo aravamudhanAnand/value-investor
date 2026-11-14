@@ -1,0 +1,962 @@
+{
+ "company": "Thermo Fisher Scientific",
+ "ticker": "TMO",
+ "exchange": "NYSE",
+ "sector": "Health care",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-10-30",
+ "currency": "USD",
+ "price": 697.0,
+ "market_cap": "$257.7B",
+ "verdict": "WATCHLIST",
+ "overall_score": 65,
+ "one_liner": "A wide-moat business worth owning, but it trades at 3.0x fair value. Interesting below about $161.",
+ "scores": {
+  "meaning": 8,
+  "moat": 8,
+  "industry": 7,
+  "management": 8,
+  "financial_health": 8,
+  "valuation": 1
+ },
+ "treasury_10y": 5.13,
+ "profile": {
+  "what": "Thermo Fisher Scientific is the largest supplier of laboratory instruments, consumables and services, serving drug companies, hospitals, universities and industrial labs.",
+  "money": "It sells instruments, then the chemicals, reagents and consumables needed to use them, plus outsourced drug development and manufacturing services. Most revenue is recurring consumables and services, with drug companies the largest customers.",
+  "valued": "Thermo Fisher is valued on P/E and free cash flow as a high-quality compounder. The multiple moves with biotech funding and pharmaceutical research spending.",
+  "kind": "Established operating business",
+  "metrics": [
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 36.74,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 39.47,
+    "sector_n": 14
+   },
+   {
+    "key": "fpe",
+    "label": "Price / forward earnings",
+    "value": 25.89,
+    "unit": "x",
+    "note": "Next twelve months, analyst estimates",
+    "sector_median": 17.43,
+    "sector_n": 15
+   },
+   {
+    "key": "pfcf",
+    "label": "Price / free cash flow",
+    "value": 33.91,
+    "unit": "x",
+    "note": "Before deducting stock-based pay",
+    "sector_median": 27.32,
+    "sector_n": 15
+   },
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 24.02,
+    "unit": "x",
+    "note": "Enterprise value includes debt",
+    "sector_median": 16.07,
+    "sector_n": 14
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 0.27,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 2.29,
+    "sector_n": 15
+   }
+  ],
+  "peer_group": "Health care",
+  "peers": [
+   {
+    "ticker": "MRK",
+    "company": "Merck",
+    "value": 148.21
+   },
+   {
+    "ticker": "ISRG",
+    "company": "Intuitive Surgical",
+    "value": 54.75
+   },
+   {
+    "ticker": "ABBV",
+    "company": "AbbVie",
+    "value": 50.14
+   },
+   {
+    "ticker": "LLY",
+    "company": "Eli Lilly",
+    "value": 45.23
+   },
+   {
+    "ticker": "PFE",
+    "company": "Pfizer",
+    "value": 41.99
+   },
+   {
+    "ticker": "JNJ",
+    "company": "Johnson & Johnson",
+    "value": 41.98
+   },
+   {
+    "ticker": "ABT",
+    "company": "Abbott Laboratories",
+    "value": 40.87
+   },
+   {
+    "ticker": "DHR",
+    "company": "Danaher",
+    "value": 38.07
+   },
+   {
+    "ticker": "TMO",
+    "company": "Thermo Fisher Scientific",
+    "value": 36.74
+   },
+   {
+    "ticker": "AMGN",
+    "company": "Amgen",
+    "value": 31.25
+   },
+   {
+    "ticker": "MDT",
+    "company": "Medtronic",
+    "value": 25.07
+   },
+   {
+    "ticker": "UNH",
+    "company": "UnitedHealth Group",
+    "value": 22.52
+   },
+   {
+    "ticker": "CVS",
+    "company": "CVS Health",
+    "value": 21.95
+   },
+   {
+    "ticker": "BMY",
+    "company": "Bristol-Myers Squibb",
+    "value": 13.78
+   }
+  ]
+ },
+ "market": {
+  "rating": "Strong Buy",
+  "target": 752.12,
+  "beta": 0.88,
+  "as_of": "2026-10-30",
+  "low52": 435.27,
+  "high52": 711.86,
+  "range_pos": 95,
+  "below_high": 2.1,
+  "target_vs_price": 7.9,
+  "target_vs_fair": 226.9,
+  "above_low": 60.1
+ },
+ "summary": {
+  "sentence": "The leading supplier to laboratories and drug makers, steady but not cheap.",
+  "strengths": [
+   "Free cash flow steady at about $6-7.5B.",
+   "Recurring revenue."
+  ],
+  "risks": [
+   "Returns on capital below 10% after acquisitions.",
+   "Earnings below their 2021 peak."
+  ],
+  "swing": [
+   "Biotech funding",
+   "Pharmaceutical research budgets",
+   "Academic and government funding"
+  ]
+ },
+ "dollar": {
+  "cogs": 58.8,
+  "opex": 22.0,
+  "op_profit": 19.2,
+  "net": 14.9,
+  "fcf": 16.1
+ },
+ "cash_use": {
+  "years": 5,
+  "first": "FY21",
+  "last": "FY25",
+  "ocf": "$43.4B",
+  "capex": 21,
+  "dividends": 6,
+  "buybacks": 35,
+  "left": 38,
+  "sbc": 3,
+  "capex_reported": true
+ },
+ "meaning": {
+  "score": 8,
+  "what_it_does": "Sells laboratory instruments, consumables and services to drug makers, hospitals and researchers.",
+  "how_it_makes_money": "Equipment sales followed by years of recurring consumables and service.",
+  "how_it_keeps_making_money": "Labs standardise on its products and reorder them constantly.",
+  "how_it_could_stop": "A long funding slump in biotech and academic research."
+ },
+ "moat": {
+  "score": 8,
+  "strength": "Wide",
+  "sources": [
+   "Scale",
+   "Switching costs"
+  ],
+  "summary": "The one-stop shop for laboratories, with most revenue recurring."
+ },
+ "industry": {
+  "score": 7,
+  "pace": "Steady change",
+  "summary": "Science advances steadily; labs change suppliers slowly."
+ },
+ "management": {
+  "score": 8,
+  "summary": "A disciplined serial acquirer."
+ },
+ "financial_health": {
+  "score": 8,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+3.2% a year, 1 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "-3.5% a year, 2 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": false
+   },
+   {
+    "name": "Net profit margin",
+    "value": "14.9%",
+    "threshold": "≥ 5%",
+    "pass": true
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.36",
+    "threshold": "≤ 0.40",
+    "pass": true
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$41.0B → $54.9B, 0 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": true
+   },
+   {
+    "name": "ROIC",
+    "value": "9.1%",
+    "threshold": "≥ 10%",
+    "pass": false
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$6.8B → $6.3B; TTM $7.6B",
+    "threshold": "Positive every year and rising",
+    "pass": true
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 5.9x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": true
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 129% of net income over 5 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": true
+   }
+  ],
+  "red_flags": [],
+  "note": "",
+  "history": [
+   {
+    "period": "FY21",
+    "revenue": 39211.0,
+    "net_income": 7725.0,
+    "fcf": 6789.0
+   },
+   {
+    "period": "FY22",
+    "revenue": 44915.0,
+    "net_income": 6950.0,
+    "fcf": 6911.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 42857.0,
+    "net_income": 5995.0,
+    "fcf": 6927.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 42879.0,
+    "net_income": 6335.0,
+    "fcf": 7267.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 44556.0,
+    "net_income": 6704.0,
+    "fcf": 6293.0
+   },
+   {
+    "period": "TTM",
+    "revenue": 47350.0,
+    "net_income": 7070.0,
+    "fcf": 7600.0
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "41.2%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": true
+     },
+     {
+      "name": "Operating margin",
+      "value": "19.2%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Net profit margin",
+      "value": "14.9%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "16.1%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Return on equity",
+      "value": "12.9%",
+      "threshold": "≥ 15%",
+      "pass": false
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "9.1%",
+      "threshold": "≥ 12%",
+      "pass": false
+     },
+     {
+      "name": "Return on assets",
+      "value": "6.2%",
+      "threshold": "≥ 6%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "0.75x",
+      "threshold": "≤ 1.0x",
+      "pass": true
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.36",
+      "threshold": "≤ 0.40",
+      "pass": true
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "2.9x",
+      "threshold": "≤ 2.5x",
+      "pass": false
+     },
+     {
+      "name": "Interest cover",
+      "value": "5.9x",
+      "threshold": "≥ 5x",
+      "pass": true
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "5.4",
+      "threshold": "≤ 4 years",
+      "pass": false
+     },
+     {
+      "name": "Current ratio",
+      "value": "1.81",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": true
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "n/a",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "129% over 5 years",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "101% over 5 years",
+      "threshold": "≥ 80%",
+      "pass": true
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "19%",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": true
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "0.6x",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$310M, 3% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": true
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "6 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+3.2%",
+      "threshold": "≥ 5%",
+      "pass": false
+     },
+     {
+      "name": "Earnings per share",
+      "value": "-2.3%",
+      "threshold": "≥ 7%",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow",
+      "value": "-1.9%",
+      "threshold": "≥ 5%",
+      "pass": false
+     },
+     {
+      "name": "Book value per share",
+      "value": "+8.2%",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "0.3%",
+      "threshold": "For reference; 10-year Treasury 5.13%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "10%",
+      "threshold": "≤ 60% of earnings",
+      "pass": true
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "11.3x",
+      "threshold": "≥ 1.5x",
+      "pass": true
+     },
+     {
+      "name": "Buyback yield",
+      "value": "1.6%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "-4.8% over 4 years",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": true
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "-3%",
+      "threshold": "≥ 12%",
+      "pass": false
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "2.7%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "2.8%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": false
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "3.3%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": false
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 16,
+   "total": 27
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 1,
+  "lifecycle_stage": "4 · Capital return",
+  "primary_metric": {
+   "name": "Trailing P/E",
+   "value": "36.7"
+  },
+  "secondary_metric": {
+   "name": "Trailing P/FCF",
+   "value": "33.9"
+  },
+  "three_numbers": {
+   "pe": "36.7",
+   "forward_pe": "25.9",
+   "peg": "2.63"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "6.2"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "24.0"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "32.2"
+   },
+   {
+    "name": "P/E",
+    "value": "36.7"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "38.6"
+   },
+   {
+    "name": "P/FCF",
+    "value": "33.9"
+   },
+   {
+    "name": "P/B",
+    "value": "4.7"
+   }
+  ],
+  "intrinsic_value_low": 198.27,
+  "intrinsic_value_high": 261.85,
+  "margin_of_safety_pct": -203.0,
+  "interesting_below": 161.04,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $6.8B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 3–9% for five years, fading to 3%; operating margin held at 19%; cost of capital 9.0%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 230.06,
+  "methods": [
+   {
+    "name": "Owner cash flow",
+    "low": 258.74,
+    "high": 365.44,
+    "basis": "$6.8B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM)."
+   },
+   {
+    "name": "Damodaran: cash flow to the firm",
+    "low": 137.8,
+    "high": 158.26,
+    "basis": "Sales grow 3–9% for five years, fading to 3%; operating margin held at 19%; cost of capital 9.0%. Cash added, debt subtracted."
+   }
+  ],
+  "stress_case": null,
+  "damodaran": {
+   "growth": 6,
+   "growth_low": 3,
+   "growth_high": 9,
+   "margin": 19.2,
+   "tax": 25.0,
+   "roc": 9.1,
+   "reinvestment": 66,
+   "beta": 1.0,
+   "cost_of_equity": 9.6,
+   "cost_of_debt": 5.0,
+   "debt_weight": 14,
+   "cost_of_capital": 9.0,
+   "terminal_growth": 3.0,
+   "terminal_roc": 14.0,
+   "revenue_now": "$47.4B",
+   "revenue_year10": "$77.8B",
+   "low": 137.8,
+   "high": 158.26,
+   "implied_growth": 29.5,
+   "implied_note": null
+  }
+ },
+ "lenses": {
+  "graham": {
+   "passed": 2,
+   "total": 7,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "1.81",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "5 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": true
+    },
+    {
+     "name": "Dividend record",
+     "value": "$1.88 a share (0.3% yield)",
+     "threshold": "Pays a dividend",
+     "pass": true
+    },
+    {
+     "name": "Earnings growth",
+     "value": "-3% ($19.46 → $18.97)",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": false
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "42.1x three-year average earnings ($16.57); 36.7x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "P/E × P/B = 172; Graham number $252 vs price $697",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 2.7% vs 10-year Treasury 5.13%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "No financial distress",
+     "value": "n/a",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": null
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 2,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Owner earnings $8.4B (net income + depreciation − capex) = 3.3% yield vs 10-year Treasury 5.13%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "High return on equity without heavy debt",
+     "value": "ROE 12.9%, debt/equity 0.75",
+     "threshold": "ROE ≥ 15% and debt/equity ≤ 1.0",
+     "pass": false
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "EPS rose $-1.72 on $61.64 a share retained over 4 years: -3% return",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": false
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 41%, 10.2-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": false
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Capex is 24% of net income",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": true
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest 5.9x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": false
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "5.9 years of net income",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": false
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "-4.8% over four fiscal years",
+     "threshold": "Fewer shares than four years ago",
+     "pass": true
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 3,
+   "total": 6,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 8 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Steady change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 2.63",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "(-2% EPS growth + 0.3% yield) ÷ P/E 36.7 = -0.05",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "EPS -2.3% a year, 2 down year(s)",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": false
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Debt is 0.75x equity",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": null
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "Pays out 10% of earnings",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": true
+    }
+   ],
+   "category": "Slow grower",
+   "category_note": "Earnings growing more slowly than 6% a year, or sales barely growing. Lynch held these only for the dividend, so the payout and its safety matter most."
+  },
+  "munger": {
+   "passed": 5,
+   "total": 6,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 8 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Steady change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 0.12%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": false
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count -1.52% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": true
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$310M, 3% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": true
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Operating cash flow was 129% of net income over 5 fiscal years",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": true
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 6 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "Research budgets are cut for years.",
+    "A large acquisition overpays."
+   ]
+  },
+  "pabrai": {
+   "passed": 2,
+   "total": 5,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 8 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Steady change",
+     "threshold": "Stable industry",
+     "pass": null
+    },
+    {
+     "name": "Durable moat",
+     "value": "Wide moat",
+     "threshold": "Wide moat",
+     "pass": true
+    },
+    {
+     "name": "Out of favour",
+     "value": "n/a",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": null
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety -203%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "Debt is 5.9 years of net income",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": false
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "No upside even to the high-case value ($262); 72% downside to the low case",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": -62.4,
+   "downside_pct": 71.6
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Wide moat: Scale, Switching costs.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "Already the industry leader.",
+   "threshold": "",
+   "pass": false
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Steady growth resuming after the pandemic boom.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 9%.",
+   "threshold": "",
+   "pass": false
+  }
+ ],
+ "bull_case": [
+  "Free cash flow steady at about $6-7.5B.",
+  "Recurring revenue."
+ ],
+ "bear_case": [
+  "Returns on capital below 10% after acquisitions.",
+  "Earnings below their 2021 peak."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "Thermo Fisher Scientific statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/tmo/statistics/"
+  },
+  {
+   "title": "Thermo Fisher Scientific income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/tmo/financials/"
+  },
+  {
+   "title": "Thermo Fisher Scientific balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/tmo/financials/balance-sheet/"
+  },
+  {
+   "title": "Thermo Fisher Scientific cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/tmo/financials/cash-flow-statement/"
+  }
+ ]
+}

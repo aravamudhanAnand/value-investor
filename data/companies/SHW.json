@@ -1,0 +1,907 @@
+{
+ "company": "Sherwin-Williams",
+ "ticker": "SHW",
+ "exchange": "NYSE",
+ "sector": "Materials",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-10-27",
+ "currency": "USD",
+ "price": 323.42,
+ "market_cap": "$78.1B",
+ "verdict": "WATCHLIST",
+ "overall_score": 70,
+ "one_liner": "A wide-moat business worth owning, but it trades at 1.9x fair value. Interesting below about $117.",
+ "scores": {
+  "meaning": 9,
+  "moat": 8,
+  "industry": 9,
+  "management": 8,
+  "financial_health": 9,
+  "valuation": 1
+ },
+ "treasury_10y": 5.13,
+ "profile": {
+  "what": "Sherwin-Williams is the largest paint and coatings company in the world, selling through about 5,000 of its own paint stores and to industrial customers.",
+  "money": "Paint Stores Group, which sells to professional painters and contractors, earns most of the profit. Consumer Brands sells through retailers such as Lowe's, and Performance Coatings sells industrial coatings. Owning its stores gives it pricing power and close contact with painters.",
+  "valued": "Sherwin-Williams is valued on P/E at a premium for its pricing power and consistent growth. The multiple moves with housing and construction activity.",
+  "kind": "Established operating business",
+  "metrics": [
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 29.81,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": null,
+    "sector_n": 2
+   },
+   {
+    "key": "fpe",
+    "label": "Price / forward earnings",
+    "value": 24.31,
+    "unit": "x",
+    "note": "Next twelve months, analyst estimates",
+    "sector_median": null,
+    "sector_n": 2
+   },
+   {
+    "key": "pfcf",
+    "label": "Price / free cash flow",
+    "value": 24.31,
+    "unit": "x",
+    "note": "Before deducting stock-based pay",
+    "sector_median": null,
+    "sector_n": 2
+   },
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 19.28,
+    "unit": "x",
+    "note": "Enterprise value includes debt",
+    "sector_median": null,
+    "sector_n": 2
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 0.99,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": null,
+    "sector_n": 2
+   }
+  ],
+  "peer_group": "Materials",
+  "peers": [
+   {
+    "ticker": "LIN",
+    "company": "Linde",
+    "value": 34.24
+   },
+   {
+    "ticker": "SHW",
+    "company": "Sherwin-Williams",
+    "value": 29.81
+   }
+  ]
+ },
+ "market": {
+  "rating": "Buy",
+  "target": 383.13,
+  "beta": 1.08,
+  "as_of": "2026-10-27",
+  "low52": 289.86,
+  "high52": 377.77,
+  "range_pos": 38,
+  "below_high": 14.4,
+  "target_vs_price": 18.5,
+  "target_vs_fair": 129.1,
+  "above_low": 11.6
+ },
+ "summary": {
+  "sentence": "The leading paint company, with pricing power and exposure to housing.",
+  "strengths": [
+   "Pricing power and pro loyalty.",
+   "FCF now running above $3B.",
+   "Housing recovery upside."
+  ],
+  "risks": [
+   "About 30x earnings.",
+   "Debt is over half of assets.",
+   "Revenue growth slowed to low single digits."
+  ],
+  "swing": [
+   "Housing turnover",
+   "Raw-material costs",
+   "Store growth"
+  ]
+ },
+ "dollar": {
+  "cogs": 51.4,
+  "opex": 32.5,
+  "op_profit": 16.1,
+  "net": 10.8,
+  "fcf": 12.9
+ },
+ "cash_use": {
+  "years": 5,
+  "first": "FY21",
+  "last": "FY25",
+  "ocf": "$14.3B",
+  "capex": 26,
+  "dividends": 23,
+  "buybacks": 59,
+  "left": -9,
+  "sbc": 4,
+  "capex_reported": true
+ },
+ "meaning": {
+  "score": 9,
+  "what_it_does": "The largest paint and coatings company in the world, with more than 4,000 of its own paint stores in the Americas.",
+  "how_it_makes_money": "Sells paint mainly to professional painters through its own stores, plus coatings to industrial customers and retailers.",
+  "how_it_keeps_making_money": "Painters choose it for product quality and in-store service, and its store network is much denser than rivals'.",
+  "how_it_could_stop": "A long housing or construction slump, or raw-material cost spikes it cannot pass on."
+ },
+ "moat": {
+  "score": 8,
+  "strength": "Wide",
+  "sources": [
+   "Brand with pros",
+   "Store network",
+   "Scale"
+  ],
+  "summary": "Pros value time over price, and Sherwin's store density and service keep them loyal."
+ },
+ "industry": {
+  "score": 9,
+  "pace": "Stable",
+  "summary": "Paint is a slow-changing product; demand is cyclical but durable."
+ },
+ "management": {
+  "score": 8,
+  "summary": "Consistent growth and buybacks; equity small because of returns to shareholders."
+ },
+ "financial_health": {
+  "score": 9,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+4.3% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "+8.4% a year, 1 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net profit margin",
+    "value": "10.8%",
+    "threshold": "≥ 5%",
+    "pass": true
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.56",
+    "threshold": "≤ 0.40",
+    "pass": false
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$2.4B → $3.9B, 1 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": true
+   },
+   {
+    "name": "ROIC",
+    "value": "16.9%",
+    "threshold": "≥ 10%",
+    "pass": true
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$1.9B → $2.7B; TTM $3.2B",
+    "threshold": "Positive every year and rising",
+    "pass": true
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 7.5x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": true
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 124% of net income over 5 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": true
+   }
+  ],
+  "red_flags": [],
+  "note": "Debt includes leases on ~4,800 company-owned paint stores; small book equity reflects buybacks.",
+  "history": [
+   {
+    "period": "FY21",
+    "revenue": 19945.0,
+    "net_income": 1864.0,
+    "fcf": 1873.0
+   },
+   {
+    "period": "FY22",
+    "revenue": 22149.0,
+    "net_income": 2020.0,
+    "fcf": 1275.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 23052.0,
+    "net_income": 2389.0,
+    "fcf": 2634.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 23099.0,
+    "net_income": 2681.0,
+    "fcf": 2083.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 23574.0,
+    "net_income": 2569.0,
+    "fcf": 2654.0
+   },
+   {
+    "period": "TTM",
+    "revenue": 24910.0,
+    "net_income": 2680.0,
+    "fcf": 3210.0
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "48.6%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": true
+     },
+     {
+      "name": "Operating margin",
+      "value": "16.1%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Net profit margin",
+      "value": "10.8%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "12.9%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Return on equity",
+      "value": "67.3%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "16.9%",
+      "threshold": "≥ 12%",
+      "pass": true
+     },
+     {
+      "name": "Return on assets",
+      "value": "9.9%",
+      "threshold": "≥ 6%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "3.51x",
+      "threshold": "≤ 1.0x",
+      "pass": false
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.56",
+      "threshold": "≤ 0.40",
+      "pass": false
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "2.9x",
+      "threshold": "≤ 2.5x",
+      "pass": false
+     },
+     {
+      "name": "Interest cover",
+      "value": "7.5x",
+      "threshold": "≥ 5x",
+      "pass": true
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "4.4",
+      "threshold": "≤ 4 years",
+      "pass": false
+     },
+     {
+      "name": "Current ratio",
+      "value": "0.71",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": false
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "n/a",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "124% over 5 years",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "91% over 5 years",
+      "threshold": "≥ 80%",
+      "pass": true
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "17%",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": true
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "0.9x",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$120M, 3% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": true
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "6 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+4.3%",
+      "threshold": "≥ 5%",
+      "pass": false
+     },
+     {
+      "name": "Earnings per share",
+      "value": "+10.1%",
+      "threshold": "≥ 7%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow",
+      "value": "+9.1%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Book value per share",
+      "value": "+19.1%",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "1.0%",
+      "threshold": "For reference; 10-year Treasury 5.13%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "29%",
+      "threshold": "≤ 60% of earnings",
+      "pass": true
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "4.1x",
+      "threshold": "≥ 1.5x",
+      "pass": true
+     },
+     {
+      "name": "Buyback yield",
+      "value": "3.4%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "-6.2% over 4 years",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": true
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "12%",
+      "threshold": "≥ 12%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "3.4%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "4.0%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": false
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "3.5%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": false
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 18,
+   "total": 27
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 1,
+  "lifecycle_stage": "4 · Capital return",
+  "primary_metric": {
+   "name": "Trailing P/E",
+   "value": "29.8"
+  },
+  "secondary_metric": {
+   "name": "Trailing P/FCF",
+   "value": "24.3"
+  },
+  "three_numbers": {
+   "pe": "29.8",
+   "forward_pe": "24.3",
+   "peg": "2.27"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "3.7"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "19.3"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "22.9"
+   },
+   {
+    "name": "P/E",
+    "value": "29.8"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "28.6"
+   },
+   {
+    "name": "P/FCF",
+    "value": "24.3"
+   },
+   {
+    "name": "P/B",
+    "value": "19.6"
+   }
+  ],
+  "intrinsic_value_low": 140.36,
+  "intrinsic_value_high": 194.15,
+  "margin_of_safety_pct": -93.4,
+  "interesting_below": 117.08,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $2.5B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 3–9% for five years, fading to 3%; operating margin held at 16%; cost of capital 8.4%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 167.25,
+  "methods": [
+   {
+    "name": "Owner cash flow",
+    "low": 147.0,
+    "high": 207.62,
+    "basis": "$2.5B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM)."
+   },
+   {
+    "name": "Damodaran: cash flow to the firm",
+    "low": 133.71,
+    "high": 180.68,
+    "basis": "Sales grow 3–9% for five years, fading to 3%; operating margin held at 16%; cost of capital 8.4%. Cash added, debt subtracted."
+   }
+  ],
+  "stress_case": null,
+  "damodaran": {
+   "growth": 6,
+   "growth_low": 3,
+   "growth_high": 9,
+   "margin": 16.1,
+   "tax": 25.0,
+   "roc": 16.9,
+   "reinvestment": 35,
+   "beta": 0.85,
+   "cost_of_equity": 9.0,
+   "cost_of_debt": 5.0,
+   "debt_weight": 15,
+   "cost_of_capital": 8.4,
+   "terminal_growth": 3.0,
+   "terminal_roc": 13.4,
+   "revenue_now": "$24.9B",
+   "revenue_year10": "$40.9B",
+   "low": 133.71,
+   "high": 180.68,
+   "implied_growth": 19.6,
+   "implied_note": null
+  }
+ },
+ "lenses": {
+  "graham": {
+   "passed": 3,
+   "total": 7,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "0.71",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "5 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": true
+    },
+    {
+     "name": "Dividend record",
+     "value": "$3.20 a share (1.0% yield)",
+     "threshold": "Pays a dividend",
+     "pass": true
+    },
+    {
+     "name": "Earnings growth",
+     "value": "+55% ($6.98 → $10.85)",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": true
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "32.3x three-year average earnings ($10.02); 29.8x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "P/E × P/B = 585; Graham number $63 vs price $323",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 3.4% vs 10-year Treasury 5.13%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "No financial distress",
+     "value": "n/a",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": null
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 4,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Owner earnings $2.7B (net income + depreciation − capex) = 3.5% yield vs 10-year Treasury 5.13%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "High return on equity without heavy debt",
+     "value": "ROE 67.3%, debt/equity 3.51",
+     "threshold": "ROE ≥ 15% and debt/equity ≤ 1.0",
+     "pass": false
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "EPS rose $3.28 on $27.00 a share retained over 4 years: 12% return",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": true
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 49%, 6.8-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": false
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Capex is 25% of net income",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": true
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest 7.5x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": true
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "5.2 years of net income",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": false
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "-6.2% over four fiscal years",
+     "threshold": "Fewer shares than four years ago",
+     "pass": true
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 4,
+   "total": 7,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 9 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 2.27",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "(10% EPS growth + 1.0% yield) ÷ P/E 29.8 = 0.37",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "EPS +10.1% a year, 1 down year(s)",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": true
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Debt is 3.51x equity",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": false
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "Pays out 29% of earnings",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": true
+    }
+   ],
+   "category": "Stalwart",
+   "category_note": "A large company growing earnings at a steady pace, between the slow and the fast growers. Lynch bought these for a 30–50% gain and for protection in recessions, then rotated."
+  },
+  "munger": {
+   "passed": 5,
+   "total": 6,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 9 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 0.32%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": false
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count -1.92% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": true
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$120M, 3% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": true
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Operating cash flow was 124% of net income over 5 fiscal years",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": true
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 6 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "A long construction slump.",
+    "Raw-material costs spike and cannot be passed on."
+   ]
+  },
+  "pabrai": {
+   "passed": 3,
+   "total": 7,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 9 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Stable",
+     "threshold": "Stable industry",
+     "pass": true
+    },
+    {
+     "name": "Durable moat",
+     "value": "Wide moat",
+     "threshold": "Wide moat",
+     "pass": true
+    },
+    {
+     "name": "Out of favour",
+     "value": "Share price -2% over 52 weeks",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": false
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety -93%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "Debt is 5.2 years of net income",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": false
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "No upside even to the high-case value ($194); 57% downside to the low case",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": -40.0,
+   "downside_pct": 56.6
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Wide moat: Brand with pros, Store network, Scale.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "Gaining share in a large, fragmented coatings market.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Steady growth through the cycle.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 17%.",
+   "threshold": "",
+   "pass": true
+  }
+ ],
+ "bull_case": [
+  "Pricing power and pro loyalty.",
+  "FCF now running above $3B.",
+  "Housing recovery upside."
+ ],
+ "bear_case": [
+  "About 30x earnings.",
+  "Debt is over half of assets.",
+  "Revenue growth slowed to low single digits."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "Sherwin-Williams statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/shw/statistics/"
+  },
+  {
+   "title": "Sherwin-Williams income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/shw/financials/"
+  },
+  {
+   "title": "Sherwin-Williams balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/shw/financials/balance-sheet/"
+  },
+  {
+   "title": "Sherwin-Williams cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/shw/financials/cash-flow-statement/"
+  }
+ ]
+}

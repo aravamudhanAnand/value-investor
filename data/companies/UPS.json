@@ -1,0 +1,935 @@
+{
+ "company": "United Parcel Service",
+ "ticker": "UPS",
+ "exchange": "NYSE",
+ "sector": "Industrials",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-10-27",
+ "currency": "USD",
+ "price": 106.09,
+ "market_cap": "$90.3B",
+ "verdict": "PASS",
+ "overall_score": 56,
+ "one_liner": "Fails the quality test (weak financial health, its best days look to be behind it), so price does not matter.",
+ "scores": {
+  "meaning": 9,
+  "moat": 6,
+  "industry": 7,
+  "management": 6,
+  "financial_health": 4,
+  "valuation": 4
+ },
+ "treasury_10y": 5.13,
+ "profile": {
+  "what": "United Parcel Service is the largest parcel delivery company in the world, with unionised US delivery operations, international express and supply-chain services.",
+  "money": "It charges shippers by package. It is cutting low-margin Amazon volume by about half and closing facilities to improve profitability. Labour costs rose sharply under the 2023 Teamsters contract.",
+  "valued": "UPS is valued on P/E and dividend yield. The multiple has fallen as volumes shrank and investors questioned whether free cash flow covers the dividend.",
+  "kind": "Cyclical or commodity business",
+  "metrics": [
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 9.46,
+    "unit": "x",
+    "note": "Judge at mid-cycle, not peak",
+    "sector_median": 15.4,
+    "sector_n": 15
+   },
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 19.72,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 23.16,
+    "sector_n": 15
+   },
+   {
+    "key": "fcfy",
+    "label": "Free cash flow yield",
+    "value": 6.05,
+    "unit": "%",
+    "note": "Free cash flow ÷ market value",
+    "sector_median": 3.79,
+    "sector_n": 11
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 6.18,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 1.53,
+    "sector_n": 16
+   }
+  ],
+  "peer_group": "Industrials · cyclical or commodity business",
+  "peers": [
+   {
+    "ticker": "GEV",
+    "company": "GE Vernova",
+    "value": 37.86
+   },
+   {
+    "ticker": "GE",
+    "company": "GE Aerospace",
+    "value": 30.67
+   },
+   {
+    "ticker": "DE",
+    "company": "Deere & Company",
+    "value": 27.76
+   },
+   {
+    "ticker": "CAT",
+    "company": "Caterpillar",
+    "value": 17.1
+   },
+   {
+    "ticker": "EMR",
+    "company": "Emerson Electric",
+    "value": 16.8
+   },
+   {
+    "ticker": "UNP",
+    "company": "Union Pacific",
+    "value": 15.4
+   },
+   {
+    "ticker": "MMM",
+    "company": "3M",
+    "value": 14.9
+   },
+   {
+    "ticker": "HON",
+    "company": "Honeywell",
+    "value": 10.92
+   },
+   {
+    "ticker": "UPS",
+    "company": "United Parcel Service",
+    "value": 9.46
+   },
+   {
+    "ticker": "FDX",
+    "company": "FedEx",
+    "value": 8.64
+   }
+  ]
+ },
+ "market": {
+  "rating": "Buy",
+  "target": 115.04,
+  "beta": 1.05,
+  "as_of": "2026-10-27",
+  "low52": 88.22,
+  "high52": 122.41,
+  "range_pos": 52,
+  "below_high": 13.3,
+  "target_vs_price": 8.4,
+  "target_vs_fair": 39.3,
+  "above_low": 20.3
+ },
+ "summary": {
+  "sentence": "A parcel network shrinking to become more profitable, with its dividend in question.",
+  "strengths": [
+   "High dividend yield.",
+   "Network is being right-sized."
+  ],
+  "risks": [
+   "Net income has fallen every year since 2021.",
+   "The dividend takes all of free cash flow."
+  ],
+  "swing": [
+   "Dividend cover",
+   "Volume after cutting Amazon business",
+   "Labour costs"
+  ]
+ },
+ "dollar": {
+  "cogs": 77.6,
+  "opex": 13.2,
+  "op_profit": 9.2,
+  "net": 5.1,
+  "fcf": 6.1
+ },
+ "cash_use": {
+  "years": 5,
+  "first": "FY21",
+  "last": "FY25",
+  "ocf": "$57.9B",
+  "capex": 37,
+  "dividends": 43,
+  "buybacks": 13,
+  "left": 6,
+  "sbc": 5,
+  "capex_reported": true
+ },
+ "meaning": {
+  "score": 9,
+  "what_it_does": "The largest US parcel delivery company.",
+  "how_it_makes_money": "Fees for delivering packages.",
+  "how_it_keeps_making_money": "A dense ground network that is costly to replicate.",
+  "how_it_could_stop": "Volumes keep falling as Amazon delivers its own parcels and labour costs rise."
+ },
+ "moat": {
+  "score": 6,
+  "strength": "Narrow",
+  "sources": [
+   "Scale",
+   "Network"
+  ],
+  "summary": "An efficient network, but a unionised cost base and shrinking volumes."
+ },
+ "industry": {
+  "score": 7,
+  "pace": "Stable",
+  "summary": "Parcel delivery changes slowly."
+ },
+ "management": {
+  "score": 6,
+  "summary": "Deliberately shrinking low-margin volume."
+ },
+ "financial_health": {
+  "score": 4,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "-2.3% a year, 2 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": false
+   },
+   {
+    "name": "Net income trend",
+    "value": "-18.9% a year, 4 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": false
+   },
+   {
+    "name": "Net profit margin",
+    "value": "5.1%",
+    "threshold": "≥ 5%",
+    "pass": true
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.40",
+    "threshold": "≤ 0.40",
+    "pass": false
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$14.3B → $15.1B, 4 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": false
+   },
+   {
+    "name": "ROIC",
+    "value": "16.6%",
+    "threshold": "≥ 10%",
+    "pass": true
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$10.8B → $4.8B; TTM $5.5B",
+    "threshold": "Positive every year and rising",
+    "pass": false
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 7.6x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": true
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 136% of net income over 5 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": true
+   }
+  ],
+  "red_flags": [
+   "Inconsistent revenue: two or more down years in five."
+  ],
+  "note": "",
+  "history": [
+   {
+    "period": "FY21",
+    "revenue": 97287.0,
+    "net_income": 12890.0,
+    "fcf": 10813.0
+   },
+   {
+    "period": "FY22",
+    "revenue": 100338.0,
+    "net_income": 11548.0,
+    "fcf": 9335.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 90958.0,
+    "net_income": 6708.0,
+    "fcf": 5080.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 91070.0,
+    "net_income": 5782.0,
+    "fcf": 6213.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 88661.0,
+    "net_income": 5572.0,
+    "fcf": 4765.0
+   },
+   {
+    "period": "TTM",
+    "revenue": 89930.0,
+    "net_income": 4570.0,
+    "fcf": 5460.0
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "22.4%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": false
+     },
+     {
+      "name": "Operating margin",
+      "value": "9.2%",
+      "threshold": "≥ 15%",
+      "pass": false
+     },
+     {
+      "name": "Net profit margin",
+      "value": "5.1%",
+      "threshold": "≥ 10%",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "6.1%",
+      "threshold": "≥ 10%",
+      "pass": false
+     },
+     {
+      "name": "Return on equity",
+      "value": "30.3%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "16.6%",
+      "threshold": "≥ 12%",
+      "pass": true
+     },
+     {
+      "name": "Return on assets",
+      "value": "6.4%",
+      "threshold": "≥ 6%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "1.90x",
+      "threshold": "≤ 1.0x",
+      "pass": false
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.40",
+      "threshold": "≤ 0.40",
+      "pass": false
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "2.0x",
+      "threshold": "≤ 2.5x",
+      "pass": true
+     },
+     {
+      "name": "Interest cover",
+      "value": "7.6x",
+      "threshold": "≥ 5x",
+      "pass": true
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "5.3",
+      "threshold": "≤ 4 years",
+      "pass": false
+     },
+     {
+      "name": "Current ratio",
+      "value": "1.18",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": true
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "2.95",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": false
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "136% over 5 years",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "85% over 5 years",
+      "threshold": "≥ 80%",
+      "pass": true
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "38%",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": true
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "0.9x",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$115M, 1% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": true
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "6 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "-2.3%",
+      "threshold": "≥ 5%",
+      "pass": false
+     },
+     {
+      "name": "Earnings per share",
+      "value": "-18.2%",
+      "threshold": "≥ 7%",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow",
+      "value": "-18.5%",
+      "threshold": "≥ 5%",
+      "pass": false
+     },
+     {
+      "name": "Book value per share",
+      "value": "+4.2%",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "6.2%",
+      "threshold": "For reference; 10-year Treasury 5.13%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "122%",
+      "threshold": "≤ 60% of earnings",
+      "pass": false
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "1.0x",
+      "threshold": "≥ 1.5x",
+      "pass": false
+     },
+     {
+      "name": "Buyback yield",
+      "value": "0.0%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "-3.3% over 4 years",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": true
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "-85%",
+      "threshold": "≥ 12%",
+      "pass": false
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "5.1%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "5.9%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": true
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "5.5%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": true
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 13,
+   "total": 28
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 4,
+  "lifecycle_stage": "4 · Capital return",
+  "primary_metric": {
+   "name": "Trailing P/E",
+   "value": "19.7"
+  },
+  "secondary_metric": {
+   "name": "Trailing P/FCF",
+   "value": "16.5"
+  },
+  "three_numbers": {
+   "pe": "19.7",
+   "forward_pe": "13.3",
+   "peg": "1.79"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "1.3"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "9.5"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "13.8"
+   },
+   {
+    "name": "P/E",
+    "value": "19.7"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "20.9"
+   },
+   {
+    "name": "P/FCF",
+    "value": "16.5"
+   },
+   {
+    "name": "P/B",
+    "value": "6.0"
+   }
+  ],
+  "intrinsic_value_low": 71.81,
+  "intrinsic_value_high": 93.37,
+  "margin_of_safety_pct": -28.5,
+  "interesting_below": 57.81,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $5.1B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 0–5% for five years, fading to 3%; operating margin held at 9%; cost of capital 8.0%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 82.59,
+  "methods": [
+   {
+    "name": "Owner cash flow",
+    "low": 70.88,
+    "high": 94.59,
+    "basis": "$5.1B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM)."
+   },
+   {
+    "name": "Damodaran: cash flow to the firm",
+    "low": 72.75,
+    "high": 92.14,
+    "basis": "Sales grow 0–5% for five years, fading to 3%; operating margin held at 9%; cost of capital 8.0%. Cash added, debt subtracted."
+   }
+  ],
+  "stress_case": null,
+  "damodaran": {
+   "growth": 2,
+   "growth_low": 0,
+   "growth_high": 5,
+   "margin": 9.2,
+   "tax": 25.0,
+   "roc": 16.6,
+   "reinvestment": 12,
+   "beta": 0.85,
+   "cost_of_equity": 9.0,
+   "cost_of_debt": 5.0,
+   "debt_weight": 24,
+   "cost_of_capital": 8.0,
+   "terminal_growth": 3.0,
+   "terminal_roc": 10.0,
+   "revenue_now": "$89.9B",
+   "revenue_year10": "$112.9B",
+   "low": 72.75,
+   "high": 92.14,
+   "implied_growth": 8.0,
+   "implied_note": null
+  }
+ },
+ "lenses": {
+  "graham": {
+   "passed": 2,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "1.18",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "5 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": true
+    },
+    {
+     "name": "Dividend record",
+     "value": "$6.56 a share (6.2% yield)",
+     "threshold": "Pays a dividend",
+     "pass": true
+    },
+    {
+     "name": "Earnings growth",
+     "value": "-63% ($14.68 → $5.38)",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": false
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "15.1x three-year average earnings ($7.04); 19.7x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "P/E × P/B = 118; Graham number $46 vs price $106",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 5.1% vs 10-year Treasury 5.13%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "No financial distress",
+     "value": "Altman Z-score 2.95",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": false
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 3,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Owner earnings $5.0B (net income + depreciation − capex) = 5.5% yield vs 10-year Treasury 5.13%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": true
+    },
+    {
+     "name": "High return on equity without heavy debt",
+     "value": "ROE 30.3%, debt/equity 1.90",
+     "threshold": "ROE ≥ 15% and debt/equity ≤ 1.0",
+     "pass": false
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "EPS rose $-8.12 on $9.56 a share retained over 4 years: -85% return",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": false
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 22%, 3.9-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": false
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Capex is 75% of net income",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": false
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest 7.6x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": true
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "6.3 years of net income",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": false
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "-3.3% over four fiscal years",
+     "threshold": "Fewer shares than four years ago",
+     "pass": true
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 2,
+   "total": 6,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 9 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 1.79",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": null
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "(-18% EPS growth + 6.2% yield) ÷ P/E 19.7 = -0.61",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "EPS -18.2% a year, 4 down year(s)",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": false
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Debt is 1.90x equity",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": false
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "Pays out 122% of earnings",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": false
+    }
+   ],
+   "category": "Cyclical",
+   "category_note": "Earnings rise and fall with the cycle. Lynch's warning: a low P/E on peak earnings is a signal to sell, not to buy. Timing matters more than the multiple."
+  },
+  "munger": {
+   "passed": 5,
+   "total": 6,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 9 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 0.06%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": false
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count -0.12% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": true
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$115M, 1% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": true
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Operating cash flow was 136% of net income over 5 fiscal years",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": true
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 6 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "Volumes keep shrinking.",
+    "Another expensive labour contract."
+   ]
+  },
+  "pabrai": {
+   "passed": 2,
+   "total": 5,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 9 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Stable",
+     "threshold": "Stable industry",
+     "pass": true
+    },
+    {
+     "name": "Durable moat",
+     "value": "Narrow moat",
+     "threshold": "Wide moat",
+     "pass": null
+    },
+    {
+     "name": "Out of favour",
+     "value": "n/a",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": null
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety -28%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "Debt is 6.3 years of net income",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": false
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "No upside even to the high-case value ($93); 32% downside to the low case",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": -12.0,
+   "downside_pct": 32.3
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Narrow moat: Scale, Network.",
+   "threshold": "",
+   "pass": null
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "Already the largest.",
+   "threshold": "",
+   "pass": false
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Earnings are less than half their 2021 level.",
+   "threshold": "",
+   "pass": false
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 17%.",
+   "threshold": "",
+   "pass": true
+  }
+ ],
+ "bull_case": [
+  "High dividend yield.",
+  "Network is being right-sized."
+ ],
+ "bear_case": [
+  "Net income has fallen every year since 2021.",
+  "The dividend takes all of free cash flow."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "United Parcel Service statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/ups/statistics/"
+  },
+  {
+   "title": "United Parcel Service income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/ups/financials/"
+  },
+  {
+   "title": "United Parcel Service balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/ups/financials/balance-sheet/"
+  },
+  {
+   "title": "United Parcel Service cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/ups/financials/cash-flow-statement/"
+  }
+ ]
+}

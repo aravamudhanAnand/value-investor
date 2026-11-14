@@ -1,0 +1,13 @@
+# USB - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=59.45; date=2026-11-06; shares=1.56B; fpe=10.38; peg=1.00; cash=55.01B; debt=78.71B; equity=66.89B; eps=$5.14; cr=n/a; ic=n/a; roic=n/a; gm=n/a; rev=27.89B; ni=8.00B; ebitda=n/a; ebit=n/a; ocf=12.53B; capex=n/a; fcf=n/a; dps=$2.16; sc=-0.24%; ins=0.19%; z=n/a; f=4; c52=+27.19%
+F FY21,23894,n/a,7605,5.10,9870
+F FY22,22207,n/a,5501,3.69,21119
+F FY23,25738,n/a,5051,3.27,8393
+F FY24,25097,n/a,5909,3.79,11350
+F FY25,26354,n/a,7194,4.62,7970
+B FY21,573284,46530,55387
+B FY22,674805,77193,51232
+B FY23,663491,71348,55771
+B FY24,678318,78731,59040
+B FY25,692345,82745,65651
+B Q,725918,99696,67895

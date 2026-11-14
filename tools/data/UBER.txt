@@ -1,0 +1,19 @@
+# UBER - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=65.63; date=2026-10-27; shares=2.04B; fpe=16.26; peg=0.60; cash=5.39B; debt=14.73B; equity=28.40B; eps=$4.58; cr=0.84; ic=14.50; roic=19.18%; gm=40.75%; rev=55.23B; ni=9.58B; ebitda=7.47B; ebit=6.70B; ocf=10.42B; capex=-308.00M; fcf=10.12B; dps=n/a; sc=-2.28%; ins=0.19%; z=3.74; f=5; c52=-30.29%
+F FY21,17455,35.68,-496,-0.28,-743
+F FY22,31877,30.76,-9141,-4.65,390
+F FY23,37281,37.11,1887,0.87,3362
+F FY24,43978,37.51,9856,4.56,6895
+F FY25,52017,38.50,10053,4.73,9763
+B FY21,38774,11604,15349
+B FY22,32109,11717,8504
+B FY23,38699,11702,12682
+B FY24,51244,11436,22476
+B FY25,61802,12302,28083
+B Q,65801,14731,28399
+C FY21,902,1168,-445,-298,n/a,n/a
+C FY22,947,1793,642,-252,n/a,n/a
+C FY23,823,1935,3585,-223,n/a,n/a
+C FY24,737,1796,7137,-242,n/a,-1252
+C FY25,747,1826,10099,-336,n/a,-6523
+C TTM,774,1939,10424,-308,n/a,-6904

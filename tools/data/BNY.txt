@@ -1,0 +1,13 @@
+# BNY - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=147.57; date=2026-10-27; shares=672.90M; fpe=14.59; peg=0.91; cash=197.99B; debt=89.53B; equity=44.13B; eps=$9.03; cr=n/a; ic=n/a; roic=n/a; gm=n/a; rev=22.00B; ni=6.29B; ebitda=n/a; ebit=n/a; ocf=3.57B; capex=-1.98B; fcf=1.59B; dps=$2.52; sc=-3.81%; ins=0.14%; z=n/a; f=3; c52=+37.42%
+F FY21,16162,n/a,3550,4.14,1623
+F FY22,16490,n/a,2345,2.88,13722
+F FY23,17578,n/a,3067,3.89,4692
+F FY24,18549,n/a,4336,5.80,-782
+F FY25,20112,n/a,5306,7.40,5177
+B FY21,444438,68281,43391
+B FY22,405783,70995,40850
+B FY23,409877,69850,40905
+B FY24,416064,69714,41764
+B FY25,472300,79236,44808
+B Q,493984,89534,44134

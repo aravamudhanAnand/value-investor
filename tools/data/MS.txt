@@ -1,0 +1,12 @@
+# MS - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=186.02; date=2026-10-27; shares=1.57B; fpe=13.94; peg=1.14; cash=739.08B; debt=607.50B; equity=117.44B; eps=$12.61; cr=2.00; ic=n/a; roic=3.42%; gm=87.31%; rev=79.79B; ni=19.85B; ebitda=n/a; ebit=n/a; ocf=-15.59B; capex=-3.00B; fcf=-18.58B; dps=$4.60; sc=-1.42%; ins=0.14%; z=n/a; f=2; c52=+13.90%
+F FY21,59751,n/a,14566,8.03,31663
+F FY22,53388,n/a,10540,6.15,-9475
+F FY23,53611,n/a,8530,5.18,-36948
+F FY24,61497,n/a,12800,7.95,-2100
+F FY25,70296,n/a,16249,10.21,-20787
+B FY21,1188140,357380,106598
+B FY22,1180231,367465,101231
+B FY23,1193693,394787,99982
+B FY24,1215071,418581,105428
+B FY25,1420270,513408,112652

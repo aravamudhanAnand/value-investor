@@ -1,0 +1,940 @@
+{
+ "company": "Costco",
+ "ticker": "COST",
+ "exchange": "NASDAQ",
+ "sector": "Consumer staples",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-11-06",
+ "currency": "USD",
+ "price": 1053.56,
+ "market_cap": "$466.9B",
+ "verdict": "WATCHLIST",
+ "overall_score": 78,
+ "one_liner": "A wide-moat business worth owning, but it trades at 2.5x fair value. Interesting below about $289.",
+ "scores": {
+  "meaning": 10,
+  "moat": 10,
+  "industry": 9,
+  "management": 9,
+  "financial_health": 9,
+  "valuation": 1
+ },
+ "treasury_10y": 5.13,
+ "profile": {
+  "what": "Costco runs membership warehouse clubs selling groceries, household goods, electronics and fuel in bulk at low prices, with about 900 warehouses worldwide.",
+  "money": "It marks up goods only slightly over cost, so most of its profit comes from membership fees paid annually by about 80 million paid members, renewing at about 90% in the US and Canada. Low prices drive volume, and volume gives it buying power.",
+  "valued": "Costco trades at one of the highest P/Es in retail because investors prize its steady growth and loyal members. The multiple leaves little room for disappointment.",
+  "kind": "Established operating business",
+  "metrics": [
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 50.75,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 28.33,
+    "sector_n": 9
+   },
+   {
+    "key": "fpe",
+    "label": "Price / forward earnings",
+    "value": 46.15,
+    "unit": "x",
+    "note": "Next twelve months, analyst estimates",
+    "sector_median": 23.39,
+    "sector_n": 9
+   },
+   {
+    "key": "pfcf",
+    "label": "Price / free cash flow",
+    "value": 49.77,
+    "unit": "x",
+    "note": "Before deducting stock-based pay",
+    "sector_median": 25.01,
+    "sector_n": 9
+   },
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 32.12,
+    "unit": "x",
+    "note": "Enterprise value includes debt",
+    "sector_median": 16.6,
+    "sector_n": 9
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 0.56,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 2.63,
+    "sector_n": 9
+   }
+  ],
+  "peer_group": "Consumer staples",
+  "peers": [
+   {
+    "ticker": "COST",
+    "company": "Costco",
+    "value": 50.75
+   },
+   {
+    "ticker": "WMT",
+    "company": "Walmart",
+    "value": 46.41
+   },
+   {
+    "ticker": "CL",
+    "company": "Colgate-Palmolive",
+    "value": 36.8
+   },
+   {
+    "ticker": "PM",
+    "company": "Philip Morris International",
+    "value": 29.47
+   },
+   {
+    "ticker": "KO",
+    "company": "Coca-Cola",
+    "value": 28.33
+   },
+   {
+    "ticker": "PG",
+    "company": "Procter & Gamble",
+    "value": 24.91
+   },
+   {
+    "ticker": "MDLZ",
+    "company": "Mondelez International",
+    "value": 23.07
+   },
+   {
+    "ticker": "PEP",
+    "company": "PepsiCo",
+    "value": 17.28
+   },
+   {
+    "ticker": "MO",
+    "company": "Altria",
+    "value": 15.41
+   }
+  ]
+ },
+ "market": {
+  "rating": "Buy",
+  "target": 1067.59,
+  "beta": 0.87,
+  "as_of": "2026-10-27",
+  "low52": 844.06,
+  "high52": 1096.5,
+  "range_pos": 83,
+  "below_high": 3.9,
+  "target_vs_price": 1.3,
+  "target_vs_fair": 158.4,
+  "above_low": 24.8
+ },
+ "summary": {
+  "sentence": "An exceptional retailer with loyal members and one of the most demanding valuations in the market.",
+  "strengths": [
+   "Every financial trend points up, with net cash.",
+   "Membership fees make earnings very predictable.",
+   "International expansion runway."
+  ],
+  "risks": [
+   "About 50x earnings: the price assumes perfection.",
+   "Thin net margin by design fails the mechanical 5% test.",
+   "Even small slowdowns could compress the multiple."
+  ],
+  "swing": [
+   "Membership renewals",
+   "Valuation multiple",
+   "Store expansion"
+  ]
+ },
+ "dollar": {
+  "cogs": 87.2,
+  "opex": 9.0,
+  "op_profit": 3.8,
+  "net": 3.0,
+  "fcf": 3.1
+ },
+ "cash_use": {
+  "years": 5,
+  "first": "FY22",
+  "last": "FY26",
+  "ocf": "$59.0B",
+  "capex": 42,
+  "dividends": 17,
+  "buybacks": 9,
+  "left": 32,
+  "sbc": 7,
+  "capex_reported": true
+ },
+ "meaning": {
+  "score": 10,
+  "what_it_does": "Runs about 900 membership warehouse clubs selling groceries and general merchandise in bulk at very low markups.",
+  "how_it_makes_money": "Thin profits on merchandise plus high-margin annual membership fees, which make up most of operating income.",
+  "how_it_keeps_making_money": "Members renew at about 90% because the savings are real; new warehouses add members every year.",
+  "how_it_could_stop": "Losing its low-price reputation, or management abandoning the frugal culture."
+ },
+ "moat": {
+  "score": 10,
+  "strength": "Wide",
+  "sources": [
+   "Scale and cost advantage",
+   "Membership loyalty",
+   "Brand"
+  ],
+  "summary": "Costco's low prices come from buying volume and low overhead that rivals cannot match without wrecking their own margins."
+ },
+ "industry": {
+  "score": 9,
+  "pace": "Stable",
+  "summary": "Groceries and household goods change slowly; Costco's model has worked for decades."
+ },
+ "management": {
+  "score": 9,
+  "summary": "A famously owner-oriented culture: rising equity, net cash and special dividends."
+ },
+ "financial_health": {
+  "score": 9,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+7.5% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "+12.1% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net profit margin",
+    "value": "3.0%",
+    "threshold": "≥ 5%",
+    "pass": false
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.11",
+    "threshold": "≤ 0.40",
+    "pass": true
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$20.6B → $35.8B, 1 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": true
+   },
+   {
+    "name": "ROIC",
+    "value": "37.3%",
+    "threshold": "≥ 10%",
+    "pass": true
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$3.5B → $9.4B; TTM $9.4B",
+    "threshold": "Positive every year and rising",
+    "pass": true
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 79.4x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": true
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 160% of net income over 5 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": true
+   }
+  ],
+  "red_flags": [],
+  "note": "Thin net margin is by design: profit comes mainly from membership fees, so the 5% margin test misreads the model. FY24 equity dip reflects a special dividend.",
+  "history": [
+   {
+    "period": "FY22",
+    "revenue": 226954.0,
+    "net_income": 5844.0,
+    "fcf": 3501.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 242290.0,
+    "net_income": 6292.0,
+    "fcf": 6745.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 254453.0,
+    "net_income": 7367.0,
+    "fcf": 6629.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 275235.0,
+    "net_income": 8099.0,
+    "fcf": 7837.0
+   },
+   {
+    "period": "FY26",
+    "revenue": 303154.0,
+    "net_income": 9226.0,
+    "fcf": 9382.0
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "12.8%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": false
+     },
+     {
+      "name": "Operating margin",
+      "value": "3.8%",
+      "threshold": "≥ 15%",
+      "pass": false
+     },
+     {
+      "name": "Net profit margin",
+      "value": "3.0%",
+      "threshold": "≥ 10%",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "3.1%",
+      "threshold": "≥ 10%",
+      "pass": false
+     },
+     {
+      "name": "Return on equity",
+      "value": "25.8%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "37.3%",
+      "threshold": "≥ 12%",
+      "pass": true
+     },
+     {
+      "name": "Return on assets",
+      "value": "10.4%",
+      "threshold": "≥ 6%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "0.28x",
+      "threshold": "≤ 1.0x",
+      "pass": true
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.11",
+      "threshold": "≤ 0.40",
+      "pass": true
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "Net cash",
+      "threshold": "≤ 2.5x",
+      "pass": true
+     },
+     {
+      "name": "Interest cover",
+      "value": "79.4x",
+      "threshold": "≥ 5x",
+      "pass": true
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "1.1",
+      "threshold": "≤ 4 years",
+      "pass": true
+     },
+     {
+      "name": "Current ratio",
+      "value": "1.06",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": true
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "9.09",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "160% over 5 years",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "93% over 5 years",
+      "threshold": "≥ 80%",
+      "pass": true
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "41%",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": true
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "2.4x",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$924M, 6% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": true
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "6 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+7.5%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Earnings per share",
+      "value": "+12.1%",
+      "threshold": "≥ 7%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow",
+      "value": "+27.9%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Book value per share",
+      "value": "+14.8%",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "0.6%",
+      "threshold": "For reference; 10-year Treasury 5.13%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "28%",
+      "threshold": "≤ 60% of earnings",
+      "pass": true
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "3.8x",
+      "threshold": "≥ 1.5x",
+      "pass": true
+     },
+     {
+      "name": "Buyback yield",
+      "value": "0.3%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "-0.1% over 4 years",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": null
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "15%",
+      "threshold": "≥ 12%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "2.0%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "1.8%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": false
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "1.2%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": false
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 20,
+   "total": 27
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 1,
+  "lifecycle_stage": "4 · Capital return",
+  "primary_metric": {
+   "name": "Trailing P/E",
+   "value": "50.7"
+  },
+  "secondary_metric": {
+   "name": "Trailing P/FCF",
+   "value": "49.8"
+  },
+  "three_numbers": {
+   "pe": "50.7",
+   "forward_pe": "46.1",
+   "peg": "4.29"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "1.5"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "32.1"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "39.6"
+   },
+   {
+    "name": "P/E",
+    "value": "50.7"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "48.6"
+   },
+   {
+    "name": "P/FCF",
+    "value": "49.8"
+   },
+   {
+    "name": "P/B",
+    "value": "13.0"
+   }
+  ],
+  "intrinsic_value_low": 350.76,
+  "intrinsic_value_high": 475.67,
+  "margin_of_safety_pct": -155.0,
+  "interesting_below": 289.25,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow, capex held at depreciation: $9.2B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 2.4x depreciation, so most of it is expansion, not upkeep. (2) Damodaran: cash flow to the firm: Sales grow 6–12% for five years, fading to 3%; operating margin held at 4%; cost of capital 8.9%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 413.22,
+  "methods": [
+   {
+    "name": "Owner cash flow, capex held at depreciation",
+    "low": 345.59,
+    "high": 487.39,
+    "basis": "$9.2B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 2.4x depreciation, so most of it is expansion, not upkeep."
+   },
+   {
+    "name": "Damodaran: cash flow to the firm",
+    "low": 355.94,
+    "high": 463.95,
+    "basis": "Sales grow 6–12% for five years, fading to 3%; operating margin held at 4%; cost of capital 8.9%. Cash added, debt subtracted."
+   }
+  ],
+  "stress_case": {
+   "low": 290.93,
+   "high": 410.29,
+   "basis": "If the expansion spending never earns a return: $7.7B a year after deducting all capex and stock-based pay."
+  },
+  "damodaran": {
+   "growth": 9,
+   "growth_low": 6,
+   "growth_high": 12,
+   "margin": 3.8,
+   "tax": 25.0,
+   "roc": 37.3,
+   "reinvestment": 24,
+   "beta": 0.85,
+   "cost_of_equity": 9.0,
+   "cost_of_debt": 5.0,
+   "debt_weight": 2,
+   "cost_of_capital": 8.9,
+   "terminal_growth": 3.0,
+   "terminal_roc": 13.9,
+   "revenue_now": "$303.1B",
+   "revenue_year10": "$606.3B",
+   "low": 355.94,
+   "high": 463.95,
+   "implied_growth": 30.1,
+   "implied_note": null
+  }
+ },
+ "lenses": {
+  "graham": {
+   "passed": 4,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "1.06",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "5 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": true
+    },
+    {
+     "name": "Dividend record",
+     "value": "$5.88 a share (0.6% yield)",
+     "threshold": "Pays a dividend",
+     "pass": true
+    },
+    {
+     "name": "Earnings growth",
+     "value": "+58% ($13.14 → $20.76)",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": true
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "56.9x three-year average earnings ($18.51); 50.7x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "P/E × P/B = 662; Graham number $194 vs price $1,054",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 2.0% vs 10-year Treasury 5.13%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "No financial distress",
+     "value": "Altman Z-score 9.09",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": true
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 4,
+   "total": 7,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Owner earnings $5.5B (net income + depreciation − capex) = 1.2% yield vs 10-year Treasury 5.13%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "High return on equity without heavy debt",
+     "value": "ROE 25.8%, debt/equity 0.28",
+     "threshold": "ROE ≥ 15% and debt/equity ≤ 1.0",
+     "pass": true
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "EPS rose $7.62 on $51.07 a share retained over 4 years: 15% return",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": true
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 13%, 0.7-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": false
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Capex is 70% of net income",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": false
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest 79.4x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": true
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "1.1 years of net income",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": true
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "-0.1% over four fiscal years",
+     "threshold": "Fewer shares than four years ago",
+     "pass": null
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 5,
+   "total": 7,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 10 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 4.29",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "(12% EPS growth + 0.6% yield) ÷ P/E 50.7 = 0.25",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "EPS +12.1% a year, 0 down year(s)",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": true
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Net cash of $11.1B",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": true
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "Pays out 28% of earnings",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": true
+    }
+   ],
+   "category": "Stalwart",
+   "category_note": "A large company growing earnings at a steady pace, between the slow and the fast growers. Lynch bought these for a 30–50% gain and for protection in recessions, then rotated."
+  },
+  "munger": {
+   "passed": 5,
+   "total": 6,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 10 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 0.10%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": false
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count -0.09% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": true
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$924M, 6% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": true
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Operating cash flow was 160% of net income over 5 fiscal years",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": true
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 6 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "It loses its low-price reputation.",
+    "The frugal culture changes under new management."
+   ]
+  },
+  "pabrai": {
+   "passed": 4,
+   "total": 7,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 10 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Stable",
+     "threshold": "Stable industry",
+     "pass": true
+    },
+    {
+     "name": "Durable moat",
+     "value": "Wide moat",
+     "threshold": "Wide moat",
+     "pass": true
+    },
+    {
+     "name": "Out of favour",
+     "value": "Share price +13% over 52 weeks",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": false
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety -155%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "More cash than debt",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": true
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "No upside even to the high-case value ($476); 67% downside to the low case",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": -54.9,
+   "downside_pct": 66.7
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Wide moat: Scale and cost advantage, Membership loyalty, Brand.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "Small share of a huge global retail market with steady store growth.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Revenue and earnings growing every year.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 37%.",
+   "threshold": "",
+   "pass": true
+  }
+ ],
+ "bull_case": [
+  "Every financial trend points up, with net cash.",
+  "Membership fees make earnings very predictable.",
+  "International expansion runway."
+ ],
+ "bear_case": [
+  "About 50x earnings: the price assumes perfection.",
+  "Thin net margin by design fails the mechanical 5% test.",
+  "Even small slowdowns could compress the multiple."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "Costco statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/cost/statistics/"
+  },
+  {
+   "title": "Costco income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/cost/financials/"
+  },
+  {
+   "title": "Costco balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/cost/financials/balance-sheet/"
+  },
+  {
+   "title": "Costco cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/cost/financials/cash-flow-statement/"
+  }
+ ]
+}

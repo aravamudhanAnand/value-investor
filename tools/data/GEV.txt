@@ -1,0 +1,18 @@
+# GEV - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=774.11; date=2026-11-06; shares=263.28M; fpe=33.40; peg=0.86; cash=16.36B; debt=3.75B; equity=12.54B; eps=$38.26; cr=0.83; ic=n/a; roic=50.73%; gm=21.79%; rev=44.04B; ni=10.37B; ebitda=5.05B; ebit=3.62B; ocf=19.22B; capex=-2.10B; fcf=17.12B; dps=$2.00; sc=-2.61%; ins=0.10%; z=2.56; f=5; c52=+38.31%
+F FY21,33006,16.10,-633,n/a,-2237
+F FY22,29654,12.31,-2736,-10.00,-627
+F FY23,33239,14.94,-438,-1.60,442
+F FY24,34935,18.15,1552,5.58,1700
+F FY25,38068,20.08,4884,17.69,3710
+B FY22,44471,1168,11607
+B FY23,46121,1184,8380
+B FY24,51485,1061,10593
+B FY25,63016,1196,12296
+B Q,80800,3720,13115
+C FY21,1176,n/a,-1660,-577,n/a,n/a
+C FY22,991,n/a,-114,-513,n/a,n/a
+C FY23,964,n/a,1186,-744,n/a,n/a
+C FY24,1064,n/a,2583,-883,n/a,-43
+C FY25,853,n/a,4987,-1277,-275,-3316
+C TTM,1202,n/a,14139,-1701,-409,-5406

@@ -1,0 +1,771 @@
+{
+ "company": "Berkshire Hathaway",
+ "ticker": "BRK.B",
+ "exchange": "NYSE",
+ "sector": "Financials",
+ "is_financial": true,
+ "as_of": "2026-11-12",
+ "price_date": "2026-11-09",
+ "currency": "USD",
+ "price": 563.4,
+ "market_cap": "$794.4B",
+ "verdict": "WATCHLIST",
+ "overall_score": 80,
+ "one_liner": "A wide-moat business worth owning, but the margin of safety is only 20% against a 30% target. Interesting below about $493.",
+ "scores": {
+  "meaning": 9,
+  "moat": 8,
+  "industry": 9,
+  "management": 8,
+  "financial_health": 8,
+  "valuation": 7
+ },
+ "treasury_10y": 5.13,
+ "profile": {
+  "what": "Berkshire Hathaway is a conglomerate: insurance (GEICO, General Re, Berkshire Hathaway Reinsurance), the BNSF railroad, Berkshire Hathaway Energy, dozens of manufacturing and retail companies, and a large stock portfolio led by Apple and American Express. Greg Abel succeeded Warren Buffett as chief executive at the start of 2026.",
+  "money": "Insurance provides float, premiums received before claims are paid, which Berkshire invests. Operating businesses (railroad, utilities, manufacturing) earn steady profits. Dividends and gains on its stock portfolio, plus interest on a very large cash pile, add the rest.",
+  "valued": "Berkshire is valued on price to book value, because reported earnings swing with stock-market gains and losses. Historically the shares have traded around 1.3 to 1.6 times book, and the company has historically bought back shares only when they traded near the low end of that range.",
+  "kind": "Bank, insurer or asset manager",
+  "metrics": [
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 14.17,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 14.17,
+    "sector_n": 15
+   },
+   {
+    "key": "pb",
+    "label": "Price / book value",
+    "value": 1.04,
+    "unit": "x",
+    "note": "Judge against return on equity",
+    "sector_median": 1.73,
+    "sector_n": 12
+   },
+   {
+    "key": "roe",
+    "label": "Return on equity",
+    "value": 10.09,
+    "unit": "%",
+    "note": "Trailing twelve months",
+    "sector_median": 13.11,
+    "sector_n": 12
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 0.0,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 1.97,
+    "sector_n": 15
+   }
+  ],
+  "peer_group": "Financials · bank, insurer or asset manager",
+  "peers": [
+   {
+    "ticker": "AXP",
+    "company": "American Express",
+    "value": 17.94
+   },
+   {
+    "ticker": "BNY",
+    "company": "BNY",
+    "value": 16.34
+   },
+   {
+    "ticker": "SCHW",
+    "company": "Charles Schwab",
+    "value": 15.64
+   },
+   {
+    "ticker": "MS",
+    "company": "Morgan Stanley",
+    "value": 14.39
+   },
+   {
+    "ticker": "BRK.B",
+    "company": "Berkshire Hathaway",
+    "value": 14.17
+   },
+   {
+    "ticker": "JPM",
+    "company": "JPMorgan Chase",
+    "value": 14.05
+   },
+   {
+    "ticker": "WFC",
+    "company": "Wells Fargo",
+    "value": 12.69
+   },
+   {
+    "ticker": "GS",
+    "company": "Goldman Sachs",
+    "value": 12.46
+   },
+   {
+    "ticker": "C",
+    "company": "Citigroup",
+    "value": 12.02
+   },
+   {
+    "ticker": "COF",
+    "company": "Capital One",
+    "value": 11.99
+   },
+   {
+    "ticker": "BAC",
+    "company": "Bank of America",
+    "value": 11.77
+   },
+   {
+    "ticker": "USB",
+    "company": "U.S. Bancorp",
+    "value": 11.57
+   }
+  ]
+ },
+ "market": {
+  "rating": "Buy",
+  "target": 555.67,
+  "beta": 0.57,
+  "as_of": "2026-11-09",
+  "low52": 464.01,
+  "high52": 586.3,
+  "range_pos": 81,
+  "below_high": 3.9,
+  "target_vs_price": -1.4,
+  "target_vs_fair": -21.1,
+  "above_low": 21.4
+ },
+ "summary": {
+  "sentence": "A fortress conglomerate with a very large cash pile, in its first years after Buffett.",
+  "strengths": [
+   "About $377B of cash gives huge optionality in a downturn.",
+   "Price around 1.6x book is reasonable for this quality.",
+   "Very low debt relative to equity."
+  ],
+  "risks": [
+   "Size limits future returns.",
+   "GAAP earnings swing with stock-market marks.",
+   "Post-Buffett capital allocation is untested."
+  ],
+  "swing": [
+   "Use of the cash pile",
+   "Insurance results",
+   "Leadership after Buffett"
+  ]
+ },
+ "dollar": {
+  "cogs": null,
+  "opex": null,
+  "op_profit": null,
+  "net": 19.5,
+  "fcf": null
+ },
+ "cash_use": null,
+ "meaning": {
+  "score": 9,
+  "what_it_does": "A conglomerate: insurance (GEICO, reinsurance), BNSF railway, Berkshire Hathaway Energy, dozens of manufacturing and retail businesses, and a large stock portfolio.",
+  "how_it_makes_money": "Insurance float invested at low cost, plus operating earnings from wholly owned businesses and investment gains.",
+  "how_it_keeps_making_money": "Diversified, durable businesses keep throwing off cash, and the float gives it permanent low-cost capital.",
+  "how_it_could_stop": "Poor capital allocation after the founder era, or a mega-catastrophe that overwhelms underwriting discipline."
+ },
+ "moat": {
+  "score": 8,
+  "strength": "Wide",
+  "sources": [
+   "Insurance float",
+   "Decentralised culture",
+   "Scale and diversification"
+  ],
+  "summary": "No competitor can replicate its float, reputation as a buyer of choice and diversified cash flows."
+ },
+ "industry": {
+  "score": 9,
+  "pace": "Stable",
+  "summary": "A collection of mostly old-economy businesses in slow-changing industries."
+ },
+ "management": {
+  "score": 8,
+  "summary": "Now led by Greg Abel after Warren Buffett stepped down as CEO; the culture and capital discipline appear intact, but the post-Buffett record is short."
+ },
+ "financial_health": {
+  "score": 8,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+7.7% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "-7.1% a year, 3 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": false
+   },
+   {
+    "name": "Net profit margin",
+    "value": "19.5%",
+    "threshold": "≥ 5%",
+    "pass": true
+   },
+   {
+    "name": "Debt to assets",
+    "value": "Not meaningful for a bank or insurer",
+    "threshold": "≤ 0.40",
+    "pass": null
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$514.9B → $750.2B, 1 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": true
+   },
+   {
+    "name": "Return on equity",
+    "value": "10.1%",
+    "threshold": "≥ 10%",
+    "pass": true
+   },
+   {
+    "name": "Free cash flow",
+    "value": "Not meaningful for a bank or insurer",
+    "threshold": "Positive every year and rising",
+    "pass": null
+   },
+   {
+    "name": "Interest cover",
+    "value": "Not meaningful for a bank or insurer",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": null
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Not meaningful for a bank or insurer",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": null
+   }
+  ],
+  "red_flags": [
+   "At least one loss-making year in the period."
+  ],
+  "note": "Conglomerate/insurer: GAAP net income swings with equity-portfolio marks; book value and operating earnings are better yardsticks.",
+  "history": [
+   {
+    "period": "FY21",
+    "revenue": 276185.0,
+    "net_income": 89937.0,
+    "fcf": null
+   },
+   {
+    "period": "FY22",
+    "revenue": 302020.0,
+    "net_income": -22759.0,
+    "fcf": null
+   },
+   {
+    "period": "FY23",
+    "revenue": 364482.0,
+    "net_income": 96223.0,
+    "fcf": null
+   },
+   {
+    "period": "FY24",
+    "revenue": 371433.0,
+    "net_income": 88995.0,
+    "fcf": null
+   },
+   {
+    "period": "FY25",
+    "revenue": 371444.0,
+    "net_income": 66968.0,
+    "fcf": null
+   },
+   {
+    "period": "TTM",
+    "revenue": 395360.0,
+    "net_income": 77080.0,
+    "fcf": null
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Net profit margin",
+      "value": "19.5%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Return on equity",
+      "value": "10.1%",
+      "threshold": "≥ 12%",
+      "pass": false
+     },
+     {
+      "name": "Return on assets",
+      "value": "6.10%",
+      "threshold": "≥ 1%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Capital strength",
+    "rows": [
+     {
+      "name": "Equity to assets",
+      "value": "60.5%",
+      "threshold": "≥ 8%",
+      "pass": true
+     },
+     {
+      "name": "Shareholders' equity",
+      "value": "$514.9B → $750.2B",
+      "threshold": "Rising",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+7.7%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Earnings per share",
+      "value": "-6.0%",
+      "threshold": "≥ 7%",
+      "pass": false
+     },
+     {
+      "name": "Book value per share",
+      "value": "+10.1%",
+      "threshold": "≥ 7%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "0.0%",
+      "threshold": "For reference; 10-year Treasury 5.13%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "No dividend",
+      "threshold": "≤ 60% of earnings",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "-4.8% over 4 years",
+      "threshold": "Falling",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Price",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "7.1%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": true
+     },
+     {
+      "name": "Price to book",
+      "value": "1.04",
+      "threshold": "Compare with the justified P/B in M4",
+      "pass": null
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 8,
+   "total": 10
+  },
+  "ratio_gaps": "Not available from the data source: net interest margin, efficiency ratio, CET1 capital ratio, loan-loss reserves and tangible book value. Read them in the 10-K before acting."
+ },
+ "valuation": {
+  "score": 7,
+  "lifecycle_stage": "4 · Capital return",
+  "primary_metric": {
+   "name": "Trailing P/E",
+   "value": "14.2"
+  },
+  "secondary_metric": {
+   "name": "Price-to-book",
+   "value": "1.0"
+  },
+  "three_numbers": {
+   "pe": "14.2",
+   "forward_pe": "25.4",
+   "peg": null
+  },
+  "multiples": [
+   {
+    "name": "P/E",
+    "value": "14.2"
+   },
+   {
+    "name": "Forward P/E",
+    "value": "25.4"
+   },
+   {
+    "name": "P/B",
+    "value": "1.0"
+   },
+   {
+    "name": "P/S",
+    "value": "2.0"
+   }
+  ],
+  "intrinsic_value_low": 595.74,
+  "intrinsic_value_high": 812.37,
+  "margin_of_safety_pct": 20.0,
+  "interesting_below": 492.84,
+  "method": "Book value per share ($542) × 1.1–1.5. Reported earnings swing with investment marks, so a judgment range on book value is used.",
+  "fair_value": 704.06,
+  "methods": [
+   {
+    "name": "Book value range",
+    "low": 595.74,
+    "high": 812.37,
+    "basis": "Book value per share $541.58 × 1.10–1.50. This is how Damodaran values banks and insurers: equity is worth book value plus the returns earned above the cost of equity."
+   }
+  ],
+  "stress_case": null,
+  "damodaran": null
+ },
+ "lenses": {
+  "graham": {
+   "passed": 3,
+   "total": 6,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": null
+    },
+    {
+     "name": "Earnings stability",
+     "value": "4 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": false
+    },
+    {
+     "name": "Dividend record",
+     "value": "No dividend",
+     "threshold": "Pays a dividend",
+     "pass": false
+    },
+    {
+     "name": "Earnings growth",
+     "value": "+0% ($39.70 → $39.76)",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": false
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "14.5x three-year average earnings ($38.86); 14.2x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": true
+    },
+    {
+     "name": "Graham number",
+     "value": "P/E × P/B = 15; Graham number $696 vs price $563",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": true
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 7.1% vs 10-year Treasury 5.13%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": true
+    },
+    {
+     "name": "No financial distress",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": null
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 2,
+   "total": 4,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Earnings yield 9.7% vs 10-year Treasury 5.13%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": true
+    },
+    {
+     "name": "High return on equity",
+     "value": "10.1%",
+     "threshold": "ROE ≥ 15%",
+     "pass": false
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "Not meaningful: a loss in the period",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": null
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 27%, 51.0-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": false
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": null
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": null
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": null
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "-4.8% over four fiscal years",
+     "threshold": "Fewer shares than four years ago",
+     "pass": true
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 2,
+   "total": 2,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 9 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "Not meaningful: reported earnings swing with investment marks",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": null
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "Not meaningful: reported earnings swing with investment marks",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": null
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "Not meaningful: reported earnings swing with investment marks",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": null
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": null
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "No dividend",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": null
+    }
+   ],
+   "category": "Asset play",
+   "category_note": "The value sits in what the company owns rather than what it earns. Lynch compared the price with the assets per share."
+  },
+  "munger": {
+   "passed": 3,
+   "total": 3,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 9 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 13.40%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": true
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "n/a",
+     "threshold": "Share count flat or falling",
+     "pass": null
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": null
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": null
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "A mega-catastrophe hits the insurance operations.",
+    "Capital allocation deteriorates after the founder era."
+   ]
+  },
+  "pabrai": {
+   "passed": 4,
+   "total": 5,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 9 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Stable",
+     "threshold": "Stable industry",
+     "pass": true
+    },
+    {
+     "name": "Durable moat",
+     "value": "Wide moat",
+     "threshold": "Wide moat",
+     "pass": true
+    },
+    {
+     "name": "Out of favour",
+     "value": "n/a",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": null
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety 20%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": null
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "44% upside to the high case; price is already below the low-case value",
+     "threshold": "Upside at least 3x the downside",
+     "pass": true
+    }
+   ],
+   "upside_pct": 44.2,
+   "downside_pct": 0.0
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Wide moat: Insurance float, Decentralised culture, Scale and diversification.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "Diversified across many industries with modest share in each.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Steady compounding of book value.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "Return on equity of 10%.",
+   "threshold": "",
+   "pass": true
+  }
+ ],
+ "bull_case": [
+  "About $377B of cash gives huge optionality in a downturn.",
+  "Price around 1.6x book is reasonable for this quality.",
+  "Very low debt relative to equity."
+ ],
+ "bear_case": [
+  "Size limits future returns.",
+  "GAAP earnings swing with stock-market marks.",
+  "Post-Buffett capital allocation is untested."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "Berkshire Hathaway statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/brk.b/statistics/"
+  },
+  {
+   "title": "Berkshire Hathaway income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/brk.b/financials/"
+  },
+  {
+   "title": "Berkshire Hathaway balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/brk.b/financials/balance-sheet/"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+# DUK - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=127.78; date=2026-11-06; shares=779.71M; fpe=18.25; peg=2.89; cash=451.00M; debt=93.78B; equity=57.54B; eps=$6.84; cr=0.68; ic=2.41; roic=3.95%; gm=52.58%; rev=33.37B; ni=5.33B; ebitda=17.35B; ebit=9.27B; ocf=11.55B; capex=-14.02B; fcf=-2.48B; dps=$4.34; sc=+0.35%; ins=0.12%; z=n/a; f=6; c52=+3.24%
+F FY21,24201,n/a,3799,4.94,-1425
+F FY22,28319,n/a,2444,3.17,-5440
+F FY23,28602,n/a,2729,3.54,-2726
+F FY24,29934,n/a,4410,5.71,48
+F FY25,31790,n/a,4906,6.31,-1694
+B FY21,169587,68263,51136
+B FY22,178086,74758,51853
+B FY23,176893,80645,50187
+B FY24,186343,85438,51256
+B FY25,195736,91107,53019
+B Q,201091,92206,56863
+C FY21,5663,n/a,8290,-9715,-3114,n/a
+C FY22,5843,n/a,5927,-11367,-3179,n/a
+C FY23,6084,n/a,9878,-12604,-3244,n/a
+C FY24,6419,n/a,12328,-12280,-3213,n/a
+C FY25,7704,n/a,12330,-14024,-3300,n/a
+C TTM,7747,n/a,11562,-15836,-3383,n/a

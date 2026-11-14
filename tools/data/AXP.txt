@@ -1,0 +1,13 @@
+# AXP - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=320.99; date=2026-11-06; shares=670.55M; fpe=16.54; peg=1.25; cash=43.46B; debt=59.99B; equity=35.80B; eps=$17.73; cr=1.58; ic=n/a; roic=11.81%; gm=61.95%; rev=72.85B; ni=12.09B; ebitda=n/a; ebit=n/a; ocf=17.63B; capex=-3.72B; fcf=13.91B; dps=$3.80; sc=-2.43%; ins=0.10%; z=n/a; f=5; c52=-12.25%
+F FY21,43799,n/a,7917,10.02,13007
+F FY22,50680,n/a,7400,9.85,19223
+F FY23,55592,n/a,8252,11.21,16994
+F FY24,60764,n/a,9995,14.01,12133
+F FY25,66973,n/a,10701,15.38,16002
+B FY21,188548,40960,22177
+B FY22,228354,51605,24711
+B FY23,261108,59982,28057
+B FY24,271461,55500,30264
+B FY25,300052,63909,33474
+B Q,310275,59986,35797

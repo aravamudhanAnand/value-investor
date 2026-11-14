@@ -1,0 +1,13 @@
+# BRK.B - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=570.89; date=2026-11-06; shares=1.41B; fpe=25.71; peg=n/a; cash=377.44B; debt=130.78B; equity=763.63B; eps=$39.76; cr=2.63; ic=19.87; roic=16.47%; gm=26.60%; rev=395.36B; ni=77.08B; ebitda=119.42B; ebit=105.18B; ocf=45.11B; capex=-22.34B; fcf=22.77B; dps=n/a; sc=n/a; ins=13.40%; z=n/a; f=4; c52=+16.80%
+F FY21,276185,41.69,89937,39.70,26151
+F FY22,302020,-9.27,-22759,-10.33,21886
+F FY23,364482,33.80,96223,44.27,29787
+F FY24,371433,30.62,88995,41.27,11616
+F FY25,371444,26.15,66968,31.04,25042
+B FY21,958784,119253,514930
+B FY22,948465,127683,481681
+B FY23,1069978,133570,570770
+B FY24,1153881,130758,651655
+B FY25,1222176,135371,719703
+B Q,1263071,128599,750177

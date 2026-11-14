@@ -1,0 +1,13 @@
+# JPM - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=334.49; date=2026-11-06; shares=2.66B; fpe=13.34; peg=1.19; cash=1.59T; debt=1.34T; equity=372.37B; eps=$23.81; cr=n/a; ic=n/a; roic=n/a; gm=n/a; rev=190.73B; ni=64.53B; ebitda=n/a; ebit=n/a; ocf=-162.53B; capex=n/a; fcf=n/a; dps=$6.60; sc=-3.48%; ins=0.36%; z=n/a; f=2; c52=+7.32%
+F FY21,130898,n/a,46503,15.36,78084
+F FY22,122306,n/a,35892,12.09,107119
+F FY23,145670,n/a,47760,16.23,12974
+F FY24,166775,n/a,56868,19.75,-42012
+F FY25,168235,n/a,55681,20.02,-147782
+B FY21,3743567,623733,294127
+B FY22,3665743,621439,292332
+B FY23,3875393,725772,327878
+B FY24,4002814,827030,344758
+B FY25,4424900,1025995,362438
+B Q,5091545,1326255,372368

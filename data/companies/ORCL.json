@@ -1,0 +1,958 @@
+{
+ "company": "Oracle",
+ "ticker": "ORCL",
+ "exchange": "NYSE",
+ "sector": "Technology",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-11-06",
+ "currency": "USD",
+ "price": 116.1,
+ "market_cap": "$362.2B",
+ "verdict": "PASS",
+ "overall_score": 62,
+ "one_liner": "Fails the quality test (no free cash flow), so price does not matter.",
+ "scores": {
+  "meaning": 8,
+  "moat": 8,
+  "industry": 5,
+  "management": 6,
+  "financial_health": 7,
+  "valuation": 3
+ },
+ "treasury_10y": 5.13,
+ "profile": {
+  "what": "Oracle sells the database software that runs much of the world's corporate data, business applications (Fusion ERP, NetSuite, Cerner health records), and Oracle Cloud Infrastructure (OCI), which it is expanding rapidly to rent computing capacity for AI training.",
+  "money": "Most revenue is recurring: annual support fees on software customers already own, plus cloud subscriptions. Cloud infrastructure was about a quarter of fiscal 2026 revenue and is the fastest-growing line, backed by very large multi-year contracts with AI companies. New licence sales and hardware are small and shrinking.",
+  "valued": "Investors value Oracle on forward earnings and the size of its contracted cloud backlog rather than on today's cash flow, which is negative because data-centre spending exceeds operating cash. The key debate is whether those contracts earn a good return on the debt-funded build-out.",
+  "kind": "Established operating business",
+  "metrics": [
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 18.2,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 27.36,
+    "sector_n": 19
+   },
+   {
+    "key": "fpe",
+    "label": "Price / forward earnings",
+    "value": 13.6,
+    "unit": "x",
+    "note": "Next twelve months, analyst estimates",
+    "sector_median": 17.35,
+    "sector_n": 13
+   },
+   {
+    "key": "pfcf",
+    "label": "Price / free cash flow",
+    "value": null,
+    "unit": "x",
+    "note": "Before deducting stock-based pay",
+    "sector_median": 22.33,
+    "sector_n": 11
+   },
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 14.36,
+    "unit": "x",
+    "note": "Enterprise value includes debt",
+    "sector_median": 19.33,
+    "sector_n": 20
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 1.72,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 0.75,
+    "sector_n": 19
+   }
+  ],
+  "peer_group": "Technology · established operating business",
+  "peers": [
+   {
+    "ticker": "NOW",
+    "company": "ServiceNow",
+    "value": 73.36
+   },
+   {
+    "ticker": "AAPL",
+    "company": "Apple",
+    "value": 39.05
+   },
+   {
+    "ticker": "AVGO",
+    "company": "Broadcom",
+    "value": 37.51
+   },
+   {
+    "ticker": "CSCO",
+    "company": "Cisco Systems",
+    "value": 28.18
+   },
+   {
+    "ticker": "MSFT",
+    "company": "Microsoft",
+    "value": 27.36
+   },
+   {
+    "ticker": "IBM",
+    "company": "IBM",
+    "value": 22.0
+   },
+   {
+    "ticker": "INTU",
+    "company": "Intuit",
+    "value": 20.75
+   },
+   {
+    "ticker": "NVDA",
+    "company": "NVIDIA",
+    "value": 20.55
+   },
+   {
+    "ticker": "CRM",
+    "company": "Salesforce",
+    "value": 19.8
+   },
+   {
+    "ticker": "ACN",
+    "company": "Accenture",
+    "value": 18.76
+   },
+   {
+    "ticker": "ORCL",
+    "company": "Oracle",
+    "value": 18.2
+   },
+   {
+    "ticker": "ADBE",
+    "company": "Adobe",
+    "value": 13.35
+   }
+  ]
+ },
+ "market": {
+  "rating": "Buy",
+  "target": 235.77,
+  "beta": 1.78,
+  "as_of": "2026-11-06",
+  "low52": 109.21,
+  "high52": 250.25,
+  "range_pos": 5,
+  "below_high": 53.6,
+  "target_vs_price": 103.1,
+  "target_vs_fair": 203.8,
+  "above_low": 6.3
+ },
+ "summary": {
+  "sentence": "A mature database business making a debt-funded bet on becoming a major AI cloud landlord.",
+  "strengths": [
+   "Database franchise is extremely sticky.",
+   "Large contracted backlog for cloud capacity."
+  ],
+  "risks": [
+   "Capital spending far exceeds operating cash flow.",
+   "Debt has more than doubled in four years."
+  ],
+  "swing": [
+   "Cloud contract conversion",
+   "Debt and capital spending",
+   "AI customers' ability to pay"
+  ]
+ },
+ "dollar": {
+  "cogs": 36.0,
+  "opex": 29.7,
+  "op_profit": 34.3,
+  "net": 26.1,
+  "fcf": -40.0
+ },
+ "cash_use": {
+  "years": 5,
+  "first": "FY22",
+  "last": "FY26",
+  "ocf": "$98.2B",
+  "capex": 99,
+  "dividends": 22,
+  "buybacks": 25,
+  "left": -46,
+  "sbc": 20,
+  "capex_reported": true
+ },
+ "meaning": {
+  "score": 8,
+  "what_it_does": "Sells database software, business applications and cloud infrastructure.",
+  "how_it_makes_money": "Licences, support contracts and cloud subscriptions and usage fees.",
+  "how_it_keeps_making_money": "Enterprises rarely rip out an Oracle database; it is now renting AI computing capacity at scale.",
+  "how_it_could_stop": "The debt-funded AI data-centre build-out fails to earn its cost."
+ },
+ "moat": {
+  "score": 8,
+  "strength": "Wide",
+  "sources": [
+   "Switching costs"
+  ],
+  "summary": "Core systems that run on Oracle databases are risky and expensive to migrate."
+ },
+ "industry": {
+  "score": 5,
+  "pace": "Steady change",
+  "summary": "Databases change slowly, but the company has tied its future to the fast-moving AI infrastructure race."
+ },
+ "management": {
+  "score": 6,
+  "summary": "Founder-controlled with large insider ownership; has taken on very heavy debt to build AI capacity."
+ },
+ "financial_health": {
+  "score": 7,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+12.2% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "+26.1% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net profit margin",
+    "value": "26.1%",
+    "threshold": "≥ 5%",
+    "pass": true
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.56",
+    "threshold": "≤ 0.40",
+    "pass": false
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "-$5.8B → $67.2B, 0 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": true
+   },
+   {
+    "name": "ROIC",
+    "value": "11.3%",
+    "threshold": "≥ 10%",
+    "pass": true
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$5.0B → -$23.7B; TTM -$28.7B",
+    "threshold": "Positive every year and rising",
+    "pass": false
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 4.8x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": false
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 178% of net income over 5 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": true
+   }
+  ],
+  "red_flags": [
+   "Not consistently generating free cash flow."
+  ],
+  "note": "",
+  "history": [
+   {
+    "period": "FY22",
+    "revenue": 42440.0,
+    "net_income": 6717.0,
+    "fcf": 5028.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 49954.0,
+    "net_income": 8503.0,
+    "fcf": 8470.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 52961.0,
+    "net_income": 10467.0,
+    "fcf": 11807.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 57399.0,
+    "net_income": 12443.0,
+    "fcf": -394.0
+   },
+   {
+    "period": "FY26",
+    "revenue": 67357.0,
+    "net_income": 16984.0,
+    "fcf": -23686.0
+   },
+   {
+    "period": "TTM",
+    "revenue": 71780.0,
+    "net_income": 18740.0,
+    "fcf": -28720.0
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "64.0%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": true
+     },
+     {
+      "name": "Operating margin",
+      "value": "34.3%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Net profit margin",
+      "value": "26.1%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "-40.0%",
+      "threshold": "≥ 10%",
+      "pass": false
+     },
+     {
+      "name": "Return on equity",
+      "value": "27.9%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "11.3%",
+      "threshold": "≥ 12%",
+      "pass": false
+     },
+     {
+      "name": "Return on assets",
+      "value": "6.2%",
+      "threshold": "≥ 6%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "2.52x",
+      "threshold": "≤ 1.0x",
+      "pass": false
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.56",
+      "threshold": "≤ 0.40",
+      "pass": false
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "3.8x",
+      "threshold": "≤ 2.5x",
+      "pass": false
+     },
+     {
+      "name": "Interest cover",
+      "value": "4.8x",
+      "threshold": "≥ 5x",
+      "pass": false
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "No free cash flow",
+      "threshold": "≤ 4 years",
+      "pass": false
+     },
+     {
+      "name": "Current ratio",
+      "value": "1.17",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": true
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "1.93",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": false
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "178% over 5 years",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "2% over 5 years",
+      "threshold": "≥ 80%",
+      "pass": false
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "161%",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": false
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "7.7x",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$4.8B, 10% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": false
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "5 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+12.2%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Earnings per share",
+      "value": "+24.7%",
+      "threshold": "≥ 7%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow",
+      "value": "From or to negative",
+      "threshold": "≥ 5%",
+      "pass": null
+     },
+     {
+      "name": "Book value per share",
+      "value": "n/a",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "1.7%",
+      "threshold": "For reference; 10-year Treasury 5.13%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "31%",
+      "threshold": "≤ 60% of earnings",
+      "pass": true
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "No free cash flow",
+      "threshold": "≥ 1.5x",
+      "pass": false
+     },
+     {
+      "name": "Buyback yield",
+      "value": "0.1%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "+4.5% over 4 years",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": false
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "33%",
+      "threshold": "≥ 12%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "5.5%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "-9.3%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": false
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "-13.0%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": false
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 12,
+   "total": 27
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 3,
+  "lifecycle_stage": "4 · Capital return",
+  "primary_metric": {
+   "name": "Trailing P/E",
+   "value": "18.2"
+  },
+  "secondary_metric": {
+   "name": "Trailing P/FCF",
+   "value": "n/a"
+  },
+  "three_numbers": {
+   "pe": "18.2",
+   "forward_pe": "13.6",
+   "peg": "0.46"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "6.9"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "14.4"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "20.1"
+   },
+   {
+    "name": "P/E",
+    "value": "18.2"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "n/a"
+   },
+   {
+    "name": "P/FCF",
+    "value": "n/a"
+   },
+   {
+    "name": "P/B",
+    "value": "5.4"
+   }
+  ],
+  "intrinsic_value_low": 65.02,
+  "intrinsic_value_high": 90.22,
+  "margin_of_safety_pct": -49.6,
+  "interesting_below": 54.33,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow, capex held at depreciation: $15.4B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 7.7x depreciation, so most of it is expansion, not upkeep. (2) Damodaran: cash flow to the firm: Sales grow 5–11% for five years, fading to 3%; operating margin held at 34%; cost of capital 8.1%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 77.62,
+  "methods": [
+   {
+    "name": "Owner cash flow, capex held at depreciation",
+    "low": 77.97,
+    "high": 110.02,
+    "basis": "$15.4B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 7.7x depreciation, so most of it is expansion, not upkeep."
+   },
+   {
+    "name": "Damodaran: cash flow to the firm",
+    "low": 52.06,
+    "high": 70.41,
+    "basis": "Sales grow 5–11% for five years, fading to 3%; operating margin held at 34%; cost of capital 8.1%. Cash added, debt subtracted."
+   }
+  ],
+  "stress_case": {
+   "low": null,
+   "high": null,
+   "basis": "If the expansion spending never earns a return, no cash is left for owners after capex and stock-based pay."
+  },
+  "damodaran": {
+   "growth": 8,
+   "growth_low": 5,
+   "growth_high": 11,
+   "margin": 34.3,
+   "tax": 25.0,
+   "roc": 11.3,
+   "reinvestment": 71,
+   "beta": 1.0,
+   "cost_of_equity": 9.6,
+   "cost_of_debt": 5.0,
+   "debt_weight": 32,
+   "cost_of_capital": 8.1,
+   "terminal_growth": 3.0,
+   "terminal_roc": 13.1,
+   "revenue_now": "$71.8B",
+   "revenue_year10": "$134.5B",
+   "low": 52.06,
+   "high": 70.41,
+   "implied_growth": 17.2,
+   "implied_note": null
+  }
+ },
+ "lenses": {
+  "graham": {
+   "passed": 4,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "1.17",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "5 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": true
+    },
+    {
+     "name": "Dividend record",
+     "value": "$2.00 a share (1.7% yield)",
+     "threshold": "Pays a dividend",
+     "pass": true
+    },
+    {
+     "name": "Earnings growth",
+     "value": "+165% ($2.41 → $6.38)",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": true
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "25.1x three-year average earnings ($4.63); 18.2x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "P/E × P/B = 98; Graham number $56 vs price $116",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 5.5% vs 10-year Treasury 5.13%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": true
+    },
+    {
+     "name": "No financial distress",
+     "value": "Altman Z-score 1.93",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": false
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 1,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Owner earnings -$47.1B (net income + depreciation − capex) = -13.0% yield vs 10-year Treasury 5.13%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "High return on equity without heavy debt",
+     "value": "ROE 27.9%, debt/equity 2.52",
+     "threshold": "ROE ≥ 15% and debt/equity ≤ 1.0",
+     "pass": false
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "EPS rose $3.42 on $10.45 a share retained over 4 years: 33% return",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": true
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 64%, 13.3-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": false
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Capex is 404% of net income",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": false
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest 4.8x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": false
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "9.0 years of net income",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": false
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "+4.5% over four fiscal years",
+     "threshold": "Fewer shares than four years ago",
+     "pass": false
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 5,
+   "total": 6,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 8 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Steady change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 0.46",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": true
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "(25% EPS growth + 1.7% yield) ÷ P/E 18.2 = 1.45",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": null
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "EPS +24.7% a year, 0 down year(s)",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": true
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Debt is 2.52x equity",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": false
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "Pays out 31% of earnings",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": true
+    }
+   ],
+   "category": "Fast grower",
+   "category_note": "Earnings compounding at 20% or more on sales growing at least 10%. Lynch's favourite hunting ground, provided the growth is not paid for twice: check the PEG."
+  },
+  "munger": {
+   "passed": 4,
+   "total": 6,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 8 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Steady change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 37.29%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": true
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count +1.95% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": false
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$4.8B, 10% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": false
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Operating cash flow was 178% of net income over 5 fiscal years",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": true
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 5 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "AI customers cannot pay for the capacity being built.",
+    "Debt markets close while cash flow is still negative.",
+    "Debt equals 9 years of earnings, which leaves little room for a bad stretch."
+   ]
+  },
+  "pabrai": {
+   "passed": 3,
+   "total": 6,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 8 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Steady change",
+     "threshold": "Stable industry",
+     "pass": null
+    },
+    {
+     "name": "Durable moat",
+     "value": "Wide moat",
+     "threshold": "Wide moat",
+     "pass": true
+    },
+    {
+     "name": "Out of favour",
+     "value": "Share price -54% over 52 weeks",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": true
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety -50%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "Debt is 9.0 years of net income",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": false
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "No upside even to the high-case value ($90); 44% downside to the low case",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": -22.3,
+   "downside_pct": 44.0
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Wide moat: Switching costs.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "A mature leader in databases.",
+   "threshold": "",
+   "pass": false
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Depends on whether AI infrastructure contracts turn into cash.",
+   "threshold": "",
+   "pass": null
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 11%.",
+   "threshold": "",
+   "pass": true
+  }
+ ],
+ "bull_case": [
+  "Database franchise is extremely sticky.",
+  "Large contracted backlog for cloud capacity."
+ ],
+ "bear_case": [
+  "Capital spending far exceeds operating cash flow.",
+  "Debt has more than doubled in four years."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "Oracle statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/orcl/statistics/"
+  },
+  {
+   "title": "Oracle income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/orcl/financials/"
+  },
+  {
+   "title": "Oracle balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/orcl/financials/balance-sheet/"
+  },
+  {
+   "title": "Oracle cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/orcl/financials/cash-flow-statement/"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+# Rebuilds the report data whenever the inputs change, so the site can be
+# updated by editing files on github.com with nothing installed locally.
+name: Rebuild reports
+on:
+  push:
+    paths: ["tools/**", "framework/**"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python3 tools/build.py
+      - name: Commit rebuilt data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Rebuild report data"
+          git push

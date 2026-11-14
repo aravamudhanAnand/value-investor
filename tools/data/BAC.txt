@@ -1,0 +1,13 @@
+# BAC - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=49.42; date=2026-11-06; shares=6.90B; fpe=9.89; peg=0.69; cash=820.67B; debt=759.20B; equity=296.75B; eps=$4.20; cr=n/a; ic=n/a; roic=n/a; gm=n/a; rev=114.88B; ni=30.76B; ebitda=n/a; ebit=n/a; ocf=41.37B; capex=n/a; fcf=41.37B; dps=$1.28; sc=-4.95%; ins=0.17%; z=n/a; f=4; c52=-5.78%
+F FY21,93707,n/a,30557,3.57,-7193
+F FY22,92407,n/a,26015,3.19,-6327
+F FY23,98375,n/a,24656,3.05,44982
+F FY24,100035,n/a,25344,3.19,-8805
+F FY25,107422,n/a,29055,3.81,12613
+B FY21,3169495,556123,270066
+B FY22,3051375,562151,273197
+B FY23,3180151,681469,291646
+B FY24,3261299,717447,293963
+B FY25,3411738,767072,303243
+B Q,3499191,788985,301094

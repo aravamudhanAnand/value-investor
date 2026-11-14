@@ -1,0 +1,919 @@
+{
+ "company": "Qualcomm",
+ "ticker": "QCOM",
+ "exchange": "NASDAQ",
+ "sector": "Technology",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-11-06",
+ "currency": "USD",
+ "price": 165.41,
+ "market_cap": "$177.0B",
+ "verdict": "TOO_HARD",
+ "overall_score": 56,
+ "one_liner": "Goes in the too-hard pile: its industry is changing too fast to predict. No verdict on price.",
+ "scores": {
+  "meaning": 7,
+  "moat": 6,
+  "industry": 4,
+  "management": 7,
+  "financial_health": 9,
+  "valuation": 1
+ },
+ "treasury_10y": 5.13,
+ "profile": {
+  "what": "Qualcomm designs the Snapdragon processors and modems used in most premium Android phones, and licenses the wireless patents that nearly every phone maker pays for. It is expanding into PCs, cars and connected devices.",
+  "money": "Two businesses. Chips (QCT) are most of revenue and are sold to phone makers, with Apple's modem business winding down. Licensing (QTL) is smaller but very profitable: phone makers pay a royalty on every handset sold. Automotive and IoT chips are the growth areas.",
+  "valued": "Qualcomm trades on a low P/E for a chip company because of dependence on smartphones and the loss of Apple modem sales. The multiple moves with progress in cars and PCs.",
+  "kind": "Cyclical or commodity business",
+  "metrics": [
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 17.45,
+    "unit": "x",
+    "note": "Judge at mid-cycle, not peak",
+    "sector_median": 19.33,
+    "sector_n": 20
+   },
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 13.02,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 27.36,
+    "sector_n": 19
+   },
+   {
+    "key": "fcfy",
+    "label": "Free cash flow yield",
+    "value": 4.89,
+    "unit": "%",
+    "note": "Free cash flow ÷ market value",
+    "sector_median": 1.86,
+    "sector_n": 7
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 2.22,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 0.75,
+    "sector_n": 19
+   }
+  ],
+  "peer_group": "Technology · cyclical or commodity business",
+  "peers": [
+   {
+    "ticker": "AMD",
+    "company": "Advanced Micro Devices",
+    "value": 78.03
+   },
+   {
+    "ticker": "TXN",
+    "company": "Texas Instruments",
+    "value": 32.81
+   },
+   {
+    "ticker": "AMAT",
+    "company": "Applied Materials",
+    "value": 29.57
+   },
+   {
+    "ticker": "LRCX",
+    "company": "Lam Research",
+    "value": 24.39
+   },
+   {
+    "ticker": "QCOM",
+    "company": "Qualcomm",
+    "value": 17.45
+   },
+   {
+    "ticker": "INTC",
+    "company": "Intel",
+    "value": 15.44
+   },
+   {
+    "ticker": "MU",
+    "company": "Micron Technology",
+    "value": 7.57
+   }
+  ]
+ },
+ "market": {
+  "rating": "Hold",
+  "target": 185.79,
+  "beta": 1.76,
+  "as_of": "2026-11-06",
+  "low52": 121.99,
+  "high52": 259.92,
+  "range_pos": 31,
+  "below_high": 36.4,
+  "target_vs_price": 12.3,
+  "target_vs_fair": 106.1,
+  "above_low": 35.6
+ },
+ "summary": {
+  "sentence": "The leader in phone chips and wireless patents, working to depend less on smartphones.",
+  "strengths": [
+   "Patent royalties are very high margin.",
+   "Automotive and PC chips are growing."
+  ],
+  "risks": [
+   "Customer concentration in a few phone makers.",
+   "Net income has been volatile."
+  ],
+  "swing": [
+   "Loss of Apple modem sales",
+   "Auto and PC chip growth",
+   "Smartphone demand"
+  ]
+ },
+ "dollar": {
+  "cogs": 46.9,
+  "opex": 32.3,
+  "op_profit": 20.8,
+  "net": 31.6,
+  "fcf": 20.1
+ },
+ "cash_use": {
+  "years": 5,
+  "first": "FY21",
+  "last": "FY25",
+  "ocf": "$57.1B",
+  "capex": 14,
+  "dividends": 30,
+  "buybacks": 46,
+  "left": 10,
+  "sbc": 20,
+  "capex_reported": true
+ },
+ "meaning": {
+  "score": 7,
+  "what_it_does": "Designs smartphone chips and licenses wireless patents.",
+  "how_it_makes_money": "Chip sales to phone makers and royalties on most phones sold.",
+  "how_it_keeps_making_money": "Phones need its modems and patents; it is expanding into cars and PCs.",
+  "how_it_could_stop": "Apple and others replace its modems with their own."
+ },
+ "moat": {
+  "score": 6,
+  "strength": "Narrow",
+  "sources": [
+   "Intellectual property"
+  ],
+  "summary": "Essential wireless patents, but its largest customers are designing it out."
+ },
+ "industry": {
+  "score": 4,
+  "pace": "Rapid change",
+  "summary": "The framework's own example of a technology war: a chipmaker must out-innovate rivals every product cycle or lose its customers."
+ },
+ "management": {
+  "score": 7,
+  "summary": "Strong cash returns; diversification is still early."
+ },
+ "financial_health": {
+  "score": 9,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+7.2% a year, 1 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "-11.5% a year, 2 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": false
+   },
+   {
+    "name": "Net profit margin",
+    "value": "31.6%",
+    "threshold": "≥ 5%",
+    "pass": true
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.27",
+    "threshold": "≤ 0.40",
+    "pass": true
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$9.9B → $27.7B, 1 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": true
+   },
+   {
+    "name": "ROIC",
+    "value": "24.5%",
+    "threshold": "≥ 10%",
+    "pass": true
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$8.6B → $12.8B; TTM $8.7B",
+    "threshold": "Positive every year and rising",
+    "pass": true
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 13.1x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": true
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 127% of net income over 5 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": true
+   }
+  ],
+  "red_flags": [
+   "Rapidly changing industry."
+  ],
+  "note": "",
+  "history": [
+   {
+    "period": "FY21",
+    "revenue": 33566.0,
+    "net_income": 9043.0,
+    "fcf": 8648.0
+   },
+   {
+    "period": "FY22",
+    "revenue": 44200.0,
+    "net_income": 12986.0,
+    "fcf": 6834.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 35820.0,
+    "net_income": 7339.0,
+    "fcf": 9849.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 38962.0,
+    "net_income": 10110.0,
+    "fcf": 11161.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 44284.0,
+    "net_income": 5541.0,
+    "fcf": 12820.0
+   },
+   {
+    "period": "TTM",
+    "revenue": 43120.0,
+    "net_income": 13630.0,
+    "fcf": 8650.0
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "53.1%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": true
+     },
+     {
+      "name": "Operating margin",
+      "value": "20.8%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Net profit margin",
+      "value": "31.6%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "20.1%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Return on equity",
+      "value": "44.8%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "24.5%",
+      "threshold": "≥ 12%",
+      "pass": true
+     },
+     {
+      "name": "Return on assets",
+      "value": "23.8%",
+      "threshold": "≥ 6%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "0.53x",
+      "threshold": "≤ 1.0x",
+      "pass": true
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.27",
+      "threshold": "≤ 0.40",
+      "pass": true
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "0.8x",
+      "threshold": "≤ 2.5x",
+      "pass": true
+     },
+     {
+      "name": "Interest cover",
+      "value": "13.1x",
+      "threshold": "≥ 5x",
+      "pass": true
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "1.8",
+      "threshold": "≤ 4 years",
+      "pass": true
+     },
+     {
+      "name": "Current ratio",
+      "value": "1.86",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": true
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "5.58",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "127% over 5 years",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "110% over 5 years",
+      "threshold": "≥ 80%",
+      "pass": true
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "22%",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": true
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "1.6x",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$3.2B, 29% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": false
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "4 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+7.2%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Earnings per share",
+      "value": "-10.7%",
+      "threshold": "≥ 7%",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow",
+      "value": "+10.3%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Book value per share",
+      "value": "+22.0%",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "2.2%",
+      "threshold": "For reference; 10-year Treasury 5.13%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "29%",
+      "threshold": "≤ 60% of earnings",
+      "pass": true
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "2.3x",
+      "threshold": "≥ 1.5x",
+      "pass": true
+     },
+     {
+      "name": "Buyback yield",
+      "value": "5.9%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "-3.7% over 4 years",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": true
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "-15%",
+      "threshold": "≥ 12%",
+      "pass": false
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "7.7%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "3.1%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": false
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "7.2%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": true
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 24,
+   "total": 28
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 1,
+  "lifecycle_stage": "4 · Capital return",
+  "primary_metric": {
+   "name": "Trailing P/E",
+   "value": "13.0"
+  },
+  "secondary_metric": {
+   "name": "Trailing P/FCF",
+   "value": "20.5"
+  },
+  "three_numbers": {
+   "pe": "13.0",
+   "forward_pe": "17.2",
+   "peg": "2.79"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "4.3"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "17.4"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "20.6"
+   },
+   {
+    "name": "P/E",
+    "value": "13.0"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "21.4"
+   },
+   {
+    "name": "P/FCF",
+    "value": "20.5"
+   },
+   {
+    "name": "P/B",
+    "value": "5.8"
+   }
+  ],
+  "intrinsic_value_low": 76.47,
+  "intrinsic_value_high": 103.83,
+  "margin_of_safety_pct": -83.5,
+  "interesting_below": 63.11,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $7.9B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 1–7% for five years, fading to 3%; operating margin held at 21%; cost of capital 10.3%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 90.15,
+  "methods": [
+   {
+    "name": "Owner cash flow",
+    "low": 92.9,
+    "high": 131.3,
+    "basis": "$7.9B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM)."
+   },
+   {
+    "name": "Damodaran: cash flow to the firm",
+    "low": 60.05,
+    "high": 76.36,
+    "basis": "Sales grow 1–7% for five years, fading to 3%; operating margin held at 21%; cost of capital 10.3%. Cash added, debt subtracted."
+   }
+  ],
+  "stress_case": null,
+  "damodaran": {
+   "growth": 4,
+   "growth_low": 1,
+   "growth_high": 7,
+   "margin": 20.8,
+   "tax": 25.0,
+   "roc": 24.5,
+   "reinvestment": 16,
+   "beta": 1.25,
+   "cost_of_equity": 10.8,
+   "cost_of_debt": 5.0,
+   "debt_weight": 8,
+   "cost_of_capital": 10.3,
+   "terminal_growth": 3.0,
+   "terminal_roc": 12.3,
+   "revenue_now": "$43.1B",
+   "revenue_year10": "$62.0B",
+   "low": 60.05,
+   "high": 76.36,
+   "implied_growth": 25.0,
+   "implied_note": null
+  }
+ },
+ "lenses": {
+  "graham": {
+   "passed": 5,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "1.86",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "5 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": true
+    },
+    {
+     "name": "Dividend record",
+     "value": "$3.68 a share (2.2% yield)",
+     "threshold": "Pays a dividend",
+     "pass": true
+    },
+    {
+     "name": "Earnings growth",
+     "value": "+61% ($7.87 → $12.70)",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": true
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "24.3x three-year average earnings ($6.80); 13.0x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "P/E × P/B = 76; Graham number $90 vs price $165",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 7.7% vs 10-year Treasury 5.13%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": true
+    },
+    {
+     "name": "No financial distress",
+     "value": "Altman Z-score 5.58",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": true
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 7,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Owner earnings $12.7B (net income + depreciation − capex) = 7.2% yield vs 10-year Treasury 5.13%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": true
+    },
+    {
+     "name": "High return on equity without heavy debt",
+     "value": "ROE 44.8%, debt/equity 0.53",
+     "threshold": "ROE ≥ 15% and debt/equity ≤ 1.0",
+     "pass": true
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "EPS rose $-2.86 on $19.22 a share retained over 4 years: -15% return",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": false
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 53%, 2.4-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": true
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Capex is 18% of net income",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": true
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest 13.1x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": true
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "1.2 years of net income",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": true
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "-3.7% over four fiscal years",
+     "threshold": "Fewer shares than four years ago",
+     "pass": true
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 1,
+   "total": 5,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 7 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": null
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Rapid change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": false
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 2.79",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "(-11% EPS growth + 2.2% yield) ÷ P/E 13.0 = -0.65",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "EPS -10.7% a year, 2 down year(s)",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": false
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Debt is 0.53x equity",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": null
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "Pays out 29% of earnings",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": true
+    }
+   ],
+   "category": "Cyclical",
+   "category_note": "Earnings rise and fall with the cycle. Lynch's warning: a low P/E on peak earnings is a signal to sell, not to buy. Timing matters more than the multiple."
+  },
+  "munger": {
+   "passed": 2,
+   "total": 5,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 7 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": null
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Rapid change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": false
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 0.05%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": false
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count -2.90% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": true
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$3.2B, 29% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": false
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Operating cash flow was 127% of net income over 5 fiscal years",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": true
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 4 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "Major phone makers finish in-house modems.",
+    "A licensing dispute or regulatory ruling cuts royalties."
+   ]
+  },
+  "pabrai": {
+   "passed": 1,
+   "total": 6,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 7 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": false
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Rapid change",
+     "threshold": "Stable industry",
+     "pass": false
+    },
+    {
+     "name": "Durable moat",
+     "value": "Narrow moat",
+     "threshold": "Wide moat",
+     "pass": null
+    },
+    {
+     "name": "Out of favour",
+     "value": "Share price -8% over 52 weeks",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": false
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety -83%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "Debt is 1.2 years of net income",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": true
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "No upside even to the high-case value ($104); 54% downside to the low case",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": -37.2,
+   "downside_pct": 53.8
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Narrow moat: Intellectual property.",
+   "threshold": "",
+   "pass": null
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "A leader in phone chips.",
+   "threshold": "",
+   "pass": false
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Losing Apple's modem business is a headwind.",
+   "threshold": "",
+   "pass": null
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 25%.",
+   "threshold": "",
+   "pass": true
+  }
+ ],
+ "bull_case": [
+  "Patent royalties are very high margin.",
+  "Automotive and PC chips are growing."
+ ],
+ "bear_case": [
+  "Customer concentration in a few phone makers.",
+  "Net income has been volatile."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "Qualcomm statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/qcom/statistics/"
+  },
+  {
+   "title": "Qualcomm income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/qcom/financials/"
+  },
+  {
+   "title": "Qualcomm balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/qcom/financials/balance-sheet/"
+  },
+  {
+   "title": "Qualcomm cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/qcom/financials/cash-flow-statement/"
+  }
+ ]
+}

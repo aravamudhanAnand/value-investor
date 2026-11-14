@@ -1,0 +1,647 @@
+{
+ "company": "Honeywell",
+ "ticker": "HON",
+ "exchange": "NASDAQ",
+ "sector": "Industrials",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-11-06",
+ "currency": "USD",
+ "price": 220.05,
+ "market_cap": "$69.8B",
+ "verdict": "TOO_HARD",
+ "overall_score": 56,
+ "one_liner": "Goes in the too-hard pile: its financials are in transition and the business is too complex or uncertain to forecast. No verdict on price.",
+ "scores": {
+  "meaning": 6,
+  "moat": 6,
+  "industry": 6,
+  "management": 6,
+  "financial_health": 8,
+  "valuation": 2
+ },
+ "treasury_10y": 5.13,
+ "profile": {
+  "what": "Honeywell is an industrial technology company splitting into three. It spun off Solstice Advanced Materials in 2025 and has announced the separation of Honeywell Aerospace, which leaves Honeywell Automation (building and industrial controls).",
+  "money": "It sells aircraft systems and services, building controls, industrial automation and process software to aircraft makers, airlines, building owners and factories. The aerospace aftermarket and software are the highest-margin parts.",
+  "valued": "Until the separations finish, investors value Honeywell on a sum of the parts, valuing each business separately. Its published figures are not comparable with the company that trades today.",
+  "kind": "Cyclical or commodity business",
+  "metrics": [
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 10.92,
+    "unit": "x",
+    "note": "Judge at mid-cycle, not peak",
+    "sector_median": 15.4,
+    "sector_n": 15
+   },
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": null,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 23.16,
+    "sector_n": 15
+   },
+   {
+    "key": "fcfy",
+    "label": "Free cash flow yield",
+    "value": 7.76,
+    "unit": "%",
+    "note": "Free cash flow ÷ market value",
+    "sector_median": 3.79,
+    "sector_n": 11
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 2.16,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 1.53,
+    "sector_n": 16
+   }
+  ],
+  "peer_group": "Industrials · cyclical or commodity business",
+  "peers": [
+   {
+    "ticker": "GEV",
+    "company": "GE Vernova",
+    "value": 37.86
+   },
+   {
+    "ticker": "GE",
+    "company": "GE Aerospace",
+    "value": 30.67
+   },
+   {
+    "ticker": "DE",
+    "company": "Deere & Company",
+    "value": 27.76
+   },
+   {
+    "ticker": "CAT",
+    "company": "Caterpillar",
+    "value": 17.1
+   },
+   {
+    "ticker": "EMR",
+    "company": "Emerson Electric",
+    "value": 16.8
+   },
+   {
+    "ticker": "UNP",
+    "company": "Union Pacific",
+    "value": 15.4
+   },
+   {
+    "ticker": "MMM",
+    "company": "3M",
+    "value": 14.9
+   },
+   {
+    "ticker": "HON",
+    "company": "Honeywell",
+    "value": 10.92
+   },
+   {
+    "ticker": "UPS",
+    "company": "United Parcel Service",
+    "value": 9.46
+   },
+   {
+    "ticker": "FDX",
+    "company": "FedEx",
+    "value": 8.64
+   }
+  ]
+ },
+ "market": {
+  "rating": "Buy",
+  "target": 253.91,
+  "beta": 0.88,
+  "as_of": "2026-11-06",
+  "low52": 195.87,
+  "high52": 260.28,
+  "range_pos": 38,
+  "below_high": 15.5,
+  "target_vs_price": 15.4,
+  "target_vs_fair": null,
+  "above_low": 12.3
+ },
+ "summary": {
+  "sentence": "An industrial group breaking itself into three focused companies.",
+  "strengths": [
+   "A simpler, more focused company.",
+   "Automation demand is growing."
+  ],
+  "risks": [
+   "Financial history is not comparable after the separations.",
+   "Published statistics still mix pre- and post-separation figures."
+  ],
+  "swing": [
+   "Execution of the separations",
+   "Aerospace demand",
+   "Automation orders"
+  ]
+ },
+ "dollar": null,
+ "cash_use": null,
+ "meaning": {
+  "score": 6,
+  "what_it_does": "An industrial technology company refocusing on automation: it spun off advanced materials and is separating aerospace.",
+  "how_it_makes_money": "Building and industrial automation equipment, software and services.",
+  "how_it_keeps_making_money": "Installed systems in buildings and factories that need service and upgrades.",
+  "how_it_could_stop": "The slimmed-down company fails to grow faster than the old conglomerate."
+ },
+ "moat": {
+  "score": 6,
+  "strength": "Narrow",
+  "sources": [
+   "Installed base",
+   "Switching costs"
+  ],
+  "summary": "Entrenched in building and process controls; the remaining company is still taking shape."
+ },
+ "industry": {
+  "score": 6,
+  "pace": "Steady change",
+  "summary": "Industrial automation advances steadily."
+ },
+ "management": {
+  "score": 6,
+  "summary": "Midway through breaking up a century-old conglomerate."
+ },
+ "financial_health": {
+  "score": 8,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+2.1% a year, 1 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "-3.9% a year, 2 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": false
+   },
+   {
+    "name": "Net profit margin",
+    "value": "12.6%",
+    "threshold": "≥ 5%",
+    "pass": true
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.31",
+    "threshold": "≤ 0.40",
+    "pass": true
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$19.2B → $22.7B, 3 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": false
+   },
+   {
+    "name": "ROIC",
+    "value": "14.4%",
+    "threshold": "≥ 10%",
+    "pass": true
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$5.1B → $5.4B; TTM $5.4B",
+    "threshold": "Positive every year and rising",
+    "pass": true
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 5.3x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": true
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 110% of net income over 5 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": true
+   }
+  ],
+  "red_flags": [],
+  "note": "The history below is for the company before its separations, so it is not comparable with the business that trades today.",
+  "history": [
+   {
+    "period": "FY21",
+    "revenue": 34392.0,
+    "net_income": 5542.0,
+    "fcf": 5143.0
+   },
+   {
+    "period": "FY22",
+    "revenue": 35466.0,
+    "net_income": 4966.0,
+    "fcf": 4508.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 33009.0,
+    "net_income": 5658.0,
+    "fcf": 4599.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 34717.0,
+    "net_income": 5705.0,
+    "fcf": 5226.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 37442.0,
+    "net_income": 4729.0,
+    "fcf": 5422.0
+   }
+  ],
+  "ratios": [],
+  "ratio_summary": {
+   "passed": 0,
+   "total": 0
+  },
+  "ratio_gaps": "Not calculated: The company is in the middle of separating into three, so its published financials are not comparable with its current share count. No reliable valuation can be built yet."
+ },
+ "valuation": {
+  "score": 2,
+  "lifecycle_stage": "4 · Capital return",
+  "primary_metric": {
+   "name": "Trailing P/E",
+   "value": "n/a"
+  },
+  "secondary_metric": {
+   "name": "Trailing P/FCF",
+   "value": "n/a"
+  },
+  "three_numbers": {
+   "pe": null,
+   "forward_pe": null,
+   "peg": null
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "n/a"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "n/a"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "n/a"
+   },
+   {
+    "name": "P/E",
+    "value": "n/a"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "n/a"
+   },
+   {
+    "name": "P/FCF",
+    "value": "n/a"
+   },
+   {
+    "name": "P/B",
+    "value": "n/a"
+   }
+  ],
+  "intrinsic_value_low": null,
+  "intrinsic_value_high": null,
+  "margin_of_safety_pct": null,
+  "interesting_below": null,
+  "method": "No valuation: The company is in the middle of separating into three, so its published financials are not comparable with its current share count. No reliable valuation can be built yet.",
+  "fair_value": null,
+  "methods": [],
+  "stress_case": null,
+  "damodaran": null
+ },
+ "lenses": {
+  "graham": {
+   "passed": 0,
+   "total": 0,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": null
+    },
+    {
+     "name": "Earnings stability",
+     "value": "Not calculated: financials in transition",
+     "threshold": "No loss in the last five years",
+     "pass": null
+    },
+    {
+     "name": "Dividend record",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Pays a dividend",
+     "pass": null
+    },
+    {
+     "name": "Earnings growth",
+     "value": "Not calculated: financials in transition",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": null
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": null
+    },
+    {
+     "name": "Graham number",
+     "value": "Not calculated: financials in transition",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": null
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": null
+    },
+    {
+     "name": "No financial distress",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": null
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 0,
+   "total": 0,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": null
+    },
+    {
+     "name": "High return on equity without heavy debt",
+     "value": "Not calculated: financials in transition",
+     "threshold": "ROE ≥ 15% and debt/equity ≤ 1.0",
+     "pass": null
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": null
+    },
+    {
+     "name": "Pricing power",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": null
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": null
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": null
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": null
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Fewer shares than four years ago",
+     "pass": null
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 1,
+   "total": 2,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 6 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": false
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Steady change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "Not calculated: financials in transition",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": null
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "Not calculated: financials in transition",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": null
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "Not calculated: financials in transition",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": null
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": null
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": null
+    }
+   ],
+   "category": "Cyclical",
+   "category_note": "Earnings rise and fall with the cycle. Lynch's warning: a low P/E on peak earnings is a signal to sell, not to buy. Timing matters more than the multiple."
+  },
+  "munger": {
+   "passed": 1,
+   "total": 2,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 6 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": false
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Steady change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": null
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Share count flat or falling",
+     "pass": null
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": null
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": null
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Not calculated: financials in transition",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "Stranded costs after the break-up.",
+    "The automation business proves more cyclical than hoped."
+   ]
+  },
+  "pabrai": {
+   "passed": 0,
+   "total": 1,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 6 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": false
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Steady change",
+     "threshold": "Stable industry",
+     "pass": null
+    },
+    {
+     "name": "Durable moat",
+     "value": "Narrow moat",
+     "threshold": "Wide moat",
+     "pass": null
+    },
+    {
+     "name": "Out of favour",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": null
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Not calculated: financials in transition",
+     "threshold": "≥ 30%",
+     "pass": null
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": null
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "Not calculated: financials in transition",
+     "threshold": "Upside at least 3x the downside",
+     "pass": null
+    }
+   ],
+   "upside_pct": null,
+   "downside_pct": null
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Narrow moat: Installed base, Switching costs.",
+   "threshold": "",
+   "pass": null
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "The post-separation company is not yet comparable with its history.",
+   "threshold": "",
+   "pass": null
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Too early to judge.",
+   "threshold": "",
+   "pass": null
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 14%.",
+   "threshold": "",
+   "pass": true
+  }
+ ],
+ "bull_case": [
+  "A simpler, more focused company.",
+  "Automation demand is growing."
+ ],
+ "bear_case": [
+  "Financial history is not comparable after the separations.",
+  "Published statistics still mix pre- and post-separation figures."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "Honeywell statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/hon/statistics/"
+  },
+  {
+   "title": "Honeywell income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/hon/financials/"
+  },
+  {
+   "title": "Honeywell balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/hon/financials/balance-sheet/"
+  },
+  {
+   "title": "Honeywell cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/hon/financials/cash-flow-statement/"
+  }
+ ]
+}

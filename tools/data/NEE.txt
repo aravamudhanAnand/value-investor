@@ -1,0 +1,19 @@
+# NEE - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=86.95; date=2026-11-06; shares=2.10B; fpe=21.05; peg=2.60; cash=5.58B; debt=113.93B; equity=74.34B; eps=$5.55; cr=0.53; ic=14.79; roic=3.13%; gm=60.17%; rev=28.83B; ni=11.64B; ebitda=13.40B; ebit=8.66B; ocf=14.82B; capex=-32.83B; fcf=-18.01B; dps=$2.49; sc=+1.43%; ins=0.09%; z=n/a; f=4; c52=+5.86%
+F FY21,17069,n/a,3573,1.81,-8524
+F FY22,20956,n/a,4147,2.10,-11021
+F FY23,28114,n/a,7310,3.60,-13812
+F FY24,24753,n/a,6946,3.37,-11469
+F FY25,27412,n/a,6835,3.30,-12121
+B FY21,140912,55027,45669
+B FY22,158935,65741,49436
+B FY23,177489,74067,59024
+B FY24,190144,83560,60861
+B FY25,212721,97220,66479
+B Q,245052,113932,74342
+C FY21,4214,n/a,7553,-15802,-3024,n/a
+C FY22,4790,n/a,8262,-19060,-3352,n/a
+C FY23,6151,n/a,11301,-24928,-3782,n/a
+C FY24,5761,n/a,13260,-24330,-4235,n/a
+C FY25,5851,n/a,12485,-24053,-4680,n/a
+C TTM,4746,n/a,14821,-32249,-5088,n/a

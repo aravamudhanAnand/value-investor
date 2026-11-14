@@ -1,0 +1,764 @@
+{
+ "company": "Charles Schwab",
+ "ticker": "SCHW",
+ "exchange": "NYSE",
+ "sector": "Financials",
+ "is_financial": true,
+ "as_of": "2026-11-12",
+ "price_date": "2026-11-06",
+ "currency": "USD",
+ "price": 91.49,
+ "market_cap": "$158.3B",
+ "verdict": "WATCHLIST",
+ "overall_score": 64,
+ "one_liner": "A wide-moat business worth owning, but it trades at 1.9x fair value. Interesting below about $34.",
+ "scores": {
+  "meaning": 8,
+  "moat": 8,
+  "industry": 7,
+  "management": 7,
+  "financial_health": 8,
+  "valuation": 1
+ },
+ "treasury_10y": 5.13,
+ "profile": {
+  "what": "Charles Schwab is the largest US brokerage by client assets, serving individual investors and the independent financial advisers who custody client money with it. It absorbed TD Ameritrade in 2020.",
+  "money": "Net interest income from investing client cash balances is about half of revenue; the rest is asset-management fees, trading revenue and bank deposit fees. It makes more money when interest rates are higher and when clients keep more cash with it.",
+  "valued": "Schwab is valued on P/E. The multiple moves with interest rates and with client cash balances, which shrank when rates rose and clients moved money into higher-yielding funds.",
+  "kind": "Bank, insurer or asset manager",
+  "metrics": [
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 15.64,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 14.17,
+    "sector_n": 15
+   },
+   {
+    "key": "pb",
+    "label": "Price / book value",
+    "value": 3.08,
+    "unit": "x",
+    "note": "Judge against return on equity",
+    "sector_median": 1.73,
+    "sector_n": 12
+   },
+   {
+    "key": "roe",
+    "label": "Return on equity",
+    "value": 19.96,
+    "unit": "%",
+    "note": "Trailing twelve months",
+    "sector_median": 13.11,
+    "sector_n": 12
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 1.4,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 1.97,
+    "sector_n": 15
+   }
+  ],
+  "peer_group": "Financials · bank, insurer or asset manager",
+  "peers": [
+   {
+    "ticker": "AXP",
+    "company": "American Express",
+    "value": 17.94
+   },
+   {
+    "ticker": "BNY",
+    "company": "BNY",
+    "value": 16.34
+   },
+   {
+    "ticker": "SCHW",
+    "company": "Charles Schwab",
+    "value": 15.64
+   },
+   {
+    "ticker": "MS",
+    "company": "Morgan Stanley",
+    "value": 14.39
+   },
+   {
+    "ticker": "BRK.B",
+    "company": "Berkshire Hathaway",
+    "value": 14.17
+   },
+   {
+    "ticker": "JPM",
+    "company": "JPMorgan Chase",
+    "value": 14.05
+   },
+   {
+    "ticker": "WFC",
+    "company": "Wells Fargo",
+    "value": 12.69
+   },
+   {
+    "ticker": "GS",
+    "company": "Goldman Sachs",
+    "value": 12.46
+   },
+   {
+    "ticker": "C",
+    "company": "Citigroup",
+    "value": 12.02
+   },
+   {
+    "ticker": "COF",
+    "company": "Capital One",
+    "value": 11.99
+   },
+   {
+    "ticker": "BAC",
+    "company": "Bank of America",
+    "value": 11.77
+   },
+   {
+    "ticker": "USB",
+    "company": "U.S. Bancorp",
+    "value": 11.57
+   }
+  ]
+ },
+ "market": {
+  "rating": "Buy",
+  "target": 117.59,
+  "beta": 0.78,
+  "as_of": "2026-10-27",
+  "low52": 83.96,
+  "high52": 114.53,
+  "range_pos": 25,
+  "below_high": 20.1,
+  "target_vs_price": 28.5,
+  "target_vs_fair": 142.5,
+  "above_low": 9.0
+ },
+ "summary": {
+  "sentence": "The largest retail brokerage, with earnings sensitive to interest rates and client cash.",
+  "strengths": [
+   "Earnings have more than doubled from their 2023 low.",
+   "Client assets keep growing."
+  ],
+  "risks": [
+   "Earnings depend heavily on interest rates.",
+   "Bank-like balance sheet."
+  ],
+  "swing": [
+   "Interest rates",
+   "Client cash balances",
+   "Asset inflows"
+  ]
+ },
+ "dollar": {
+  "cogs": null,
+  "opex": null,
+  "op_profit": null,
+  "net": 37.9,
+  "fcf": null
+ },
+ "cash_use": null,
+ "meaning": {
+  "score": 8,
+  "what_it_does": "The largest US retail brokerage and custodian for independent advisers.",
+  "how_it_makes_money": "Interest on client cash, asset-management fees and trading revenue.",
+  "how_it_keeps_making_money": "Scale lets it offer the lowest prices, which attracts more assets.",
+  "how_it_could_stop": "Clients move cash out of low-yielding accounts, as they did in 2022-23."
+ },
+ "moat": {
+  "score": 8,
+  "strength": "Wide",
+  "sources": [
+   "Scale and cost advantage",
+   "Brand"
+  ],
+  "summary": "The low-cost leader with trillions in client assets."
+ },
+ "industry": {
+  "score": 7,
+  "pace": "Stable",
+  "summary": "Banking changes slowly, but results depend on credit cycles and interest rates."
+ },
+ "management": {
+  "score": 7,
+  "summary": "Came through the 2023 funding squeeze and has rebuilt earnings."
+ },
+ "financial_health": {
+  "score": 8,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+6.6% a year, 1 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "+11.9% a year, 1 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net profit margin",
+    "value": "37.9%",
+    "threshold": "≥ 5%",
+    "pass": true
+   },
+   {
+    "name": "Debt to assets",
+    "value": "Not meaningful for a bank or insurer",
+    "threshold": "≤ 0.40",
+    "pass": null
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$56.3B → $51.4B, 1 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": false
+   },
+   {
+    "name": "Return on equity",
+    "value": "20.0%",
+    "threshold": "≥ 10%",
+    "pass": true
+   },
+   {
+    "name": "Free cash flow",
+    "value": "Not meaningful for a bank or insurer",
+    "threshold": "Positive every year and rising",
+    "pass": null
+   },
+   {
+    "name": "Interest cover",
+    "value": "Not meaningful for a bank or insurer",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": null
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Not meaningful for a bank or insurer",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": null
+   }
+  ],
+  "red_flags": [],
+  "note": "",
+  "history": [
+   {
+    "period": "FY21",
+    "revenue": 18520.0,
+    "net_income": 5360.0,
+    "fcf": null
+   },
+   {
+    "period": "FY22",
+    "revenue": 20762.0,
+    "net_income": 6635.0,
+    "fcf": null
+   },
+   {
+    "period": "FY23",
+    "revenue": 18934.0,
+    "net_income": 4649.0,
+    "fcf": null
+   },
+   {
+    "period": "FY24",
+    "revenue": 19606.0,
+    "net_income": 5478.0,
+    "fcf": null
+   },
+   {
+    "period": "FY25",
+    "revenue": 23921.0,
+    "net_income": 8418.0,
+    "fcf": null
+   },
+   {
+    "period": "TTM",
+    "revenue": 27060.0,
+    "net_income": 10260.0,
+    "fcf": null
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Net profit margin",
+      "value": "37.9%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Return on equity",
+      "value": "20.0%",
+      "threshold": "≥ 12%",
+      "pass": true
+     },
+     {
+      "name": "Return on assets",
+      "value": "1.97%",
+      "threshold": "≥ 1%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Capital strength",
+    "rows": [
+     {
+      "name": "Equity to assets",
+      "value": "9.9%",
+      "threshold": "≥ 8%",
+      "pass": true
+     },
+     {
+      "name": "Shareholders' equity",
+      "value": "$56.3B → $51.4B",
+      "threshold": "Rising",
+      "pass": false
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+6.6%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Earnings per share",
+      "value": "+13.2%",
+      "threshold": "≥ 7%",
+      "pass": true
+     },
+     {
+      "name": "Book value per share",
+      "value": "-2.1%",
+      "threshold": "≥ 7%",
+      "pass": false
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "1.4%",
+      "threshold": "For reference; 10-year Treasury 5.13%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "22%",
+      "threshold": "≤ 60% of earnings",
+      "pass": true
+     },
+     {
+      "name": "Share count",
+      "value": "-4.4% over 4 years",
+      "threshold": "Falling",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Price",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "6.4%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": true
+     },
+     {
+      "name": "Price to book",
+      "value": "3.08",
+      "threshold": "Compare with the justified P/B in M4",
+      "pass": null
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 9,
+   "total": 11
+  },
+  "ratio_gaps": "Not available from the data source: net interest margin, efficiency ratio, CET1 capital ratio, loan-loss reserves and tangible book value. Read them in the 10-K before acting."
+ },
+ "valuation": {
+  "score": 1,
+  "lifecycle_stage": "4 · Capital return",
+  "primary_metric": {
+   "name": "Trailing P/E",
+   "value": "15.6"
+  },
+  "secondary_metric": {
+   "name": "Price-to-book",
+   "value": "3.1"
+  },
+  "three_numbers": {
+   "pe": "15.6",
+   "forward_pe": "12.2",
+   "peg": "0.60"
+  },
+  "multiples": [
+   {
+    "name": "P/E",
+    "value": "15.6"
+   },
+   {
+    "name": "Forward P/E",
+    "value": "12.2"
+   },
+   {
+    "name": "P/B",
+    "value": "3.1"
+   },
+   {
+    "name": "P/S",
+    "value": "5.8"
+   }
+  ],
+  "intrinsic_value_low": 41.56,
+  "intrinsic_value_high": 55.42,
+  "margin_of_safety_pct": -88.7,
+  "interesting_below": 33.94,
+  "method": "Banks are valued on book value, not free cash flow. Justified price-to-book = (ROE − 3% growth) ÷ (required return − 3%), using a normalised ROE of 14.2% (median of the last three fiscal years and TTM, capped at 25%) and a required return of 11% (low) to 9% (high): 1.40–1.87 × book value per share of $29.71.",
+  "fair_value": 48.49,
+  "methods": [
+   {
+    "name": "Excess-return model on book value",
+    "low": 41.56,
+    "high": 55.42,
+    "basis": "Book value per share $29.71 × 1.40–1.87. This is how Damodaran values banks and insurers: equity is worth book value plus the returns earned above the cost of equity."
+   }
+  ],
+  "stress_case": null,
+  "damodaran": null
+ },
+ "lenses": {
+  "graham": {
+   "passed": 4,
+   "total": 6,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": null
+    },
+    {
+     "name": "Earnings stability",
+     "value": "5 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": true
+    },
+    {
+     "name": "Dividend record",
+     "value": "$1.28 a share (1.4% yield)",
+     "threshold": "Pays a dividend",
+     "pass": true
+    },
+    {
+     "name": "Earnings growth",
+     "value": "+107% ($2.83 → $5.85)",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": true
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "27.0x three-year average earnings ($3.39); 15.6x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "P/E × P/B = 48; Graham number $63 vs price $91",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 6.4% vs 10-year Treasury 5.13%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": true
+    },
+    {
+     "name": "No financial distress",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": null
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 4,
+   "total": 4,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Earnings yield 6.5% vs 10-year Treasury 5.13%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": true
+    },
+    {
+     "name": "High return on equity",
+     "value": "20.0%",
+     "threshold": "ROE ≥ 15%",
+     "pass": true
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "EPS rose $1.82 on $8.56 a share retained over 4 years: 21% return",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": true
+    },
+    {
+     "name": "Pricing power",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": null
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": null
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": null
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": null
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "-4.4% over four fiscal years",
+     "threshold": "Fewer shares than four years ago",
+     "pass": true
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 5,
+   "total": 6,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 8 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 0.60",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": true
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "(13% EPS growth + 1.4% yield) ÷ P/E 15.6 = 0.93",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "EPS +13.2% a year, 1 down year(s)",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": true
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": null
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "Pays out 22% of earnings",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": true
+    }
+   ],
+   "category": "Stalwart",
+   "category_note": "A large company growing earnings at a steady pace, between the slow and the fast growers. Lynch bought these for a 30–50% gain and for protection in recessions, then rotated."
+  },
+  "munger": {
+   "passed": 4,
+   "total": 4,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 8 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 1.09%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": true
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count -4.08% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": true
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": null
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": null
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "Clients sweep cash elsewhere again.",
+    "A price war on advisory fees."
+   ]
+  },
+  "pabrai": {
+   "passed": 3,
+   "total": 6,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 8 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Stable",
+     "threshold": "Stable industry",
+     "pass": true
+    },
+    {
+     "name": "Durable moat",
+     "value": "Wide moat",
+     "threshold": "Wide moat",
+     "pass": true
+    },
+    {
+     "name": "Out of favour",
+     "value": "Share price -2% over 52 weeks",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": false
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety -89%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "Not meaningful for a bank or insurer",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": null
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "No upside even to the high-case value ($55); 55% downside to the low case",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": -39.4,
+   "downside_pct": 54.6
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Wide moat: Scale and cost advantage, Brand.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "Already the largest retail broker.",
+   "threshold": "",
+   "pass": false
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Earnings are recovering strongly.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "Return on equity of 20%.",
+   "threshold": "",
+   "pass": true
+  }
+ ],
+ "bull_case": [
+  "Earnings have more than doubled from their 2023 low.",
+  "Client assets keep growing."
+ ],
+ "bear_case": [
+  "Earnings depend heavily on interest rates.",
+  "Bank-like balance sheet."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "Charles Schwab statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/schw/statistics/"
+  },
+  {
+   "title": "Charles Schwab income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/schw/financials/"
+  },
+  {
+   "title": "Charles Schwab balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/schw/financials/balance-sheet/"
+  }
+ ]
+}

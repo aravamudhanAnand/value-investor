@@ -1,0 +1,941 @@
+{
+ "company": "Coca-Cola",
+ "ticker": "KO",
+ "exchange": "NYSE",
+ "sector": "Consumer staples",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-11-09",
+ "currency": "USD",
+ "price": 96.03,
+ "market_cap": "$412.9B",
+ "verdict": "WATCHLIST",
+ "overall_score": 68,
+ "one_liner": "A wide-moat business worth owning, but it trades at 2.3x fair value. Interesting below about $30.",
+ "scores": {
+  "meaning": 10,
+  "moat": 9,
+  "industry": 9,
+  "management": 7,
+  "financial_health": 7,
+  "valuation": 1
+ },
+ "treasury_10y": 5.13,
+ "profile": {
+  "what": "Coca-Cola owns the world's most recognised drink brands: Coca-Cola, Sprite, Fanta, Powerade, smartwater and fairlife.",
+  "money": "It mostly sells concentrate and syrup to independent bottlers, who make, distribute and sell the drinks. This keeps Coca-Cola's capital needs low and margins high. Revenue grows through price increases and modest volume growth.",
+  "valued": "Coca-Cola is valued on P/E and dividend yield as a defensive compounder. It trades at a premium for reliability; the multiple moves more with interest rates than with its own results.",
+  "kind": "Established operating business",
+  "metrics": [
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 28.33,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 28.33,
+    "sector_n": 9
+   },
+   {
+    "key": "fpe",
+    "label": "Price / forward earnings",
+    "value": 27.69,
+    "unit": "x",
+    "note": "Next twelve months, analyst estimates",
+    "sector_median": 23.39,
+    "sector_n": 9
+   },
+   {
+    "key": "pfcf",
+    "label": "Price / free cash flow",
+    "value": 28.92,
+    "unit": "x",
+    "note": "Before deducting stock-based pay",
+    "sector_median": 25.01,
+    "sector_n": 9
+   },
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 25.16,
+    "unit": "x",
+    "note": "Enterprise value includes debt",
+    "sector_median": 16.6,
+    "sector_n": 9
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 2.21,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 2.63,
+    "sector_n": 9
+   }
+  ],
+  "peer_group": "Consumer staples",
+  "peers": [
+   {
+    "ticker": "COST",
+    "company": "Costco",
+    "value": 50.75
+   },
+   {
+    "ticker": "WMT",
+    "company": "Walmart",
+    "value": 46.41
+   },
+   {
+    "ticker": "CL",
+    "company": "Colgate-Palmolive",
+    "value": 36.8
+   },
+   {
+    "ticker": "PM",
+    "company": "Philip Morris International",
+    "value": 29.47
+   },
+   {
+    "ticker": "KO",
+    "company": "Coca-Cola",
+    "value": 28.33
+   },
+   {
+    "ticker": "PG",
+    "company": "Procter & Gamble",
+    "value": 24.91
+   },
+   {
+    "ticker": "MDLZ",
+    "company": "Mondelez International",
+    "value": 23.07
+   },
+   {
+    "ticker": "PEP",
+    "company": "PepsiCo",
+    "value": 17.28
+   },
+   {
+    "ticker": "MO",
+    "company": "Altria",
+    "value": 15.41
+   }
+  ]
+ },
+ "market": {
+  "rating": "Buy",
+  "target": 97.75,
+  "beta": 0.27,
+  "as_of": "2026-11-09",
+  "low52": 67.27,
+  "high52": 97.39,
+  "range_pos": 95,
+  "below_high": 1.4,
+  "target_vs_price": 1.8,
+  "target_vs_fair": 131.7,
+  "above_low": 42.8
+ },
+ "summary": {
+  "sentence": "One of the best consumer brands in the world, at a price that already reflects it.",
+  "strengths": [
+   "Pricing power through inflation.",
+   "62% gross margin and about 20% ROIC.",
+   "Dividend yield above 2%."
+  ],
+  "risks": [
+   "About 27x earnings for 4-5% growth: PEG near 3.8.",
+   "Debt to assets above the 0.40 target.",
+   "Health trends are a slow headwind."
+  ],
+  "swing": [
+   "Volume growth",
+   "Pricing power",
+   "Interest rates"
+  ]
+ },
+ "dollar": {
+  "cogs": 37.7,
+  "opex": 30.1,
+  "op_profit": 32.2,
+  "net": 28.7,
+  "fcf": 28.0
+ },
+ "cash_use": {
+  "years": 5,
+  "first": "FY21",
+  "last": "FY25",
+  "ocf": "$49.5B",
+  "capex": 18,
+  "dividends": 81,
+  "buybacks": 13,
+  "left": -12,
+  "sbc": 3,
+  "capex_reported": true
+ },
+ "meaning": {
+  "score": 10,
+  "what_it_does": "Owns the world's most recognised drink brands (Coca-Cola, Sprite, Fanta, Powerade, smartwater, fairlife).",
+  "how_it_makes_money": "Sells concentrate and syrup to bottlers worldwide at high margins.",
+  "how_it_keeps_making_money": "Brand loyalty, global distribution through bottlers and modest annual price increases.",
+  "how_it_could_stop": "A lasting shift away from sugary drinks, or health regulation and taxes on soda."
+ },
+ "moat": {
+  "score": 9,
+  "strength": "Wide",
+  "sources": [
+   "Brand",
+   "Distribution"
+  ],
+  "summary": "Possibly the strongest consumer brand in the world, with a distribution system no rival can copy."
+ },
+ "industry": {
+  "score": 9,
+  "pace": "Stable",
+  "summary": "People have drunk Coke for over a century; the product barely changes."
+ },
+ "management": {
+  "score": 7,
+  "summary": "Reliable dividend growth and pricing power, but slow volume growth and relatively high leverage."
+ },
+ "financial_health": {
+  "score": 7,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+5.5% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "+7.6% a year, 2 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": false
+   },
+   {
+    "name": "Net profit margin",
+    "value": "28.7%",
+    "threshold": "≥ 5%",
+    "pass": true
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.41",
+    "threshold": "≤ 0.40",
+    "pass": false
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$24.9B → $38.3B, 1 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": true
+   },
+   {
+    "name": "ROIC",
+    "value": "20.6%",
+    "threshold": "≥ 10%",
+    "pass": true
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$11.3B → $5.3B; TTM $14.3B",
+    "threshold": "Positive every year and rising",
+    "pass": true
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 10.7x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": true
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 92% of net income over 5 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": false
+   }
+  ],
+  "red_flags": [],
+  "note": "FY24-FY25 FCF depressed by the one-off fairlife contingent payment; TTM FCF has normalised.",
+  "history": [
+   {
+    "period": "FY21",
+    "revenue": 38655.0,
+    "net_income": 9771.0,
+    "fcf": 11258.0
+   },
+   {
+    "period": "FY22",
+    "revenue": 43004.0,
+    "net_income": 9542.0,
+    "fcf": 9534.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 45754.0,
+    "net_income": 10714.0,
+    "fcf": 9747.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 47061.0,
+    "net_income": 10631.0,
+    "fcf": 4741.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 47941.0,
+    "net_income": 13107.0,
+    "fcf": 5296.0
+   },
+   {
+    "period": "TTM",
+    "revenue": 51050.0,
+    "net_income": 14630.0,
+    "fcf": 14280.0
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "62.3%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": true
+     },
+     {
+      "name": "Operating margin",
+      "value": "32.2%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Net profit margin",
+      "value": "28.7%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "28.0%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Return on equity",
+      "value": "37.0%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "20.6%",
+      "threshold": "≥ 12%",
+      "pass": true
+     },
+     {
+      "name": "Return on assets",
+      "value": "13.6%",
+      "threshold": "≥ 6%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "1.07x",
+      "threshold": "≤ 1.0x",
+      "pass": false
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.41",
+      "threshold": "≤ 0.40",
+      "pass": false
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "1.5x",
+      "threshold": "≤ 2.5x",
+      "pass": true
+     },
+     {
+      "name": "Interest cover",
+      "value": "10.7x",
+      "threshold": "≥ 5x",
+      "pass": true
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "3.0",
+      "threshold": "≤ 4 years",
+      "pass": true
+     },
+     {
+      "name": "Current ratio",
+      "value": "1.38",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": true
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "5.12",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "92% over 5 years",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "75% over 5 years",
+      "threshold": "≥ 80%",
+      "pass": false
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "12%",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": true
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "1.9x",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$266M, 2% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": true
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "8 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+5.5%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Earnings per share",
+      "value": "+7.8%",
+      "threshold": "≥ 7%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow",
+      "value": "-17.2%",
+      "threshold": "≥ 5%",
+      "pass": false
+     },
+     {
+      "name": "Book value per share",
+      "value": "+8.6%",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "2.2%",
+      "threshold": "For reference; 10-year Treasury 5.13%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "63%",
+      "threshold": "≤ 60% of earnings",
+      "pass": false
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "1.3x",
+      "threshold": "≥ 1.5x",
+      "pass": false
+     },
+     {
+      "name": "Buyback yield",
+      "value": "0.2%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "-0.7% over 4 years",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": null
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "30%",
+      "threshold": "≥ 12%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "3.5%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "3.4%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": false
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "3.3%",
+      "threshold": "≥ 10-year Treasury (5.13%)",
+      "pass": false
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 18,
+   "total": 28
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 1,
+  "lifecycle_stage": "4 · Capital return",
+  "primary_metric": {
+   "name": "Trailing P/E",
+   "value": "28.3"
+  },
+  "secondary_metric": {
+   "name": "Trailing P/FCF",
+   "value": "28.9"
+  },
+  "three_numbers": {
+   "pe": "28.3",
+   "forward_pe": "27.7",
+   "peg": "3.85"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "8.6"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "25.2"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "26.7"
+   },
+   {
+    "name": "P/E",
+    "value": "28.3"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "30.7"
+   },
+   {
+    "name": "P/FCF",
+    "value": "28.9"
+   },
+   {
+    "name": "P/B",
+    "value": "10.4"
+   }
+  ],
+  "intrinsic_value_low": 35.69,
+  "intrinsic_value_high": 48.67,
+  "margin_of_safety_pct": -127.7,
+  "interesting_below": 29.53,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $11.7B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM; adjusted). (2) Damodaran: cash flow to the firm: Sales grow 2–8% for five years, fading to 3%; operating margin held at 32%; cost of capital 8.6%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners. FY24-FY25 FCF was depressed by the one-off fairlife contingent payment; normalised FCF of about $12B sits between FY23 and the recovered TTM figure.",
+  "fair_value": 42.18,
+  "methods": [
+   {
+    "name": "Owner cash flow",
+    "low": 36.2,
+    "high": 51.15,
+    "basis": "$11.7B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM; adjusted)."
+   },
+   {
+    "name": "Damodaran: cash flow to the firm",
+    "low": 35.17,
+    "high": 46.2,
+    "basis": "Sales grow 2–8% for five years, fading to 3%; operating margin held at 32%; cost of capital 8.6%. Cash added, debt subtracted."
+   }
+  ],
+  "stress_case": null,
+  "damodaran": {
+   "growth": 5,
+   "growth_low": 2,
+   "growth_high": 8,
+   "margin": 32.2,
+   "tax": 25.0,
+   "roc": 20.6,
+   "reinvestment": 24,
+   "beta": 0.85,
+   "cost_of_equity": 9.0,
+   "cost_of_debt": 5.0,
+   "debt_weight": 9,
+   "cost_of_capital": 8.6,
+   "terminal_growth": 3.0,
+   "terminal_roc": 13.6,
+   "revenue_now": "$51.0B",
+   "revenue_year10": "$78.5B",
+   "low": 35.17,
+   "high": 46.2,
+   "implied_growth": 23.1,
+   "implied_note": null
+  }
+ },
+ "lenses": {
+  "graham": {
+   "passed": 4,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "1.38",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "5 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": true
+    },
+    {
+     "name": "Dividend record",
+     "value": "$2.12 a share (2.2% yield)",
+     "threshold": "Pays a dividend",
+     "pass": true
+    },
+    {
+     "name": "Earnings growth",
+     "value": "+51% ($2.25 → $3.39)",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": true
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "36.1x three-year average earnings ($2.66); 28.3x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "P/E × P/B = 296; Graham number $26 vs price $96",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 3.5% vs 10-year Treasury 5.13%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "No financial distress",
+     "value": "Altman Z-score 5.12",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": true
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 5,
+   "total": 7,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Owner earnings $13.7B (net income + depreciation − capex) = 3.3% yield vs 10-year Treasury 5.13%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "High return on equity without heavy debt",
+     "value": "ROE 37.0%, debt/equity 1.07",
+     "threshold": "ROE ≥ 15% and debt/equity ≤ 1.0",
+     "pass": false
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "EPS rose $0.79 on $2.61 a share retained over 4 years: 30% return",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": true
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 62%, 3.5-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": true
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Capex is 13% of net income",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": true
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest 10.7x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": true
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "2.9 years of net income",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": true
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "-0.7% over four fiscal years",
+     "threshold": "Fewer shares than four years ago",
+     "pass": null
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 2,
+   "total": 7,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 10 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 3.85",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "(8% EPS growth + 2.2% yield) ÷ P/E 28.3 = 0.35",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "EPS +7.8% a year, 2 down year(s)",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": false
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Debt is 1.07x equity",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": false
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "Pays out 63% of earnings",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": false
+    }
+   ],
+   "category": "Stalwart",
+   "category_note": "A large company growing earnings at a steady pace, between the slow and the fast growers. Lynch bought these for a 30–50% gain and for protection in recessions, then rotated."
+  },
+  "munger": {
+   "passed": 5,
+   "total": 7,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 10 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 0.57%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": false
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count -0.06% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": true
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$266M, 2% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": true
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Operating cash flow was 92% of net income over 5 fiscal years",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": false
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 8 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": true
+    }
+   ],
+   "inversion": [
+    "A lasting consumer shift away from sugary drinks.",
+    "Sugar taxes spread worldwide."
+   ]
+  },
+  "pabrai": {
+   "passed": 4,
+   "total": 6,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 10 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Stable",
+     "threshold": "Stable industry",
+     "pass": true
+    },
+    {
+     "name": "Durable moat",
+     "value": "Wide moat",
+     "threshold": "Wide moat",
+     "pass": true
+    },
+    {
+     "name": "Out of favour",
+     "value": "n/a",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": null
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety -128%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "Debt is 2.9 years of net income",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": true
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "No upside even to the high-case value ($49); 63% downside to the low case",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": -49.3,
+   "downside_pct": 62.8
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Wide moat: Brand, Distribution.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "Already the global leader in soft drinks.",
+   "threshold": "",
+   "pass": false
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Steady, low-single-digit growth with pricing power.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 21%.",
+   "threshold": "",
+   "pass": true
+  }
+ ],
+ "bull_case": [
+  "Pricing power through inflation.",
+  "62% gross margin and about 20% ROIC.",
+  "Dividend yield above 2%."
+ ],
+ "bear_case": [
+  "About 27x earnings for 4-5% growth: PEG near 3.8.",
+  "Debt to assets above the 0.40 target.",
+  "Health trends are a slow headwind."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "Coca-Cola statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/ko/statistics/"
+  },
+  {
+   "title": "Coca-Cola income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/ko/financials/"
+  },
+  {
+   "title": "Coca-Cola balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/ko/financials/balance-sheet/"
+  },
+  {
+   "title": "Coca-Cola cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/ko/financials/cash-flow-statement/"
+  }
+ ]
+}

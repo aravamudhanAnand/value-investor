@@ -1,0 +1,13 @@
+# WFC - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=82.20; date=2026-11-06; shares=3.06B; fpe=11.41; peg=0.86; cash=461.20B; debt=469.22B; equity=180.31B; eps=$6.48; cr=n/a; ic=n/a; roic=n/a; gm=n/a; rev=81.14B; ni=20.67B; ebitda=n/a; ebit=n/a; ocf=1.18B; capex=n/a; fcf=n/a; dps=$1.80; sc=-6.08%; ins=0.16%; z=n/a; f=3; c52=+13.38%; price_note=Price derived from market cap divided by shares outstanding.
+F FY21,83321,n/a,20818,5.08,-11525
+F FY22,72834,n/a,12562,3.27,27048
+F FY23,77198,n/a,17982,4.83,40358
+F FY24,77962,n/a,18606,5.37,3035
+F FY25,80041,n/a,20285,6.26,-19001
+B FY21,1948068,208998,190110
+B FY22,1881020,250547,182213
+B FY23,1932468,319702,187443
+B FY24,1929845,291775,181066
+B FY25,2148631,443508,183038
+B Q,2282201,478470,182323

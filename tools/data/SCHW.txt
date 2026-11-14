@@ -1,0 +1,13 @@
+# SCHW - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=91.49; date=2026-11-06; shares=1.73B; fpe=12.24; peg=0.60; cash=68.50B; debt=40.00B; equity=51.40B; eps=$5.85; cr=0.66; ic=n/a; roic=9.81%; gm=97.51%; rev=27.06B; ni=10.26B; ebitda=n/a; ebit=n/a; ocf=11.42B; capex=-628.00M; fcf=10.79B; dps=$1.28; sc=-4.08%; ins=1.09%; z=n/a; f=6; c52=-2.34%
+F FY21,18520,n/a,5360,2.83,1202
+F FY22,20762,n/a,6635,3.50,1086
+F FY23,18934,n/a,4649,2.54,18887
+F FY24,19606,n/a,5478,2.99,2050
+F FY25,23921,n/a,8418,4.65,8763
+B FY21,667270,31859,56261
+B FY22,551772,43072,36608
+B FY23,493178,65370,40958
+B FY24,479843,59011,48375
+B FY25,490995,56997,49425
+B Q,520700,40000,51400

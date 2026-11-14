@@ -1,0 +1,19 @@
+# TSLA - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=358.22; date=2026-11-06; shares=3.95B; fpe=167.56; peg=4.87; cash=45.45B; debt=16.45B; equity=89.89B; eps=$0.91; cr=1.74; ic=9.01; roic=4.03%; gm=19.29%; rev=103.57B; ni=3.22B; ebitda=9.84B; ebit=3.13B; ocf=18.71B; capex=-15.41B; fcf=3.30B; dps=n/a; sc=+0.47%; ins=28.50%; z=14.3; f=5; c52=-22.47%
+F FY21,53823,25.28,5524,1.63,4983
+F FY22,81462,25.60,12583,3.62,7561
+F FY23,96773,18.25,14999,4.30,4357
+F FY24,97690,17.86,7130,2.04,3581
+F FY25,94827,18.03,3794,1.08,6220
+B FY21,62131,8873,31583
+B FY22,82338,5748,45898
+B FY23,106618,9573,63609
+B FY24,122070,13623,73680
+B FY25,137806,14719,82865
+B Q,157517,16445,89889
+C FY21,2911,2121,11497,-6514,n/a,n/a
+C FY22,3543,1560,14724,-7163,n/a,n/a
+C FY23,4667,1812,13256,-8899,n/a,n/a
+C FY24,5368,1999,14923,-11342,n/a,n/a
+C FY25,6148,2825,14747,-8527,n/a,n/a
+C TTM,6704,4300,18710,-15407,n/a,n/a
