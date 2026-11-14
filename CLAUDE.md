@@ -4,6 +4,8 @@ Static site. Reports in `data/` are generated, never hand-edited: change the inp
 
 ## Refresh prices
 
+Prices, 52-week ranges and the Treasury yield are refreshed automatically each Saturday by `.github/workflows/prices.yml` (`tools/refresh_prices.py`). The manual steps below are the fallback.
+
 For each ticker in `tools/prices.csv`, read `https://stockanalysis.com/stocks/<ticker>/` (BRK.B is `brk.b`) and record the latest closing price and its date. Update `as_of` and `treasury_10y` in `tools/settings.json`. Rebuild and report which verdicts changed.
 
 ## Refresh financial data (or add a company)

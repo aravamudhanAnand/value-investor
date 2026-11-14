@@ -2,30 +2,25 @@
 
 Two kinds of update. Do the first monthly; do the second after earnings season.
 
-## 1. Monthly: refresh prices (about 15 minutes, no tools needed)
+## 1. Prices: automatic, every Saturday
 
-Price is the number that moves the verdicts, so this is the update that matters most.
+The **Refresh prices** workflow runs every Saturday morning. It pulls each
+company's latest close and 52-week range from Yahoo Finance and the 10-year
+Treasury yield from FRED, rebuilds every report and commits the result. The live
+site updates a minute or two later. You do nothing.
 
-1. On github.com, open `tools/prices.csv` and click the pencil icon.
-2. Update the `price` and `date` for each ticker (any quote page works; use the latest close).
-3. Open `tools/market.csv` and update each row from the company's overview page
-   on StockAnalysis.com: 52-week low and high, beta, analyst rating, average
-   price target, and the `as_of` date. These drive the 52-week range bar and the
-   analysts' target on the fair value chart.
-4. Open `tools/settings.json` and update `as_of` to today's date and
-   `treasury_10y` to the current 10-year Treasury yield.
-5. Commit. The **Rebuild reports** workflow (Actions tab) recalculates every
-   valuation, margin of safety, checklist and verdict, and commits the new `data/`
-   folder. The live site updates a minute or two later.
+- **Run it now:** Actions tab -> Refresh prices -> Run workflow.
+- **Check what changed:** open `tools/refresh_log.txt`. A line starting
+  `SKIPPED` means that company kept its old price: the feed failed, or the price
+  moved more than 40% (usually a stock split, which needs the share count in
+  `tools/data/<TICKER>.txt` updated too).
+- **If the feed stops working** the job fails without changing anything, and
+  GitHub emails you. Prices can still be edited by hand in `tools/prices.csv`.
 
-What the price update changes: P/E, P/B, P/FCF, EV multiples, earnings and
-owner-earnings yields, the Graham number test, margin of safety, upside/downside
-and the verdict. Forward P/E and PEG are scaled with the price. The 52-week
-price change cannot be recalculated from a new price, so that one Pabrai test
-shows "n/a" until the next full refresh.
-
-Faster alternative: open the repository in Claude Code and say
-**"Refresh prices and market data for all companies."** It follows `CLAUDE.md`.
+Not automated, because no free feed carries them: analysts' ratings and price
+targets, beta, forward P/E and PEG. These live in `tools/market.csv` and the
+data files and are refreshed with the quarterly update below. Forward P/E and
+PEG are scaled with the price in between.
 
 ## 2. Quarterly: refresh the financials (with Claude Code)
 

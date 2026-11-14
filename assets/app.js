@@ -40,7 +40,7 @@
     hideTip();
     const h = decodeURIComponent(location.hash.slice(1));
     if (!INDEX) INDEX = await (await fetch('data/index.json')).json();
-    $('foot-asof').textContent = `Data as of ${INDEX.as_of} · Framework v${INDEX.framework_version}`;
+    $('foot-asof').textContent = `${INDEX.prices_as_of ? `Prices as of ${INDEX.prices_as_of} · financial statements as of ${INDEX.as_of}` : `Data as of ${INDEX.as_of}`} · Framework v${INDEX.framework_version}`;
     fillPicker();
     const isMethod = h === 'methodology';
     $('view-home').hidden = isMethod; $('view-method').hidden = !isMethod;

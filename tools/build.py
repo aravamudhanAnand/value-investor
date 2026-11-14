@@ -65,7 +65,8 @@ if os.path.exists(_mk):
     for row in csv.DictReader(open(_mk)):
         f_ = lambda k: None if row[k] in ("", "n/a") else float(row[k])
         MARKET[row["ticker"]] = dict(low52=f_("low52"), high52=f_("high52"), beta=f_("beta"), rating=None if row["rating"] in ("", "n/a") else row["rating"],
-                                     target=f_("target"), as_of=row["as_of"])
+                                     target=f_("target"), as_of=row["as_of"],
+                                     chg52=f_("chg52") if "chg52" in row else None)
 
 PRICES = {}
 _pp = os.path.join(HERE, "prices.csv")
@@ -225,7 +226,7 @@ def build(t):
     roic = s.get("roic")
     gm_now = s.get("gm")
     dy = (s.get("dps") or 0) / price * 100
-    c52 = None if stale52 else s.get("c52")
+    c52 = MARKET[t]["chg52"] if t in MARKET and MARKET[t].get("chg52") is not None else (None if stale52 else s.get("c52"))
 
     revs = [h[1] for h in hist]; nis = [h[3] for h in hist]; fcfs = [h[5] for h in hist]
     gms = [h[2] for h in hist if h[2] is not None]; epss = [h[4] for h in hist]
@@ -775,7 +776,7 @@ if __name__ == "__main__":
             m_["sector_n"] = len(vals)
         json.dump(r, open(os.path.join(OUT, "companies", slug + ".json"), "w"), indent=1, ensure_ascii=False)
     index.sort(key=lambda r: -r["score"])
-    json.dump(dict(as_of=AS_OF, framework_version=VERSION, treasury_10y=TY, companies=index), open(os.path.join(OUT, "index.json"), "w"), indent=1, ensure_ascii=False)
+    json.dump(dict(as_of=AS_OF, prices_as_of=CFG.get("prices_as_of"), framework_version=VERSION, treasury_10y=TY, companies=index), open(os.path.join(OUT, "index.json"), "w"), indent=1, ensure_ascii=False)
     import collections
     print(len(index), "companies ·", dict(collections.Counter(r["verdict"] for r in index)))
     if "-v" in sys.argv:
