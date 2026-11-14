@@ -5,10 +5,10 @@
  "sector": "Technology",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 216.9,
- "market_cap": "$223.4B",
+ "price": 226.61,
+ "market_cap": "$233.4B",
  "verdict": "TOO_HARD",
  "overall_score": 49,
  "one_liner": "Goes in the too-hard pile: its industry is changing too fast to predict. No verdict on price.",
@@ -30,7 +30,7 @@
    {
     "key": "ps",
     "label": "Price / sales",
-    "value": 41.37,
+    "value": 43.22,
     "unit": "x",
     "note": "Used when profits are still small",
     "sector_median": null,
@@ -39,7 +39,7 @@
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 153.6,
+    "value": 160.48,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
     "sector_median": 22.44,
@@ -48,7 +48,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 5422.5,
+    "value": 5665.25,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 34.01,
@@ -57,10 +57,10 @@
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 2051.44,
+    "value": 2145.04,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 26.99,
+    "sector_median": 28.14,
     "sector_n": 28
    }
   ],
@@ -74,7 +74,7 @@
    {
     "ticker": "CRWD",
     "company": "CrowdStrike",
-    "value": 41.37
+    "value": 43.22
    }
   ]
  },
@@ -85,11 +85,11 @@
   "as_of": "2026-11-11",
   "low52": 85.68,
   "high52": 286.99,
-  "range_pos": 65,
-  "below_high": 24.4,
-  "target_vs_price": 15.1,
+  "range_pos": 70,
+  "below_high": 21.0,
+  "target_vs_price": 10.2,
   "target_vs_fair": 2428.4,
-  "above_low": 153.2
+  "above_low": 164.5
  },
  "summary": {
   "sentence": "A fast-growing security software leader that has yet to earn a steady reported profit.",
@@ -495,25 +495,25 @@
   "lifecycle_stage": "2 · Hyper growth",
   "primary_metric": {
    "name": "Trailing P/S (forward not available)",
-   "value": "41.4"
+   "value": "43.2"
   },
   "secondary_metric": {
    "name": "Trailing P/Gross profit",
-   "value": "55.0"
+   "value": "57.5"
   },
   "three_numbers": {
-   "pe": "5422.5",
-   "forward_pe": "153.6",
-   "peg": "5.24"
+   "pe": "5665.2",
+   "forward_pe": "160.5",
+   "peg": "5.47"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "40.6"
+    "value": "42.4"
    },
    {
     "name": "EV/EBITDA",
-    "value": "2051.4"
+    "value": "2145.0"
    },
    {
     "name": "EV/EBIT",
@@ -521,24 +521,24 @@
    },
    {
     "name": "P/E",
-    "value": "5422.5"
+    "value": "5665.2"
    },
    {
     "name": "EV/FCF",
-    "value": "136.2"
+    "value": "142.4"
    },
    {
     "name": "P/FCF",
-    "value": "138.8"
+    "value": "145.0"
    },
    {
     "name": "P/B",
-    "value": "43.5"
+    "value": "45.4"
    }
   ],
   "intrinsic_value_low": 8.23,
   "intrinsic_value_high": 11.52,
-  "margin_of_safety_pct": -2096.5,
+  "margin_of_safety_pct": -2194.8,
   "interesting_below": 6.91,
   "method": "Fair value is the average of the one method that applies: (1) Owner cash flow: $303M a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
   "fair_value": 9.88,
@@ -590,7 +590,7 @@
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 235686; Graham number $2 vs price $217",
+     "value": "P/E × P/B = 257260; Graham number $2 vs price $227",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
@@ -680,7 +680,7 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 5.24",
+     "value": "PEG 5.47",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
@@ -789,13 +789,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +62% over 52 weeks",
+     "value": "Share price +69% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -2096%",
+     "value": "Margin of safety -2195%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -812,8 +812,8 @@
      "pass": false
     }
    ],
-   "upside_pct": -94.7,
-   "downside_pct": 96.2
+   "upside_pct": -94.9,
+   "downside_pct": 96.4
   }
  },
  "rules_of_the_road": [

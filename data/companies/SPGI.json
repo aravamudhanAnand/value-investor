@@ -5,10 +5,10 @@
  "sector": "Financials",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 467.8,
- "market_cap": "$135.6B",
+ "price": 473.59,
+ "market_cap": "$137.3B",
  "verdict": "WATCHLIST",
  "overall_score": 72,
  "one_liner": "A wide-moat business worth owning, but it trades at 1.5x fair value. Interesting below about $215.",
@@ -30,7 +30,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 27.83,
+    "value": 28.17,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 15.02,
@@ -39,34 +39,34 @@
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 24.07,
+    "value": 24.37,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 23.89,
+    "sector_median": 24.46,
     "sector_n": 6
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 23.88,
+    "value": 24.17,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 30.6,
+    "sector_median": 31.05,
     "sector_n": 6
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 17.47,
+    "value": 17.67,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 20.01,
+    "sector_median": 20.59,
     "sector_n": 6
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 0.83,
+    "value": 0.82,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
     "sector_median": 1.64,
@@ -88,7 +88,7 @@
    {
     "ticker": "SPGI",
     "company": "S&P Global",
-    "value": 27.83
+    "value": 28.17
    },
    {
     "ticker": "BLK",
@@ -98,12 +98,12 @@
    {
     "ticker": "CME",
     "company": "CME Group",
-    "value": 25.19
+    "value": 26.08
    },
    {
     "ticker": "ICE",
     "company": "Intercontinental Exchange",
-    "value": 22.61
+    "value": 25.21
    }
   ]
  },
@@ -112,13 +112,13 @@
   "target": 525.15,
   "beta": 1.03,
   "as_of": "2026-11-06",
-  "low52": 381.61,
-  "high52": 552.25,
-  "range_pos": 51,
-  "below_high": 15.3,
-  "target_vs_price": 12.3,
-  "target_vs_fair": 70.6,
-  "above_low": 22.6
+  "low52": 361.03,
+  "high52": 522.47,
+  "range_pos": 70,
+  "below_high": 9.4,
+  "target_vs_price": 10.9,
+  "target_vs_fair": 70.7,
+  "above_low": 31.2
  },
  "summary": {
   "sentence": "A ratings and index toll-keeper on the world's debt and fund markets.",
@@ -469,7 +469,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "4.0%",
+      "value": "3.9%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -492,7 +492,7 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "3.6%",
+      "value": "3.5%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
@@ -504,7 +504,7 @@
      },
      {
       "name": "Owner-earnings yield",
-      "value": "4.5%",
+      "value": "4.4%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
@@ -522,53 +522,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "27.8"
+   "value": "28.2"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "23.9"
+   "value": "24.2"
   },
   "three_numbers": {
-   "pe": "27.8",
-   "forward_pe": "24.1",
-   "peg": "1.91"
+   "pe": "28.2",
+   "forward_pe": "24.4",
+   "peg": "1.93"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "9.0"
+    "value": "9.1"
    },
    {
     "name": "EV/EBITDA",
-    "value": "17.5"
+    "value": "17.7"
    },
    {
     "name": "EV/EBIT",
-    "value": "20.4"
+    "value": "20.7"
    },
    {
     "name": "P/E",
-    "value": "27.8"
+    "value": "28.2"
    },
    {
     "name": "EV/FCF",
-    "value": "25.8"
+    "value": "26.1"
    },
    {
     "name": "P/FCF",
-    "value": "23.9"
+    "value": "24.2"
    },
    {
     "name": "P/B",
-    "value": "5.4"
+    "value": "5.5"
    }
   ],
-  "intrinsic_value_low": 265.07,
-  "intrinsic_value_high": 350.55,
-  "margin_of_safety_pct": -52.0,
-  "interesting_below": 215.47,
+  "intrinsic_value_low": 264.97,
+  "intrinsic_value_high": 350.41,
+  "margin_of_safety_pct": -53.9,
+  "interesting_below": 215.38,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $5.3B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 5–11% for five years, fading to 3%; operating margin held at 44%; cost of capital 8.6%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 307.81,
+  "fair_value": 307.69,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -578,8 +578,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 243.48,
-    "high": 296.61,
+    "low": 243.28,
+    "high": 296.33,
     "basis": "Sales grow 5–11% for five years, fading to 3%; operating margin held at 44%; cost of capital 8.6%. Cash added, debt subtracted."
    }
   ],
@@ -601,9 +601,9 @@
    "terminal_roc": 13.6,
    "revenue_now": "$16.3B",
    "revenue_year10": "$30.5B",
-   "low": 243.48,
-   "high": 296.61,
-   "implied_growth": 19.0,
+   "low": 243.28,
+   "high": 296.33,
+   "implied_growth": 19.2,
    "implied_note": null
   }
  },
@@ -638,19 +638,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "39.8x three-year average earnings ($11.75); 27.8x trailing",
+     "value": "40.3x three-year average earnings ($11.75); 28.2x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 150; Graham number $181 vs price $468",
+     "value": "P/E × P/B = 154; Graham number $181 vs price $474",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 3.6% vs 10-year Treasury 5.10%",
+     "value": "Earnings yield 3.5% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -668,7 +668,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $6.0B (net income + depreciation − capex) = 4.5% yield vs 10-year Treasury 5.10%",
+     "value": "Owner earnings $6.0B (net income + depreciation − capex) = 4.4% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -734,13 +734,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 1.91",
+     "value": "PEG 1.93",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": null
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(4% EPS growth + 0.8% yield) ÷ P/E 27.8 = 0.18",
+     "value": "(4% EPS growth + 0.8% yield) ÷ P/E 28.2 = 0.17",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -842,13 +842,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price -6% over 52 weeks",
+     "value": "Share price +1% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -52%",
+     "value": "Margin of safety -54%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -860,13 +860,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($351); 43% downside to the low case",
+     "value": "No upside even to the high-case value ($350); 44% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -25.1,
-   "downside_pct": 43.3
+   "upside_pct": -26.0,
+   "downside_pct": 44.1
   }
  },
  "rules_of_the_road": [

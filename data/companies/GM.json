@@ -60,7 +60,7 @@
     "value": 0.84,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.33,
+    "sector_median": 1.43,
     "sector_n": 11
    }
   ],
@@ -72,19 +72,19 @@
     "value": 153.7
    },
    {
+    "ticker": "MAR",
+    "company": "Marriott International",
+    "value": 26.54
+   },
+   {
     "ticker": "SBUX",
     "company": "Starbucks",
     "value": 24.85
    },
    {
-    "ticker": "MAR",
-    "company": "Marriott International",
-    "value": 24.78
-   },
-   {
     "ticker": "TJX",
     "company": "TJX Companies",
-    "value": 18.83
+    "value": 17.54
    },
    {
     "ticker": "AMZN",

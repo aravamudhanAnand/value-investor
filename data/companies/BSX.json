@@ -5,10 +5,10 @@
  "sector": "Health care",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-10-26",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 45.58,
- "market_cap": "$66.1B",
+ "price": 44.34,
+ "market_cap": "$64.3B",
  "verdict": "WATCHLIST",
  "overall_score": 67,
  "one_liner": "A narrow-moat business worth owning, but it trades at 1.3x fair value. Interesting below about $24.",
@@ -30,16 +30,16 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 18.45,
+    "value": 17.95,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 35.18,
+    "sector_median": 34.64,
     "sector_n": 19
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 14.23,
+    "value": 13.84,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
     "sector_median": 18.51,
@@ -48,19 +48,19 @@
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 18.21,
+    "value": 17.71,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 24.94,
+    "sector_median": 24.26,
     "sector_n": 20
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 13.69,
+    "value": 13.38,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 17.42,
+    "sector_median": 17.32,
     "sector_n": 19
    },
    {
@@ -123,12 +123,12 @@
    {
     "ticker": "VRTX",
     "company": "Vertex Pharmaceuticals",
-    "value": 35.18
+    "value": 34.64
    },
    {
     "ticker": "SYK",
     "company": "Stryker",
-    "value": 34.7
+    "value": 32.98
    },
    {
     "ticker": "AMGN",
@@ -138,7 +138,7 @@
    {
     "ticker": "MCK",
     "company": "McKesson",
-    "value": 27.21
+    "value": 28.29
    },
    {
     "ticker": "MDT",
@@ -156,14 +156,14 @@
     "value": 23.28
    },
    {
-    "ticker": "BSX",
-    "company": "Boston Scientific",
-    "value": 18.45
-   },
-   {
     "ticker": "ELV",
     "company": "Elevance Health",
-    "value": 18.16
+    "value": 18.33
+   },
+   {
+    "ticker": "BSX",
+    "company": "Boston Scientific",
+    "value": 17.95
    },
    {
     "ticker": "BMY",
@@ -178,12 +178,12 @@
   "beta": 0.58,
   "as_of": "2026-10-29",
   "low52": 39.57,
-  "high52": 105.65,
-  "range_pos": 9,
-  "below_high": 56.9,
-  "target_vs_price": 13.1,
-  "target_vs_fair": 52.5,
-  "above_low": 15.2
+  "high52": 104.62,
+  "range_pos": 7,
+  "below_high": 57.6,
+  "target_vs_price": 16.2,
+  "target_vs_fair": 52.2,
+  "above_low": 12.1
  },
  "summary": {
   "sentence": "A heart-device maker whose shares have fallen hard as investors question its growth.",
@@ -533,7 +533,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "3.0%",
+      "value": "3.1%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -556,19 +556,19 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "5.4%",
+      "value": "5.6%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "5.0%",
+      "value": "5.1%",
       "threshold": "≥ 10-year Treasury (5.10%)",
-      "pass": false
+      "pass": true
      },
      {
       "name": "Owner-earnings yield",
-      "value": "6.3%",
+      "value": "6.5%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      }
@@ -576,7 +576,7 @@
    }
   ],
   "ratio_summary": {
-   "passed": 23,
+   "passed": 24,
    "total": 27
   },
   "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
@@ -586,53 +586,53 @@
   "lifecycle_stage": "3 · Operating leverage",
   "primary_metric": {
    "name": "Forward P/E",
-   "value": "14.2"
+   "value": "13.8"
   },
   "secondary_metric": {
    "name": "P/FCF",
-   "value": "18.2"
+   "value": "17.7"
   },
   "three_numbers": {
-   "pe": "18.5",
-   "forward_pe": "14.2",
-   "peg": "1.07"
+   "pe": "18.0",
+   "forward_pe": "13.8",
+   "peg": "1.04"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "3.7"
+    "value": "3.6"
    },
    {
     "name": "EV/EBITDA",
-    "value": "13.7"
+    "value": "13.4"
    },
    {
     "name": "EV/EBIT",
-    "value": "18.2"
+    "value": "17.8"
    },
    {
     "name": "P/E",
-    "value": "18.5"
+    "value": "18.0"
    },
    {
     "name": "EV/FCF",
-    "value": "21.5"
+    "value": "21.0"
    },
    {
     "name": "P/FCF",
-    "value": "18.2"
+    "value": "17.7"
    },
    {
     "name": "P/B",
     "value": "2.6"
    }
   ],
-  "intrinsic_value_low": 28.5,
-  "intrinsic_value_high": 39.09,
-  "margin_of_safety_pct": -34.9,
-  "interesting_below": 23.65,
-  "method": "Fair value is the average of two methods: (1) Owner cash flow: $2.8B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 7–13% for five years, fading to 3%; operating margin held at 20%; cost of capital 8.9%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 33.79,
+  "intrinsic_value_low": 28.55,
+  "intrinsic_value_high": 39.15,
+  "margin_of_safety_pct": -31.0,
+  "interesting_below": 23.69,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $2.8B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 7–13% for five years, fading to 3%; operating margin held at 20%; cost of capital 8.8%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 33.85,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -642,9 +642,9 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 22.28,
-    "high": 29.24,
-    "basis": "Sales grow 7–13% for five years, fading to 3%; operating margin held at 20%; cost of capital 8.9%. Cash added, debt subtracted."
+    "low": 22.38,
+    "high": 29.37,
+    "basis": "Sales grow 7–13% for five years, fading to 3%; operating margin held at 20%; cost of capital 8.8%. Cash added, debt subtracted."
    }
   ],
   "stress_case": null,
@@ -660,14 +660,14 @@
    "cost_of_equity": 9.6,
    "cost_of_debt": 4.9,
    "debt_weight": 16,
-   "cost_of_capital": 8.9,
+   "cost_of_capital": 8.8,
    "terminal_growth": 3.0,
-   "terminal_roc": 10.9,
+   "terminal_roc": 10.8,
    "revenue_now": "$21.0B",
    "revenue_year10": "$44.8B",
-   "low": 22.28,
-   "high": 29.24,
-   "implied_growth": 19.6,
+   "low": 22.38,
+   "high": 29.37,
+   "implied_growth": 19.1,
    "implied_note": null
   }
  },
@@ -702,19 +702,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "32.1x three-year average earnings ($1.42); 18.5x trailing",
+     "value": "31.2x three-year average earnings ($1.42); 18.0x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 48; Graham number $31 vs price $46",
+     "value": "P/E × P/B = 46; Graham number $31 vs price $44",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 5.4% vs 10-year Treasury 5.10%",
+     "value": "Earnings yield 5.6% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": true
     },
@@ -732,7 +732,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $4.2B (net income + depreciation − capex) = 6.3% yield vs 10-year Treasury 5.10%",
+     "value": "Owner earnings $4.2B (net income + depreciation − capex) = 6.5% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": true
     },
@@ -798,13 +798,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 1.07",
+     "value": "PEG 1.04",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": null
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(29% EPS growth + 0.0% yield) ÷ P/E 18.5 = 1.60",
+     "value": "(29% EPS growth + 0.0% yield) ÷ P/E 18.0 = 1.64",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": true
     },
@@ -906,13 +906,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price -55% over 52 weeks",
+     "value": "Share price -57% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": true
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -35%",
+     "value": "Margin of safety -31%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -924,13 +924,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($39); 37% downside to the low case",
+     "value": "No upside even to the high-case value ($39); 36% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -14.2,
-   "downside_pct": 37.5
+   "upside_pct": -11.7,
+   "downside_pct": 35.6
   }
  },
  "rules_of_the_road": [

@@ -33,7 +33,7 @@
     "value": 21.39,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 27.19,
+    "sector_median": 27.48,
     "sector_n": 18
    },
    {
@@ -42,7 +42,7 @@
     "value": 19.88,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 22.7,
+    "sector_median": 23.3,
     "sector_n": 8
    },
    {
@@ -51,7 +51,7 @@
     "value": 17.0,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 24.37,
+    "sector_median": 24.61,
     "sector_n": 8
    },
    {
@@ -78,7 +78,12 @@
    {
     "ticker": "ETN",
     "company": "Eaton",
-    "value": 34.14
+    "value": 35.26
+   },
+   {
+    "ticker": "PH",
+    "company": "Parker-Hannifin",
+    "value": 32.83
    },
    {
     "ticker": "RTX",
@@ -91,14 +96,9 @@
     "value": 32.0
    },
    {
-    "ticker": "PH",
-    "company": "Parker-Hannifin",
-    "value": 31.53
-   },
-   {
     "ticker": "ADP",
     "company": "Automatic Data Processing",
-    "value": 26.89
+    "value": 27.48
    },
    {
     "ticker": "GD",

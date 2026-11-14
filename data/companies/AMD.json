@@ -33,7 +33,7 @@
     "value": 78.03,
     "unit": "x",
     "note": "Judge at mid-cycle, not peak",
-    "sector_median": 26.99,
+    "sector_median": 28.14,
     "sector_n": 28
    },
    {
@@ -51,7 +51,7 @@
     "value": 0.81,
     "unit": "%",
     "note": "Free cash flow ÷ market value",
-    "sector_median": 2.24,
+    "sector_median": 2.04,
     "sector_n": 9
    },
    {
@@ -60,7 +60,7 @@
     "value": 0.0,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 0.64,
+    "sector_median": 0.6,
     "sector_n": 26
    }
   ],
@@ -77,24 +77,24 @@
     "value": 32.9
    },
    {
+    "ticker": "KLAC",
+    "company": "KLA",
+    "value": 30.28
+   },
+   {
+    "ticker": "ADI",
+    "company": "Analog Devices",
+    "value": 28.86
+   },
+   {
     "ticker": "AMAT",
     "company": "Applied Materials",
     "value": 28.75
    },
    {
-    "ticker": "KLAC",
-    "company": "KLA",
-    "value": 27.55
-   },
-   {
     "ticker": "LRCX",
     "company": "Lam Research",
     "value": 27.54
-   },
-   {
-    "ticker": "ADI",
-    "company": "Analog Devices",
-    "value": 26.45
    },
    {
     "ticker": "QCOM",

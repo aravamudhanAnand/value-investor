@@ -33,7 +33,7 @@
     "value": 32.72,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 35.18,
+    "sector_median": 34.64,
     "sector_n": 19
    },
    {
@@ -51,7 +51,7 @@
     "value": 30.99,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 24.94,
+    "sector_median": 24.26,
     "sector_n": 20
    },
    {
@@ -60,7 +60,7 @@
     "value": 17.89,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 17.42,
+    "sector_median": 17.32,
     "sector_n": 19
    },
    {
@@ -123,12 +123,12 @@
    {
     "ticker": "VRTX",
     "company": "Vertex Pharmaceuticals",
-    "value": 35.18
+    "value": 34.64
    },
    {
     "ticker": "SYK",
     "company": "Stryker",
-    "value": 34.7
+    "value": 32.98
    },
    {
     "ticker": "AMGN",
@@ -138,7 +138,7 @@
    {
     "ticker": "MCK",
     "company": "McKesson",
-    "value": 27.21
+    "value": 28.29
    },
    {
     "ticker": "MDT",
@@ -156,14 +156,14 @@
     "value": 23.28
    },
    {
-    "ticker": "BSX",
-    "company": "Boston Scientific",
-    "value": 18.45
-   },
-   {
     "ticker": "ELV",
     "company": "Elevance Health",
-    "value": 18.16
+    "value": 18.33
+   },
+   {
+    "ticker": "BSX",
+    "company": "Boston Scientific",
+    "value": 17.95
    },
    {
     "ticker": "BMY",

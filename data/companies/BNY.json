@@ -42,7 +42,7 @@
     "value": 2.34,
     "unit": "x",
     "note": "Judge against return on equity",
-    "sector_median": 1.98,
+    "sector_median": 2.01,
     "sector_n": 14
    },
    {
@@ -109,7 +109,7 @@
    {
     "ticker": "CB",
     "company": "Chubb",
-    "value": 12.78
+    "value": 13.15
    },
    {
     "ticker": "C",
@@ -122,6 +122,11 @@
     "value": 12.15
    },
    {
+    "ticker": "PGR",
+    "company": "Progressive",
+    "value": 11.88
+   },
+   {
     "ticker": "USB",
     "company": "U.S. Bancorp",
     "value": 11.87
@@ -130,11 +135,6 @@
     "ticker": "COF",
     "company": "Capital One",
     "value": 11.55
-   },
-   {
-    "ticker": "PGR",
-    "company": "Progressive",
-    "value": 11.48
    }
   ]
  },

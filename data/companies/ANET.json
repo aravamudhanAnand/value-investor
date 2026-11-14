@@ -5,10 +5,10 @@
  "sector": "Technology",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 170.8,
- "market_cap": "$215.2B",
+ "price": 197.29,
+ "market_cap": "$248.6B",
  "verdict": "TOO_HARD",
  "overall_score": 64,
  "one_liner": "Goes in the too-hard pile: its industry is changing too fast to predict. No verdict on price.",
@@ -30,7 +30,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 45.79,
+    "value": 52.89,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 34.01,
@@ -39,7 +39,7 @@
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 30.34,
+    "value": 35.05,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
     "sector_median": 22.44,
@@ -48,19 +48,19 @@
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 42.87,
+    "value": 49.52,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 31.18,
+    "sector_median": 31.34,
     "sector_n": 16
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 37.9,
+    "value": 44.19,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 26.99,
+    "sector_median": 28.14,
     "sector_n": 28
    },
    {
@@ -69,7 +69,7 @@
     "value": 0.0,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 0.64,
+    "sector_median": 0.6,
     "sector_n": 26
    }
   ],
@@ -78,12 +78,12 @@
    {
     "ticker": "PANW",
     "company": "Palo Alto Networks",
-    "value": 784.6
+    "value": 805.6
    },
    {
     "ticker": "SNPS",
     "company": "Synopsys",
-    "value": 79.87
+    "value": 80.71
    },
    {
     "ticker": "NOW",
@@ -93,12 +93,12 @@
    {
     "ticker": "CDNS",
     "company": "Cadence Design Systems",
-    "value": 63.6
+    "value": 64.22
    },
    {
     "ticker": "ANET",
     "company": "Arista Networks",
-    "value": 45.79
+    "value": 52.89
    },
    {
     "ticker": "AVGO",
@@ -167,12 +167,13 @@
   "target": null,
   "beta": null,
   "as_of": "2026-11-06",
-  "low52": null,
-  "high52": null,
-  "range_pos": null,
-  "below_high": null,
+  "low52": 114.52,
+  "high52": 217.41,
+  "range_pos": 80,
+  "below_high": 9.3,
   "target_vs_price": null,
-  "target_vs_fair": null
+  "target_vs_fair": null,
+  "above_low": 72.3
  },
  "summary": {
   "sentence": "The leading supplier of data-centre networking to cloud giants, growing fast and dependent on a few of them.",
@@ -547,19 +548,19 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "2.2%",
+      "value": "1.9%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "2.1%",
+      "value": "1.8%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "2.1%",
+      "value": "1.9%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
@@ -577,50 +578,50 @@
   "lifecycle_stage": "3 · Operating leverage",
   "primary_metric": {
    "name": "Forward P/E",
-   "value": "30.3"
+   "value": "35.0"
   },
   "secondary_metric": {
    "name": "P/FCF",
-   "value": "42.9"
+   "value": "49.5"
   },
   "three_numbers": {
-   "pe": "45.8",
-   "forward_pe": "30.3",
-   "peg": "1.07"
+   "pe": "52.9",
+   "forward_pe": "35.0",
+   "peg": "1.24"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "16.9"
+    "value": "19.7"
    },
    {
     "name": "EV/EBITDA",
-    "value": "37.9"
+    "value": "44.2"
    },
    {
     "name": "EV/EBIT",
-    "value": "38.6"
+    "value": "45.0"
    },
    {
     "name": "P/E",
-    "value": "45.8"
+    "value": "52.9"
    },
    {
     "name": "EV/FCF",
-    "value": "40.0"
+    "value": "46.7"
    },
    {
     "name": "P/FCF",
-    "value": "42.9"
+    "value": "49.5"
    },
    {
     "name": "P/B",
-    "value": "13.1"
+    "value": "15.1"
    }
   ],
   "intrinsic_value_low": 61.92,
   "intrinsic_value_high": 82.09,
-  "margin_of_safety_pct": -137.2,
+  "margin_of_safety_pct": -174.0,
   "interesting_below": 50.41,
   "method": "Fair value is the average of two methods: (1) Owner cash flow, capex held at depreciation: $3.6B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 2.4x depreciation, so most of it is expansion, not upkeep. (2) Damodaran: cash flow to the firm: Sales grow 11–17% for five years, fading to 3%; operating margin held at 44%; cost of capital 10.7%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
   "fair_value": 72.01,
@@ -662,7 +663,7 @@
    "revenue_year10": "$32.6B",
    "low": 60.69,
    "high": 75.44,
-   "implied_growth": 37.7,
+   "implied_growth": 40.9,
    "implied_note": null
   }
  },
@@ -697,19 +698,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "77.3x three-year average earnings ($2.21); 45.8x trailing",
+     "value": "89.3x three-year average earnings ($2.21); 52.9x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 599; Graham number $33 vs price $171",
+     "value": "P/E × P/B = 799; Graham number $33 vs price $197",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 2.2% vs 10-year Treasury 5.10%",
+     "value": "Earnings yield 1.9% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -727,7 +728,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $4.6B (net income + depreciation − capex) = 2.1% yield vs 10-year Treasury 5.10%",
+     "value": "Owner earnings $4.6B (net income + depreciation − capex) = 1.9% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -793,13 +794,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 1.07",
+     "value": "PEG 1.24",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": null
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(30% EPS growth (capped) + 0.0% yield) ÷ P/E 45.8 = 0.66",
+     "value": "(30% EPS growth (capped) + 0.0% yield) ÷ P/E 52.9 = 0.57",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -901,13 +902,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +22% over 52 weeks",
+     "value": "Share price +50% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -137%",
+     "value": "Margin of safety -174%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -919,13 +920,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($82); 64% downside to the low case",
+     "value": "No upside even to the high-case value ($82); 69% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -51.9,
-   "downside_pct": 63.7
+   "upside_pct": -58.4,
+   "downside_pct": 68.6
   }
  },
  "rules_of_the_road": [

@@ -187,12 +187,12 @@
    "sector": "Industrials",
    "verdict": "WATCHLIST",
    "score": 76,
-   "price": 303.35,
-   "mos": -44.8,
+   "price": 309.93,
+   "mos": -48.0,
    "moat": "Wide",
    "quality": 8.69,
-   "value_per_dollar": 0.691,
-   "interesting_below": 146.64,
+   "value_per_dollar": 0.676,
+   "interesting_below": 146.6,
    "scores": {
     "meaning": 9,
     "moat": 8,
@@ -231,11 +231,11 @@
    "sector": "Financials",
    "verdict": "WATCHLIST",
    "score": 76,
-   "price": 227.8,
-   "mos": -19.3,
+   "price": 235.78,
+   "mos": -23.5,
    "moat": "Narrow",
    "quality": 8.56,
-   "value_per_dollar": 0.838,
+   "value_per_dollar": 0.81,
    "interesting_below": 133.66,
    "scores": {
     "meaning": 8,
@@ -264,50 +264,6 @@
     ],
     "pabrai": [
      2,
-     5
-    ]
-   }
-  },
-  {
-   "ticker": "CB",
-   "slug": "CB",
-   "company": "Chubb",
-   "sector": "Financials",
-   "verdict": "WATCHLIST",
-   "score": 75,
-   "price": 365.02,
-   "mos": -12.1,
-   "moat": "Narrow",
-   "quality": 8.12,
-   "value_per_dollar": 0.892,
-   "interesting_below": 227.92,
-   "scores": {
-    "meaning": 7,
-    "moat": 7,
-    "industry": 7,
-    "management": 9,
-    "financial_health": 10,
-    "valuation": 5
-   },
-   "lenses": {
-    "graham": [
-     4,
-     6
-    ],
-    "buffett": [
-     2,
-     4
-    ],
-    "lynch": [
-     3,
-     4
-    ],
-    "munger": [
-     2,
-     3
-    ],
-    "pabrai": [
-     1,
      5
     ]
    }
@@ -445,6 +401,50 @@
    }
   },
   {
+   "ticker": "TJX",
+   "slug": "TJX",
+   "company": "TJX Companies",
+   "sector": "Consumer discretionary",
+   "verdict": "WATCHLIST",
+   "score": 74,
+   "price": 134.37,
+   "mos": -67.3,
+   "moat": "Wide",
+   "quality": 8.81,
+   "value_per_dollar": 0.598,
+   "interesting_below": 56.23,
+   "scores": {
+    "meaning": 9,
+    "moat": 8,
+    "industry": 8,
+    "management": 9,
+    "financial_health": 10,
+    "valuation": 2
+   },
+   "lenses": {
+    "graham": [
+     4,
+     8
+    ],
+    "buffett": [
+     5,
+     8
+    ],
+    "lynch": [
+     4,
+     7
+    ],
+    "munger": [
+     5,
+     6
+    ],
+    "pabrai": [
+     4,
+     7
+    ]
+   }
+  },
+  {
    "ticker": "UNP",
    "slug": "UNP",
    "company": "Union Pacific",
@@ -485,6 +485,50 @@
     "pabrai": [
      3,
      7
+    ]
+   }
+  },
+  {
+   "ticker": "CB",
+   "slug": "CB",
+   "company": "Chubb",
+   "sector": "Financials",
+   "verdict": "WATCHLIST",
+   "score": 73,
+   "price": 375.74,
+   "mos": -15.4,
+   "moat": "Narrow",
+   "quality": 8.12,
+   "value_per_dollar": 0.867,
+   "interesting_below": 227.92,
+   "scores": {
+    "meaning": 7,
+    "moat": 7,
+    "industry": 7,
+    "management": 9,
+    "financial_health": 10,
+    "valuation": 4
+   },
+   "lenses": {
+    "graham": [
+     4,
+     6
+    ],
+    "buffett": [
+     2,
+     4
+    ],
+    "lynch": [
+     3,
+     4
+    ],
+    "munger": [
+     2,
+     3
+    ],
+    "pabrai": [
+     1,
+     5
     ]
    }
   },
@@ -627,12 +671,12 @@
    "sector": "Financials",
    "verdict": "WATCHLIST",
    "score": 72,
-   "price": 307.04,
-   "mos": -100.6,
+   "price": 317.97,
+   "mos": -107.8,
    "moat": "Wide",
    "quality": 8.69,
-   "value_per_dollar": 0.499,
-   "interesting_below": 107.15,
+   "value_per_dollar": 0.481,
+   "interesting_below": 107.11,
    "scores": {
     "meaning": 9,
     "moat": 9,
@@ -803,12 +847,12 @@
    "sector": "Financials",
    "verdict": "WATCHLIST",
    "score": 72,
-   "price": 467.8,
-   "mos": -52.0,
+   "price": 473.59,
+   "mos": -53.9,
    "moat": "Wide",
    "quality": 8.56,
-   "value_per_dollar": 0.658,
-   "interesting_below": 215.47,
+   "value_per_dollar": 0.65,
+   "interesting_below": 215.38,
    "scores": {
     "meaning": 8,
     "moat": 9,
@@ -833,50 +877,6 @@
     "munger": [
      6,
      7
-    ],
-    "pabrai": [
-     4,
-     7
-    ]
-   }
-  },
-  {
-   "ticker": "TJX",
-   "slug": "TJX",
-   "company": "TJX Companies",
-   "sector": "Consumer discretionary",
-   "verdict": "WATCHLIST",
-   "score": 72,
-   "price": 144.76,
-   "mos": -80.6,
-   "moat": "Wide",
-   "quality": 8.81,
-   "value_per_dollar": 0.554,
-   "interesting_below": 56.1,
-   "scores": {
-    "meaning": 9,
-    "moat": 8,
-    "industry": 8,
-    "management": 9,
-    "financial_health": 10,
-    "valuation": 1
-   },
-   "lenses": {
-    "graham": [
-     4,
-     8
-    ],
-    "buffett": [
-     5,
-     8
-    ],
-    "lynch": [
-     4,
-     7
-    ],
-    "munger": [
-     5,
-     6
     ],
     "pabrai": [
      4,
@@ -979,12 +979,12 @@
    "sector": "Health care",
    "verdict": "WATCHLIST",
    "score": 71,
-   "price": 1060.84,
-   "mos": -23.0,
+   "price": 1102.81,
+   "mos": -28.0,
    "moat": "Wide",
    "quality": 7.87,
-   "value_per_dollar": 0.813,
-   "interesting_below": 603.6,
+   "value_per_dollar": 0.781,
+   "interesting_below": 603.01,
    "scores": {
     "meaning": 8,
     "moat": 8,
@@ -1067,12 +1067,12 @@
    "sector": "Technology",
    "verdict": "WATCHLIST",
    "score": 70,
-   "price": 319.92,
-   "mos": -271.8,
+   "price": 323.01,
+   "mos": -275.5,
    "moat": "Wide",
    "quality": 8.56,
-   "value_per_dollar": 0.269,
-   "interesting_below": 60.23,
+   "value_per_dollar": 0.266,
+   "interesting_below": 60.22,
    "scores": {
     "meaning": 8,
     "moat": 9,
@@ -1419,12 +1419,12 @@
    "sector": "Health care",
    "verdict": "WATCHLIST",
    "score": 69,
-   "price": 325.87,
-   "mos": -85.4,
+   "price": 309.64,
+   "mos": -75.8,
    "moat": "Wide",
    "quality": 8.38,
-   "value_per_dollar": 0.539,
-   "interesting_below": 123.02,
+   "value_per_dollar": 0.569,
+   "interesting_below": 123.32,
    "scores": {
     "meaning": 8,
     "moat": 8,
@@ -1727,12 +1727,12 @@
    "sector": "Industrials",
    "verdict": "WATCHLIST",
    "score": 68,
-   "price": 917.79,
-   "mos": -127.9,
+   "price": 955.68,
+   "mos": -137.8,
    "moat": "Wide",
    "quality": 8.25,
-   "value_per_dollar": 0.439,
-   "interesting_below": 281.9,
+   "value_per_dollar": 0.421,
+   "interesting_below": 281.31,
    "scores": {
     "meaning": 7,
     "moat": 8,
@@ -1859,12 +1859,12 @@
    "sector": "Health care",
    "verdict": "WATCHLIST",
    "score": 67,
-   "price": 45.58,
-   "mos": -34.9,
+   "price": 44.34,
+   "mos": -31.0,
    "moat": "Narrow",
    "quality": 7.62,
-   "value_per_dollar": 0.741,
-   "interesting_below": 23.65,
+   "value_per_dollar": 0.763,
+   "interesting_below": 23.69,
    "scores": {
     "meaning": 7,
     "moat": 7,
@@ -1903,12 +1903,12 @@
    "sector": "Technology",
    "verdict": "TOO_HARD",
    "score": 67,
-   "price": 138.49,
-   "mos": -169.3,
+   "price": 152.32,
+   "mos": -196.5,
    "moat": "Wide",
    "quality": 8.12,
-   "value_per_dollar": 0.371,
-   "interesting_below": 35.99,
+   "value_per_dollar": 0.337,
+   "interesting_below": 35.96,
    "scores": {
     "meaning": 8,
     "moat": 8,
@@ -2343,12 +2343,12 @@
    "sector": "Technology",
    "verdict": "WATCHLIST",
    "score": 64,
-   "price": 363.56,
-   "mos": -229.6,
+   "price": 397.97,
+   "mos": -261.4,
    "moat": "Wide",
    "quality": 7.69,
-   "value_per_dollar": 0.303,
-   "interesting_below": 77.2,
+   "value_per_dollar": 0.277,
+   "interesting_below": 77.08,
    "scores": {
     "meaning": 7,
     "moat": 8,
@@ -2431,11 +2431,11 @@
    "sector": "Technology",
    "verdict": "TOO_HARD",
    "score": 64,
-   "price": 170.8,
-   "mos": -137.2,
+   "price": 197.29,
+   "mos": -174.0,
    "moat": "Narrow",
    "quality": 7.75,
-   "value_per_dollar": 0.422,
+   "value_per_dollar": 0.365,
    "interesting_below": 50.41,
    "scores": {
     "meaning": 7,
@@ -2695,12 +2695,12 @@
    "sector": "Industrials",
    "verdict": "WATCHLIST",
    "score": 64,
-   "price": 341.72,
-   "mos": -136.4,
+   "price": 352.97,
+   "mos": -144.6,
    "moat": "Narrow",
    "quality": 7.81,
-   "value_per_dollar": 0.423,
-   "interesting_below": 101.17,
+   "value_per_dollar": 0.409,
+   "interesting_below": 101.0,
    "scores": {
     "meaning": 7,
     "moat": 7,
@@ -2733,62 +2733,18 @@
    }
   },
   {
-   "ticker": "ICE",
-   "slug": "ICE",
-   "company": "Intercontinental Exchange",
-   "sector": "Financials",
-   "verdict": "WATCHLIST",
-   "score": 64,
-   "price": 160.05,
-   "mos": -51.7,
-   "moat": "Wide",
-   "quality": 7.56,
-   "value_per_dollar": 0.659,
-   "interesting_below": 73.87,
-   "scores": {
-    "meaning": 7,
-    "moat": 8,
-    "industry": 7,
-    "management": 7,
-    "financial_health": 8,
-    "valuation": 2
-   },
-   "lenses": {
-    "graham": [
-     2,
-     8
-    ],
-    "buffett": [
-     4,
-     8
-    ],
-    "lynch": [
-     2,
-     4
-    ],
-    "munger": [
-     4,
-     5
-    ],
-    "pabrai": [
-     2,
-     7
-    ]
-   }
-  },
-  {
    "ticker": "MAR",
    "slug": "MAR",
    "company": "Marriott International",
    "sector": "Consumer discretionary",
    "verdict": "WATCHLIST",
    "score": 64,
-   "price": 390.71,
-   "mos": -174.1,
+   "price": 423.16,
+   "mos": -198.5,
    "moat": "Wide",
    "quality": 7.81,
-   "value_per_dollar": 0.365,
-   "interesting_below": 99.79,
+   "value_per_dollar": 0.335,
+   "interesting_below": 99.24,
    "scores": {
     "meaning": 9,
     "moat": 8,
@@ -3003,12 +2959,12 @@
    "sector": "Health care",
    "verdict": "WATCHLIST",
    "score": 64,
-   "price": 547.09,
-   "mos": -146.7,
+   "price": 538.6,
+   "mos": -142.8,
    "moat": "Wide",
    "quality": 7.75,
-   "value_per_dollar": 0.405,
-   "interesting_below": 155.22,
+   "value_per_dollar": 0.412,
+   "interesting_below": 155.26,
    "scores": {
     "meaning": 7,
     "moat": 8,
@@ -3256,6 +3212,50 @@
     ],
     "pabrai": [
      3,
+     7
+    ]
+   }
+  },
+  {
+   "ticker": "ICE",
+   "slug": "ICE",
+   "company": "Intercontinental Exchange",
+   "sector": "Financials",
+   "verdict": "WATCHLIST",
+   "score": 62,
+   "price": 178.51,
+   "mos": -70.5,
+   "moat": "Wide",
+   "quality": 7.56,
+   "value_per_dollar": 0.587,
+   "interesting_below": 73.31,
+   "scores": {
+    "meaning": 7,
+    "moat": 8,
+    "industry": 7,
+    "management": 7,
+    "financial_health": 8,
+    "valuation": 1
+   },
+   "lenses": {
+    "graham": [
+     2,
+     8
+    ],
+    "buffett": [
+     3,
+     8
+    ],
+    "lynch": [
+     2,
+     4
+    ],
+    "munger": [
+     4,
+     5
+    ],
+    "pabrai": [
+     2,
      7
     ]
    }
@@ -3795,12 +3795,12 @@
    "sector": "Technology",
    "verdict": "WATCHLIST",
    "score": 60,
-   "price": 450.46,
-   "mos": -755.5,
+   "price": 455.2,
+   "mos": -765.0,
    "moat": "Wide",
    "quality": 7.25,
-   "value_per_dollar": 0.117,
-   "interesting_below": 36.86,
+   "value_per_dollar": 0.116,
+   "interesting_below": 36.84,
    "scores": {
     "meaning": 7,
     "moat": 8,
@@ -4147,12 +4147,12 @@
    "sector": "Health care",
    "verdict": "TOO_HARD",
    "score": 57,
-   "price": 425.62,
-   "mos": -10.5,
+   "price": 429.69,
+   "mos": -11.6,
    "moat": "Narrow",
    "quality": 5.88,
-   "value_per_dollar": 0.905,
-   "interesting_below": 269.67,
+   "value_per_dollar": 0.896,
+   "interesting_below": 269.49,
    "scores": {
     "meaning": 6,
     "moat": 6,
@@ -5115,11 +5115,11 @@
    "sector": "Technology",
    "verdict": "TOO_HARD",
    "score": 51,
-   "price": 313.84,
-   "mos": -739.3,
+   "price": 322.24,
+   "mos": -761.8,
    "moat": "Narrow",
    "quality": 6.12,
-   "value_per_dollar": 0.119,
+   "value_per_dollar": 0.116,
    "interesting_below": 26.17,
    "scores": {
     "meaning": 7,
@@ -5203,11 +5203,11 @@
    "sector": "Technology",
    "verdict": "TOO_HARD",
    "score": 49,
-   "price": 216.9,
-   "mos": -2096.5,
+   "price": 226.61,
+   "mos": -2194.8,
    "moat": "Narrow",
    "quality": 5.88,
-   "value_per_dollar": 0.046,
+   "value_per_dollar": 0.044,
    "interesting_below": 6.91,
    "scores": {
     "meaning": 7,

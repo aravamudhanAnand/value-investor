@@ -42,7 +42,7 @@
     "value": 26.96,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 26.87,
+    "sector_median": 25.91,
     "sector_n": 10
    },
    {
@@ -51,7 +51,7 @@
     "value": null,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 26.83,
+    "sector_median": 25.14,
     "sector_n": 9
    },
    {
@@ -69,7 +69,7 @@
     "value": 0.0,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.33,
+    "sector_median": 1.43,
     "sector_n": 11
    }
   ],
@@ -88,12 +88,12 @@
    {
     "ticker": "MAR",
     "company": "Marriott International",
-    "value": 40.53
+    "value": 43.9
    },
    {
     "ticker": "TJX",
     "company": "TJX Companies",
-    "value": 26.81
+    "value": 24.88
    },
    {
     "ticker": "HD",

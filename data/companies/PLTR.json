@@ -60,7 +60,7 @@
     "value": 117.42,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 26.99,
+    "sector_median": 28.14,
     "sector_n": 28
    }
   ],
@@ -74,7 +74,7 @@
    {
     "ticker": "CRWD",
     "company": "CrowdStrike",
-    "value": 41.37
+    "value": 43.22
    }
   ]
  },

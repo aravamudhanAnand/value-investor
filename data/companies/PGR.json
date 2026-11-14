@@ -5,10 +5,10 @@
  "sector": "Financials",
  "is_financial": true,
  "as_of": "2026-11-12",
- "price_date": "2026-10-26",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 227.8,
- "market_cap": "$132.0B",
+ "price": 235.78,
+ "market_cap": "$136.6B",
  "verdict": "WATCHLIST",
  "overall_score": 76,
  "one_liner": "A narrow-moat business worth owning, but it trades at 1.2x fair value. Interesting below about $134.",
@@ -30,7 +30,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 11.48,
+    "value": 11.88,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 15.02,
@@ -39,10 +39,10 @@
    {
     "key": "pb",
     "label": "Price / book value",
-    "value": 3.83,
+    "value": 3.96,
     "unit": "x",
     "note": "Judge against return on equity",
-    "sector_median": 1.98,
+    "sector_median": 2.01,
     "sector_n": 14
    },
    {
@@ -57,7 +57,7 @@
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 0.18,
+    "value": 0.17,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
     "sector_median": 1.64,
@@ -109,7 +109,7 @@
    {
     "ticker": "CB",
     "company": "Chubb",
-    "value": 12.78
+    "value": 13.15
    },
    {
     "ticker": "C",
@@ -122,6 +122,11 @@
     "value": 12.15
    },
    {
+    "ticker": "PGR",
+    "company": "Progressive",
+    "value": 11.88
+   },
+   {
     "ticker": "USB",
     "company": "U.S. Bancorp",
     "value": 11.87
@@ -130,11 +135,6 @@
     "ticker": "COF",
     "company": "Capital One",
     "value": 11.55
-   },
-   {
-    "ticker": "PGR",
-    "company": "Progressive",
-    "value": 11.48
    }
   ]
  },
@@ -145,11 +145,11 @@
   "as_of": "2026-11-06",
   "low52": 189.2,
   "high52": 241.02,
-  "range_pos": 74,
-  "below_high": 5.5,
-  "target_vs_price": 2.0,
+  "range_pos": 90,
+  "below_high": 2.2,
+  "target_vs_price": -1.4,
   "target_vs_fair": 21.7,
-  "above_low": 20.4
+  "above_low": 24.6
  },
  "summary": {
   "sentence": "The data-driven car insurer that has been taking share, with margins near a cyclical high.",
@@ -392,13 +392,13 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "8.7%",
+      "value": "8.4%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Price to book",
-      "value": "3.83",
+      "value": "3.96",
       "threshold": "Compare with the justified P/B in M4",
       "pass": null
      }
@@ -416,38 +416,38 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "11.5"
+   "value": "11.9"
   },
   "secondary_metric": {
    "name": "Price-to-book",
-   "value": "3.8"
+   "value": "4.0"
   },
   "three_numbers": {
-   "pe": "11.5",
-   "forward_pe": "14.2",
+   "pe": "11.9",
+   "forward_pe": "14.7",
    "peg": null
   },
   "multiples": [
    {
     "name": "P/E",
-    "value": "11.5"
+    "value": "11.9"
    },
    {
     "name": "Forward P/E",
-    "value": "14.2"
+    "value": "14.7"
    },
    {
     "name": "P/B",
-    "value": "3.8"
+    "value": "4.0"
    },
    {
     "name": "P/S",
-    "value": "1.4"
+    "value": "1.5"
    }
   ],
   "intrinsic_value_low": 163.67,
   "intrinsic_value_high": 218.23,
-  "margin_of_safety_pct": -19.3,
+  "margin_of_safety_pct": -23.5,
   "interesting_below": 133.66,
   "method": "Banks are valued on book value, not free cash flow. Justified price-to-book = (ROE − 3% growth) ÷ (required return − 3%), using a normalised ROE of 25.0% (median of the last three fiscal years and TTM, capped at 25%) and a required return of 11% (low) to 9% (high): 2.75–3.67 × book value per share of $59.52.",
   "fair_value": 190.95,
@@ -493,19 +493,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "17.0x three-year average earnings ($13.40); 11.5x trailing",
+     "value": "17.6x three-year average earnings ($13.40); 11.9x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 44; Graham number $163 vs price $228",
+     "value": "P/E × P/B = 47; Graham number $163 vs price $236",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 8.7% vs 10-year Treasury 5.10%",
+     "value": "Earnings yield 8.4% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": true
     },
@@ -523,7 +523,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Earnings yield 8.8% vs 10-year Treasury 5.10%",
+     "value": "Earnings yield 8.5% vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": true
     },
@@ -595,7 +595,7 @@
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(30% EPS growth (capped) + 0.2% yield) ÷ P/E 11.5 = 2.63",
+     "value": "(30% EPS growth (capped) + 0.2% yield) ÷ P/E 11.9 = 2.54",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": true
     },
@@ -703,7 +703,7 @@
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -19%",
+     "value": "Margin of safety -23%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -715,13 +715,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($218); 28% downside to the low case",
+     "value": "No upside even to the high-case value ($218); 31% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -4.2,
-   "downside_pct": 28.2
+   "upside_pct": -7.4,
+   "downside_pct": 30.6
   }
  },
  "rules_of_the_road": [

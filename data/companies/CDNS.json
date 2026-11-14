@@ -5,13 +5,13 @@
  "sector": "Technology",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 319.92,
- "market_cap": "$87.8B",
+ "price": 323.01,
+ "market_cap": "$88.6B",
  "verdict": "WATCHLIST",
  "overall_score": 70,
- "one_liner": "A wide-moat business worth owning, but it trades at 3.7x fair value. Interesting below about $60.",
+ "one_liner": "A wide-moat business worth owning, but it trades at 3.8x fair value. Interesting below about $60.",
  "scores": {
   "meaning": 8,
   "moat": 9,
@@ -30,7 +30,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 63.6,
+    "value": 64.22,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 34.01,
@@ -39,7 +39,7 @@
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 33.95,
+    "value": 34.28,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
     "sector_median": 22.44,
@@ -48,19 +48,19 @@
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 49.87,
+    "value": 50.36,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 31.18,
+    "sector_median": 31.34,
     "sector_n": 16
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 40.11,
+    "value": 40.49,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 26.99,
+    "sector_median": 28.14,
     "sector_n": 28
    },
    {
@@ -69,7 +69,7 @@
     "value": 0.0,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 0.64,
+    "sector_median": 0.6,
     "sector_n": 26
    }
   ],
@@ -78,12 +78,12 @@
    {
     "ticker": "PANW",
     "company": "Palo Alto Networks",
-    "value": 784.6
+    "value": 805.6
    },
    {
     "ticker": "SNPS",
     "company": "Synopsys",
-    "value": 79.87
+    "value": 80.71
    },
    {
     "ticker": "NOW",
@@ -93,12 +93,12 @@
    {
     "ticker": "CDNS",
     "company": "Cadence Design Systems",
-    "value": 63.6
+    "value": 64.22
    },
    {
     "ticker": "ANET",
     "company": "Arista Networks",
-    "value": 45.79
+    "value": 52.89
    },
    {
     "ticker": "AVGO",
@@ -169,11 +169,11 @@
   "as_of": "2026-11-06",
   "low52": 262.75,
   "high52": 416.69,
-  "range_pos": 37,
-  "below_high": 23.2,
-  "target_vs_price": 28.7,
+  "range_pos": 39,
+  "below_high": 22.5,
+  "target_vs_price": 27.5,
   "target_vs_fair": 378.6,
-  "above_low": 21.8
+  "above_low": 22.9
  },
  "summary": {
   "sentence": "Half of the chip-design software duopoly, with steady growth and a premium price.",
@@ -523,7 +523,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "1.2%",
+      "value": "1.1%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -576,53 +576,53 @@
   "lifecycle_stage": "3 · Operating leverage",
   "primary_metric": {
    "name": "Forward P/E",
-   "value": "34.0"
+   "value": "34.3"
   },
   "secondary_metric": {
    "name": "P/FCF",
-   "value": "49.9"
+   "value": "50.4"
   },
   "three_numbers": {
-   "pe": "63.6",
-   "forward_pe": "34.0",
-   "peg": "1.95"
+   "pe": "64.2",
+   "forward_pe": "34.3",
+   "peg": "1.97"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "14.5"
+    "value": "14.7"
    },
    {
     "name": "EV/EBITDA",
-    "value": "40.1"
+    "value": "40.5"
    },
    {
     "name": "EV/EBIT",
-    "value": "48.4"
+    "value": "48.9"
    },
    {
     "name": "P/E",
-    "value": "63.6"
+    "value": "64.2"
    },
    {
     "name": "EV/FCF",
-    "value": "50.6"
+    "value": "51.1"
    },
    {
     "name": "P/FCF",
-    "value": "49.9"
+    "value": "50.4"
    },
    {
     "name": "P/B",
-    "value": "12.8"
+    "value": "12.9"
    }
   ],
-  "intrinsic_value_low": 74.1,
-  "intrinsic_value_high": 97.98,
-  "margin_of_safety_pct": -271.8,
-  "interesting_below": 60.23,
+  "intrinsic_value_low": 74.09,
+  "intrinsic_value_high": 97.97,
+  "margin_of_safety_pct": -275.5,
+  "interesting_below": 60.22,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $1.0B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 9–15% for five years, fading to 3%; operating margin held at 30%; cost of capital 9.5%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 86.04,
+  "fair_value": 86.03,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -632,8 +632,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 73.93,
-    "high": 91.43,
+    "low": 73.92,
+    "high": 91.41,
     "basis": "Sales grow 9–15% for five years, fading to 3%; operating margin held at 30%; cost of capital 9.5%. Cash added, debt subtracted."
    }
   ],
@@ -655,9 +655,9 @@
    "terminal_roc": 14.5,
    "revenue_now": "$6.1B",
    "revenue_year10": "$14.8B",
-   "low": 73.93,
-   "high": 91.43,
-   "implied_growth": 38.5,
+   "low": 73.92,
+   "high": 91.41,
+   "implied_growth": 38.6,
    "implied_note": null
   }
  },
@@ -692,13 +692,13 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "81.8x three-year average earnings ($3.91); 63.6x trailing",
+     "value": "82.6x three-year average earnings ($3.91); 64.2x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 811; Graham number $53 vs price $320",
+     "value": "P/E × P/B = 827; Graham number $53 vs price $323",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
@@ -788,13 +788,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 1.95",
+     "value": "PEG 1.97",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": null
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(13% EPS growth + 0.0% yield) ÷ P/E 63.6 = 0.20",
+     "value": "(13% EPS growth + 0.0% yield) ÷ P/E 64.2 = 0.20",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -896,13 +896,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price -2% over 52 weeks",
+     "value": "Share price +3% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -272%",
+     "value": "Margin of safety -275%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -919,8 +919,8 @@
      "pass": false
     }
    ],
-   "upside_pct": -69.4,
-   "downside_pct": 76.8
+   "upside_pct": -69.7,
+   "downside_pct": 77.1
   }
  },
  "rules_of_the_road": [

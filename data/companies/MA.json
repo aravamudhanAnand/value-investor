@@ -42,7 +42,7 @@
     "value": 29.73,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 23.89,
+    "sector_median": 24.46,
     "sector_n": 6
    },
    {
@@ -51,7 +51,7 @@
     "value": 35.82,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 30.6,
+    "sector_median": 31.05,
     "sector_n": 6
    },
    {
@@ -60,7 +60,7 @@
     "value": 25.6,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 20.01,
+    "sector_median": 20.59,
     "sector_n": 6
    },
    {
@@ -88,7 +88,7 @@
    {
     "ticker": "SPGI",
     "company": "S&P Global",
-    "value": 27.83
+    "value": 28.17
    },
    {
     "ticker": "BLK",
@@ -98,12 +98,12 @@
    {
     "ticker": "CME",
     "company": "CME Group",
-    "value": 25.19
+    "value": 26.08
    },
    {
     "ticker": "ICE",
     "company": "Intercontinental Exchange",
-    "value": 22.61
+    "value": 25.21
    }
   ]
  },

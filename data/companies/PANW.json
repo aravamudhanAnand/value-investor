@@ -5,10 +5,10 @@
  "sector": "Technology",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 313.84,
- "market_cap": "$256.3B",
+ "price": 322.24,
+ "market_cap": "$263.2B",
  "verdict": "TOO_HARD",
  "overall_score": 51,
  "one_liner": "Goes in the too-hard pile: its industry is changing too fast to predict. No verdict on price.",
@@ -30,7 +30,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 784.6,
+    "value": 805.6,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 34.01,
@@ -39,7 +39,7 @@
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 75.09,
+    "value": 77.1,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
     "sector_median": 22.44,
@@ -48,19 +48,19 @@
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 62.36,
+    "value": 64.03,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 31.18,
+    "sector_median": 31.34,
     "sector_n": 16
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 163.99,
+    "value": 168.38,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 26.99,
+    "sector_median": 28.14,
     "sector_n": 28
    },
    {
@@ -69,7 +69,7 @@
     "value": 0.0,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 0.64,
+    "sector_median": 0.6,
     "sector_n": 26
    }
   ],
@@ -78,12 +78,12 @@
    {
     "ticker": "PANW",
     "company": "Palo Alto Networks",
-    "value": 784.6
+    "value": 805.6
    },
    {
     "ticker": "SNPS",
     "company": "Synopsys",
-    "value": 79.87
+    "value": 80.71
    },
    {
     "ticker": "NOW",
@@ -93,12 +93,12 @@
    {
     "ticker": "CDNS",
     "company": "Cadence Design Systems",
-    "value": 63.6
+    "value": 64.22
    },
    {
     "ticker": "ANET",
     "company": "Arista Networks",
-    "value": 45.79
+    "value": 52.89
    },
    {
     "ticker": "AVGO",
@@ -169,11 +169,11 @@
   "as_of": "2026-10-27",
   "low52": 139.57,
   "high52": 432.33,
-  "range_pos": 60,
-  "below_high": 27.4,
-  "target_vs_price": 27.0,
+  "range_pos": 62,
+  "below_high": 25.5,
+  "target_vs_price": 23.7,
   "target_vs_fair": 965.8,
-  "above_low": 124.9
+  "above_low": 130.9
  },
  "summary": {
   "sentence": "A security platform consolidating its customers' tools, with cash flow far ahead of reported earnings.",
@@ -572,50 +572,50 @@
   "lifecycle_stage": "3 · Operating leverage",
   "primary_metric": {
    "name": "Forward P/E",
-   "value": "75.1"
+   "value": "77.1"
   },
   "secondary_metric": {
    "name": "P/FCF",
-   "value": "62.4"
+   "value": "64.0"
   },
   "three_numbers": {
-   "pe": "784.6",
-   "forward_pe": "75.1",
-   "peg": "4.30"
+   "pe": "805.6",
+   "forward_pe": "77.1",
+   "peg": "4.42"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "22.3"
+    "value": "22.9"
    },
    {
     "name": "EV/EBITDA",
-    "value": "164.0"
+    "value": "168.4"
    },
    {
     "name": "EV/EBIT",
-    "value": "316.2"
+    "value": "324.7"
    },
    {
     "name": "P/E",
-    "value": "784.6"
+    "value": "805.6"
    },
    {
     "name": "EV/FCF",
-    "value": "62.2"
+    "value": "63.9"
    },
    {
     "name": "P/FCF",
-    "value": "62.4"
+    "value": "64.0"
    },
    {
     "name": "P/B",
-    "value": "9.3"
+    "value": "9.6"
    }
   ],
   "intrinsic_value_low": 31.14,
   "intrinsic_value_high": 43.64,
-  "margin_of_safety_pct": -739.3,
+  "margin_of_safety_pct": -761.8,
   "interesting_below": 26.17,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $2.3B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 9–15% for five years, fading to 3%; operating margin held at 7%; cost of capital 10.7%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
   "fair_value": 37.39,
@@ -688,13 +688,13 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "166.9x three-year average earnings ($1.88); 784.6x trailing",
+     "value": "171.4x three-year average earnings ($1.88); 805.6x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 7316; Graham number $17 vs price $314",
+     "value": "P/E × P/B = 7713; Graham number $17 vs price $322",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
@@ -784,7 +784,7 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 4.30",
+     "value": "PEG 4.42",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
@@ -893,13 +893,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +47% over 52 weeks",
+     "value": "Share price +57% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -739%",
+     "value": "Margin of safety -762%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -916,8 +916,8 @@
      "pass": false
     }
    ],
-   "upside_pct": -86.1,
-   "downside_pct": 90.1
+   "upside_pct": -86.5,
+   "downside_pct": 90.3
   }
  },
  "rules_of_the_road": [
