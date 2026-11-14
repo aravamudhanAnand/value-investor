@@ -1,6 +1,6 @@
 # Value Investor
 
-**Business quality and fair value for large US companies.**
+**Business quality and fair value.**
 
 Pick one of 125 large US companies (the S&P 100, a first batch of other S&P 500 members, plus Waste Management and
 Sherwin-Williams) and see it assessed the way a value investor would: first on
