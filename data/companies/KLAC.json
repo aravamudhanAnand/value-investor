@@ -33,7 +33,7 @@
     "value": 30.28,
     "unit": "x",
     "note": "Judge at mid-cycle, not peak",
-    "sector_median": 23.69,
+    "sector_median": 25.75,
     "sector_n": 33
    },
    {
@@ -42,7 +42,7 @@
     "value": 38.18,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 33.95,
+    "sector_median": 34.13,
     "sector_n": 32
    },
    {
@@ -109,7 +109,7 @@
    {
     "ticker": "NXPI",
     "company": "NXP Semiconductors",
-    "value": 14.14
+    "value": 14.72
    },
    {
     "ticker": "MU",

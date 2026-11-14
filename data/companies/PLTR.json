@@ -51,7 +51,7 @@
     "value": 118.3,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 33.95,
+    "sector_median": 34.13,
     "sector_n": 32
    },
    {
@@ -60,7 +60,7 @@
     "value": 117.42,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 23.69,
+    "sector_median": 25.75,
     "sector_n": 33
    }
   ],

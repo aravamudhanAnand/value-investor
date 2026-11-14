@@ -5,13 +5,13 @@
  "sector": "Materials",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-10-28",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 292.41,
- "market_cap": "$82.0B",
+ "price": 309.27,
+ "market_cap": "$86.7B",
  "verdict": "WATCHLIST",
  "overall_score": 70,
- "one_liner": "A wide-moat business worth owning, but it trades at 2.5x fair value. Interesting below about $80.",
+ "one_liner": "A wide-moat business worth owning, but it trades at 2.7x fair value. Interesting below about $80.",
  "scores": {
   "meaning": 10,
   "moat": 8,
@@ -30,7 +30,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 39.25,
+    "value": 41.51,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 34.95,
@@ -39,7 +39,7 @@
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 34.05,
+    "value": 36.01,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
     "sector_median": 27.54,
@@ -48,16 +48,16 @@
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 43.83,
+    "value": 46.36,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 43.83,
+    "sector_median": 46.36,
     "sector_n": 3
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 21.92,
+    "value": 23.06,
     "unit": "x",
     "note": "Enterprise value includes debt",
     "sector_median": 20.62,
@@ -66,10 +66,10 @@
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 1.0,
+    "value": 0.94,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.0,
+    "sector_median": 0.94,
     "sector_n": 3
    }
   ],
@@ -78,7 +78,7 @@
    {
     "ticker": "ECL",
     "company": "Ecolab",
-    "value": 39.25
+    "value": 41.51
    },
    {
     "ticker": "LIN",
@@ -98,12 +98,12 @@
   "beta": 0.88,
   "as_of": "2026-10-28",
   "low52": 243.15,
-  "high52": 309.27,
-  "range_pos": 75,
-  "below_high": 5.5,
-  "target_vs_price": 12.9,
-  "target_vs_fair": 187.1,
-  "above_low": 20.3
+  "high52": 318.93,
+  "range_pos": 87,
+  "below_high": 3.0,
+  "target_vs_price": 6.7,
+  "target_vs_fair": 188.1,
+  "above_low": 27.2
  },
  "summary": {
   "sentence": "The hygiene and water-treatment leader, back to full margins and fully priced.",
@@ -435,7 +435,7 @@
     "rows": [
      {
       "name": "Dividend yield",
-      "value": "1.0%",
+      "value": "0.9%",
       "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
@@ -453,7 +453,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "1.5%",
+      "value": "1.4%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -476,19 +476,19 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "2.5%",
+      "value": "2.4%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "2.1%",
+      "value": "2.0%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "2.4%",
+      "value": "2.3%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
@@ -506,53 +506,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "39.2"
+   "value": "41.5"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "43.8"
+   "value": "46.4"
   },
   "three_numbers": {
-   "pe": "39.2",
-   "forward_pe": "34.0",
-   "peg": "2.54"
+   "pe": "41.5",
+   "forward_pe": "36.0",
+   "peg": "2.69"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "5.4"
+    "value": "5.7"
    },
    {
     "name": "EV/EBITDA",
-    "value": "21.9"
+    "value": "23.1"
    },
    {
     "name": "EV/EBIT",
-    "value": "29.2"
+    "value": "30.7"
    },
    {
     "name": "P/E",
-    "value": "39.2"
+    "value": "41.5"
    },
    {
     "name": "EV/FCF",
-    "value": "48.5"
+    "value": "51.1"
    },
    {
     "name": "P/FCF",
-    "value": "43.8"
+    "value": "46.4"
    },
    {
     "name": "P/B",
-    "value": "8.1"
+    "value": "8.6"
    }
   ],
-  "intrinsic_value_low": 98.39,
-  "intrinsic_value_high": 131.59,
-  "margin_of_safety_pct": -154.3,
-  "interesting_below": 80.5,
-  "method": "Fair value is the average of two methods: (1) Owner cash flow: $1.7B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 5–11% for five years, fading to 3%; operating margin held at 18%; cost of capital 8.3%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 115.0,
+  "intrinsic_value_low": 98.06,
+  "intrinsic_value_high": 131.12,
+  "margin_of_safety_pct": -169.9,
+  "interesting_below": 80.22,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $1.7B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 5–11% for five years, fading to 3%; operating margin held at 18%; cost of capital 8.4%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 114.59,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -562,9 +562,9 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 100.63,
-    "high": 127.5,
-    "basis": "Sales grow 5–11% for five years, fading to 3%; operating margin held at 18%; cost of capital 8.3%. Cash added, debt subtracted."
+    "low": 99.97,
+    "high": 126.56,
+    "basis": "Sales grow 5–11% for five years, fading to 3%; operating margin held at 18%; cost of capital 8.4%. Cash added, debt subtracted."
    }
   ],
   "stress_case": null,
@@ -579,15 +579,15 @@
    "beta": 0.85,
    "cost_of_equity": 8.9,
    "cost_of_debt": 4.9,
-   "debt_weight": 15,
-   "cost_of_capital": 8.3,
+   "debt_weight": 14,
+   "cost_of_capital": 8.4,
    "terminal_growth": 3.0,
-   "terminal_roc": 13.3,
+   "terminal_roc": 13.4,
    "revenue_now": "$16.8B",
    "revenue_year10": "$31.6B",
-   "low": 100.63,
-   "high": 127.5,
-   "implied_growth": 24.5,
+   "low": 99.97,
+   "high": 126.56,
+   "implied_growth": 25.6,
    "implied_note": null
   }
  },
@@ -610,7 +610,7 @@
     },
     {
      "name": "Dividend record",
-     "value": "$2.92 a share (1.0% yield)",
+     "value": "$2.92 a share (0.9% yield)",
      "threshold": "Pays a dividend",
      "pass": true
     },
@@ -622,19 +622,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "45.1x three-year average earnings ($6.48); 39.2x trailing",
+     "value": "47.7x three-year average earnings ($6.48); 41.5x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 319; Graham number $78 vs price $292",
+     "value": "P/E × P/B = 357; Graham number $78 vs price $309",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 2.5% vs 10-year Treasury 5.10%",
+     "value": "Earnings yield 2.4% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -652,7 +652,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $2.0B (net income + depreciation − capex) = 2.4% yield vs 10-year Treasury 5.10%",
+     "value": "Owner earnings $2.0B (net income + depreciation − capex) = 2.3% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -718,13 +718,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 2.54",
+     "value": "PEG 2.69",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(17% EPS growth + 1.0% yield) ÷ P/E 39.2 = 0.45",
+     "value": "(17% EPS growth + 0.9% yield) ÷ P/E 41.5 = 0.43",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -826,13 +826,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +4% over 52 weeks",
+     "value": "Share price +20% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -154%",
+     "value": "Margin of safety -170%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -844,13 +844,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($132); 66% downside to the low case",
+     "value": "No upside even to the high-case value ($131); 68% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -55.0,
-   "downside_pct": 66.4
+   "upside_pct": -57.6,
+   "downside_pct": 68.3
   }
  },
  "rules_of_the_road": [

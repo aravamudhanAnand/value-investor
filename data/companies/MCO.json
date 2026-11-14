@@ -5,10 +5,10 @@
  "sector": "Financials",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 505.67,
- "market_cap": "$87.2B",
+ "price": 508.2,
+ "market_cap": "$87.6B",
  "verdict": "WATCHLIST",
  "overall_score": 72,
  "one_liner": "A wide-moat business worth owning, but it trades at 1.8x fair value. Interesting below about $199.",
@@ -30,7 +30,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 30.89,
+    "value": 31.04,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 15.12,
@@ -39,7 +39,7 @@
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 28.06,
+    "value": 28.2,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
     "sector_median": 24.37,
@@ -48,7 +48,7 @@
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 29.26,
+    "value": 29.4,
     "unit": "x",
     "note": "Before deducting stock-based pay",
     "sector_median": 26.28,
@@ -57,7 +57,7 @@
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 23.01,
+    "value": 23.12,
     "unit": "x",
     "note": "Enterprise value includes debt",
     "sector_median": 17.84,
@@ -88,7 +88,7 @@
    {
     "ticker": "MCO",
     "company": "Moody's",
-    "value": 30.89
+    "value": 31.04
    },
    {
     "ticker": "SPGI",
@@ -113,7 +113,7 @@
    {
     "ticker": "AON",
     "company": "Aon",
-    "value": 18.45
+    "value": 18.64
    },
    {
     "ticker": "PYPL",
@@ -129,11 +129,11 @@
   "as_of": "2026-11-06",
   "low52": 402.28,
   "high52": 546.88,
-  "range_pos": 72,
-  "below_high": 7.5,
-  "target_vs_price": 9.3,
+  "range_pos": 73,
+  "below_high": 7.1,
+  "target_vs_price": 8.7,
   "target_vs_fair": 94.5,
-  "above_low": 25.7
+  "above_low": 26.3
  },
  "summary": {
   "sentence": "Half of the credit-rating duopoly: a superb business at a full price.",
@@ -513,7 +513,7 @@
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "3.2%",
+      "value": "3.1%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
@@ -537,16 +537,16 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "30.9"
+   "value": "31.0"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "29.3"
+   "value": "29.4"
   },
   "three_numbers": {
-   "pe": "30.9",
-   "forward_pe": "28.1",
-   "peg": "2.39"
+   "pe": "31.0",
+   "forward_pe": "28.2",
+   "peg": "2.40"
   },
   "multiples": [
    {
@@ -555,35 +555,35 @@
    },
    {
     "name": "EV/EBITDA",
-    "value": "23.0"
+    "value": "23.1"
    },
    {
     "name": "EV/EBIT",
-    "value": "24.8"
+    "value": "24.9"
    },
    {
     "name": "P/E",
-    "value": "30.9"
+    "value": "31.0"
    },
    {
     "name": "EV/FCF",
-    "value": "31.3"
+    "value": "31.4"
    },
    {
     "name": "P/FCF",
-    "value": "29.3"
+    "value": "29.4"
    },
    {
     "name": "P/B",
-    "value": "25.6"
+    "value": "25.7"
    }
   ],
-  "intrinsic_value_low": 238.23,
-  "intrinsic_value_high": 330.0,
-  "margin_of_safety_pct": -78.0,
-  "interesting_below": 198.88,
+  "intrinsic_value_low": 238.19,
+  "intrinsic_value_high": 329.96,
+  "margin_of_safety_pct": -78.9,
+  "interesting_below": 198.85,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $2.3B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 6–12% for five years, fading to 3%; operating margin held at 46%; cost of capital 8.6%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 284.12,
+  "fair_value": 284.08,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -593,8 +593,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 251.47,
-    "high": 342.71,
+    "low": 251.4,
+    "high": 342.61,
     "basis": "Sales grow 6–12% for five years, fading to 3%; operating margin held at 46%; cost of capital 8.6%. Cash added, debt subtracted."
    }
   ],
@@ -616,9 +616,9 @@
    "terminal_roc": 13.6,
    "revenue_now": "$8.2B",
    "revenue_year10": "$16.4B",
-   "low": 251.47,
-   "high": 342.71,
-   "implied_growth": 19.7,
+   "low": 251.4,
+   "high": 342.61,
+   "implied_growth": 19.8,
    "implied_note": null
   }
  },
@@ -653,13 +653,13 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "45.1x three-year average earnings ($11.22); 30.9x trailing",
+     "value": "45.3x three-year average earnings ($11.22); 31.0x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 790; Graham number $85 vs price $506",
+     "value": "P/E × P/B = 798; Graham number $85 vs price $508",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
@@ -749,13 +749,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 2.39",
+     "value": "PEG 2.40",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(4% EPS growth + 0.8% yield) ÷ P/E 30.9 = 0.15",
+     "value": "(4% EPS growth + 0.8% yield) ÷ P/E 31.0 = 0.15",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -857,13 +857,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price -1% over 52 weeks",
+     "value": "Share price +6% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -78%",
+     "value": "Margin of safety -79%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -880,8 +880,8 @@
      "pass": false
     }
    ],
-   "upside_pct": -34.7,
-   "downside_pct": 52.9
+   "upside_pct": -35.1,
+   "downside_pct": 53.1
   }
  },
  "rules_of_the_road": [

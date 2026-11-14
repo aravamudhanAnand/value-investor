@@ -5,13 +5,13 @@
  "sector": "Consumer discretionary",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-10-27",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 343.19,
- "market_cap": "$77.2B",
+ "price": 373.09,
+ "market_cap": "$84.0B",
  "verdict": "WATCHLIST",
  "overall_score": 62,
- "one_liner": "A wide-moat business worth owning, but it trades at 2.6x fair value. Interesting below about $91.",
+ "one_liner": "A wide-moat business worth owning, but it trades at 2.9x fair value. Interesting below about $90.",
  "scores": {
   "meaning": 9,
   "moat": 8,
@@ -30,7 +30,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 46.44,
+    "value": 50.49,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 24.88,
@@ -39,25 +39,25 @@
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 35.1,
+    "value": 38.16,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 26.62,
+    "sector_median": 27.05,
     "sector_n": 16
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 38.05,
+    "value": 41.36,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 26.81,
+    "sector_median": 26.83,
     "sector_n": 15
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 28.03,
+    "value": 30.12,
     "unit": "x",
     "note": "Enterprise value includes debt",
     "sector_median": 17.54,
@@ -66,10 +66,10 @@
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 0.17,
+    "value": 0.16,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 0.76,
+    "sector_median": 0.77,
     "sector_n": 17
    }
   ],
@@ -88,7 +88,7 @@
    {
     "ticker": "HLT",
     "company": "Hilton Worldwide",
-    "value": 46.44
+    "value": 50.49
    },
    {
     "ticker": "MAR",
@@ -98,22 +98,22 @@
    {
     "ticker": "ABNB",
     "company": "Airbnb",
-    "value": 37.19
-   },
-   {
-    "ticker": "ORLY",
-    "company": "O'Reilly Automotive",
-    "value": 28.9
-   },
-   {
-    "ticker": "ROST",
-    "company": "Ross Stores",
-    "value": 28.31
+    "value": 42.26
    },
    {
     "ticker": "CMG",
     "company": "Chipotle Mexican Grill",
-    "value": 25.94
+    "value": 32.67
+   },
+   {
+    "ticker": "ORLY",
+    "company": "O'Reilly Automotive",
+    "value": 29.27
+   },
+   {
+    "ticker": "ROST",
+    "company": "Ross Stores",
+    "value": 28.01
    },
    {
     "ticker": "TJX",
@@ -138,7 +138,7 @@
    {
     "ticker": "AZO",
     "company": "AutoZone",
-    "value": 20.91
+    "value": 21.37
    },
    {
     "ticker": "LOW",
@@ -162,13 +162,13 @@
   "target": 355.96,
   "beta": 1.1,
   "as_of": "2026-10-27",
-  "low52": 253.54,
-  "high52": 364.5,
-  "range_pos": 81,
-  "below_high": 5.8,
-  "target_vs_price": 3.7,
-  "target_vs_fair": 174.3,
-  "above_low": 35.4
+  "low52": 263.95,
+  "high52": 381.34,
+  "range_pos": 93,
+  "below_high": 2.2,
+  "target_vs_price": -4.6,
+  "target_vs_fair": 175.9,
+  "above_low": 41.3
  },
  "summary": {
   "sentence": "A capital-light hotel franchisor: growing fees, negative equity, cyclical demand.",
@@ -518,7 +518,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "4.4%",
+      "value": "4.0%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -541,19 +541,19 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "2.2%",
+      "value": "2.0%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "2.4%",
+      "value": "2.2%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "2.3%",
+      "value": "2.2%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
@@ -571,53 +571,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "46.4"
+   "value": "50.5"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "38.0"
+   "value": "41.4"
   },
   "three_numbers": {
-   "pe": "46.4",
-   "forward_pe": "35.1",
+   "pe": "50.5",
+   "forward_pe": "38.2",
    "peg": null
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "7.1"
+    "value": "7.6"
    },
    {
     "name": "EV/EBITDA",
-    "value": "28.0"
+    "value": "30.1"
    },
    {
     "name": "EV/EBIT",
-    "value": "29.8"
+    "value": "32.0"
    },
    {
     "name": "P/E",
-    "value": "46.4"
+    "value": "50.5"
    },
    {
     "name": "EV/FCF",
-    "value": "44.5"
+    "value": "47.8"
    },
    {
     "name": "P/FCF",
-    "value": "38.0"
+    "value": "41.4"
    },
    {
     "name": "P/B",
     "value": "n/a"
    }
   ],
-  "intrinsic_value_low": 108.72,
-  "intrinsic_value_high": 150.82,
-  "margin_of_safety_pct": -164.5,
-  "interesting_below": 90.84,
+  "intrinsic_value_low": 108.12,
+  "intrinsic_value_high": 149.96,
+  "margin_of_safety_pct": -189.1,
+  "interesting_below": 90.33,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $1.8B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 5–11% for five years, fading to 3%; operating margin held at 24%; cost of capital 8.9%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 129.77,
+  "fair_value": 129.04,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -627,8 +627,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 91.8,
-    "high": 124.34,
+    "low": 90.59,
+    "high": 122.62,
     "basis": "Sales grow 5–11% for five years, fading to 3%; operating margin held at 24%; cost of capital 8.9%. Cash added, debt subtracted."
    }
   ],
@@ -644,15 +644,15 @@
    "beta": 1.0,
    "cost_of_equity": 9.6,
    "cost_of_debt": 4.9,
-   "debt_weight": 15,
+   "debt_weight": 14,
    "cost_of_capital": 8.9,
    "terminal_growth": 3.0,
    "terminal_roc": 13.9,
    "revenue_now": "$12.7B",
    "revenue_year10": "$23.8B",
-   "low": 91.8,
-   "high": 124.34,
-   "implied_growth": 26.9,
+   "low": 90.59,
+   "high": 122.62,
+   "implied_growth": 28.5,
    "implied_note": null
   }
  },
@@ -687,7 +687,7 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "62.1x three-year average earnings ($5.53); 46.4x trailing",
+     "value": "67.5x three-year average earnings ($5.53); 50.5x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
@@ -699,7 +699,7 @@
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 2.2% vs 10-year Treasury 5.10%",
+     "value": "Earnings yield 2.0% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -717,7 +717,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $1.8B (net income + depreciation − capex) = 2.3% yield vs 10-year Treasury 5.10%",
+     "value": "Owner earnings $1.8B (net income + depreciation − capex) = 2.2% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -789,7 +789,7 @@
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(30% EPS growth (capped) + 0.2% yield) ÷ P/E 46.4 = 0.65",
+     "value": "(30% EPS growth (capped) + 0.2% yield) ÷ P/E 50.5 = 0.60",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -892,13 +892,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +31% over 52 weeks",
+     "value": "Share price +38% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -164%",
+     "value": "Margin of safety -189%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -910,13 +910,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($151); 68% downside to the low case",
+     "value": "No upside even to the high-case value ($150); 71% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -56.1,
-   "downside_pct": 68.3
+   "upside_pct": -59.8,
+   "downside_pct": 71.0
   }
  },
  "rules_of_the_road": [

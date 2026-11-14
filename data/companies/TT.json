@@ -5,13 +5,13 @@
  "sector": "Industrials",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-10-26",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 455.03,
- "market_cap": "$101.3B",
+ "price": 417.99,
+ "market_cap": "$93.0B",
  "verdict": "WATCHLIST",
  "overall_score": 72,
- "one_liner": "A wide-moat business worth owning, but it trades at 2.1x fair value. Interesting below about $151.",
+ "one_liner": "A wide-moat business worth owning, but it trades at 1.9x fair value. Interesting below about $151.",
  "scores": {
   "meaning": 9,
   "moat": 8,
@@ -30,7 +30,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 36.11,
+    "value": 33.17,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 27.48,
@@ -39,7 +39,7 @@
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 31.25,
+    "value": 28.71,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
     "sector_median": 24.54,
@@ -48,25 +48,25 @@
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 36.03,
+    "value": 33.1,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 26.91,
+    "sector_median": 28.04,
     "sector_n": 13
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 25.82,
+    "value": 23.8,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 17.39,
+    "sector_median": 17.49,
     "sector_n": 24
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 0.83,
+    "value": 0.9,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
     "sector_median": 1.33,
@@ -78,12 +78,12 @@
    {
     "ticker": "CTAS",
     "company": "Cintas",
-    "value": 43.86
+    "value": 44.62
    },
    {
-    "ticker": "TT",
-    "company": "Trane Technologies",
-    "value": 36.11
+    "ticker": "RSG",
+    "company": "Republic Services",
+    "value": 35.83
    },
    {
     "ticker": "ETN",
@@ -91,9 +91,9 @@
     "value": 35.26
    },
    {
-    "ticker": "RSG",
-    "company": "Republic Services",
-    "value": 34.18
+    "ticker": "TT",
+    "company": "Trane Technologies",
+    "value": 33.17
    },
    {
     "ticker": "PH",
@@ -118,7 +118,7 @@
    {
     "ticker": "ITW",
     "company": "Illinois Tool Works",
-    "value": 24.99
+    "value": 26.04
    },
    {
     "ticker": "GD",
@@ -133,7 +133,7 @@
    {
     "ticker": "NOC",
     "company": "Northrop Grumman",
-    "value": 17.51
+    "value": 17.36
    },
    {
     "ticker": "UBER",
@@ -149,11 +149,11 @@
   "as_of": "2026-10-26",
   "low52": 348.06,
   "high52": 505.87,
-  "range_pos": 68,
-  "below_high": 10.1,
-  "target_vs_price": 16.3,
-  "target_vs_fair": 145.3,
-  "above_low": 30.7
+  "range_pos": 44,
+  "below_high": 17.4,
+  "target_vs_price": 26.6,
+  "target_vs_fair": 145.0,
+  "above_low": 20.1
  },
  "summary": {
   "sentence": "A climate-control leader with rising margins and a data-centre tailwind, priced accordingly.",
@@ -486,7 +486,7 @@
     "rows": [
      {
       "name": "Dividend yield",
-      "value": "0.8%",
+      "value": "0.9%",
       "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
@@ -504,7 +504,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "1.3%",
+      "value": "1.5%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -527,19 +527,19 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "2.8%",
+      "value": "3.0%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "2.7%",
+      "value": "2.9%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "2.8%",
+      "value": "3.0%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
@@ -557,53 +557,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "36.1"
+   "value": "33.2"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "36.0"
+   "value": "33.1"
   },
   "three_numbers": {
-   "pe": "36.1",
-   "forward_pe": "31.2",
-   "peg": "2.75"
+   "pe": "33.2",
+   "forward_pe": "28.7",
+   "peg": "2.53"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "5.1"
+    "value": "4.7"
    },
    {
     "name": "EV/EBITDA",
-    "value": "25.8"
+    "value": "23.8"
    },
    {
     "name": "EV/EBIT",
-    "value": "28.3"
+    "value": "26.0"
    },
    {
     "name": "P/E",
-    "value": "36.1"
+    "value": "33.2"
    },
    {
     "name": "EV/FCF",
-    "value": "37.4"
+    "value": "34.5"
    },
    {
     "name": "P/FCF",
-    "value": "36.0"
+    "value": "33.1"
    },
    {
     "name": "P/B",
-    "value": "12.9"
+    "value": "11.8"
    }
   ],
-  "intrinsic_value_low": 184.02,
-  "intrinsic_value_high": 247.36,
-  "margin_of_safety_pct": -111.0,
-  "interesting_below": 150.98,
+  "intrinsic_value_low": 184.27,
+  "intrinsic_value_high": 247.7,
+  "margin_of_safety_pct": -93.5,
+  "interesting_below": 151.19,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $2.7B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 6–12% for five years, fading to 3%; operating margin held at 18%; cost of capital 9.4%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 215.69,
+  "fair_value": 215.99,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -613,8 +613,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 164.91,
-    "high": 208.23,
+    "low": 165.4,
+    "high": 208.92,
     "basis": "Sales grow 6–12% for five years, fading to 3%; operating margin held at 18%; cost of capital 9.4%. Cash added, debt subtracted."
    }
   ],
@@ -630,15 +630,15 @@
    "beta": 1.0,
    "cost_of_equity": 9.6,
    "cost_of_debt": 4.9,
-   "debt_weight": 4,
+   "debt_weight": 5,
    "cost_of_capital": 9.4,
    "terminal_growth": 3.0,
    "terminal_roc": 14.4,
    "revenue_now": "$20.8B",
    "revenue_year10": "$41.5B",
-   "low": 164.91,
-   "high": 208.23,
-   "implied_growth": 27.6,
+   "low": 165.4,
+   "high": 208.92,
+   "implied_growth": 26.0,
    "implied_note": null
   }
  },
@@ -661,7 +661,7 @@
     },
     {
      "name": "Dividend record",
-     "value": "$3.76 a share (0.8% yield)",
+     "value": "$3.76 a share (0.9% yield)",
      "threshold": "Pays a dividend",
      "pass": true
     },
@@ -673,19 +673,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "41.4x three-year average earnings ($11.00); 36.1x trailing",
+     "value": "38.0x three-year average earnings ($11.00); 33.2x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 465; Graham number $100 vs price $455",
+     "value": "P/E × P/B = 393; Graham number $100 vs price $418",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 2.8% vs 10-year Treasury 5.10%",
+     "value": "Earnings yield 3.0% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -703,7 +703,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $2.8B (net income + depreciation − capex) = 2.8% yield vs 10-year Treasury 5.10%",
+     "value": "Owner earnings $2.8B (net income + depreciation − capex) = 3.0% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -769,13 +769,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 2.75",
+     "value": "PEG 2.53",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(22% EPS growth + 0.8% yield) ÷ P/E 36.1 = 0.63",
+     "value": "(22% EPS growth + 0.9% yield) ÷ P/E 33.2 = 0.69",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -877,13 +877,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +31% over 52 weeks",
+     "value": "Share price -0% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -111%",
+     "value": "Margin of safety -94%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -895,13 +895,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($247); 60% downside to the low case",
+     "value": "No upside even to the high-case value ($248); 56% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -45.6,
-   "downside_pct": 59.6
+   "upside_pct": -40.7,
+   "downside_pct": 55.9
   }
  },
  "rules_of_the_road": [

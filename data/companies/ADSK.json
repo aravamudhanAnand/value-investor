@@ -5,10 +5,10 @@
  "sector": "Technology",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 261.72,
- "market_cap": "$54.7B",
+ "price": 264.42,
+ "market_cap": "$55.3B",
  "verdict": "WATCHLIST",
  "overall_score": 68,
  "one_liner": "A wide-moat business worth owning, but it trades at 1.9x fair value. Interesting below about $99.",
@@ -30,16 +30,16 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 33.9,
+    "value": 34.25,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 33.95,
+    "sector_median": 34.13,
     "sector_n": 32
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 20.13,
+    "value": 20.34,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
     "sector_median": 22.44,
@@ -48,19 +48,19 @@
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 19.26,
+    "value": 19.46,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 29.63,
+    "sector_median": 30.23,
     "sector_n": 20
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 23.69,
+    "value": 23.94,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 23.69,
+    "sector_median": 25.75,
     "sector_n": 33
    },
    {
@@ -106,9 +106,14 @@
     "value": 44.32
    },
    {
+    "ticker": "MSI",
+    "company": "Motorola Solutions",
+    "value": 41.83
+   },
+   {
     "ticker": "FTNT",
     "company": "Fortinet",
-    "value": 41.86
+    "value": 41.58
    },
    {
     "ticker": "AAPL",
@@ -116,19 +121,14 @@
     "value": 39.67
    },
    {
-    "ticker": "MSI",
-    "company": "Motorola Solutions",
-    "value": 37.94
+    "ticker": "ADSK",
+    "company": "Autodesk",
+    "value": 34.25
    },
    {
     "ticker": "APH",
     "company": "Amphenol",
     "value": 34.01
-   },
-   {
-    "ticker": "ADSK",
-    "company": "Autodesk",
-    "value": 33.9
    },
    {
     "ticker": "CSCO",
@@ -166,14 +166,14 @@
     "value": 19.65
    },
    {
+    "ticker": "ROP",
+    "company": "Roper Technologies",
+    "value": 19.1
+   },
+   {
     "ticker": "ACN",
     "company": "Accenture",
     "value": 18.47
-   },
-   {
-    "ticker": "ROP",
-    "company": "Roper Technologies",
-    "value": 17.57
    },
    {
     "ticker": "ADBE",
@@ -189,11 +189,11 @@
   "as_of": "2026-11-06",
   "low52": 185.5,
   "high52": 320.0,
-  "range_pos": 57,
-  "below_high": 18.2,
-  "target_vs_price": 17.5,
-  "target_vs_fair": 117.6,
-  "above_low": 41.1
+  "range_pos": 59,
+  "below_high": 17.4,
+  "target_vs_price": 16.3,
+  "target_vs_fair": 117.7,
+  "above_low": 42.5
  },
  "summary": {
   "sentence": "The design-software standard for building and manufacturing, paid heavily in stock.",
@@ -543,7 +543,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "3.4%",
+      "value": "3.3%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -578,7 +578,7 @@
      },
      {
       "name": "Owner-earnings yield",
-      "value": "3.1%",
+      "value": "3.0%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
@@ -596,16 +596,16 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "33.9"
+   "value": "34.3"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "19.3"
+   "value": "19.5"
   },
   "three_numbers": {
-   "pe": "33.9",
-   "forward_pe": "20.1",
-   "peg": "1.24"
+   "pe": "34.3",
+   "forward_pe": "20.3",
+   "peg": "1.25"
   },
   "multiples": [
    {
@@ -614,35 +614,35 @@
    },
    {
     "name": "EV/EBITDA",
-    "value": "23.7"
+    "value": "23.9"
    },
    {
     "name": "EV/EBIT",
-    "value": "24.8"
+    "value": "25.0"
    },
    {
     "name": "P/E",
-    "value": "33.9"
+    "value": "34.3"
    },
    {
     "name": "EV/FCF",
-    "value": "19.1"
-   },
-   {
-    "name": "P/FCF",
     "value": "19.3"
    },
    {
+    "name": "P/FCF",
+    "value": "19.5"
+   },
+   {
     "name": "P/B",
-    "value": "16.2"
+    "value": "16.4"
    }
   ],
-  "intrinsic_value_low": 119.81,
-  "intrinsic_value_high": 162.8,
-  "margin_of_safety_pct": -85.2,
-  "interesting_below": 98.91,
+  "intrinsic_value_low": 119.78,
+  "intrinsic_value_high": 162.76,
+  "margin_of_safety_pct": -87.2,
+  "interesting_below": 98.89,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $1.3B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 7–13% for five years, fading to 3%; operating margin held at 28%; cost of capital 9.3%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 141.3,
+  "fair_value": 141.27,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -652,8 +652,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 133.57,
-    "high": 176.14,
+    "low": 133.51,
+    "high": 176.06,
     "basis": "Sales grow 7–13% for five years, fading to 3%; operating margin held at 28%; cost of capital 9.3%. Cash added, debt subtracted."
    }
   ],
@@ -675,9 +675,9 @@
    "terminal_roc": 14.3,
    "revenue_now": "$7.8B",
    "revenue_year10": "$16.6B",
-   "low": 133.57,
-   "high": 176.14,
-   "implied_growth": 21.5,
+   "low": 133.51,
+   "high": 176.06,
+   "implied_growth": 21.8,
    "implied_note": null
   }
  },
@@ -712,13 +712,13 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "54.0x three-year average earnings ($4.85); 33.9x trailing",
+     "value": "54.6x three-year average earnings ($4.85); 34.3x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 549; Graham number $53 vs price $262",
+     "value": "P/E × P/B = 560; Graham number $53 vs price $264",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
@@ -742,7 +742,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $1.7B (net income + depreciation − capex) = 3.1% yield vs 10-year Treasury 5.10%",
+     "value": "Owner earnings $1.7B (net income + depreciation − capex) = 3.0% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -808,13 +808,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 1.24",
+     "value": "PEG 1.25",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": null
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(24% EPS growth + 0.0% yield) ÷ P/E 33.9 = 0.70",
+     "value": "(24% EPS growth + 0.0% yield) ÷ P/E 34.3 = 0.69",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -916,13 +916,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price -13% over 52 weeks",
+     "value": "Share price -12% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -85%",
+     "value": "Margin of safety -87%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -934,13 +934,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($163); 54% downside to the low case",
+     "value": "No upside even to the high-case value ($163); 55% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -37.8,
-   "downside_pct": 54.2
+   "upside_pct": -38.4,
+   "downside_pct": 54.7
   }
  },
  "rules_of_the_road": [

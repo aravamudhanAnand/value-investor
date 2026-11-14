@@ -51,7 +51,7 @@
     "value": 47.54,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 43.83,
+    "sector_median": 46.36,
     "sector_n": 3
    },
    {
@@ -69,7 +69,7 @@
     "value": 1.22,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.0,
+    "sector_median": 0.94,
     "sector_n": 3
    }
   ],
@@ -78,7 +78,7 @@
    {
     "ticker": "ECL",
     "company": "Ecolab",
-    "value": 39.25
+    "value": 41.51
    },
    {
     "ticker": "LIN",

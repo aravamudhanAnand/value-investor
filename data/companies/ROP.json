@@ -5,13 +5,13 @@
  "sector": "Technology",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-10-26",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 441.65,
- "market_cap": "$43.7B",
+ "price": 479.98,
+ "market_cap": "$47.5B",
  "verdict": "WATCHLIST",
  "overall_score": 62,
- "one_liner": "A narrow-moat business worth owning, but it trades at 1.5x fair value. Interesting below about $203.",
+ "one_liner": "A narrow-moat business worth owning, but it trades at 1.7x fair value. Interesting below about $202.",
  "scores": {
   "meaning": 8,
   "moat": 7,
@@ -30,16 +30,16 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 17.57,
+    "value": 19.1,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 33.95,
+    "sector_median": 34.13,
     "sector_n": 32
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 18.24,
+    "value": 19.82,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
     "sector_median": 22.44,
@@ -48,25 +48,25 @@
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 16.95,
+    "value": 18.42,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 29.63,
+    "sector_median": 30.23,
     "sector_n": 20
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 16.15,
+    "value": 17.3,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 23.69,
+    "sector_median": 25.75,
     "sector_n": 33
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 0.82,
+    "value": 0.76,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
     "sector_median": 0.61,
@@ -106,9 +106,14 @@
     "value": 44.32
    },
    {
+    "ticker": "MSI",
+    "company": "Motorola Solutions",
+    "value": 41.83
+   },
+   {
     "ticker": "FTNT",
     "company": "Fortinet",
-    "value": 41.86
+    "value": 41.58
    },
    {
     "ticker": "AAPL",
@@ -116,19 +121,14 @@
     "value": 39.67
    },
    {
-    "ticker": "MSI",
-    "company": "Motorola Solutions",
-    "value": 37.94
+    "ticker": "ADSK",
+    "company": "Autodesk",
+    "value": 34.25
    },
    {
     "ticker": "APH",
     "company": "Amphenol",
     "value": 34.01
-   },
-   {
-    "ticker": "ADSK",
-    "company": "Autodesk",
-    "value": 33.9
    },
    {
     "ticker": "CSCO",
@@ -166,14 +166,14 @@
     "value": 19.65
    },
    {
+    "ticker": "ROP",
+    "company": "Roper Technologies",
+    "value": 19.1
+   },
+   {
     "ticker": "ACN",
     "company": "Accenture",
     "value": 18.47
-   },
-   {
-    "ticker": "ROP",
-    "company": "Roper Technologies",
-    "value": 17.57
    },
    {
     "ticker": "ADBE",
@@ -188,12 +188,12 @@
   "beta": 0.75,
   "as_of": "2026-10-26",
   "low52": 305.96,
-  "high52": 476.53,
-  "range_pos": 80,
-  "below_high": 7.3,
-  "target_vs_price": 4.8,
-  "target_vs_fair": 59.7,
-  "above_low": 44.3
+  "high52": 507.24,
+  "range_pos": 86,
+  "below_high": 5.4,
+  "target_vs_price": -3.6,
+  "target_vs_fair": 60.4,
+  "above_low": 56.9
  },
  "summary": {
   "sentence": "A disciplined buyer of niche software businesses whose returns depend on the next deal.",
@@ -542,7 +542,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "7.4%",
+      "value": "6.8%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -565,19 +565,19 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "5.7%",
+      "value": "5.2%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "5.5%",
+      "value": "5.0%",
       "threshold": "≥ 10-year Treasury (5.10%)",
-      "pass": true
+      "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "7.9%",
+      "value": "7.3%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      }
@@ -585,7 +585,7 @@
    }
   ],
   "ratio_summary": {
-   "passed": 21,
+   "passed": 20,
    "total": 29
   },
   "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
@@ -595,53 +595,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "17.6"
+   "value": "19.1"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "16.9"
+   "value": "18.4"
   },
   "three_numbers": {
-   "pe": "17.6",
-   "forward_pe": "18.2",
-   "peg": "2.52"
+   "pe": "19.1",
+   "forward_pe": "19.8",
+   "peg": "2.74"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "6.3"
+    "value": "6.8"
    },
    {
     "name": "EV/EBITDA",
-    "value": "16.1"
+    "value": "17.3"
    },
    {
     "name": "EV/EBIT",
-    "value": "22.4"
+    "value": "24.0"
    },
    {
     "name": "P/E",
-    "value": "17.6"
+    "value": "19.1"
    },
    {
     "name": "EV/FCF",
-    "value": "20.6"
+    "value": "22.1"
    },
    {
     "name": "P/FCF",
-    "value": "16.9"
+    "value": "18.4"
    },
    {
     "name": "P/B",
-    "value": "2.3"
+    "value": "2.5"
    }
   ],
-  "intrinsic_value_low": 241.37,
-  "intrinsic_value_high": 338.05,
-  "margin_of_safety_pct": -52.4,
-  "interesting_below": 202.8,
+  "intrinsic_value_low": 240.29,
+  "intrinsic_value_high": 336.53,
+  "margin_of_safety_pct": -66.4,
+  "interesting_below": 201.89,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $2.3B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 5–11% for five years, fading to 3%; operating margin held at 28%; cost of capital 8.8%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 289.71,
+  "fair_value": 288.41,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -651,8 +651,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 123.66,
-    "high": 169.43,
+    "low": 121.51,
+    "high": 166.39,
     "basis": "Sales grow 5–11% for five years, fading to 3%; operating margin held at 28%; cost of capital 8.8%. Cash added, debt subtracted."
    }
   ],
@@ -668,15 +668,15 @@
    "beta": 1.0,
    "cost_of_equity": 9.6,
    "cost_of_debt": 4.9,
-   "debt_weight": 18,
+   "debt_weight": 17,
    "cost_of_capital": 8.8,
    "terminal_growth": 3.0,
    "terminal_roc": 10.8,
    "revenue_now": "$8.4B",
    "revenue_year10": "$15.8B",
-   "low": 123.66,
-   "high": 169.43,
-   "implied_growth": 23.4,
+   "low": 121.51,
+   "high": 166.39,
+   "implied_growth": 24.9,
    "implied_note": null
   }
  },
@@ -711,19 +711,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "32.0x three-year average earnings ($13.81); 17.6x trailing",
+     "value": "34.7x three-year average earnings ($13.81); 19.1x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 40; Graham number $331 vs price $442",
+     "value": "P/E × P/B = 47; Graham number $331 vs price $480",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 5.7% vs 10-year Treasury 5.10%",
+     "value": "Earnings yield 5.2% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": true
     },
@@ -741,7 +741,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $3.5B (net income + depreciation − capex) = 7.9% yield vs 10-year Treasury 5.10%",
+     "value": "Owner earnings $3.5B (net income + depreciation − capex) = 7.3% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": true
     },
@@ -807,13 +807,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 2.52",
+     "value": "PEG 2.74",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(7% EPS growth + 0.8% yield) ÷ P/E 17.6 = 0.45",
+     "value": "(7% EPS growth + 0.8% yield) ÷ P/E 19.1 = 0.41",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -915,13 +915,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price -8% over 52 weeks",
+     "value": "Share price +7% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -52%",
+     "value": "Margin of safety -66%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -933,13 +933,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($338); 45% downside to the low case",
+     "value": "No upside even to the high-case value ($337); 50% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -23.5,
-   "downside_pct": 45.3
+   "upside_pct": -29.9,
+   "downside_pct": 49.9
   }
  },
  "rules_of_the_road": [

@@ -33,7 +33,7 @@
     "value": 8.96,
     "unit": "x",
     "note": "Judge at mid-cycle, not peak",
-    "sector_median": 17.39,
+    "sector_median": 17.49,
     "sector_n": 24
    },
    {
@@ -51,7 +51,7 @@
     "value": 6.67,
     "unit": "%",
     "note": "Free cash flow ÷ market value",
-    "sector_median": 3.63,
+    "sector_median": 3.61,
     "sector_n": 12
    },
    {
@@ -92,6 +92,11 @@
     "value": 17.23
    },
    {
+    "ticker": "CSX",
+    "company": "CSX",
+    "value": 15.91
+   },
+   {
     "ticker": "MMM",
     "company": "3M",
     "value": 15.86
@@ -100,11 +105,6 @@
     "ticker": "UNP",
     "company": "Union Pacific",
     "value": 15.64
-   },
-   {
-    "ticker": "CSX",
-    "company": "CSX",
-    "value": 15.16
    },
    {
     "ticker": "HON",

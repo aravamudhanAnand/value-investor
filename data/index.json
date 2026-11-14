@@ -55,12 +55,12 @@
    "sector": "Health care",
    "verdict": "WATCHLIST",
    "score": 80,
-   "price": 80.97,
-   "mos": 23.0,
+   "price": 83.82,
+   "mos": 20.1,
    "moat": "Wide",
    "quality": 7.94,
-   "value_per_dollar": 1.299,
-   "interesting_below": 73.61,
+   "value_per_dollar": 1.251,
+   "interesting_below": 73.41,
    "scores": {
     "meaning": 9,
     "moat": 8,
@@ -71,7 +71,7 @@
    },
    "lenses": {
     "graham": [
-     7,
+     6,
      8
     ],
     "buffett": [
@@ -231,12 +231,12 @@
    "sector": "Industrials",
    "verdict": "WATCHLIST",
    "score": 77,
-   "price": 222.36,
-   "mos": -147.5,
+   "price": 226.24,
+   "mos": -151.9,
    "moat": "Wide",
    "quality": 9.38,
-   "value_per_dollar": 0.404,
-   "interesting_below": 62.89,
+   "value_per_dollar": 0.397,
+   "interesting_below": 62.88,
    "scores": {
     "meaning": 10,
     "moat": 9,
@@ -495,12 +495,12 @@
    "sector": "Consumer discretionary",
    "verdict": "WATCHLIST",
    "score": 74,
-   "price": 3190.07,
-   "mos": -21.6,
+   "price": 3259.7,
+   "mos": -24.5,
    "moat": "Wide",
    "quality": 8.19,
-   "value_per_dollar": 0.822,
-   "interesting_below": 1836.27,
+   "value_per_dollar": 0.803,
+   "interesting_below": 1833.23,
    "scores": {
     "meaning": 10,
     "moat": 8,
@@ -539,12 +539,12 @@
    "sector": "Industrials",
    "verdict": "WATCHLIST",
    "score": 74,
-   "price": 241.31,
-   "mos": -119.2,
+   "price": 252.99,
+   "mos": -130.5,
    "moat": "Wide",
    "quality": 8.94,
-   "value_per_dollar": 0.456,
-   "interesting_below": 77.07,
+   "value_per_dollar": 0.434,
+   "interesting_below": 76.82,
    "scores": {
     "meaning": 10,
     "moat": 9,
@@ -935,12 +935,12 @@
    "sector": "Financials",
    "verdict": "WATCHLIST",
    "score": 72,
-   "price": 505.67,
-   "mos": -78.0,
+   "price": 508.2,
+   "mos": -78.9,
    "moat": "Wide",
    "quality": 8.69,
-   "value_per_dollar": 0.562,
-   "interesting_below": 198.88,
+   "value_per_dollar": 0.559,
+   "interesting_below": 198.85,
    "scores": {
     "meaning": 9,
     "moat": 9,
@@ -1111,12 +1111,12 @@
    "sector": "Industrials",
    "verdict": "WATCHLIST",
    "score": 72,
-   "price": 455.03,
-   "mos": -111.0,
+   "price": 417.99,
+   "mos": -93.5,
    "moat": "Wide",
    "quality": 8.69,
-   "value_per_dollar": 0.474,
-   "interesting_below": 150.98,
+   "value_per_dollar": 0.517,
+   "interesting_below": 151.19,
    "scores": {
     "meaning": 9,
     "moat": 8,
@@ -1189,50 +1189,6 @@
     "pabrai": [
      2,
      5
-    ]
-   }
-  },
-  {
-   "ticker": "CMG",
-   "slug": "CMG",
-   "company": "Chipotle Mexican Grill",
-   "sector": "Consumer discretionary",
-   "verdict": "WATCHLIST",
-   "score": 71,
-   "price": 28.02,
-   "mos": -22.9,
-   "moat": "Narrow",
-   "quality": 7.87,
-   "value_per_dollar": 0.814,
-   "interesting_below": 15.97,
-   "scores": {
-    "meaning": 10,
-    "moat": 7,
-    "industry": 7,
-    "management": 7,
-    "financial_health": 9,
-    "valuation": 4
-   },
-   "lenses": {
-    "graham": [
-     3,
-     8
-    ],
-    "buffett": [
-     4,
-     8
-    ],
-    "lynch": [
-     3,
-     5
-    ],
-    "munger": [
-     5,
-     6
-    ],
-    "pabrai": [
-     4,
-     6
     ]
    }
   },
@@ -1375,12 +1331,12 @@
    "sector": "Financials",
    "verdict": "WATCHLIST",
    "score": 70,
-   "price": 334.81,
-   "mos": -30.8,
+   "price": 338.31,
+   "mos": -32.2,
    "moat": "Wide",
    "quality": 8.06,
-   "value_per_dollar": 0.765,
-   "interesting_below": 179.22,
+   "value_per_dollar": 0.756,
+   "interesting_below": 179.08,
    "scores": {
     "meaning": 8,
     "moat": 8,
@@ -1463,12 +1419,12 @@
    "sector": "Health care",
    "verdict": "BUY_ZONE",
    "score": 70,
-   "price": 293.59,
-   "mos": 38.0,
+   "price": 297.0,
+   "mos": 37.2,
    "moat": "Narrow",
    "quality": 6.56,
-   "value_per_dollar": 1.613,
-   "interesting_below": 331.45,
+   "value_per_dollar": 1.593,
+   "interesting_below": 331.12,
    "scores": {
     "meaning": 7,
     "moat": 6,
@@ -1507,12 +1463,12 @@
    "sector": "Materials",
    "verdict": "WATCHLIST",
    "score": 70,
-   "price": 292.41,
-   "mos": -154.3,
+   "price": 309.27,
+   "mos": -169.9,
    "moat": "Wide",
    "quality": 8.5,
-   "value_per_dollar": 0.393,
-   "interesting_below": 80.5,
+   "value_per_dollar": 0.371,
+   "interesting_below": 80.22,
    "scores": {
     "meaning": 10,
     "moat": 8,
@@ -1595,12 +1551,12 @@
    "sector": "Health care",
    "verdict": "WATCHLIST",
    "score": 70,
-   "price": 494.99,
-   "mos": 3.0,
+   "price": 499.05,
+   "mos": 2.1,
    "moat": "Narrow",
    "quality": 7.25,
-   "value_per_dollar": 1.031,
-   "interesting_below": 357.31,
+   "value_per_dollar": 1.022,
+   "interesting_below": 356.89,
    "scores": {
     "meaning": 9,
     "moat": 7,
@@ -1771,12 +1727,12 @@
    "sector": "Consumer discretionary",
    "verdict": "WATCHLIST",
    "score": 70,
-   "price": 91.05,
-   "mos": -55.8,
+   "price": 92.19,
+   "mos": -57.9,
    "moat": "Wide",
    "quality": 8.19,
-   "value_per_dollar": 0.642,
-   "interesting_below": 40.9,
+   "value_per_dollar": 0.633,
+   "interesting_below": 40.88,
    "scores": {
     "meaning": 10,
     "moat": 8,
@@ -1859,12 +1815,12 @@
    "sector": "Consumer discretionary",
    "verdict": "WATCHLIST",
    "score": 70,
-   "price": 234.11,
-   "mos": -104.4,
+   "price": 231.68,
+   "mos": -102.3,
    "moat": "Narrow",
    "quality": 8.44,
-   "value_per_dollar": 0.489,
-   "interesting_below": 80.16,
+   "value_per_dollar": 0.494,
+   "interesting_below": 80.18,
    "scores": {
     "meaning": 10,
     "moat": 7,
@@ -2079,12 +2035,12 @@
    "sector": "Technology",
    "verdict": "WATCHLIST",
    "score": 68,
-   "price": 261.72,
-   "mos": -85.2,
+   "price": 264.42,
+   "mos": -87.2,
    "moat": "Wide",
    "quality": 8.31,
-   "value_per_dollar": 0.54,
-   "interesting_below": 98.91,
+   "value_per_dollar": 0.534,
+   "interesting_below": 98.89,
    "scores": {
     "meaning": 9,
     "moat": 8,
@@ -2343,12 +2299,12 @@
    "sector": "Technology",
    "verdict": "WATCHLIST",
    "score": 68,
-   "price": 481.83,
-   "mos": -123.0,
+   "price": 531.2,
+   "mos": -146.8,
    "moat": "Wide",
    "quality": 8.25,
-   "value_per_dollar": 0.448,
-   "interesting_below": 151.24,
+   "value_per_dollar": 0.405,
+   "interesting_below": 150.64,
    "scores": {
     "meaning": 9,
     "moat": 8,
@@ -2557,6 +2513,50 @@
    }
   },
   {
+   "ticker": "CMG",
+   "slug": "CMG",
+   "company": "Chipotle Mexican Grill",
+   "sector": "Consumer discretionary",
+   "verdict": "WATCHLIST",
+   "score": 67,
+   "price": 35.28,
+   "mos": -56.0,
+   "moat": "Narrow",
+   "quality": 7.87,
+   "value_per_dollar": 0.641,
+   "interesting_below": 15.84,
+   "scores": {
+    "meaning": 10,
+    "moat": 7,
+    "industry": 7,
+    "management": 7,
+    "financial_health": 9,
+    "valuation": 2
+   },
+   "lenses": {
+    "graham": [
+     3,
+     8
+    ],
+    "buffett": [
+     4,
+     8
+    ],
+    "lynch": [
+     3,
+     5
+    ],
+    "munger": [
+     5,
+     6
+    ],
+    "pabrai": [
+     3,
+     6
+    ]
+   }
+  },
+  {
    "ticker": "KLAC",
    "slug": "KLAC",
    "company": "KLA",
@@ -2607,12 +2607,12 @@
    "sector": "Consumer discretionary",
    "verdict": "WATCHLIST",
    "score": 66,
-   "price": 164.39,
-   "mos": -78.9,
+   "price": 186.78,
+   "mos": -103.4,
    "moat": "Wide",
    "quality": 7.94,
-   "value_per_dollar": 0.559,
-   "interesting_below": 64.31,
+   "value_per_dollar": 0.492,
+   "interesting_below": 64.27,
    "scores": {
     "meaning": 9,
     "moat": 8,
@@ -2733,62 +2733,18 @@
    }
   },
   {
-   "ticker": "ITW",
-   "slug": "ITW",
-   "company": "Illinois Tool Works",
-   "sector": "Industrials",
-   "verdict": "PASS",
-   "score": 66,
-   "price": 275.93,
-   "mos": -69.3,
-   "moat": "Wide",
-   "quality": 7.81,
-   "value_per_dollar": 0.591,
-   "interesting_below": 114.11,
-   "scores": {
-    "meaning": 9,
-    "moat": 8,
-    "industry": 8,
-    "management": 9,
-    "financial_health": 6,
-    "valuation": 2
-   },
-   "lenses": {
-    "graham": [
-     4,
-     8
-    ],
-    "buffett": [
-     5,
-     8
-    ],
-    "lynch": [
-     2,
-     7
-    ],
-    "munger": [
-     5,
-     7
-    ],
-    "pabrai": [
-     4,
-     7
-    ]
-   }
-  },
-  {
    "ticker": "NOC",
    "slug": "NOC",
    "company": "Northrop Grumman",
    "sector": "Industrials",
    "verdict": "WATCHLIST",
    "score": 66,
-   "price": 555.32,
-   "mos": -61.1,
+   "price": 550.43,
+   "mos": -59.6,
    "moat": "Wide",
    "quality": 7.81,
-   "value_per_dollar": 0.621,
-   "interesting_below": 241.26,
+   "value_per_dollar": 0.627,
+   "interesting_below": 241.43,
    "scores": {
     "meaning": 9,
     "moat": 8,
@@ -3525,6 +3481,50 @@
    }
   },
   {
+   "ticker": "ITW",
+   "slug": "ITW",
+   "company": "Illinois Tool Works",
+   "sector": "Industrials",
+   "verdict": "PASS",
+   "score": 64,
+   "price": 287.52,
+   "mos": -76.7,
+   "moat": "Wide",
+   "quality": 7.81,
+   "value_per_dollar": 0.566,
+   "interesting_below": 113.93,
+   "scores": {
+    "meaning": 9,
+    "moat": 8,
+    "industry": 8,
+    "management": 9,
+    "financial_health": 6,
+    "valuation": 1
+   },
+   "lenses": {
+    "graham": [
+     4,
+     8
+    ],
+    "buffett": [
+     5,
+     8
+    ],
+    "lynch": [
+     2,
+     7
+    ],
+    "munger": [
+     5,
+     7
+    ],
+    "pabrai": [
+     4,
+     7
+    ]
+   }
+  },
+  {
    "ticker": "MAR",
    "slug": "MAR",
    "company": "Marriott International",
@@ -4059,12 +4059,12 @@
    "sector": "Consumer discretionary",
    "verdict": "WATCHLIST",
    "score": 62,
-   "price": 343.19,
-   "mos": -164.5,
+   "price": 373.09,
+   "mos": -189.1,
    "moat": "Wide",
    "quality": 7.5,
-   "value_per_dollar": 0.378,
-   "interesting_below": 90.84,
+   "value_per_dollar": 0.346,
+   "interesting_below": 90.33,
    "scores": {
     "meaning": 9,
     "moat": 8,
@@ -4191,12 +4191,12 @@
    "sector": "Technology",
    "verdict": "WATCHLIST",
    "score": 62,
-   "price": 441.65,
-   "mos": -52.4,
+   "price": 479.98,
+   "mos": -66.4,
    "moat": "Narrow",
    "quality": 7.31,
-   "value_per_dollar": 0.656,
-   "interesting_below": 202.8,
+   "value_per_dollar": 0.601,
+   "interesting_below": 201.89,
    "scores": {
     "meaning": 8,
     "moat": 7,
@@ -4587,12 +4587,12 @@
    "sector": "Industrials",
    "verdict": "PASS",
    "score": 60,
-   "price": 49.12,
-   "mos": -87.1,
+   "price": 52.05,
+   "mos": -99.1,
    "moat": "Wide",
    "quality": 7.19,
-   "value_per_dollar": 0.535,
-   "interesting_below": 18.38,
+   "value_per_dollar": 0.502,
+   "interesting_below": 18.3,
    "scores": {
     "meaning": 10,
     "moat": 9,
@@ -4675,11 +4675,11 @@
    "sector": "Technology",
    "verdict": "TOO_HARD",
    "score": 60,
-   "price": 128.1,
-   "mos": -136.7,
+   "price": 127.22,
+   "mos": -135.0,
    "moat": "Narrow",
    "quality": 7.31,
-   "value_per_dollar": 0.423,
+   "value_per_dollar": 0.425,
    "interesting_below": 37.89,
    "scores": {
     "meaning": 7,
@@ -5467,12 +5467,12 @@
    "sector": "Technology",
    "verdict": "TOO_HARD",
    "score": 56,
-   "price": 253.5,
-   "mos": -81.5,
+   "price": 265.09,
+   "mos": -90.3,
    "moat": "Narrow",
    "quality": 6.75,
-   "value_per_dollar": 0.551,
-   "interesting_below": 97.76,
+   "value_per_dollar": 0.525,
+   "interesting_below": 97.5,
    "scores": {
     "meaning": 7,
     "moat": 7,
@@ -5487,7 +5487,7 @@
      8
     ],
     "buffett": [
-     7,
+     6,
      8
     ],
     "lynch": [

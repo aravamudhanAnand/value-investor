@@ -33,7 +33,7 @@
     "value": 52.89,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 33.95,
+    "sector_median": 34.13,
     "sector_n": 32
    },
    {
@@ -51,7 +51,7 @@
     "value": 49.52,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 29.63,
+    "sector_median": 30.23,
     "sector_n": 20
    },
    {
@@ -60,7 +60,7 @@
     "value": 44.19,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 23.69,
+    "sector_median": 25.75,
     "sector_n": 33
    },
    {
@@ -106,9 +106,14 @@
     "value": 44.32
    },
    {
+    "ticker": "MSI",
+    "company": "Motorola Solutions",
+    "value": 41.83
+   },
+   {
     "ticker": "FTNT",
     "company": "Fortinet",
-    "value": 41.86
+    "value": 41.58
    },
    {
     "ticker": "AAPL",
@@ -116,19 +121,14 @@
     "value": 39.67
    },
    {
-    "ticker": "MSI",
-    "company": "Motorola Solutions",
-    "value": 37.94
+    "ticker": "ADSK",
+    "company": "Autodesk",
+    "value": 34.25
    },
    {
     "ticker": "APH",
     "company": "Amphenol",
     "value": 34.01
-   },
-   {
-    "ticker": "ADSK",
-    "company": "Autodesk",
-    "value": 33.9
    },
    {
     "ticker": "CSCO",
@@ -166,14 +166,14 @@
     "value": 19.65
    },
    {
+    "ticker": "ROP",
+    "company": "Roper Technologies",
+    "value": 19.1
+   },
+   {
     "ticker": "ACN",
     "company": "Accenture",
     "value": 18.47
-   },
-   {
-    "ticker": "ROP",
-    "company": "Roper Technologies",
-    "value": 17.57
    },
    {
     "ticker": "ADBE",

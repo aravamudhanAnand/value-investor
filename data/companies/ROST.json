@@ -5,10 +5,10 @@
  "sector": "Consumer discretionary",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-10-26",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 234.11,
- "market_cap": "$74.8B",
+ "price": 231.68,
+ "market_cap": "$74.0B",
  "verdict": "WATCHLIST",
  "overall_score": 70,
  "one_liner": "A narrow-moat business worth owning, but it trades at 2.0x fair value. Interesting below about $80.",
@@ -30,7 +30,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 28.31,
+    "value": 28.01,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 24.88,
@@ -39,25 +39,25 @@
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 27.41,
+    "value": 27.13,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 26.62,
+    "sector_median": 27.05,
     "sector_n": 16
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 26.81,
+    "value": 26.53,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 26.81,
+    "sector_median": 26.83,
     "sector_n": 15
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 20.56,
+    "value": 20.34,
     "unit": "x",
     "note": "Enterprise value includes debt",
     "sector_median": 17.54,
@@ -66,10 +66,10 @@
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 0.76,
+    "value": 0.77,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 0.76,
+    "sector_median": 0.77,
     "sector_n": 17
    }
   ],
@@ -88,7 +88,7 @@
    {
     "ticker": "HLT",
     "company": "Hilton Worldwide",
-    "value": 46.44
+    "value": 50.49
    },
    {
     "ticker": "MAR",
@@ -98,22 +98,22 @@
    {
     "ticker": "ABNB",
     "company": "Airbnb",
-    "value": 37.19
-   },
-   {
-    "ticker": "ORLY",
-    "company": "O'Reilly Automotive",
-    "value": 28.9
-   },
-   {
-    "ticker": "ROST",
-    "company": "Ross Stores",
-    "value": 28.31
+    "value": 42.26
    },
    {
     "ticker": "CMG",
     "company": "Chipotle Mexican Grill",
-    "value": 25.94
+    "value": 32.67
+   },
+   {
+    "ticker": "ORLY",
+    "company": "O'Reilly Automotive",
+    "value": 29.27
+   },
+   {
+    "ticker": "ROST",
+    "company": "Ross Stores",
+    "value": 28.01
    },
    {
     "ticker": "TJX",
@@ -138,7 +138,7 @@
    {
     "ticker": "AZO",
     "company": "AutoZone",
-    "value": 20.91
+    "value": 21.37
    },
    {
     "ticker": "LOW",
@@ -162,13 +162,13 @@
   "target": 272.22,
   "beta": 0.84,
   "as_of": "2026-10-26",
-  "low52": 157.39,
+  "low52": 157.73,
   "high52": 257.0,
-  "range_pos": 77,
-  "below_high": 8.9,
-  "target_vs_price": 16.3,
+  "range_pos": 74,
+  "below_high": 9.9,
+  "target_vs_price": 17.5,
   "target_vs_fair": 137.7,
-  "above_low": 48.7
+  "above_low": 46.9
  },
  "summary": {
   "sentence": "The number-two off-price retailer: simple stores, conservative finances, steady growth.",
@@ -540,7 +540,7 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "3.5%",
+      "value": "3.6%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
@@ -570,53 +570,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "28.3"
+   "value": "28.0"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "26.8"
+   "value": "26.5"
   },
   "three_numbers": {
-   "pe": "28.3",
-   "forward_pe": "27.4",
-   "peg": "1.88"
+   "pe": "28.0",
+   "forward_pe": "27.1",
+   "peg": "1.86"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "3.1"
+    "value": "3.0"
    },
    {
     "name": "EV/EBITDA",
-    "value": "20.6"
+    "value": "20.3"
    },
    {
     "name": "EV/EBIT",
-    "value": "24.1"
+    "value": "23.9"
    },
    {
     "name": "P/E",
-    "value": "28.3"
+    "value": "28.0"
    },
    {
     "name": "EV/FCF",
-    "value": "27.0"
+    "value": "26.7"
    },
    {
     "name": "P/FCF",
-    "value": "26.8"
+    "value": "26.5"
    },
    {
     "name": "P/B",
-    "value": "11.1"
+    "value": "11.0"
    }
   ],
-  "intrinsic_value_low": 97.11,
-  "intrinsic_value_high": 131.92,
-  "margin_of_safety_pct": -104.4,
-  "interesting_below": 80.16,
+  "intrinsic_value_low": 97.13,
+  "intrinsic_value_high": 131.95,
+  "margin_of_safety_pct": -102.3,
+  "interesting_below": 80.18,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $1.8B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 4–10% for five years, fading to 3%; operating margin held at 13%; cost of capital 8.7%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 114.52,
+  "fair_value": 114.54,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -626,8 +626,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 109.42,
-    "high": 144.12,
+    "low": 109.46,
+    "high": 144.18,
     "basis": "Sales grow 4–10% for five years, fading to 3%; operating margin held at 13%; cost of capital 8.7%. Cash added, debt subtracted."
    }
   ],
@@ -649,9 +649,9 @@
    "terminal_roc": 10.7,
    "revenue_now": "$24.5B",
    "revenue_year10": "$43.0B",
-   "low": 109.42,
-   "high": 144.12,
-   "implied_growth": 20.5,
+   "low": 109.46,
+   "high": 144.18,
+   "implied_growth": 20.2,
    "implied_note": null
   }
  },
@@ -686,19 +686,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "38.0x three-year average earnings ($6.16); 28.3x trailing",
+     "value": "37.6x three-year average earnings ($6.16); 28.0x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 314; Graham number $63 vs price $234",
+     "value": "P/E × P/B = 308; Graham number $63 vs price $232",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 3.5% vs 10-year Treasury 5.10%",
+     "value": "Earnings yield 3.6% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -782,13 +782,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 1.88",
+     "value": "PEG 1.86",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": null
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(8% EPS growth + 0.8% yield) ÷ P/E 28.3 = 0.31",
+     "value": "(8% EPS growth + 0.8% yield) ÷ P/E 28.0 = 0.31",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -890,13 +890,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +49% over 52 weeks",
+     "value": "Share price +44% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -104%",
+     "value": "Margin of safety -102%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -908,13 +908,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($132); 59% downside to the low case",
+     "value": "No upside even to the high-case value ($132); 58% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -43.7,
-   "downside_pct": 58.5
+   "upside_pct": -43.0,
+   "downside_pct": 58.1
   }
  },
  "rules_of_the_road": [

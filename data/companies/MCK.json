@@ -173,7 +173,7 @@
    {
     "ticker": "HCA",
     "company": "HCA Healthcare",
-    "value": 16.38
+    "value": 16.51
    },
    {
     "ticker": "BMY",
@@ -183,12 +183,12 @@
    {
     "ticker": "ZTS",
     "company": "Zoetis",
-    "value": 13.21
+    "value": 13.67
    },
    {
     "ticker": "CI",
     "company": "The Cigna Group",
-    "value": 12.96
+    "value": 13.11
    }
   ]
  },

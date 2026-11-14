@@ -173,7 +173,7 @@
    {
     "ticker": "HCA",
     "company": "HCA Healthcare",
-    "value": 16.38
+    "value": 16.51
    },
    {
     "ticker": "BMY",
@@ -183,12 +183,12 @@
    {
     "ticker": "ZTS",
     "company": "Zoetis",
-    "value": 13.21
+    "value": 13.67
    },
    {
     "ticker": "CI",
     "company": "The Cigna Group",
-    "value": 12.96
+    "value": 13.11
    }
   ]
  },
@@ -197,12 +197,13 @@
   "target": 867.33,
   "beta": 0.15,
   "as_of": "2026-11-13",
-  "low52": null,
-  "high52": null,
-  "range_pos": null,
-  "below_high": null,
+  "low52": 591.52,
+  "high52": 991.73,
+  "range_pos": 91,
+  "below_high": 3.7,
   "target_vs_price": -9.2,
-  "target_vs_fair": 57.9
+  "target_vs_fair": 57.9,
+  "above_low": 61.5
  },
  "summary": {
   "sentence": "A cash-rich antibody developer leaning on two medicines, one of them under attack.",
@@ -926,7 +927,7 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +40% over 52 weeks",
+     "value": "Share price +38% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },

@@ -60,7 +60,7 @@
     "value": 0.84,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 0.76,
+    "sector_median": 0.77,
     "sector_n": 17
    }
   ],
@@ -74,12 +74,12 @@
    {
     "ticker": "ABNB",
     "company": "Airbnb",
-    "value": 31.65
+    "value": 36.43
    },
    {
     "ticker": "HLT",
     "company": "Hilton Worldwide",
-    "value": 28.03
+    "value": 30.12
    },
    {
     "ticker": "MAR",
@@ -92,19 +92,19 @@
     "value": 24.85
    },
    {
+    "ticker": "CMG",
+    "company": "Chipotle Mexican Grill",
+    "value": 21.73
+   },
+   {
     "ticker": "ROST",
     "company": "Ross Stores",
-    "value": 20.56
+    "value": 20.34
    },
    {
     "ticker": "ORLY",
     "company": "O'Reilly Automotive",
-    "value": 19.9
-   },
-   {
-    "ticker": "CMG",
-    "company": "Chipotle Mexican Grill",
-    "value": 17.69
+    "value": 20.12
    },
    {
     "ticker": "TJX",
@@ -129,7 +129,7 @@
    {
     "ticker": "AZO",
     "company": "AutoZone",
-    "value": 14.77
+    "value": 15.03
    },
    {
     "ticker": "LOW",
