@@ -11,11 +11,11 @@
    "sector": "Industrials",
    "verdict": "WATCHLIST",
    "score": 83,
-   "price": 31.95,
-   "mos": -13.2,
+   "price": 31.83,
+   "mos": -12.8,
    "moat": "Wide",
    "quality": 9.12,
-   "value_per_dollar": 0.883,
+   "value_per_dollar": 0.886,
    "interesting_below": 19.75,
    "scores": {
     "meaning": 9,
@@ -407,7 +407,7 @@
    "sector": "Industrials",
    "verdict": "WATCHLIST",
    "score": 75,
-   "price": 115.7,
+   "price": 115.68,
    "mos": -33.3,
    "moat": "Wide",
    "quality": 8.62,
@@ -451,12 +451,12 @@
    "sector": "Consumer staples",
    "verdict": "PASS",
    "score": 75,
-   "price": 135.62,
-   "mos": 27.2,
+   "price": 145.61,
+   "mos": 21.2,
    "moat": "Wide",
    "quality": 7.38,
-   "value_per_dollar": 1.373,
-   "interesting_below": 130.38,
+   "value_per_dollar": 1.269,
+   "interesting_below": 129.4,
    "scores": {
     "meaning": 9,
     "moat": 8,
@@ -671,11 +671,11 @@
    "sector": "Industrials",
    "verdict": "WATCHLIST",
    "score": 74,
-   "price": 52.99,
-   "mos": -161.4,
+   "price": 55.19,
+   "mos": -172.2,
    "moat": "Wide",
    "quality": 8.94,
-   "value_per_dollar": 0.383,
+   "value_per_dollar": 0.367,
    "interesting_below": 14.19,
    "scores": {
     "meaning": 10,
@@ -979,11 +979,11 @@
    "sector": "Industrials",
    "verdict": "WATCHLIST",
    "score": 72,
-   "price": 242.81,
-   "mos": -114.3,
+   "price": 242.11,
+   "mos": -113.7,
    "moat": "Wide",
    "quality": 8.69,
-   "value_per_dollar": 0.467,
+   "value_per_dollar": 0.468,
    "interesting_below": 79.3,
    "scores": {
     "meaning": 8,
@@ -1111,12 +1111,12 @@
    "sector": "Industrials",
    "verdict": "WATCHLIST",
    "score": 72,
-   "price": 1344.87,
-   "mos": -71.5,
+   "price": 1489.3,
+   "mos": -90.2,
    "moat": "Wide",
    "quality": 8.81,
-   "value_per_dollar": 0.583,
-   "interesting_below": 548.84,
+   "value_per_dollar": 0.526,
+   "interesting_below": 548.01,
    "scores": {
     "meaning": 9,
     "moat": 8,
@@ -1243,12 +1243,12 @@
    "sector": "Financials",
    "verdict": "WATCHLIST",
    "score": 72,
-   "price": 617.67,
-   "mos": -58.2,
+   "price": 658.17,
+   "mos": -69.1,
    "moat": "Wide",
    "quality": 8.44,
-   "value_per_dollar": 0.632,
-   "interesting_below": 273.27,
+   "value_per_dollar": 0.591,
+   "interesting_below": 272.44,
    "scores": {
     "meaning": 9,
     "moat": 9,
@@ -1331,12 +1331,12 @@
    "sector": "Industrials",
    "verdict": "PASS",
    "score": 72,
-   "price": 75.27,
-   "mos": -15.4,
+   "price": 77.5,
+   "mos": -19.2,
    "moat": "Wide",
    "quality": 7.94,
-   "value_per_dollar": 0.866,
-   "interesting_below": 45.64,
+   "value_per_dollar": 0.839,
+   "interesting_below": 45.52,
    "scores": {
     "meaning": 9,
     "moat": 8,
@@ -1347,7 +1347,7 @@
    },
    "lenses": {
     "graham": [
-     5,
+     4,
      8
     ],
     "buffett": [
@@ -1947,12 +1947,12 @@
    "sector": "Consumer staples",
    "verdict": "WATCHLIST",
    "score": 70,
-   "price": 165.61,
-   "mos": -36.3,
+   "price": 174.27,
+   "mos": -43.8,
    "moat": "Wide",
    "quality": 8.06,
-   "value_per_dollar": 0.734,
-   "interesting_below": 85.06,
+   "value_per_dollar": 0.696,
+   "interesting_below": 84.85,
    "scores": {
     "meaning": 10,
     "moat": 8,
@@ -1971,8 +1971,8 @@
      8
     ],
     "lynch": [
-     3,
-     7
+     2,
+     6
     ],
     "munger": [
      4,
@@ -2079,11 +2079,11 @@
    "sector": "Consumer staples",
    "verdict": "WATCHLIST",
    "score": 70,
-   "price": 46.35,
-   "mos": -130.4,
+   "price": 46.46,
+   "mos": -130.9,
    "moat": "Wide",
    "quality": 8.56,
-   "value_per_dollar": 0.434,
+   "value_per_dollar": 0.433,
    "interesting_below": 14.08,
    "scores": {
     "meaning": 10,
@@ -2343,12 +2343,12 @@
    "sector": "Industrials",
    "verdict": "WATCHLIST",
    "score": 70,
-   "price": 1160.91,
-   "mos": -19.0,
+   "price": 1124.56,
+   "mos": -15.1,
    "moat": "Narrow",
    "quality": 7.81,
-   "value_per_dollar": 0.84,
-   "interesting_below": 682.79,
+   "value_per_dollar": 0.869,
+   "interesting_below": 683.95,
    "scores": {
     "meaning": 8,
     "moat": 7,
@@ -2387,12 +2387,12 @@
    "sector": "Industrials",
    "verdict": "WATCHLIST",
    "score": 70,
-   "price": 204.59,
-   "mos": -33.7,
+   "price": 207.82,
+   "mos": -35.9,
    "moat": "Wide",
    "quality": 8.0,
-   "value_per_dollar": 0.748,
-   "interesting_below": 107.09,
+   "value_per_dollar": 0.736,
+   "interesting_below": 107.01,
    "scores": {
     "meaning": 9,
     "moat": 9,
@@ -2408,50 +2408,6 @@
     ],
     "buffett": [
      5,
-     8
-    ],
-    "lynch": [
-     3,
-     7
-    ],
-    "munger": [
-     5,
-     6
-    ],
-    "pabrai": [
-     3,
-     7
-    ]
-   }
-  },
-  {
-   "ticker": "YUM",
-   "slug": "YUM",
-   "company": "Yum! Brands",
-   "sector": "Consumer discretionary",
-   "verdict": "WATCHLIST",
-   "score": 70,
-   "price": 149.7,
-   "mos": -39.2,
-   "moat": "Wide",
-   "quality": 8.06,
-   "value_per_dollar": 0.719,
-   "interesting_below": 75.3,
-   "scores": {
-    "meaning": 10,
-    "moat": 8,
-    "industry": 8,
-    "management": 7,
-    "financial_health": 8,
-    "valuation": 3
-   },
-   "lenses": {
-    "graham": [
-     4,
-     8
-    ],
-    "buffett": [
-     4,
      8
     ],
     "lynch": [
@@ -2695,12 +2651,12 @@
    "sector": "Industrials",
    "verdict": "WATCHLIST",
    "score": 68,
-   "price": 450.07,
-   "mos": -41.8,
+   "price": 452.18,
+   "mos": -42.5,
    "moat": "Narrow",
    "quality": 7.81,
-   "value_per_dollar": 0.705,
-   "interesting_below": 222.18,
+   "value_per_dollar": 0.702,
+   "interesting_below": 222.15,
    "scores": {
     "meaning": 9,
     "moat": 7,
@@ -2953,50 +2909,6 @@
    }
   },
   {
-   "ticker": "PCAR",
-   "slug": "PCAR",
-   "company": "PACCAR",
-   "sector": "Industrials",
-   "verdict": "PASS",
-   "score": 68,
-   "price": 104.37,
-   "mos": -27.6,
-   "moat": "Narrow",
-   "quality": 7.5,
-   "value_per_dollar": 0.783,
-   "interesting_below": 57.24,
-   "scores": {
-    "meaning": 9,
-    "moat": 7,
-    "industry": 6,
-    "management": 9,
-    "financial_health": 7,
-    "valuation": 4
-   },
-   "lenses": {
-    "graham": [
-     6,
-     8
-    ],
-    "buffett": [
-     1,
-     7
-    ],
-    "lynch": [
-     4,
-     6
-    ],
-    "munger": [
-     4,
-     4
-    ],
-    "pabrai": [
-     1,
-     5
-    ]
-   }
-  },
-  {
    "ticker": "PH",
    "slug": "PH",
    "company": "Parker-Hannifin",
@@ -3125,6 +3037,50 @@
     "pabrai": [
      4,
      6
+    ]
+   }
+  },
+  {
+   "ticker": "YUM",
+   "slug": "YUM",
+   "company": "Yum! Brands",
+   "sector": "Consumer discretionary",
+   "verdict": "WATCHLIST",
+   "score": 68,
+   "price": 161.33,
+   "mos": -51.2,
+   "moat": "Wide",
+   "quality": 8.06,
+   "value_per_dollar": 0.662,
+   "interesting_below": 74.71,
+   "scores": {
+    "meaning": 10,
+    "moat": 8,
+    "industry": 8,
+    "management": 7,
+    "financial_health": 8,
+    "valuation": 2
+   },
+   "lenses": {
+    "graham": [
+     3,
+     8
+    ],
+    "buffett": [
+     4,
+     8
+    ],
+    "lynch": [
+     3,
+     7
+    ],
+    "munger": [
+     5,
+     6
+    ],
+    "pabrai": [
+     3,
+     7
     ]
    }
   },
@@ -3443,12 +3399,12 @@
    "sector": "Industrials",
    "verdict": "PASS",
    "score": 66,
-   "price": 333.99,
-   "mos": -169.9,
+   "price": 327.88,
+   "mos": -164.4,
    "moat": "Wide",
    "quality": 7.94,
-   "value_per_dollar": 0.371,
-   "interesting_below": 86.63,
+   "value_per_dollar": 0.378,
+   "interesting_below": 86.81,
    "scores": {
     "meaning": 10,
     "moat": 9,
@@ -3531,11 +3487,11 @@
    "sector": "Industrials",
    "verdict": "WATCHLIST",
    "score": 66,
-   "price": 173.32,
-   "mos": -106.3,
+   "price": 174.54,
+   "mos": -107.8,
    "moat": "Wide",
    "quality": 8.06,
-   "value_per_dollar": 0.485,
+   "value_per_dollar": 0.481,
    "interesting_below": 58.81,
    "scores": {
     "meaning": 9,
@@ -3569,18 +3525,62 @@
    }
   },
   {
+   "ticker": "PCAR",
+   "slug": "PCAR",
+   "company": "PACCAR",
+   "sector": "Industrials",
+   "verdict": "PASS",
+   "score": 66,
+   "price": 106.66,
+   "mos": -30.6,
+   "moat": "Narrow",
+   "quality": 7.5,
+   "value_per_dollar": 0.766,
+   "interesting_below": 57.18,
+   "scores": {
+    "meaning": 9,
+    "moat": 7,
+    "industry": 6,
+    "management": 9,
+    "financial_health": 7,
+    "valuation": 3
+   },
+   "lenses": {
+    "graham": [
+     5,
+     8
+    ],
+    "buffett": [
+     1,
+     7
+    ],
+    "lynch": [
+     3,
+     5
+    ],
+    "munger": [
+     4,
+     4
+    ],
+    "pabrai": [
+     1,
+     5
+    ]
+   }
+  },
+  {
    "ticker": "ROK",
    "slug": "ROK",
    "company": "Rockwell Automation",
    "sector": "Industrials",
    "verdict": "WATCHLIST",
    "score": 66,
-   "price": 436.2,
-   "mos": -158.5,
+   "price": 402.46,
+   "mos": -138.0,
    "moat": "Wide",
    "quality": 7.94,
-   "value_per_dollar": 0.387,
-   "interesting_below": 118.11,
+   "value_per_dollar": 0.42,
+   "interesting_below": 118.37,
    "scores": {
     "meaning": 9,
     "moat": 8,
@@ -3608,50 +3608,6 @@
     ],
     "pabrai": [
      3,
-     6
-    ]
-   }
-  },
-  {
-   "ticker": "TDG",
-   "slug": "TDG",
-   "company": "TransDigm Group",
-   "sector": "Industrials",
-   "verdict": "WATCHLIST",
-   "score": 66,
-   "price": 1146.81,
-   "mos": -61.9,
-   "moat": "Wide",
-   "quality": 7.75,
-   "value_per_dollar": 0.618,
-   "interesting_below": 495.83,
-   "scores": {
-    "meaning": 8,
-    "moat": 9,
-    "industry": 7,
-    "management": 7,
-    "financial_health": 7,
-    "valuation": 2
-   },
-   "lenses": {
-    "graham": [
-     4,
-     8
-    ],
-    "buffett": [
-     3,
-     7
-    ],
-    "lynch": [
-     3,
-     5
-    ],
-    "munger": [
-     5,
-     6
-    ],
-    "pabrai": [
-     2,
      6
     ]
    }
@@ -4499,12 +4455,12 @@
    "sector": "Industrials",
    "verdict": "WATCHLIST",
    "score": 64,
-   "price": 620.73,
-   "mos": -289.7,
+   "price": 602.01,
+   "mos": -277.6,
    "moat": "Narrow",
    "quality": 7.81,
-   "value_per_dollar": 0.257,
-   "interesting_below": 111.51,
+   "value_per_dollar": 0.265,
+   "interesting_below": 111.6,
    "scores": {
     "meaning": 8,
     "moat": 7,
@@ -4665,6 +4621,50 @@
     "pabrai": [
      3,
      5
+    ]
+   }
+  },
+  {
+   "ticker": "TDG",
+   "slug": "TDG",
+   "company": "TransDigm Group",
+   "sector": "Industrials",
+   "verdict": "WATCHLIST",
+   "score": 64,
+   "price": 1217.28,
+   "mos": -74.1,
+   "moat": "Wide",
+   "quality": 7.75,
+   "value_per_dollar": 0.575,
+   "interesting_below": 489.55,
+   "scores": {
+    "meaning": 8,
+    "moat": 9,
+    "industry": 7,
+    "management": 7,
+    "financial_health": 7,
+    "valuation": 1
+   },
+   "lenses": {
+    "graham": [
+     4,
+     8
+    ],
+    "buffett": [
+     3,
+     7
+    ],
+    "lynch": [
+     3,
+     5
+    ],
+    "munger": [
+     5,
+     6
+    ],
+    "pabrai": [
+     2,
+     6
     ]
    }
   },
@@ -5247,12 +5247,12 @@
    "sector": "Consumer staples",
    "verdict": "PASS",
    "score": 61,
-   "price": 35.51,
-   "mos": 22.6,
+   "price": 34.32,
+   "mos": 25.5,
    "moat": "Narrow",
    "quality": 5.62,
-   "value_per_dollar": 1.292,
-   "interesting_below": 32.12,
+   "value_per_dollar": 1.343,
+   "interesting_below": 32.27,
    "scores": {
     "meaning": 10,
     "moat": 6,
@@ -5775,12 +5775,12 @@
    "sector": "Consumer staples",
    "verdict": "PASS",
    "score": 60,
-   "price": 82.07,
-   "mos": -39.6,
+   "price": 77.1,
+   "mos": -30.3,
    "moat": "Narrow",
    "quality": 6.75,
-   "value_per_dollar": 0.716,
-   "interesting_below": 41.14,
+   "value_per_dollar": 0.767,
+   "interesting_below": 41.42,
    "scores": {
     "meaning": 10,
     "moat": 7,
@@ -5819,12 +5819,12 @@
    "sector": "Industrials",
    "verdict": "WATCHLIST",
    "score": 59,
-   "price": 135.03,
-   "mos": -171.4,
+   "price": 139.33,
+   "mos": -180.5,
    "moat": "Narrow",
    "quality": 7.12,
-   "value_per_dollar": 0.368,
-   "interesting_below": 34.82,
+   "value_per_dollar": 0.357,
+   "interesting_below": 34.78,
    "scores": {
     "meaning": 8,
     "moat": 7,
@@ -6253,50 +6253,6 @@
    }
   },
   {
-   "ticker": "TGT",
-   "slug": "TGT",
-   "company": "Target",
-   "sector": "Consumer staples",
-   "verdict": "PASS",
-   "score": 57,
-   "price": 148.53,
-   "mos": -39.0,
-   "moat": "Narrow",
-   "quality": 6.38,
-   "value_per_dollar": 0.719,
-   "interesting_below": 74.78,
-   "scores": {
-    "meaning": 9,
-    "moat": 6,
-    "industry": 6,
-    "management": 6,
-    "financial_health": 6,
-    "valuation": 3
-   },
-   "lenses": {
-    "graham": [
-     3,
-     8
-    ],
-    "buffett": [
-     2,
-     8
-    ],
-    "lynch": [
-     3,
-     7
-    ],
-    "munger": [
-     5,
-     6
-    ],
-    "pabrai": [
-     1,
-     5
-    ]
-   }
-  },
-  {
    "ticker": "ABBV",
    "slug": "ABBV",
    "company": "AbbVie",
@@ -6644,6 +6600,50 @@
     ],
     "pabrai": [
      0,
+     5
+    ]
+   }
+  },
+  {
+   "ticker": "TGT",
+   "slug": "TGT",
+   "company": "Target",
+   "sector": "Consumer staples",
+   "verdict": "PASS",
+   "score": 55,
+   "price": 161.45,
+   "mos": -52.0,
+   "moat": "Narrow",
+   "quality": 6.38,
+   "value_per_dollar": 0.658,
+   "interesting_below": 74.35,
+   "scores": {
+    "meaning": 9,
+    "moat": 6,
+    "industry": 6,
+    "management": 6,
+    "financial_health": 6,
+    "valuation": 2
+   },
+   "lenses": {
+    "graham": [
+     3,
+     8
+    ],
+    "buffett": [
+     2,
+     8
+    ],
+    "lynch": [
+     3,
+     7
+    ],
+    "munger": [
+     5,
+     6
+    ],
+    "pabrai": [
+     1,
      5
     ]
    }
@@ -7315,12 +7315,12 @@
    "sector": "Industrials",
    "verdict": "PASS",
    "score": 50,
-   "price": 53.63,
-   "mos": -98.8,
+   "price": 54.2,
+   "mos": -101.0,
    "moat": "Narrow",
    "quality": 5.94,
-   "value_per_dollar": 0.503,
-   "interesting_below": 18.89,
+   "value_per_dollar": 0.497,
+   "interesting_below": 18.87,
    "scores": {
     "meaning": 8,
     "moat": 7,

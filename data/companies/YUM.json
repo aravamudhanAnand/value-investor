@@ -5,20 +5,20 @@
  "sector": "Consumer discretionary",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-10-23",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 149.7,
- "market_cap": "$40.9B",
+ "price": 161.33,
+ "market_cap": "$44.0B",
  "verdict": "WATCHLIST",
- "overall_score": 70,
- "one_liner": "A wide-moat business worth owning, but it trades at 1.4x fair value. Interesting below about $75.",
+ "overall_score": 68,
+ "one_liner": "A wide-moat business worth owning, but it trades at 1.5x fair value. Interesting below about $75.",
  "scores": {
   "meaning": 10,
   "moat": 8,
   "industry": 8,
   "management": 7,
   "financial_health": 8,
-  "valuation": 3
+  "valuation": 2
  },
  "treasury_10y": 5.1,
  "profile": {
@@ -30,7 +30,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 18.85,
+    "value": 20.32,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 24.64,
@@ -39,7 +39,7 @@
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 23.86,
+    "value": 25.71,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
     "sector_median": 26.96,
@@ -48,7 +48,7 @@
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 24.32,
+    "value": 26.21,
     "unit": "x",
     "note": "Before deducting stock-based pay",
     "sector_median": 26.68,
@@ -57,16 +57,16 @@
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 17.45,
+    "value": 18.49,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 17.49,
+    "sector_median": 18.02,
     "sector_n": 18
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 2.0,
+    "value": 1.86,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
     "sector_median": 0.8,
@@ -141,14 +141,14 @@
     "value": 21.37
    },
    {
+    "ticker": "YUM",
+    "company": "Yum! Brands",
+    "value": 20.32
+   },
+   {
     "ticker": "LOW",
     "company": "Lowe's",
     "value": 19.25
-   },
-   {
-    "ticker": "YUM",
-    "company": "Yum! Brands",
-    "value": 18.85
    },
    {
     "ticker": "NKE",
@@ -169,11 +169,11 @@
   "as_of": "2026-10-23",
   "low52": 134.26,
   "high52": 170.14,
-  "range_pos": 43,
-  "below_high": 12.0,
-  "target_vs_price": 13.7,
-  "target_vs_fair": 58.2,
-  "above_low": 11.5
+  "range_pos": 75,
+  "below_high": 5.2,
+  "target_vs_price": 5.5,
+  "target_vs_fair": 59.4,
+  "above_low": 20.2
  },
  "summary": {
   "sentence": "A capital-light franchisor narrowing to KFC and Taco Bell on heavy debt.",
@@ -505,7 +505,7 @@
     "rows": [
      {
       "name": "Dividend yield",
-      "value": "2.0%",
+      "value": "1.9%",
       "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
@@ -523,7 +523,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "2.2%",
+      "value": "2.0%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -546,19 +546,19 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "5.3%",
+      "value": "4.9%",
       "threshold": "≥ 10-year Treasury (5.10%)",
-      "pass": true
+      "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "3.9%",
+      "value": "3.7%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "5.0%",
+      "value": "4.7%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
@@ -566,63 +566,63 @@
    }
   ],
   "ratio_summary": {
-   "passed": 16,
+   "passed": 15,
    "total": 26
   },
   "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
  },
  "valuation": {
-  "score": 3,
+  "score": 2,
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "18.9"
+   "value": "20.3"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "24.3"
+   "value": "26.2"
   },
   "three_numbers": {
-   "pe": "18.9",
-   "forward_pe": "23.9",
-   "peg": "2.68"
+   "pe": "20.3",
+   "forward_pe": "25.7",
+   "peg": "2.89"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "6.1"
+    "value": "6.5"
    },
    {
     "name": "EV/EBITDA",
-    "value": "17.5"
+    "value": "18.5"
    },
    {
     "name": "EV/EBIT",
-    "value": "18.9"
+    "value": "20.1"
    },
    {
     "name": "P/E",
-    "value": "18.9"
+    "value": "20.3"
    },
    {
     "name": "EV/FCF",
-    "value": "31.9"
+    "value": "33.8"
    },
    {
     "name": "P/FCF",
-    "value": "24.3"
+    "value": "26.2"
    },
    {
     "name": "P/B",
     "value": "n/a"
    }
   ],
-  "intrinsic_value_low": 87.09,
-  "intrinsic_value_high": 128.05,
-  "margin_of_safety_pct": -39.2,
-  "interesting_below": 75.3,
-  "method": "Fair value is the average of two methods: (1) Owner cash flow: $1.5B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 4–10% for five years, fading to 3%; operating margin held at 32%; cost of capital 7.9%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 107.57,
+  "intrinsic_value_low": 86.4,
+  "intrinsic_value_high": 127.05,
+  "margin_of_safety_pct": -51.2,
+  "interesting_below": 74.71,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $1.5B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 4–10% for five years, fading to 3%; operating margin held at 32%; cost of capital 8.0%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 106.72,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -632,9 +632,9 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 94.19,
-    "high": 143.18,
-    "basis": "Sales grow 4–10% for five years, fading to 3%; operating margin held at 32%; cost of capital 7.9%. Cash added, debt subtracted."
+    "low": 92.82,
+    "high": 141.18,
+    "basis": "Sales grow 4–10% for five years, fading to 3%; operating margin held at 32%; cost of capital 8.0%. Cash added, debt subtracted."
    }
   ],
   "stress_case": null,
@@ -649,21 +649,21 @@
    "beta": 0.85,
    "cost_of_equity": 8.9,
    "cost_of_debt": 4.9,
-   "debt_weight": 25,
-   "cost_of_capital": 7.9,
+   "debt_weight": 23,
+   "cost_of_capital": 8.0,
    "terminal_growth": 3.0,
-   "terminal_roc": 12.9,
+   "terminal_roc": 13.0,
    "revenue_now": "$8.7B",
    "revenue_year10": "$15.3B",
-   "low": 94.19,
-   "high": 143.18,
-   "implied_growth": 10.7,
+   "low": 92.82,
+   "high": 141.18,
+   "implied_growth": 12.0,
    "implied_note": null
   }
  },
  "lenses": {
   "graham": {
-   "passed": 4,
+   "passed": 3,
    "total": 8,
    "tests": [
     {
@@ -680,7 +680,7 @@
     },
     {
      "name": "Dividend record",
-     "value": "$3.00 a share (2.0% yield)",
+     "value": "$3.00 a share (1.9% yield)",
      "threshold": "Pays a dividend",
      "pass": true
     },
@@ -692,7 +692,7 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "27.5x three-year average earnings ($5.45); 18.9x trailing",
+     "value": "29.6x three-year average earnings ($5.45); 20.3x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
@@ -704,9 +704,9 @@
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 5.3% vs 10-year Treasury 5.10%",
+     "value": "Earnings yield 4.9% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
-     "pass": true
+     "pass": false
     },
     {
      "name": "No financial distress",
@@ -722,7 +722,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $2.1B (net income + depreciation − capex) = 5.0% yield vs 10-year Treasury 5.10%",
+     "value": "Owner earnings $2.1B (net income + depreciation − capex) = 4.7% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -788,13 +788,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 2.68",
+     "value": "PEG 2.89",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(2% EPS growth + 2.0% yield) ÷ P/E 18.9 = 0.19",
+     "value": "(2% EPS growth + 1.9% yield) ÷ P/E 20.3 = 0.17",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -896,13 +896,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +2% over 52 weeks",
+     "value": "Share price +8% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -39%",
+     "value": "Margin of safety -51%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -914,13 +914,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($128); 42% downside to the low case",
+     "value": "No upside even to the high-case value ($127); 46% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -14.5,
-   "downside_pct": 41.8
+   "upside_pct": -21.3,
+   "downside_pct": 46.4
   }
  },
  "rules_of_the_road": [

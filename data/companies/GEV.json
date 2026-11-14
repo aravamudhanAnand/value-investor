@@ -42,7 +42,7 @@
     "value": 20.99,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 28.44,
+    "sector_median": 28.64,
     "sector_n": 40
    },
    {
@@ -60,7 +60,7 @@
     "value": 0.25,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.3,
+    "sector_median": 1.35,
     "sector_n": 42
    }
   ],
@@ -84,17 +84,17 @@
    {
     "ticker": "ROK",
     "company": "Rockwell Automation",
-    "value": 24.68
+    "value": 22.88
    },
    {
     "ticker": "ODFL",
     "company": "Old Dominion Freight Line",
-    "value": 19.93
+    "value": 20.07
    },
    {
     "ticker": "PCAR",
     "company": "PACCAR",
-    "value": 18.68
+    "value": 19.05
    },
    {
     "ticker": "CAT",
@@ -102,14 +102,14 @@
     "value": 18.21
    },
    {
-    "ticker": "URI",
-    "company": "United Rentals",
-    "value": 17.38
-   },
-   {
     "ticker": "EMR",
     "company": "Emerson Electric",
     "value": 17.23
+   },
+   {
+    "ticker": "URI",
+    "company": "United Rentals",
+    "value": 16.93
    },
    {
     "ticker": "CSX",
@@ -122,19 +122,19 @@
     "value": 15.86
    },
    {
-    "ticker": "NSC",
-    "company": "Norfolk Southern",
-    "value": 15.64
-   },
-   {
     "ticker": "UNP",
     "company": "Union Pacific",
     "value": 15.64
    },
    {
+    "ticker": "NSC",
+    "company": "Norfolk Southern",
+    "value": 15.41
+   },
+   {
     "ticker": "CMI",
     "company": "Cummins",
-    "value": 12.06
+    "value": 12.12
    },
    {
     "ticker": "HON",

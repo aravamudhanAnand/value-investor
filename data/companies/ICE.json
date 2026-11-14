@@ -51,7 +51,7 @@
     "value": 19.73,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 27.12,
+    "sector_median": 27.84,
     "sector_n": 10
    },
    {
@@ -69,12 +69,17 @@
     "value": 1.17,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.35,
+    "sector_median": 1.31,
     "sector_n": 24
    }
   ],
   "peer_group": "Financials · established operating business",
   "peers": [
+   {
+    "ticker": "MSCI",
+    "company": "MSCI",
+    "value": 34.86
+   },
    {
     "ticker": "V",
     "company": "Visa",
@@ -84,11 +89,6 @@
     "ticker": "MA",
     "company": "Mastercard",
     "value": 34.6
-   },
-   {
-    "ticker": "MSCI",
-    "company": "MSCI",
-    "value": 32.72
    },
    {
     "ticker": "MCO",

@@ -60,7 +60,7 @@
     "value": 13.09,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 17.49,
+    "sector_median": 18.02,
     "sector_n": 18
    },
    {
@@ -141,14 +141,14 @@
     "value": 21.37
    },
    {
+    "ticker": "YUM",
+    "company": "Yum! Brands",
+    "value": 20.32
+   },
+   {
     "ticker": "LOW",
     "company": "Lowe's",
     "value": 19.25
-   },
-   {
-    "ticker": "YUM",
-    "company": "Yum! Brands",
-    "value": 18.85
    },
    {
     "ticker": "NKE",

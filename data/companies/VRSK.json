@@ -5,13 +5,13 @@
  "sector": "Industrials",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 204.59,
- "market_cap": "$26.2B",
+ "price": 207.82,
+ "market_cap": "$26.7B",
  "verdict": "WATCHLIST",
  "overall_score": 70,
- "one_liner": "A wide-moat business worth owning, but it trades at 1.3x fair value. Interesting below about $107.",
+ "one_liner": "A wide-moat business worth owning, but it trades at 1.4x fair value. Interesting below about $107.",
  "scores": {
   "meaning": 9,
   "moat": 9,
@@ -30,25 +30,25 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 31.05,
+    "value": 31.54,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 28.44,
+    "sector_median": 28.64,
     "sector_n": 40
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 24.3,
+    "value": 24.68,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 24.49,
+    "sector_median": 24.61,
     "sector_n": 24
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 23.86,
+    "value": 24.24,
     "unit": "x",
     "note": "Before deducting stock-based pay",
     "sector_median": 26.98,
@@ -57,7 +57,7 @@
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 19.69,
+    "value": 19.96,
     "unit": "x",
     "note": "Enterprise value includes debt",
     "sector_median": 18.21,
@@ -66,10 +66,10 @@
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 0.98,
+    "value": 0.96,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.3,
+    "sector_median": 1.35,
     "sector_n": 42
    }
   ],
@@ -78,7 +78,12 @@
    {
     "ticker": "PWR",
     "company": "Quanta Services",
-    "value": 71.02
+    "value": 68.88
+   },
+   {
+    "ticker": "FAST",
+    "company": "Fastenal",
+    "value": 44.87
    },
    {
     "ticker": "CTAS",
@@ -86,9 +91,14 @@
     "value": 44.62
    },
    {
-    "ticker": "FAST",
-    "company": "Fastenal",
-    "value": 43.08
+    "ticker": "GWW",
+    "company": "W.W. Grainger",
+    "value": 38.02
+   },
+   {
+    "ticker": "TDG",
+    "company": "TransDigm Group",
+    "value": 36.93
    },
    {
     "ticker": "RSG",
@@ -98,22 +108,12 @@
    {
     "ticker": "AME",
     "company": "AMETEK",
-    "value": 35.5
+    "value": 35.4
    },
    {
     "ticker": "ETN",
     "company": "Eaton",
     "value": 35.26
-   },
-   {
-    "ticker": "TDG",
-    "company": "TransDigm Group",
-    "value": 34.79
-   },
-   {
-    "ticker": "GWW",
-    "company": "W.W. Grainger",
-    "value": 34.33
    },
    {
     "ticker": "TT",
@@ -138,12 +138,12 @@
    {
     "ticker": "VRSK",
     "company": "Verisk Analytics",
-    "value": 31.05
+    "value": 31.54
    },
    {
     "ticker": "JCI",
     "company": "Johnson Controls International",
-    "value": 28.85
+    "value": 29.77
    },
    {
     "ticker": "ADP",
@@ -158,7 +158,7 @@
    {
     "ticker": "PAYX",
     "company": "Paychex",
-    "value": 22.96
+    "value": 22.95
    },
    {
     "ticker": "GD",
@@ -173,12 +173,12 @@
    {
     "ticker": "CPRT",
     "company": "Copart",
-    "value": 20.61
+    "value": 20.54
    },
    {
     "ticker": "OTIS",
     "company": "Otis Worldwide",
-    "value": 19.35
+    "value": 19.92
    },
    {
     "ticker": "NOC",
@@ -198,12 +198,12 @@
   "beta": 0.69,
   "as_of": "2026-11-06",
   "low52": 155.94,
-  "high52": 235.89,
-  "range_pos": 61,
-  "below_high": 13.3,
-  "target_vs_price": 10.7,
-  "target_vs_fair": 48.0,
-  "above_low": 31.2
+  "high52": 227.16,
+  "range_pos": 73,
+  "below_high": 8.5,
+  "target_vs_price": 9.0,
+  "target_vs_fair": 48.1,
+  "above_low": 33.3
  },
  "summary": {
   "sentence": "The data utility of US insurance, now financed with more debt.",
@@ -554,7 +554,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "8.3%",
+      "value": "8.1%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -583,7 +583,7 @@
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "4.0%",
+      "value": "3.9%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
@@ -607,53 +607,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "31.0"
+   "value": "31.5"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "23.9"
+   "value": "24.2"
   },
   "three_numbers": {
-   "pe": "31.0",
-   "forward_pe": "24.3",
-   "peg": "2.06"
+   "pe": "31.5",
+   "forward_pe": "24.7",
+   "peg": "2.09"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "9.5"
+    "value": "9.7"
    },
    {
     "name": "EV/EBITDA",
-    "value": "19.7"
+    "value": "20.0"
    },
    {
     "name": "EV/EBIT",
-    "value": "21.2"
+    "value": "21.5"
    },
    {
     "name": "P/E",
-    "value": "31.0"
+    "value": "31.5"
    },
    {
     "name": "EV/FCF",
-    "value": "27.6"
+    "value": "27.9"
    },
    {
     "name": "P/FCF",
-    "value": "23.9"
+    "value": "24.2"
    },
    {
     "name": "P/B",
     "value": "n/a"
    }
   ],
-  "intrinsic_value_low": 126.83,
-  "intrinsic_value_high": 179.16,
-  "margin_of_safety_pct": -33.7,
-  "interesting_below": 107.09,
+  "intrinsic_value_low": 126.72,
+  "intrinsic_value_high": 179.01,
+  "margin_of_safety_pct": -35.9,
+  "interesting_below": 107.01,
   "method": "Fair value is the average of two methods: (1) Owner cash flow, capex held at depreciation: $1.1B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 2.5x depreciation, so most of it is expansion, not upkeep. (2) Damodaran: cash flow to the firm: Sales grow 5–11% for five years, fading to 3%; operating margin held at 45%; cost of capital 8.3%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 152.99,
+  "fair_value": 152.87,
   "methods": [
    {
     "name": "Owner cash flow, capex held at depreciation",
@@ -663,8 +663,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 114.84,
-    "high": 162.45,
+    "low": 114.64,
+    "high": 162.16,
     "basis": "Sales grow 5–11% for five years, fading to 3%; operating margin held at 45%; cost of capital 8.3%. Cash added, debt subtracted."
    }
   ],
@@ -690,9 +690,9 @@
    "terminal_roc": 13.3,
    "revenue_now": "$3.2B",
    "revenue_year10": "$6.0B",
-   "low": 114.84,
-   "high": 162.45,
-   "implied_growth": 15.2,
+   "low": 114.64,
+   "high": 162.16,
+   "implied_growth": 15.5,
    "implied_note": null
   }
  },
@@ -727,7 +727,7 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "35.4x three-year average earnings ($5.79); 31.0x trailing",
+     "value": "35.9x three-year average earnings ($5.79); 31.5x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
@@ -823,13 +823,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 2.06",
+     "value": "PEG 2.09",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(12% EPS growth + 1.0% yield) ÷ P/E 31.0 = 0.43",
+     "value": "(12% EPS growth + 1.0% yield) ÷ P/E 31.5 = 0.42",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -937,7 +937,7 @@
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -34%",
+     "value": "Margin of safety -36%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -949,13 +949,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($179); 38% downside to the low case",
+     "value": "No upside even to the high-case value ($179); 39% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -12.4,
-   "downside_pct": 38.0
+   "upside_pct": -13.9,
+   "downside_pct": 39.0
   }
  },
  "rules_of_the_road": [

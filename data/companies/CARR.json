@@ -5,10 +5,10 @@
  "sector": "Industrials",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-10-30",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 53.63,
- "market_cap": "$43.9B",
+ "price": 54.2,
+ "market_cap": "$44.3B",
  "verdict": "PASS",
  "overall_score": 50,
  "one_liner": "Fails the quality test (weak financial health), so price does not matter.",
@@ -33,22 +33,22 @@
     "value": null,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 28.44,
+    "sector_median": 28.64,
     "sector_n": 40
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 17.31,
+    "value": 17.49,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 24.49,
+    "sector_median": 24.61,
     "sector_n": 24
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 18.44,
+    "value": 18.63,
     "unit": "x",
     "note": "Before deducting stock-based pay",
     "sector_median": 26.98,
@@ -57,7 +57,7 @@
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 16.74,
+    "value": 16.88,
     "unit": "x",
     "note": "Enterprise value includes debt",
     "sector_median": 18.21,
@@ -66,10 +66,10 @@
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 1.79,
+    "value": 1.77,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.3,
+    "sector_median": 1.35,
     "sector_n": 42
    }
   ],
@@ -78,7 +78,12 @@
    {
     "ticker": "PWR",
     "company": "Quanta Services",
-    "value": 71.02
+    "value": 68.88
+   },
+   {
+    "ticker": "FAST",
+    "company": "Fastenal",
+    "value": 44.87
    },
    {
     "ticker": "CTAS",
@@ -86,9 +91,14 @@
     "value": 44.62
    },
    {
-    "ticker": "FAST",
-    "company": "Fastenal",
-    "value": 43.08
+    "ticker": "GWW",
+    "company": "W.W. Grainger",
+    "value": 38.02
+   },
+   {
+    "ticker": "TDG",
+    "company": "TransDigm Group",
+    "value": 36.93
    },
    {
     "ticker": "RSG",
@@ -98,22 +108,12 @@
    {
     "ticker": "AME",
     "company": "AMETEK",
-    "value": 35.5
+    "value": 35.4
    },
    {
     "ticker": "ETN",
     "company": "Eaton",
     "value": 35.26
-   },
-   {
-    "ticker": "TDG",
-    "company": "TransDigm Group",
-    "value": 34.79
-   },
-   {
-    "ticker": "GWW",
-    "company": "W.W. Grainger",
-    "value": 34.33
    },
    {
     "ticker": "TT",
@@ -138,12 +138,12 @@
    {
     "ticker": "VRSK",
     "company": "Verisk Analytics",
-    "value": 31.05
+    "value": 31.54
    },
    {
     "ticker": "JCI",
     "company": "Johnson Controls International",
-    "value": 28.85
+    "value": 29.77
    },
    {
     "ticker": "ADP",
@@ -158,7 +158,7 @@
    {
     "ticker": "PAYX",
     "company": "Paychex",
-    "value": 22.96
+    "value": 22.95
    },
    {
     "ticker": "GD",
@@ -173,12 +173,12 @@
    {
     "ticker": "CPRT",
     "company": "Copart",
-    "value": 20.61
+    "value": 20.54
    },
    {
     "ticker": "OTIS",
     "company": "Otis Worldwide",
-    "value": 19.35
+    "value": 19.92
    },
    {
     "ticker": "NOC",
@@ -199,11 +199,11 @@
   "as_of": "2026-10-30",
   "low52": 50.24,
   "high52": 76.76,
-  "range_pos": 13,
-  "below_high": 30.1,
-  "target_vs_price": 33.7,
-  "target_vs_fair": 165.8,
-  "above_low": 6.7
+  "range_pos": 15,
+  "below_high": 29.4,
+  "target_vs_price": 32.3,
+  "target_vs_fair": 166.0,
+  "above_low": 7.9
  },
  "summary": {
   "sentence": "A climate-control maker with strong US demand and a written-down European business.",
@@ -585,7 +585,7 @@
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "5.3%",
+      "value": "5.2%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
@@ -613,12 +613,12 @@
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "18.4"
+   "value": "18.6"
   },
   "three_numbers": {
    "pe": null,
-   "forward_pe": "17.3",
-   "peg": "1.70"
+   "forward_pe": "17.5",
+   "peg": "1.72"
   },
   "multiples": [
    {
@@ -627,11 +627,11 @@
    },
    {
     "name": "EV/EBITDA",
-    "value": "16.7"
+    "value": "16.9"
    },
    {
     "name": "EV/EBIT",
-    "value": "27.6"
+    "value": "27.9"
    },
    {
     "name": "P/E",
@@ -639,23 +639,23 @@
    },
    {
     "name": "EV/FCF",
-    "value": "22.9"
+    "value": "23.1"
    },
    {
     "name": "P/FCF",
-    "value": "18.4"
+    "value": "18.6"
    },
    {
     "name": "P/B",
-    "value": "4.2"
+    "value": "4.3"
    }
   ],
-  "intrinsic_value_low": 22.82,
-  "intrinsic_value_high": 31.15,
-  "margin_of_safety_pct": -98.8,
-  "interesting_below": 18.89,
+  "intrinsic_value_low": 22.8,
+  "intrinsic_value_high": 31.12,
+  "margin_of_safety_pct": -101.0,
+  "interesting_below": 18.87,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $2.1B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 3–9% for five years, fading to 3%; operating margin held at 9%; cost of capital 8.6%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 26.98,
+  "fair_value": 26.96,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -665,8 +665,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 10.04,
-    "high": 12.03,
+    "low": 10.01,
+    "high": 11.98,
     "basis": "Sales grow 3–9% for five years, fading to 3%; operating margin held at 9%; cost of capital 8.6%. Cash added, debt subtracted."
    }
   ],
@@ -688,9 +688,9 @@
    "terminal_roc": 10.6,
    "revenue_now": "$22.8B",
    "revenue_year10": "$37.5B",
-   "low": 10.04,
-   "high": 12.03,
-   "implied_growth": 26.5,
+   "low": 10.01,
+   "high": 11.98,
+   "implied_growth": 26.7,
    "implied_note": null
   }
  },
@@ -725,7 +725,7 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "17.0x three-year average earnings ($3.15); n/ax trailing",
+     "value": "17.2x three-year average earnings ($3.15); n/ax trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
@@ -821,7 +821,7 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 1.70",
+     "value": "PEG 1.72",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": null
     },
@@ -930,13 +930,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price -12% over 52 weeks",
+     "value": "Share price +0% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -99%",
+     "value": "Margin of safety -101%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -948,13 +948,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($31); 57% downside to the low case",
+     "value": "No upside even to the high-case value ($31); 58% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -41.9,
-   "downside_pct": 57.5
+   "upside_pct": -42.6,
+   "downside_pct": 57.9
   }
  },
  "rules_of_the_road": [

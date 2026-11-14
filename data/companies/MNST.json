@@ -5,10 +5,10 @@
  "sector": "Consumer staples",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-10-29",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 46.35,
- "market_cap": "$90.8B",
+ "price": 46.46,
+ "market_cap": "$91.1B",
  "verdict": "WATCHLIST",
  "overall_score": 70,
  "one_liner": "A wide-moat business worth owning, but it trades at 2.3x fair value. Interesting below about $14.",
@@ -30,7 +30,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 42.92,
+    "value": 43.02,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 25.16,
@@ -39,7 +39,7 @@
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 37.78,
+    "value": 37.87,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
     "sector_median": 20.97,
@@ -48,16 +48,16 @@
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 43.26,
+    "value": 43.36,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 20.81,
+    "sector_median": 20.58,
     "sector_n": 15
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 29.87,
+    "value": 29.94,
     "unit": "x",
     "note": "Enterprise value includes debt",
     "sector_median": 16.64,
@@ -69,7 +69,7 @@
     "value": 0.0,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 3.04,
+    "sector_median": 2.85,
     "sector_n": 15
    }
   ],
@@ -88,7 +88,7 @@
    {
     "ticker": "MNST",
     "company": "Monster Beverage",
-    "value": 42.92
+    "value": 43.02
    },
    {
     "ticker": "CL",
@@ -118,12 +118,12 @@
    {
     "ticker": "HSY",
     "company": "The Hershey Company",
-    "value": 22.62
+    "value": 23.81
    },
    {
     "ticker": "SYY",
     "company": "Sysco",
-    "value": 22.42
+    "value": 21.07
    },
    {
     "ticker": "PEP",
@@ -131,19 +131,19 @@
     "value": 18.29
    },
    {
+    "ticker": "TGT",
+    "company": "Target",
+    "value": 16.75
+   },
+   {
     "ticker": "MO",
     "company": "Altria",
     "value": 16.56
    },
    {
-    "ticker": "TGT",
-    "company": "Target",
-    "value": 15.41
-   },
-   {
     "ticker": "STZ",
     "company": "Constellation Brands",
-    "value": 12.19
+    "value": 13.08
    }
   ]
  },
@@ -152,13 +152,13 @@
   "target": 49.85,
   "beta": 0.49,
   "as_of": "2026-10-29",
-  "low52": 32.94,
+  "low52": 35.4,
   "high52": 50.17,
-  "range_pos": 78,
-  "below_high": 7.6,
-  "target_vs_price": 7.6,
+  "range_pos": 75,
+  "below_high": 7.4,
+  "target_vs_price": 7.3,
   "target_vs_fair": 147.8,
-  "above_low": 40.7
+  "above_low": 31.2
  },
  "summary": {
   "sentence": "A debt-free energy-drink brand with Coca-Cola's distribution, at a very high multiple.",
@@ -561,16 +561,16 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "42.9"
+   "value": "43.0"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "43.3"
+   "value": "43.4"
   },
   "three_numbers": {
-   "pe": "42.9",
-   "forward_pe": "37.8",
-   "peg": "3.33"
+   "pe": "43.0",
+   "forward_pe": "37.9",
+   "peg": "3.34"
   },
   "multiples": [
    {
@@ -583,19 +583,19 @@
    },
    {
     "name": "EV/EBIT",
-    "value": "31.1"
+    "value": "31.2"
    },
    {
     "name": "P/E",
-    "value": "42.9"
+    "value": "43.0"
    },
    {
     "name": "EV/FCF",
-    "value": "41.7"
+    "value": "41.8"
    },
    {
     "name": "P/FCF",
-    "value": "43.3"
+    "value": "43.4"
    },
    {
     "name": "P/B",
@@ -604,7 +604,7 @@
   ],
   "intrinsic_value_low": 17.16,
   "intrinsic_value_high": 23.07,
-  "margin_of_safety_pct": -130.4,
+  "margin_of_safety_pct": -130.9,
   "interesting_below": 14.08,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $1.7B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 6–12% for five years, fading to 3%; operating margin held at 30%; cost of capital 8.9%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
   "fair_value": 20.12,
@@ -642,7 +642,7 @@
    "revenue_year10": "$18.4B",
    "low": 19.78,
    "high": 25.63,
-   "implied_growth": 25.3,
+   "implied_growth": 25.4,
    "implied_note": null
   }
  },
@@ -677,13 +677,13 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "56.1x three-year average earnings ($0.83); 42.9x trailing",
+     "value": "56.2x three-year average earnings ($0.83); 43.0x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 417; Graham number $11 vs price $46",
+     "value": "P/E × P/B = 419; Graham number $11 vs price $46",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
@@ -773,13 +773,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 3.33",
+     "value": "PEG 3.34",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(11% EPS growth + 0.0% yield) ÷ P/E 42.9 = 0.25",
+     "value": "(11% EPS growth + 0.0% yield) ÷ P/E 43.0 = 0.24",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -881,13 +881,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +33% over 52 weeks",
+     "value": "Share price +30% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -130%",
+     "value": "Margin of safety -131%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -904,8 +904,8 @@
      "pass": false
     }
    ],
-   "upside_pct": -50.2,
-   "downside_pct": 63.0
+   "upside_pct": -50.3,
+   "downside_pct": 63.1
   }
  },
  "rules_of_the_road": [

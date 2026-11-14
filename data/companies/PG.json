@@ -51,7 +51,7 @@
     "value": 25.68,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 20.81,
+    "sector_median": 20.58,
     "sector_n": 15
    },
    {
@@ -69,7 +69,7 @@
     "value": 2.56,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 3.04,
+    "sector_median": 2.85,
     "sector_n": 15
    }
   ],
@@ -88,7 +88,7 @@
    {
     "ticker": "MNST",
     "company": "Monster Beverage",
-    "value": 42.92
+    "value": 43.02
    },
    {
     "ticker": "CL",
@@ -118,12 +118,12 @@
    {
     "ticker": "HSY",
     "company": "The Hershey Company",
-    "value": 22.62
+    "value": 23.81
    },
    {
     "ticker": "SYY",
     "company": "Sysco",
-    "value": 22.42
+    "value": 21.07
    },
    {
     "ticker": "PEP",
@@ -131,19 +131,19 @@
     "value": 18.29
    },
    {
+    "ticker": "TGT",
+    "company": "Target",
+    "value": 16.75
+   },
+   {
     "ticker": "MO",
     "company": "Altria",
     "value": 16.56
    },
    {
-    "ticker": "TGT",
-    "company": "Target",
-    "value": 15.41
-   },
-   {
     "ticker": "STZ",
     "company": "Constellation Brands",
-    "value": 12.19
+    "value": 13.08
    }
   ]
  },
