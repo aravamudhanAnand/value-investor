@@ -5,20 +5,20 @@
  "sector": "Health care",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-10-27",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 71.52,
- "market_cap": "$32.3B",
+ "price": 83.02,
+ "market_cap": "$37.5B",
  "verdict": "WATCHLIST",
- "overall_score": 65,
- "one_liner": "A wide-moat business worth owning, but it trades at 1.3x fair value. Interesting below about $38.",
+ "overall_score": 63,
+ "one_liner": "A wide-moat business worth owning, but it trades at 1.6x fair value. Interesting below about $37.",
  "scores": {
   "meaning": 8,
   "moat": 7,
   "industry": 7,
   "management": 7,
   "financial_health": 8,
-  "valuation": 3
+  "valuation": 2
  },
  "treasury_10y": 5.1,
  "profile": {
@@ -30,46 +30,46 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 16.48,
+    "value": 19.13,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 32.85,
+    "sector_median": 32.81,
     "sector_n": 34
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 13.85,
+    "value": 16.08,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 18.6,
+    "sector_median": 18.62,
     "sector_n": 35
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 20.45,
+    "value": 23.73,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 21.11,
+    "sector_median": 22.3,
     "sector_n": 35
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 11.36,
+    "value": 12.8,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 16.07,
+    "sector_median": 16.15,
     "sector_n": 34
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 0.22,
+    "value": 0.19,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 0.82,
+    "sector_median": 0.73,
     "sector_n": 35
    }
   ],
@@ -83,7 +83,7 @@
    {
     "ticker": "EW",
     "company": "Edwards Lifesciences",
-    "value": 58.03
+    "value": 60.88
    },
    {
     "ticker": "ISRG",
@@ -94,6 +94,11 @@
     "ticker": "ABBV",
     "company": "AbbVie",
     "value": 50.78
+   },
+   {
+    "ticker": "IDXX",
+    "company": "IDEXX Laboratories",
+    "value": 49.52
    },
    {
     "ticker": "LLY",
@@ -116,9 +121,14 @@
     "value": 40.34
    },
    {
-    "ticker": "IDXX",
-    "company": "IDEXX Laboratories",
-    "value": 39.59
+    "ticker": "MTD",
+    "company": "Mettler-Toledo International",
+    "value": 39.12
+   },
+   {
+    "ticker": "CAH",
+    "company": "Cardinal Health",
+    "value": 38.88
    },
    {
     "ticker": "DHR",
@@ -126,19 +136,9 @@
     "value": 38.2
    },
    {
-    "ticker": "MTD",
-    "company": "Mettler-Toledo International",
-    "value": 37.56
-   },
-   {
     "ticker": "TMO",
     "company": "Thermo Fisher Scientific",
     "value": 36.91
-   },
-   {
-    "ticker": "CAH",
-    "company": "Cardinal Health",
-    "value": 34.79
    },
    {
     "ticker": "VRTX",
@@ -148,12 +148,7 @@
    {
     "ticker": "A",
     "company": "Agilent Technologies",
-    "value": 34.47
-   },
-   {
-    "ticker": "IQV",
-    "company": "IQVIA Holdings",
-    "value": 33.64
+    "value": 34.31
    },
    {
     "ticker": "SYK",
@@ -161,14 +156,19 @@
     "value": 32.98
    },
    {
+    "ticker": "DXCM",
+    "company": "DexCom",
+    "value": 32.81
+   },
+   {
+    "ticker": "IQV",
+    "company": "IQVIA Holdings",
+    "value": 32.81
+   },
+   {
     "ticker": "AMGN",
     "company": "Amgen",
     "value": 32.72
-   },
-   {
-    "ticker": "DXCM",
-    "company": "DexCom",
-    "value": 31.06
    },
    {
     "ticker": "MCK",
@@ -176,19 +176,19 @@
     "value": 28.29
    },
    {
+    "ticker": "COR",
+    "company": "Cencora",
+    "value": 26.67
+   },
+   {
     "ticker": "MDT",
     "company": "Medtronic",
     "value": 25.33
    },
    {
-    "ticker": "COR",
-    "company": "Cencora",
-    "value": 24.58
-   },
-   {
-    "ticker": "RMD",
-    "company": "ResMed",
-    "value": 23.92
+    "ticker": "ZBH",
+    "company": "Zimmer Biomet Holdings",
+    "value": 25.05
    },
    {
     "ticker": "CVS",
@@ -201,14 +201,19 @@
     "value": 23.28
    },
    {
-    "ticker": "ZBH",
-    "company": "Zimmer Biomet Holdings",
-    "value": 22.94
+    "ticker": "RMD",
+    "company": "ResMed",
+    "value": 22.97
    },
    {
     "ticker": "REGN",
     "company": "Regeneron Pharmaceuticals",
     "value": 21.15
+   },
+   {
+    "ticker": "GEHC",
+    "company": "GE HealthCare Technologies",
+    "value": 19.13
    },
    {
     "ticker": "ELV",
@@ -224,11 +229,6 @@
     "ticker": "HCA",
     "company": "HCA Healthcare",
     "value": 16.51
-   },
-   {
-    "ticker": "GEHC",
-    "company": "GE HealthCare Technologies",
-    "value": 16.48
    },
    {
     "ticker": "BMY",
@@ -252,12 +252,13 @@
   "target": 82.7,
   "beta": null,
   "as_of": "2026-10-27",
-  "low52": null,
-  "high52": null,
-  "range_pos": null,
-  "below_high": null,
-  "target_vs_price": 15.6,
-  "target_vs_fair": 54.0
+  "low52": 58.75,
+  "high52": 89.77,
+  "range_pos": 78,
+  "below_high": 7.5,
+  "target_vs_price": -0.4,
+  "target_vs_fair": 56.5,
+  "above_low": 41.3
  },
  "summary": {
   "sentence": "A global imaging leader with a large service base and margins still to prove.",
@@ -608,7 +609,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "1.3%",
+      "value": "1.1%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -631,19 +632,19 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "6.1%",
+      "value": "5.2%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "4.4%",
+      "value": "3.8%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "6.4%",
+      "value": "5.5%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      }
@@ -657,57 +658,57 @@
   "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
  },
  "valuation": {
-  "score": 3,
+  "score": 2,
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "16.5"
+   "value": "19.1"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "20.4"
+   "value": "23.7"
   },
   "three_numbers": {
-   "pe": "16.5",
-   "forward_pe": "13.8",
-   "peg": "1.60"
+   "pe": "19.1",
+   "forward_pe": "16.1",
+   "peg": "1.86"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "1.9"
+    "value": "2.2"
    },
    {
     "name": "EV/EBITDA",
-    "value": "11.4"
+    "value": "12.8"
    },
    {
     "name": "EV/EBIT",
-    "value": "13.6"
+    "value": "15.4"
    },
    {
     "name": "P/E",
-    "value": "16.5"
+    "value": "19.1"
    },
    {
     "name": "EV/FCF",
-    "value": "25.8"
+    "value": "29.1"
    },
    {
     "name": "P/FCF",
-    "value": "20.4"
+    "value": "23.7"
    },
    {
     "name": "P/B",
-    "value": "2.9"
+    "value": "3.3"
    }
   ],
-  "intrinsic_value_low": 46.52,
-  "intrinsic_value_high": 60.91,
-  "margin_of_safety_pct": -33.1,
-  "interesting_below": 37.6,
-  "method": "Fair value is the average of two methods: (1) Owner cash flow: $1.4B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 2–8% for five years, fading to 3%; operating margin held at 14%; cost of capital 8.5%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 53.72,
+  "intrinsic_value_low": 45.81,
+  "intrinsic_value_high": 59.91,
+  "margin_of_safety_pct": -57.1,
+  "interesting_below": 37.0,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $1.4B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 2–8% for five years, fading to 3%; operating margin held at 14%; cost of capital 8.6%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 52.86,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -717,9 +718,9 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 51.17,
-    "high": 62.68,
-    "basis": "Sales grow 2–8% for five years, fading to 3%; operating margin held at 14%; cost of capital 8.5%. Cash added, debt subtracted."
+    "low": 49.76,
+    "high": 60.67,
+    "basis": "Sales grow 2–8% for five years, fading to 3%; operating margin held at 14%; cost of capital 8.6%. Cash added, debt subtracted."
    }
   ],
   "stress_case": null,
@@ -734,15 +735,15 @@
    "beta": 1.0,
    "cost_of_equity": 9.6,
    "cost_of_debt": 4.9,
-   "debt_weight": 25,
-   "cost_of_capital": 8.5,
+   "debt_weight": 22,
+   "cost_of_capital": 8.6,
    "terminal_growth": 3.0,
-   "terminal_roc": 13.5,
+   "terminal_roc": 13.6,
    "revenue_now": "$21.3B",
    "revenue_year10": "$32.7B",
-   "low": 51.17,
-   "high": 62.68,
-   "implied_growth": 11.3,
+   "low": 49.76,
+   "high": 60.67,
+   "implied_growth": 14.1,
    "implied_note": null
   }
  },
@@ -777,19 +778,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "18.0x three-year average earnings ($3.97); 16.5x trailing",
+     "value": "20.9x three-year average earnings ($3.97); 19.1x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 47; Graham number $49 vs price $72",
+     "value": "P/E × P/B = 64; Graham number $49 vs price $83",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 6.1% vs 10-year Treasury 5.10%",
+     "value": "Earnings yield 5.2% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": true
     },
@@ -807,7 +808,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $2.1B (net income + depreciation − capex) = 6.4% yield vs 10-year Treasury 5.10%",
+     "value": "Owner earnings $2.1B (net income + depreciation − capex) = 5.5% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": true
     },
@@ -873,13 +874,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 1.60",
+     "value": "PEG 1.86",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": null
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(-2% EPS growth + 0.2% yield) ÷ P/E 16.5 = -0.11",
+     "value": "(-2% EPS growth + 0.2% yield) ÷ P/E 19.1 = -0.10",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -981,13 +982,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price -8% over 52 weeks",
+     "value": "Share price +13% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -33%",
+     "value": "Margin of safety -57%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -999,13 +1000,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($61); 35% downside to the low case",
+     "value": "No upside even to the high-case value ($60); 45% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -14.8,
-   "downside_pct": 35.0
+   "upside_pct": -27.8,
+   "downside_pct": 44.8
   }
  },
  "rules_of_the_road": [

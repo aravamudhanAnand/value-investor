@@ -5,10 +5,10 @@
  "sector": "Technology",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 328.53,
- "market_cap": "$208.9B",
+ "price": 344.53,
+ "market_cap": "$219.1B",
  "verdict": "TOO_HARD",
  "overall_score": 60,
  "one_liner": "Goes in the too-hard pile: its industry is changing too fast to predict. No verdict on price.",
@@ -30,7 +30,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 19.17,
+    "value": 20.1,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 34.13,
@@ -39,7 +39,7 @@
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 11.68,
+    "value": 12.24,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
     "sector_median": 19.94,
@@ -48,28 +48,28 @@
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 24.4,
+    "value": 25.59,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 25.82,
+    "sector_median": 26.42,
     "sector_n": 26
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 13.12,
+    "value": 13.69,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 24.03,
+    "sector_median": 25.58,
     "sector_n": 41
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 0.77,
+    "value": 0.73,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 0.75,
+    "sector_median": 0.73,
     "sector_n": 39
    }
   ],
@@ -106,11 +106,6 @@
     "value": 44.32
    },
    {
-    "ticker": "WDAY",
-    "company": "Workday",
-    "value": 42.9
-   },
-   {
     "ticker": "MSI",
     "company": "Motorola Solutions",
     "value": 41.83
@@ -121,14 +116,19 @@
     "value": 41.58
    },
    {
+    "ticker": "KEYS",
+    "company": "Keysight Technologies",
+    "value": 40.89
+   },
+   {
+    "ticker": "WDAY",
+    "company": "Workday",
+    "value": 40.42
+   },
+   {
     "ticker": "AAPL",
     "company": "Apple",
     "value": 39.67
-   },
-   {
-    "ticker": "KEYS",
-    "company": "Keysight Technologies",
-    "value": 37.38
    },
    {
     "ticker": "ADSK",
@@ -153,7 +153,7 @@
    {
     "ticker": "TEL",
     "company": "TE Connectivity",
-    "value": 21.61
+    "value": 21.19
    },
    {
     "ticker": "IBM",
@@ -163,7 +163,7 @@
    {
     "ticker": "FICO",
     "company": "Fair Isaac",
-    "value": 21.0
+    "value": 20.89
    },
    {
     "ticker": "INTU",
@@ -181,14 +181,19 @@
     "value": 20.19
    },
    {
+    "ticker": "DELL",
+    "company": "Dell Technologies",
+    "value": 20.1
+   },
+   {
+    "ticker": "CDW",
+    "company": "CDW",
+    "value": 20.03
+   },
+   {
     "ticker": "ORCL",
     "company": "Oracle",
     "value": 19.65
-   },
-   {
-    "ticker": "DELL",
-    "company": "Dell Technologies",
-    "value": 19.17
    },
    {
     "ticker": "ROP",
@@ -199,11 +204,6 @@
     "ticker": "ACN",
     "company": "Accenture",
     "value": 18.47
-   },
-   {
-    "ticker": "CDW",
-    "company": "CDW",
-    "value": 18.32
    },
    {
     "ticker": "ADBE",
@@ -217,12 +217,13 @@
   "target": 590.0,
   "beta": 1.44,
   "as_of": "2026-11-06",
-  "low52": null,
-  "high52": null,
-  "range_pos": null,
-  "below_high": null,
-  "target_vs_price": 79.6,
-  "target_vs_fair": 179.5
+  "low52": 110.22,
+  "high52": 595.51,
+  "range_pos": 48,
+  "below_high": 42.1,
+  "target_vs_price": 71.2,
+  "target_vs_fair": 180.3,
+  "above_low": 212.6
  },
  "summary": {
   "sentence": "A hardware maker transformed by AI server orders, with thin margins and violent share-price swings.",
@@ -555,7 +556,7 @@
     "rows": [
      {
       "name": "Dividend yield",
-      "value": "0.8%",
+      "value": "0.7%",
       "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
@@ -573,7 +574,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "4.4%",
+      "value": "4.2%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -596,19 +597,19 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "5.2%",
+      "value": "5.0%",
       "threshold": "≥ 10-year Treasury (5.10%)",
-      "pass": true
+      "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "3.7%",
+      "value": "3.6%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "5.0%",
+      "value": "4.8%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
@@ -616,7 +617,7 @@
    }
   ],
   "ratio_summary": {
-   "passed": 13,
+   "passed": 12,
    "total": 26
   },
   "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
@@ -626,53 +627,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "19.2"
+   "value": "20.1"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "24.4"
+   "value": "25.6"
   },
   "three_numbers": {
-   "pe": "19.2",
-   "forward_pe": "11.7",
-   "peg": "0.30"
+   "pe": "20.1",
+   "forward_pe": "12.2",
+   "peg": "0.32"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "1.5"
+    "value": "1.6"
    },
    {
     "name": "EV/EBITDA",
-    "value": "13.1"
+    "value": "13.7"
    },
    {
     "name": "EV/EBIT",
-    "value": "15.5"
+    "value": "16.2"
    },
    {
     "name": "P/E",
-    "value": "19.2"
+    "value": "20.1"
    },
    {
     "name": "EV/FCF",
-    "value": "27.2"
+    "value": "28.4"
    },
    {
     "name": "P/FCF",
-    "value": "24.4"
+    "value": "25.6"
    },
    {
     "name": "P/B",
     "value": "n/a"
    }
   ],
-  "intrinsic_value_low": 178.4,
-  "intrinsic_value_high": 243.81,
-  "margin_of_safety_pct": -55.6,
-  "interesting_below": 147.78,
+  "intrinsic_value_low": 177.9,
+  "intrinsic_value_high": 243.1,
+  "margin_of_safety_pct": -63.7,
+  "interesting_below": 147.35,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $6.4B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 5–11% for five years, fading to 3%; operating margin held at 10%; cost of capital 9.9%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 211.11,
+  "fair_value": 210.5,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -682,8 +683,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 197.16,
-    "high": 262.37,
+    "low": 196.16,
+    "high": 260.95,
     "basis": "Sales grow 5–11% for five years, fading to 3%; operating margin held at 10%; cost of capital 9.9%. Cash added, debt subtracted."
    }
   ],
@@ -705,15 +706,15 @@
    "terminal_roc": 11.9,
    "revenue_now": "$151.2B",
    "revenue_year10": "$283.4B",
-   "low": 197.16,
-   "high": 262.37,
-   "implied_growth": 15.8,
+   "low": 196.16,
+   "high": 260.95,
+   "implied_growth": 16.9,
    "implied_note": null
   }
  },
  "lenses": {
   "graham": {
-   "passed": 4,
+   "passed": 3,
    "total": 8,
    "tests": [
     {
@@ -730,7 +731,7 @@
     },
     {
      "name": "Dividend record",
-     "value": "$2.52 a share (0.8% yield)",
+     "value": "$2.52 a share (0.7% yield)",
      "threshold": "Pays a dividend",
      "pass": true
     },
@@ -742,7 +743,7 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "50.1x three-year average earnings ($6.55); 19.2x trailing",
+     "value": "52.6x three-year average earnings ($6.55); 20.1x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
@@ -754,9 +755,9 @@
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 5.2% vs 10-year Treasury 5.10%",
+     "value": "Earnings yield 5.0% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
-     "pass": true
+     "pass": false
     },
     {
      "name": "No financial distress",
@@ -772,7 +773,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $10.5B (net income + depreciation − capex) = 5.0% yield vs 10-year Treasury 5.10%",
+     "value": "Owner earnings $10.5B (net income + depreciation − capex) = 4.8% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -838,13 +839,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 0.30",
+     "value": "PEG 0.32",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": true
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(5% EPS growth + 0.8% yield) ÷ P/E 19.2 = 0.32",
+     "value": "(5% EPS growth + 0.7% yield) ÷ P/E 20.1 = 0.31",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -946,13 +947,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +159% over 52 weeks",
+     "value": "Share price +158% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -56%",
+     "value": "Margin of safety -64%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -964,13 +965,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($244); 46% downside to the low case",
+     "value": "No upside even to the high-case value ($243); 48% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -25.8,
-   "downside_pct": 45.7
+   "upside_pct": -29.4,
+   "downside_pct": 48.4
   }
  },
  "rules_of_the_road": [

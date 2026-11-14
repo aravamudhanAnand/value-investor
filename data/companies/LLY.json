@@ -33,7 +33,7 @@
     "value": 46.85,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 32.85,
+    "sector_median": 32.81,
     "sector_n": 34
    },
    {
@@ -42,7 +42,7 @@
     "value": 30.77,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 18.6,
+    "sector_median": 18.62,
     "sector_n": 35
    },
    {
@@ -51,7 +51,7 @@
     "value": 65.4,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 21.11,
+    "sector_median": 22.3,
     "sector_n": 35
    },
    {
@@ -60,7 +60,7 @@
     "value": 28.62,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 16.07,
+    "sector_median": 16.15,
     "sector_n": 34
    },
    {
@@ -69,7 +69,7 @@
     "value": 0.48,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 0.82,
+    "sector_median": 0.73,
     "sector_n": 35
    }
   ],
@@ -83,7 +83,7 @@
    {
     "ticker": "EW",
     "company": "Edwards Lifesciences",
-    "value": 58.03
+    "value": 60.88
    },
    {
     "ticker": "ISRG",
@@ -94,6 +94,11 @@
     "ticker": "ABBV",
     "company": "AbbVie",
     "value": 50.78
+   },
+   {
+    "ticker": "IDXX",
+    "company": "IDEXX Laboratories",
+    "value": 49.52
    },
    {
     "ticker": "LLY",
@@ -116,9 +121,14 @@
     "value": 40.34
    },
    {
-    "ticker": "IDXX",
-    "company": "IDEXX Laboratories",
-    "value": 39.59
+    "ticker": "MTD",
+    "company": "Mettler-Toledo International",
+    "value": 39.12
+   },
+   {
+    "ticker": "CAH",
+    "company": "Cardinal Health",
+    "value": 38.88
    },
    {
     "ticker": "DHR",
@@ -126,19 +136,9 @@
     "value": 38.2
    },
    {
-    "ticker": "MTD",
-    "company": "Mettler-Toledo International",
-    "value": 37.56
-   },
-   {
     "ticker": "TMO",
     "company": "Thermo Fisher Scientific",
     "value": 36.91
-   },
-   {
-    "ticker": "CAH",
-    "company": "Cardinal Health",
-    "value": 34.79
    },
    {
     "ticker": "VRTX",
@@ -148,12 +148,7 @@
    {
     "ticker": "A",
     "company": "Agilent Technologies",
-    "value": 34.47
-   },
-   {
-    "ticker": "IQV",
-    "company": "IQVIA Holdings",
-    "value": 33.64
+    "value": 34.31
    },
    {
     "ticker": "SYK",
@@ -161,14 +156,19 @@
     "value": 32.98
    },
    {
+    "ticker": "DXCM",
+    "company": "DexCom",
+    "value": 32.81
+   },
+   {
+    "ticker": "IQV",
+    "company": "IQVIA Holdings",
+    "value": 32.81
+   },
+   {
     "ticker": "AMGN",
     "company": "Amgen",
     "value": 32.72
-   },
-   {
-    "ticker": "DXCM",
-    "company": "DexCom",
-    "value": 31.06
    },
    {
     "ticker": "MCK",
@@ -176,19 +176,19 @@
     "value": 28.29
    },
    {
+    "ticker": "COR",
+    "company": "Cencora",
+    "value": 26.67
+   },
+   {
     "ticker": "MDT",
     "company": "Medtronic",
     "value": 25.33
    },
    {
-    "ticker": "COR",
-    "company": "Cencora",
-    "value": 24.58
-   },
-   {
-    "ticker": "RMD",
-    "company": "ResMed",
-    "value": 23.92
+    "ticker": "ZBH",
+    "company": "Zimmer Biomet Holdings",
+    "value": 25.05
    },
    {
     "ticker": "CVS",
@@ -201,14 +201,19 @@
     "value": 23.28
    },
    {
-    "ticker": "ZBH",
-    "company": "Zimmer Biomet Holdings",
-    "value": 22.94
+    "ticker": "RMD",
+    "company": "ResMed",
+    "value": 22.97
    },
    {
     "ticker": "REGN",
     "company": "Regeneron Pharmaceuticals",
     "value": 21.15
+   },
+   {
+    "ticker": "GEHC",
+    "company": "GE HealthCare Technologies",
+    "value": 19.13
    },
    {
     "ticker": "ELV",
@@ -224,11 +229,6 @@
     "ticker": "HCA",
     "company": "HCA Healthcare",
     "value": 16.51
-   },
-   {
-    "ticker": "GEHC",
-    "company": "GE HealthCare Technologies",
-    "value": 16.48
    },
    {
     "ticker": "BMY",

@@ -5,10 +5,10 @@
  "sector": "Consumer staples",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-10-27",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 86.58,
- "market_cap": "$10.5B",
+ "price": 109.46,
+ "market_cap": "$13.2B",
  "verdict": "PASS",
  "overall_score": 54,
  "one_liner": "Fails the quality test (weak financial health, its best days look to be behind it), so price does not matter.",
@@ -30,7 +30,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 18.0,
+    "value": 22.76,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 25.16,
@@ -39,16 +39,16 @@
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 15.19,
+    "value": 19.21,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 18.94,
+    "sector_median": 19.21,
     "sector_n": 19
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 25.85,
+    "value": 32.68,
     "unit": "x",
     "note": "Before deducting stock-based pay",
     "sector_median": 20.58,
@@ -57,16 +57,16 @@
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 13.97,
+    "value": 16.4,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 14.76,
+    "sector_median": 16.4,
     "sector_n": 19
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 5.78,
+    "value": 4.57,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
     "sector_median": 2.83,
@@ -91,19 +91,19 @@
     "value": 43.02
    },
    {
+    "ticker": "KR",
+    "company": "The Kroger Co.",
+    "value": 41.16
+   },
+   {
     "ticker": "CL",
     "company": "Colgate-Palmolive",
     "value": 39.4
    },
    {
-    "ticker": "KR",
-    "company": "The Kroger Co.",
-    "value": 38.82
-   },
-   {
     "ticker": "CHD",
     "company": "Church & Dwight",
-    "value": 33.88
+    "value": 36.33
    },
    {
     "ticker": "KO",
@@ -131,6 +131,11 @@
     "value": 23.81
    },
    {
+    "ticker": "CLX",
+    "company": "The Clorox Company",
+    "value": 22.76
+   },
+   {
     "ticker": "SYY",
     "company": "Sysco",
     "value": 21.07
@@ -141,19 +146,14 @@
     "value": 18.29
    },
    {
-    "ticker": "CLX",
-    "company": "The Clorox Company",
-    "value": 18.0
+    "ticker": "DG",
+    "company": "Dollar General",
+    "value": 17.42
    },
    {
     "ticker": "TGT",
     "company": "Target",
     "value": 16.75
-   },
-   {
-    "ticker": "DG",
-    "company": "Dollar General",
-    "value": 16.68
    },
    {
     "ticker": "MO",
@@ -174,11 +174,11 @@
   "as_of": "2026-10-27",
   "low52": 79.12,
   "high52": 128.9,
-  "range_pos": 15,
-  "below_high": 32.8,
-  "target_vs_price": 11.3,
-  "target_vs_fair": 111.0,
-  "above_low": 9.4
+  "range_pos": 61,
+  "below_high": 15.1,
+  "target_vs_price": -12.0,
+  "target_vs_fair": 118.8,
+  "above_low": 38.3
  },
  "summary": {
   "sentence": "A household-brands owner that has taken on heavy debt as sales soften.",
@@ -506,7 +506,7 @@
     "rows": [
      {
       "name": "Dividend yield",
-      "value": "5.8%",
+      "value": "4.6%",
       "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
@@ -524,7 +524,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "2.4%",
+      "value": "1.9%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -547,27 +547,27 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "5.6%",
+      "value": "4.4%",
       "threshold": "≥ 10-year Treasury (5.10%)",
-      "pass": true
+      "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "3.4%",
+      "value": "2.7%",
       "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "6.0%",
+      "value": "4.8%",
       "threshold": "≥ 10-year Treasury (5.10%)",
-      "pass": true
+      "pass": false
      }
     ]
    }
   ],
   "ratio_summary": {
-   "passed": 12,
+   "passed": 10,
    "total": 27
   },
   "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
@@ -577,53 +577,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "18.0"
+   "value": "22.8"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "25.9"
+   "value": "32.7"
   },
   "three_numbers": {
-   "pe": "18.0",
-   "forward_pe": "15.2",
-   "peg": "2.81"
+   "pe": "22.8",
+   "forward_pe": "19.2",
+   "peg": "3.55"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "2.4"
+    "value": "2.8"
    },
    {
     "name": "EV/EBITDA",
-    "value": "14.0"
+    "value": "16.4"
    },
    {
     "name": "EV/EBIT",
-    "value": "17.9"
+    "value": "21.0"
    },
    {
     "name": "P/E",
-    "value": "18.0"
+    "value": "22.8"
    },
    {
     "name": "EV/FCF",
-    "value": "39.3"
+    "value": "46.2"
    },
    {
     "name": "P/FCF",
-    "value": "25.9"
+    "value": "32.7"
    },
    {
     "name": "P/B",
-    "value": "41.5"
+    "value": "52.5"
    }
   ],
-  "intrinsic_value_low": 37.06,
-  "intrinsic_value_high": 54.27,
-  "margin_of_safety_pct": -89.6,
-  "interesting_below": 31.97,
-  "method": "Fair value is the average of two methods: (1) Owner cash flow: $383M a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 0–6% for five years, fading to 3%; operating margin held at 13%; cost of capital 7.5%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 45.67,
+  "intrinsic_value_low": 35.73,
+  "intrinsic_value_high": 52.33,
+  "margin_of_safety_pct": -148.6,
+  "interesting_below": 30.82,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $383M a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 0–6% for five years, fading to 3%; operating margin held at 13%; cost of capital 7.7%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 44.03,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -633,9 +633,9 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 36.7,
-    "high": 55.64,
-    "basis": "Sales grow 0–6% for five years, fading to 3%; operating margin held at 13%; cost of capital 7.5%. Cash added, debt subtracted."
+    "low": 34.02,
+    "high": 51.76,
+    "basis": "Sales grow 0–6% for five years, fading to 3%; operating margin held at 13%; cost of capital 7.7%. Cash added, debt subtracted."
    }
   ],
   "stress_case": null,
@@ -650,21 +650,21 @@
    "beta": 0.85,
    "cost_of_equity": 8.9,
    "cost_of_debt": 4.9,
-   "debt_weight": 35,
-   "cost_of_capital": 7.5,
+   "debt_weight": 30,
+   "cost_of_capital": 7.7,
    "terminal_growth": 3.0,
-   "terminal_roc": 9.5,
+   "terminal_roc": 9.7,
    "revenue_now": "$6.7B",
    "revenue_year10": "$9.0B",
-   "low": 36.7,
-   "high": 55.64,
-   "implied_growth": 13.4,
+   "low": 34.02,
+   "high": 51.76,
+   "implied_growth": 17.2,
    "implied_note": null
   }
  },
  "lenses": {
   "graham": {
-   "passed": 4,
+   "passed": 3,
    "total": 8,
    "tests": [
     {
@@ -681,7 +681,7 @@
     },
     {
      "name": "Dividend record",
-     "value": "$5.00 a share (5.8% yield)",
+     "value": "$5.00 a share (4.6% yield)",
      "threshold": "Pays a dividend",
      "pass": true
     },
@@ -693,21 +693,21 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "19.1x three-year average earnings ($4.53); 18.0x trailing",
+     "value": "24.2x three-year average earnings ($4.53); 22.8x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 748; Graham number $15 vs price $87",
+     "value": "P/E × P/B = 1195; Graham number $15 vs price $109",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 5.6% vs 10-year Treasury 5.10%",
+     "value": "Earnings yield 4.4% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
-     "pass": true
+     "pass": false
     },
     {
      "name": "No financial distress",
@@ -718,14 +718,14 @@
    ]
   },
   "buffett": {
-   "passed": 4,
+   "passed": 3,
    "total": 7,
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $631M (net income + depreciation − capex) = 6.0% yield vs 10-year Treasury 5.10%",
+     "value": "Owner earnings $631M (net income + depreciation − capex) = 4.8% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
-     "pass": true
+     "pass": false
     },
     {
      "name": "High return on equity without heavy debt",
@@ -789,13 +789,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 2.81",
+     "value": "PEG 3.55",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(7% EPS growth + 5.8% yield) ÷ P/E 18.0 = 0.69",
+     "value": "(7% EPS growth + 4.6% yield) ÷ P/E 22.8 = 0.49",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -875,7 +875,7 @@
    ]
   },
   "pabrai": {
-   "passed": 3,
+   "passed": 2,
    "total": 6,
    "tests": [
     {
@@ -898,13 +898,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price -27% over 52 weeks",
+     "value": "Share price +6% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
-     "pass": true
+     "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -90%",
+     "value": "Margin of safety -149%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -916,13 +916,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($54); 57% downside to the low case",
+     "value": "No upside even to the high-case value ($52); 67% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -37.3,
-   "downside_pct": 57.2
+   "upside_pct": -52.2,
+   "downside_pct": 67.4
   }
  },
  "rules_of_the_road": [

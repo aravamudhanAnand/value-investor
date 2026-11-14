@@ -5,10 +5,10 @@
  "sector": "Consumer discretionary",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 327.16,
- "market_cap": "$87.5B",
+ "price": 323.27,
+ "market_cap": "$86.5B",
  "verdict": "WATCHLIST",
  "overall_score": 66,
  "one_liner": "A narrow-moat business worth owning, but it trades at 1.4x fair value. Interesting below about $163.",
@@ -30,16 +30,16 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 19.37,
+    "value": 19.14,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 24.43,
+    "sector_median": 24.64,
     "sector_n": 20
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 16.61,
+    "value": 16.41,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
     "sector_median": 26.6,
@@ -48,7 +48,7 @@
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 57.95,
+    "value": 57.26,
     "unit": "x",
     "note": "Before deducting stock-based pay",
     "sector_median": 26.68,
@@ -57,19 +57,19 @@
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 15.34,
+    "value": 15.19,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 17.9,
+    "sector_median": 18.02,
     "sector_n": 20
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 1.83,
+    "value": 1.86,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 0.95,
+    "sector_median": 0.94,
     "sector_n": 20
    }
   ],
@@ -116,14 +116,14 @@
     "value": 28.01
    },
    {
+    "ticker": "EBAY",
+    "company": "eBay",
+    "value": 24.93
+   },
+   {
     "ticker": "TJX",
     "company": "TJX Companies",
     "value": 24.88
-   },
-   {
-    "ticker": "EBAY",
-    "company": "eBay",
-    "value": 24.46
    },
    {
     "ticker": "HD",
@@ -151,14 +151,14 @@
     "value": 20.32
    },
    {
-    "ticker": "RCL",
-    "company": "Royal Caribbean Group",
-    "value": 19.37
-   },
-   {
     "ticker": "LOW",
     "company": "Lowe's",
     "value": 19.25
+   },
+   {
+    "ticker": "RCL",
+    "company": "Royal Caribbean Group",
+    "value": 19.14
    },
    {
     "ticker": "NKE",
@@ -179,11 +179,11 @@
   "as_of": "2026-11-06",
   "low52": 222.22,
   "high52": 356.39,
-  "range_pos": 78,
-  "below_high": 8.2,
-  "target_vs_price": 7.9,
-  "target_vs_fair": 51.9,
-  "above_low": 47.2
+  "range_pos": 75,
+  "below_high": 9.3,
+  "target_vs_price": 9.2,
+  "target_vs_fair": 51.7,
+  "above_low": 45.5
  },
  "summary": {
   "sentence": "The best-run cruise line, earning record profits on a still-leveraged balance sheet.",
@@ -518,7 +518,7 @@
     "rows": [
      {
       "name": "Dividend yield",
-      "value": "1.8%",
+      "value": "1.9%",
       "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
@@ -589,16 +589,16 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "19.4"
+   "value": "19.1"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "58.0"
+   "value": "57.3"
   },
   "three_numbers": {
-   "pe": "19.4",
-   "forward_pe": "16.6",
-   "peg": "1.21"
+   "pe": "19.1",
+   "forward_pe": "16.4",
+   "peg": "1.20"
   },
   "multiples": [
    {
@@ -607,35 +607,35 @@
    },
    {
     "name": "EV/EBITDA",
-    "value": "15.3"
+    "value": "15.2"
    },
    {
     "name": "EV/EBIT",
-    "value": "20.8"
+    "value": "20.6"
    },
    {
     "name": "P/E",
-    "value": "19.4"
+    "value": "19.1"
    },
    {
     "name": "EV/FCF",
-    "value": "72.7"
+    "value": "72.0"
    },
    {
     "name": "P/FCF",
-    "value": "58.0"
+    "value": "57.3"
    },
    {
     "name": "P/B",
     "value": "7.3"
    }
   ],
-  "intrinsic_value_low": 195.09,
-  "intrinsic_value_high": 269.97,
-  "margin_of_safety_pct": -40.7,
-  "interesting_below": 162.77,
+  "intrinsic_value_low": 195.26,
+  "intrinsic_value_high": 270.21,
+  "margin_of_safety_pct": -38.9,
+  "interesting_below": 162.92,
   "method": "Fair value is the average of two methods: (1) Owner cash flow, capex held at depreciation: $4.0B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 3.0x depreciation, so most of it is expansion, not upkeep. (2) Damodaran: cash flow to the firm: Sales grow 6–12% for five years, fading to 3%; operating margin held at 28%; cost of capital 8.6%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 232.53,
+  "fair_value": 232.74,
   "methods": [
    {
     "name": "Owner cash flow, capex held at depreciation",
@@ -645,8 +645,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 141.28,
-    "high": 188.9,
+    "low": 141.62,
+    "high": 189.38,
     "basis": "Sales grow 6–12% for five years, fading to 3%; operating margin held at 28%; cost of capital 8.6%. Cash added, debt subtracted."
    }
   ],
@@ -672,9 +672,9 @@
    "terminal_roc": 10.6,
    "revenue_now": "$19.1B",
    "revenue_year10": "$38.3B",
-   "low": 141.28,
-   "high": 188.9,
-   "implied_growth": 20.5,
+   "low": 141.62,
+   "high": 189.38,
+   "implied_growth": 20.3,
    "implied_note": null
   }
  },
@@ -697,7 +697,7 @@
     },
     {
      "name": "Dividend record",
-     "value": "$6.00 a share (1.8% yield)",
+     "value": "$6.00 a share (1.9% yield)",
      "threshold": "Pays a dividend",
      "pass": true
     },
@@ -709,13 +709,13 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "29.8x three-year average earnings ($10.96); 19.4x trailing",
+     "value": "29.5x three-year average earnings ($10.96); 19.1x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 142; Graham number $130 vs price $327",
+     "value": "P/E × P/B = 139; Graham number $130 vs price $323",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
@@ -805,7 +805,7 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 1.21",
+     "value": "PEG 1.20",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": null
     },
@@ -913,13 +913,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +27% over 52 weeks",
+     "value": "Share price +28% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -41%",
+     "value": "Margin of safety -39%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -936,8 +936,8 @@
      "pass": false
     }
    ],
-   "upside_pct": -17.5,
-   "downside_pct": 40.4
+   "upside_pct": -16.4,
+   "downside_pct": 39.6
   }
  },
  "rules_of_the_road": [

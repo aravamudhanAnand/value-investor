@@ -42,7 +42,7 @@
     "value": 28.62,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 18.94,
+    "sector_median": 19.21,
     "sector_n": 19
    },
    {
@@ -60,7 +60,7 @@
     "value": 25.95,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 14.76,
+    "sector_median": 16.4,
     "sector_n": 19
    },
    {
@@ -91,19 +91,19 @@
     "value": 43.02
    },
    {
+    "ticker": "KR",
+    "company": "The Kroger Co.",
+    "value": 41.16
+   },
+   {
     "ticker": "CL",
     "company": "Colgate-Palmolive",
     "value": 39.4
    },
    {
-    "ticker": "KR",
-    "company": "The Kroger Co.",
-    "value": 38.82
-   },
-   {
     "ticker": "CHD",
     "company": "Church & Dwight",
-    "value": 33.88
+    "value": 36.33
    },
    {
     "ticker": "KO",
@@ -131,6 +131,11 @@
     "value": 23.81
    },
    {
+    "ticker": "CLX",
+    "company": "The Clorox Company",
+    "value": 22.76
+   },
+   {
     "ticker": "SYY",
     "company": "Sysco",
     "value": 21.07
@@ -141,19 +146,14 @@
     "value": 18.29
    },
    {
-    "ticker": "CLX",
-    "company": "The Clorox Company",
-    "value": 18.0
+    "ticker": "DG",
+    "company": "Dollar General",
+    "value": 17.42
    },
    {
     "ticker": "TGT",
     "company": "Target",
     "value": 16.75
-   },
-   {
-    "ticker": "DG",
-    "company": "Dollar General",
-    "value": 16.68
    },
    {
     "ticker": "MO",

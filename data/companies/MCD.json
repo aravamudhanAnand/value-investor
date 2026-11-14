@@ -33,7 +33,7 @@
     "value": 22.09,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 24.43,
+    "sector_median": 24.64,
     "sector_n": 20
    },
    {
@@ -60,7 +60,7 @@
     "value": 16.49,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 17.9,
+    "sector_median": 18.02,
     "sector_n": 20
    },
    {
@@ -69,7 +69,7 @@
     "value": 2.84,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 0.95,
+    "sector_median": 0.94,
     "sector_n": 20
    }
   ],
@@ -116,14 +116,14 @@
     "value": 28.01
    },
    {
+    "ticker": "EBAY",
+    "company": "eBay",
+    "value": 24.93
+   },
+   {
     "ticker": "TJX",
     "company": "TJX Companies",
     "value": 24.88
-   },
-   {
-    "ticker": "EBAY",
-    "company": "eBay",
-    "value": 24.46
    },
    {
     "ticker": "HD",
@@ -151,14 +151,14 @@
     "value": 20.32
    },
    {
-    "ticker": "RCL",
-    "company": "Royal Caribbean Group",
-    "value": 19.37
-   },
-   {
     "ticker": "LOW",
     "company": "Lowe's",
     "value": 19.25
+   },
+   {
+    "ticker": "RCL",
+    "company": "Royal Caribbean Group",
+    "value": 19.14
    },
    {
     "ticker": "NKE",
