@@ -33,8 +33,8 @@
     "value": 7.73,
     "unit": "x",
     "note": "Judge at mid-cycle, not peak",
-    "sector_median": 28.14,
-    "sector_n": 28
+    "sector_median": 23.69,
+    "sector_n": 33
    },
    {
     "key": "pe",
@@ -42,8 +42,8 @@
     "value": 10.47,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 34.01,
-    "sector_n": 27
+    "sector_median": 33.95,
+    "sector_n": 32
    },
    {
     "key": "fcfy",
@@ -51,8 +51,8 @@
     "value": 6.7,
     "unit": "%",
     "note": "Free cash flow ÷ market value",
-    "sector_median": 2.04,
-    "sector_n": 9
+    "sector_median": 2.18,
+    "sector_n": 10
    },
    {
     "key": "dy",
@@ -60,8 +60,8 @@
     "value": 0.08,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 0.6,
-    "sector_n": 26
+    "sector_median": 0.61,
+    "sector_n": 31
    }
   ],
   "peer_group": "Technology · cyclical or commodity business",
@@ -105,6 +105,11 @@
     "ticker": "INTC",
     "company": "Intel",
     "value": 16.38
+   },
+   {
+    "ticker": "NXPI",
+    "company": "NXP Semiconductors",
+    "value": 14.14
    },
    {
     "ticker": "MU",

@@ -34,7 +34,7 @@
     "unit": "x",
     "note": "Judge at mid-cycle, not peak",
     "sector_median": 17.39,
-    "sector_n": 18
+    "sector_n": 24
    },
    {
     "key": "pe",
@@ -43,7 +43,7 @@
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 27.48,
-    "sector_n": 18
+    "sector_n": 24
    },
    {
     "key": "fcfy",
@@ -51,8 +51,8 @@
     "value": 3.49,
     "unit": "%",
     "note": "Free cash flow ÷ market value",
-    "sector_median": 3.72,
-    "sector_n": 11
+    "sector_median": 3.63,
+    "sector_n": 12
    },
    {
     "key": "dy",
@@ -60,8 +60,8 @@
     "value": 1.09,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.47,
-    "sector_n": 19
+    "sector_median": 1.33,
+    "sector_n": 25
    }
   ],
   "peer_group": "Industrials · cyclical or commodity business",
@@ -100,6 +100,11 @@
     "ticker": "UNP",
     "company": "Union Pacific",
     "value": 15.64
+   },
+   {
+    "ticker": "CSX",
+    "company": "CSX",
+    "value": 15.16
    },
    {
     "ticker": "HON",

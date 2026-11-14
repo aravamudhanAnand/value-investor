@@ -1,0 +1,978 @@
+{
+ "company": "Airbnb",
+ "ticker": "ABNB",
+ "exchange": "NASDAQ",
+ "sector": "Consumer discretionary",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-10-30",
+ "currency": "USD",
+ "price": 164.39,
+ "market_cap": "$96.9B",
+ "verdict": "WATCHLIST",
+ "overall_score": 66,
+ "one_liner": "A wide-moat business worth owning, but it trades at 1.8x fair value. Interesting below about $64.",
+ "scores": {
+  "meaning": 9,
+  "moat": 8,
+  "industry": 6,
+  "management": 7,
+  "financial_health": 9,
+  "valuation": 1
+ },
+ "treasury_10y": 5.1,
+ "profile": {
+  "what": "Airbnb operates the largest online marketplace for short-term stays in private homes, and has added services and experiences that travellers can book alongside a stay.",
+  "money": "It takes a service fee on each booking from guests and hosts. It owns no property, so most of that fee is gross profit.",
+  "valued": "Airbnb is valued on free cash flow and EV/EBITDA relative to bookings growth. Investors adjust for its heavy stock-based pay.",
+  "kind": "Established operating business",
+  "metrics": [
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 37.19,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 24.88,
+    "sector_n": 17
+   },
+   {
+    "key": "fpe",
+    "label": "Price / forward earnings",
+    "value": 29.09,
+    "unit": "x",
+    "note": "Next twelve months, analyst estimates",
+    "sector_median": 26.62,
+    "sector_n": 16
+   },
+   {
+    "key": "pfcf",
+    "label": "Price / free cash flow",
+    "value": 19.94,
+    "unit": "x",
+    "note": "Before deducting stock-based pay",
+    "sector_median": 26.81,
+    "sector_n": 15
+   },
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 31.65,
+    "unit": "x",
+    "note": "Enterprise value includes debt",
+    "sector_median": 17.54,
+    "sector_n": 17
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 0.0,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 0.76,
+    "sector_n": 17
+   }
+  ],
+  "peer_group": "Consumer discretionary · established operating business",
+  "peers": [
+   {
+    "ticker": "TSLA",
+    "company": "Tesla",
+    "value": 428.81
+   },
+   {
+    "ticker": "SBUX",
+    "company": "Starbucks",
+    "value": 61.17
+   },
+   {
+    "ticker": "HLT",
+    "company": "Hilton Worldwide",
+    "value": 46.44
+   },
+   {
+    "ticker": "MAR",
+    "company": "Marriott International",
+    "value": 43.9
+   },
+   {
+    "ticker": "ABNB",
+    "company": "Airbnb",
+    "value": 37.19
+   },
+   {
+    "ticker": "ORLY",
+    "company": "O'Reilly Automotive",
+    "value": 28.9
+   },
+   {
+    "ticker": "ROST",
+    "company": "Ross Stores",
+    "value": 28.31
+   },
+   {
+    "ticker": "CMG",
+    "company": "Chipotle Mexican Grill",
+    "value": 25.94
+   },
+   {
+    "ticker": "TJX",
+    "company": "TJX Companies",
+    "value": 24.88
+   },
+   {
+    "ticker": "HD",
+    "company": "Home Depot",
+    "value": 24.4
+   },
+   {
+    "ticker": "MCD",
+    "company": "McDonald's",
+    "value": 22.09
+   },
+   {
+    "ticker": "AMZN",
+    "company": "Amazon",
+    "value": 21.56
+   },
+   {
+    "ticker": "AZO",
+    "company": "AutoZone",
+    "value": 20.91
+   },
+   {
+    "ticker": "LOW",
+    "company": "Lowe's",
+    "value": 19.25
+   },
+   {
+    "ticker": "NKE",
+    "company": "Nike",
+    "value": 18.18
+   },
+   {
+    "ticker": "BKNG",
+    "company": "Booking Holdings",
+    "value": 17.36
+   }
+  ]
+ },
+ "market": {
+  "rating": "Buy",
+  "target": 183.95,
+  "beta": 1.24,
+  "as_of": "2026-10-30",
+  "low52": 110.81,
+  "high52": 193.45,
+  "range_pos": 65,
+  "below_high": 15.0,
+  "target_vs_price": 11.9,
+  "target_vs_fair": 100.2,
+  "above_low": 48.4
+ },
+ "summary": {
+  "sentence": "The category-defining home-rental marketplace, rich in cash and generous with stock.",
+  "strengths": [
+   "Far more cash than debt.",
+   "Needs almost no capital spending.",
+   "Founders still own a large stake."
+  ],
+  "risks": [
+   "Stock-based pay takes about a third of cash flow.",
+   "Loss-making as recently as fiscal 2021.",
+   "Buybacks mostly offset shares issued to staff."
+  ],
+  "swing": [
+   "City rental rules",
+   "Bookings growth",
+   "Stock-based pay"
+  ]
+ },
+ "dollar": {
+  "cogs": 17.1,
+  "opex": 62.1,
+  "op_profit": 20.8,
+  "net": 20.4,
+  "fcf": 36.9
+ },
+ "cash_use": {
+  "years": 5,
+  "first": "FY21",
+  "last": "FY25",
+  "ocf": "$18.8B",
+  "capex": 0,
+  "dividends": 0,
+  "buybacks": 75,
+  "left": 25,
+  "sbc": 32,
+  "capex_reported": false
+ },
+ "meaning": {
+  "score": 9,
+  "what_it_does": "Runs the largest online marketplace for short-term home rentals, connecting hosts with travellers worldwide.",
+  "how_it_makes_money": "A service fee on each booking, charged to guests and hosts.",
+  "how_it_keeps_making_money": "Travellers go to it first because it has the most homes, and hosts list there because it has the most travellers.",
+  "how_it_could_stop": "Cities restrict short-term rentals, or hotels and rival sites win travellers back."
+ },
+ "moat": {
+  "score": 8,
+  "strength": "Wide",
+  "sources": [
+   "Network effects",
+   "Brand"
+  ],
+  "summary": "Its name is the word for the category, and most of its traffic comes direct rather than through paid search."
+ },
+ "industry": {
+  "score": 6,
+  "pace": "Steady change",
+  "summary": "Online travel is mature, but local rules on short-term rentals keep changing."
+ },
+ "management": {
+  "score": 7,
+  "summary": "Founder-led with high insider ownership; spends heavily on stock-based pay and offsets it with buybacks."
+ },
+ "financial_health": {
+  "score": 9,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+19.6% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "A loss at the start or end of the period",
+    "threshold": "Rising, at most one down year",
+    "pass": false
+   },
+   {
+    "name": "Net profit margin",
+    "value": "20.4%",
+    "threshold": "≥ 5%",
+    "pass": true
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.10",
+    "threshold": "≤ 0.40",
+    "pass": true
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$4.8B → $8.2B, 1 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": true
+   },
+   {
+    "name": "ROIC",
+    "value": "16.8%",
+    "threshold": "≥ 10%",
+    "pass": true
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$2.3B → $4.6B; TTM $4.9B",
+    "threshold": "Positive every year and rising",
+    "pass": true
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 58.3x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": true
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 164% of net income over 5 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": true
+   }
+  ],
+  "red_flags": [
+   "At least one loss-making year in the period."
+  ],
+  "note": "The source reports no separate capital spending for Airbnb, so free cash flow equals operating cash flow here. Stock-based pay is large and is deducted in the owner cash flow valuation.",
+  "history": [
+   {
+    "period": "FY21",
+    "revenue": 5992.0,
+    "net_income": -352.0,
+    "fcf": 2313.0
+   },
+   {
+    "period": "FY22",
+    "revenue": 8399.0,
+    "net_income": 1893.0,
+    "fcf": 3430.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 9917.0,
+    "net_income": 4792.0,
+    "fcf": 3884.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 11102.0,
+    "net_income": 2648.0,
+    "fcf": 4518.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 12241.0,
+    "net_income": 2511.0,
+    "fcf": 4646.0
+   },
+   {
+    "period": "TTM",
+    "revenue": 13160.0,
+    "net_income": 2690.0,
+    "fcf": 4860.0
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "82.9%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": true
+     },
+     {
+      "name": "Operating margin",
+      "value": "20.8%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Net profit margin",
+      "value": "20.4%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "36.9%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Return on equity",
+      "value": "34.5%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "16.8%",
+      "threshold": "≥ 12%",
+      "pass": true
+     },
+     {
+      "name": "Return on assets",
+      "value": "12.1%",
+      "threshold": "≥ 6%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "0.32x",
+      "threshold": "≤ 1.0x",
+      "pass": true
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.10",
+      "threshold": "≤ 0.40",
+      "pass": true
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "Net cash",
+      "threshold": "≤ 2.5x",
+      "pass": true
+     },
+     {
+      "name": "Interest cover",
+      "value": "58.3x",
+      "threshold": "≥ 5x",
+      "pass": true
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "0.5",
+      "threshold": "≤ 4 years",
+      "pass": true
+     },
+     {
+      "name": "Current ratio",
+      "value": "1.41",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": true
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "3.01",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "164% over 5 years",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "164% over 5 years",
+      "threshold": "≥ 80%",
+      "pass": true
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "n/a",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": null
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "n/a",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$1.7B, 35% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": false
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "6 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+19.6%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Earnings per share",
+      "value": "From or to a loss",
+      "threshold": "≥ 7%",
+      "pass": null
+     },
+     {
+      "name": "Free cash flow",
+      "value": "+19.0%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Book value per share",
+      "value": "n/a",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "0.0%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "No dividend",
+      "threshold": "≤ 60% of earnings",
+      "pass": null
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "No dividend",
+      "threshold": "≥ 1.5x",
+      "pass": null
+     },
+     {
+      "name": "Buyback yield",
+      "value": "4.8%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "n/a",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": null
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "n/a",
+      "threshold": "≥ 12%",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "2.7%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "3.3%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "3.3%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 18,
+   "total": 22
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 1,
+  "lifecycle_stage": "3 · Operating leverage",
+  "primary_metric": {
+   "name": "Forward P/E",
+   "value": "29.1"
+  },
+  "secondary_metric": {
+   "name": "P/FCF",
+   "value": "19.9"
+  },
+  "three_numbers": {
+   "pe": "37.2",
+   "forward_pe": "29.1",
+   "peg": "1.42"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "6.6"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "31.6"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "31.9"
+   },
+   {
+    "name": "P/E",
+    "value": "37.2"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "18.0"
+   },
+   {
+    "name": "P/FCF",
+    "value": "19.9"
+   },
+   {
+    "name": "P/B",
+    "value": "12.4"
+   }
+  ],
+  "intrinsic_value_low": 79.68,
+  "intrinsic_value_high": 104.07,
+  "margin_of_safety_pct": -78.9,
+  "interesting_below": 64.31,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $3.1B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 7–13% for five years, fading to 3%; operating margin held at 21%; cost of capital 9.5%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 91.88,
+  "methods": [
+   {
+    "name": "Owner cash flow",
+    "low": 92.52,
+    "high": 130.4,
+    "basis": "$3.1B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM)."
+   },
+   {
+    "name": "Damodaran: cash flow to the firm",
+    "low": 66.84,
+    "high": 77.74,
+    "basis": "Sales grow 7–13% for five years, fading to 3%; operating margin held at 21%; cost of capital 9.5%. Cash added, debt subtracted."
+   }
+  ],
+  "stress_case": null,
+  "damodaran": {
+   "growth": 10,
+   "growth_low": 7,
+   "growth_high": 13,
+   "margin": 20.8,
+   "tax": 25.0,
+   "roc": 16.8,
+   "reinvestment": 59,
+   "beta": 1.0,
+   "cost_of_equity": 9.6,
+   "cost_of_debt": 4.9,
+   "debt_weight": 3,
+   "cost_of_capital": 9.5,
+   "terminal_growth": 3.0,
+   "terminal_roc": 14.5,
+   "revenue_now": "$13.2B",
+   "revenue_year10": "$28.1B",
+   "low": 66.84,
+   "high": 77.74,
+   "implied_growth": 30.5,
+   "implied_note": null
+  }
+ },
+ "lenses": {
+  "graham": {
+   "passed": 1,
+   "total": 7,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "1.41",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "4 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": false
+    },
+    {
+     "name": "Dividend record",
+     "value": "No dividend",
+     "threshold": "Pays a dividend",
+     "pass": false
+    },
+    {
+     "name": "Earnings growth",
+     "value": "From a loss",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": null
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "32.0x three-year average earnings ($5.13); 37.2x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "P/E × P/B = 462; Graham number $36 vs price $164",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 2.7% vs 10-year Treasury 5.10%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "No financial distress",
+     "value": "Altman Z-score 3.01",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": true
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 5,
+   "total": 6,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Free cash flow yield 3.3% vs 10-year Treasury 5.10%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "High return on equity without heavy debt",
+     "value": "ROE 34.5%, debt/equity 0.32",
+     "threshold": "ROE ≥ 15% and debt/equity ≤ 1.0",
+     "pass": true
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "Not meaningful: a loss in the period",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": null
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 83%, 2.4-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": true
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "n/a",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": null
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest 58.3x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": true
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "0.9 years of net income",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": true
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "-3.9% over the last year",
+     "threshold": "Fewer shares than four years ago",
+     "pass": true
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 3,
+   "total": 4,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 9 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Steady change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 1.42",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": null
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "n/a",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": null
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "n/a",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": false
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Net cash of $9.6B",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": true
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "No dividend",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": null
+    }
+   ],
+   "category": "Fast grower",
+   "category_note": "Earnings compounding at 20% or more on sales growing at least 10%. Lynch's favourite hunting ground, provided the growth is not paid for twice: check the PEG."
+  },
+  "munger": {
+   "passed": 5,
+   "total": 6,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 9 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Steady change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 28.72%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": true
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count -3.86% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": true
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$1.7B, 35% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": false
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Operating cash flow was 164% of net income over 5 fiscal years",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": true
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 6 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "Major cities ban or cap short-term rentals.",
+    "A safety or trust failure drives hosts and guests away."
+   ]
+  },
+  "pabrai": {
+   "passed": 3,
+   "total": 6,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 9 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Steady change",
+     "threshold": "Stable industry",
+     "pass": null
+    },
+    {
+     "name": "Durable moat",
+     "value": "Wide moat",
+     "threshold": "Wide moat",
+     "pass": true
+    },
+    {
+     "name": "Out of favour",
+     "value": "Share price +34% over 52 weeks",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": false
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety -79%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "More cash than debt",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": true
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "No upside even to the high-case value ($104); 52% downside to the low case",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": -36.7,
+   "downside_pct": 51.5
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Wide moat: Network effects, Brand.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "Already the category leader.",
+   "threshold": "",
+   "pass": false
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Bookings and revenue are still growing.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 17%.",
+   "threshold": "",
+   "pass": true
+  }
+ ],
+ "bull_case": [
+  "Far more cash than debt.",
+  "Needs almost no capital spending.",
+  "Founders still own a large stake."
+ ],
+ "bear_case": [
+  "Stock-based pay takes about a third of cash flow.",
+  "Loss-making as recently as fiscal 2021.",
+  "Buybacks mostly offset shares issued to staff."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "Airbnb statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/abnb/statistics/"
+  },
+  {
+   "title": "Airbnb income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/abnb/financials/"
+  },
+  {
+   "title": "Airbnb balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/abnb/financials/balance-sheet/"
+  },
+  {
+   "title": "Airbnb cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/abnb/financials/cash-flow-statement/"
+  }
+ ]
+}

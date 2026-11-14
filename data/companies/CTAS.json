@@ -1,0 +1,961 @@
+{
+ "company": "Cintas",
+ "ticker": "CTAS",
+ "exchange": "NASDAQ",
+ "sector": "Industrials",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-11-06",
+ "currency": "USD",
+ "price": 222.36,
+ "market_cap": "$88.3B",
+ "verdict": "WATCHLIST",
+ "overall_score": 77,
+ "one_liner": "A wide-moat business worth owning, but it trades at 2.5x fair value. Interesting below about $63.",
+ "scores": {
+  "meaning": 10,
+  "moat": 9,
+  "industry": 9,
+  "management": 9,
+  "financial_health": 10,
+  "valuation": 1
+ },
+ "treasury_10y": 5.1,
+ "profile": {
+  "what": "Cintas provides uniform rental and cleaning, floor mats, washroom supplies, first-aid and safety products, and fire-protection services to businesses across North America.",
+  "money": "Drivers visit customers weekly under multi-year service agreements. Adding products to an existing stop costs little, so margins rise as routes fill.",
+  "valued": "Cintas is valued on P/E at a high premium for its consistency. The multiple depends on steady organic growth and margin gains.",
+  "kind": "Established operating business",
+  "metrics": [
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 43.86,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 27.48,
+    "sector_n": 24
+   },
+   {
+    "key": "fpe",
+    "label": "Price / forward earnings",
+    "value": 39.01,
+    "unit": "x",
+    "note": "Next twelve months, analyst estimates",
+    "sector_median": 24.54,
+    "sector_n": 13
+   },
+   {
+    "key": "pfcf",
+    "label": "Price / free cash flow",
+    "value": 43.49,
+    "unit": "x",
+    "note": "Before deducting stock-based pay",
+    "sector_median": 26.91,
+    "sector_n": 13
+   },
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 29.24,
+    "unit": "x",
+    "note": "Enterprise value includes debt",
+    "sector_median": 17.39,
+    "sector_n": 24
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 0.94,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 1.33,
+    "sector_n": 25
+   }
+  ],
+  "peer_group": "Industrials · established operating business",
+  "peers": [
+   {
+    "ticker": "CTAS",
+    "company": "Cintas",
+    "value": 43.86
+   },
+   {
+    "ticker": "TT",
+    "company": "Trane Technologies",
+    "value": 36.11
+   },
+   {
+    "ticker": "ETN",
+    "company": "Eaton",
+    "value": 35.26
+   },
+   {
+    "ticker": "RSG",
+    "company": "Republic Services",
+    "value": 34.18
+   },
+   {
+    "ticker": "PH",
+    "company": "Parker-Hannifin",
+    "value": 32.83
+   },
+   {
+    "ticker": "RTX",
+    "company": "RTX",
+    "value": 32.29
+   },
+   {
+    "ticker": "WM",
+    "company": "Waste Management",
+    "value": 32.0
+   },
+   {
+    "ticker": "ADP",
+    "company": "Automatic Data Processing",
+    "value": 27.48
+   },
+   {
+    "ticker": "ITW",
+    "company": "Illinois Tool Works",
+    "value": 24.99
+   },
+   {
+    "ticker": "GD",
+    "company": "General Dynamics",
+    "value": 21.39
+   },
+   {
+    "ticker": "LMT",
+    "company": "Lockheed Martin",
+    "value": 21.17
+   },
+   {
+    "ticker": "NOC",
+    "company": "Northrop Grumman",
+    "value": 17.51
+   },
+   {
+    "ticker": "UBER",
+    "company": "Uber Technologies",
+    "value": 15.22
+   }
+  ]
+ },
+ "market": {
+  "rating": "Buy",
+  "target": 218.31,
+  "beta": 0.92,
+  "as_of": "2026-11-06",
+  "low52": 161.16,
+  "high52": 226.69,
+  "range_pos": 93,
+  "below_high": 1.9,
+  "target_vs_price": -1.8,
+  "target_vs_fair": 143.0,
+  "above_low": 38.0
+ },
+ "summary": {
+  "sentence": "A route-density compounder of rare consistency at a very high multiple.",
+  "strengths": [
+   "Revenue and gross margin have risen every year in the record.",
+   "Very high Altman Z-score.",
+   "High insider ownership."
+  ],
+  "risks": [
+   "Valued at a very high forward multiple.",
+   "Sales follow employment at its customers.",
+   "Leaves little margin for error at this price."
+  ],
+  "swing": [
+   "US employment",
+   "Margin gains",
+   "Valuation"
+  ]
+ },
+ "dollar": {
+  "cogs": 49.0,
+  "opex": 27.4,
+  "op_profit": 23.6,
+  "net": 17.7,
+  "fcf": 17.6
+ },
+ "cash_use": {
+  "years": 5,
+  "first": "FY22",
+  "last": "FY26",
+  "ocf": "$9.6B",
+  "capex": 19,
+  "dividends": 28,
+  "buybacks": 47,
+  "left": 7,
+  "sbc": 6,
+  "capex_reported": true
+ },
+ "meaning": {
+  "score": 10,
+  "what_it_does": "Rents and launders work uniforms and supplies mats, washroom products, first-aid cabinets and fire-safety services to businesses across North America.",
+  "how_it_makes_money": "Weekly route-based service contracts with a very large number of business customers.",
+  "how_it_keeps_making_money": "Each added stop on an existing truck route is highly profitable, and customers renew out of habit.",
+  "how_it_could_stop": "A deep recession cuts employment at its customers."
+ },
+ "moat": {
+  "score": 9,
+  "strength": "Wide",
+  "sources": [
+   "Scale and cost advantage",
+   "Route density"
+  ],
+  "summary": "The densest route network in its industry, which lets it serve customers at a cost rivals cannot match."
+ },
+ "industry": {
+  "score": 9,
+  "pace": "Stable",
+  "summary": "Uniform rental and facility services barely change from decade to decade."
+ },
+ "management": {
+  "score": 9,
+  "summary": "Family-influenced, with a long unbroken record of sales and profit growth and rising dividends."
+ },
+ "financial_health": {
+  "score": 10,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+9.4% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "+12.8% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net profit margin",
+    "value": "17.7%",
+    "threshold": "≥ 5%",
+    "pass": true
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.26",
+    "threshold": "≤ 0.40",
+    "pass": true
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$3.3B → $5.1B, 0 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": true
+   },
+   {
+    "name": "ROIC",
+    "value": "28.6%",
+    "threshold": "≥ 10%",
+    "pass": true
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$1.3B → $1.9B; TTM $2.0B",
+    "threshold": "Positive every year and rising",
+    "pass": true
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 25.8x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": true
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 121% of net income over 5 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": true
+   }
+  ],
+  "red_flags": [],
+  "note": "",
+  "history": [
+   {
+    "period": "FY22",
+    "revenue": 7854.0,
+    "net_income": 1230.0,
+    "fcf": 1297.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 8816.0,
+    "net_income": 1343.0,
+    "fcf": 1255.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 9597.0,
+    "net_income": 1566.0,
+    "fcf": 1659.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 10340.0,
+    "net_income": 1806.0,
+    "fcf": 1757.0
+   },
+   {
+    "period": "FY26",
+    "revenue": 11265.0,
+    "net_income": 1994.0,
+    "fcf": 1881.0
+   },
+   {
+    "period": "TTM",
+    "revenue": 11560.0,
+    "net_income": 2050.0,
+    "fcf": 2029.9999999999998
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "51.0%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": true
+     },
+     {
+      "name": "Operating margin",
+      "value": "23.6%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Net profit margin",
+      "value": "17.7%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "17.6%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Return on equity",
+      "value": "39.4%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "28.6%",
+      "threshold": "≥ 12%",
+      "pass": true
+     },
+     {
+      "name": "Return on assets",
+      "value": "19.5%",
+      "threshold": "≥ 6%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "0.52x",
+      "threshold": "≤ 1.0x",
+      "pass": true
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.26",
+      "threshold": "≤ 0.40",
+      "pass": true
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "0.8x",
+      "threshold": "≤ 2.5x",
+      "pass": true
+     },
+     {
+      "name": "Interest cover",
+      "value": "25.8x",
+      "threshold": "≥ 5x",
+      "pass": true
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "1.3",
+      "threshold": "≤ 4 years",
+      "pass": true
+     },
+     {
+      "name": "Current ratio",
+      "value": "1.45",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": true
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "12.15",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "121% over 5 years",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "99% over 5 years",
+      "threshold": "≥ 80%",
+      "pass": true
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "16%",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": true
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "1.1x",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$129M, 5% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": true
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "7 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+9.4%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Earnings per share",
+      "value": "+14.0%",
+      "threshold": "≥ 7%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow",
+      "value": "+9.7%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Book value per share",
+      "value": "+12.8%",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "0.9%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "41%",
+      "threshold": "≤ 60% of earnings",
+      "pass": true
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "2.8x",
+      "threshold": "≥ 1.5x",
+      "pass": true
+     },
+     {
+      "name": "Buyback yield",
+      "value": "1.1%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "-3.9% over 4 years",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": true
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "19%",
+      "threshold": "≥ 12%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "2.3%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "2.2%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "2.3%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 26,
+   "total": 29
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 1,
+  "lifecycle_stage": "4 · Capital return",
+  "primary_metric": {
+   "name": "Trailing P/E",
+   "value": "43.9"
+  },
+  "secondary_metric": {
+   "name": "Trailing P/FCF",
+   "value": "43.5"
+  },
+  "three_numbers": {
+   "pe": "43.9",
+   "forward_pe": "39.0",
+   "peg": "3.32"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "7.8"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "29.2"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "33.2"
+   },
+   {
+    "name": "P/E",
+    "value": "43.9"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "44.7"
+   },
+   {
+    "name": "P/FCF",
+    "value": "43.5"
+   },
+   {
+    "name": "P/B",
+    "value": "17.0"
+   }
+  ],
+  "intrinsic_value_low": 75.92,
+  "intrinsic_value_high": 103.78,
+  "margin_of_safety_pct": -147.5,
+  "interesting_below": 62.89,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $1.7B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 6–12% for five years, fading to 3%; operating margin held at 24%; cost of capital 8.8%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 89.85,
+  "methods": [
+   {
+    "name": "Owner cash flow",
+    "low": 71.14,
+    "high": 100.33,
+    "basis": "$1.7B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM)."
+   },
+   {
+    "name": "Damodaran: cash flow to the firm",
+    "low": 80.7,
+    "high": 107.22,
+    "basis": "Sales grow 6–12% for five years, fading to 3%; operating margin held at 24%; cost of capital 8.8%. Cash added, debt subtracted."
+   }
+  ],
+  "stress_case": null,
+  "damodaran": {
+   "growth": 9,
+   "growth_low": 6,
+   "growth_high": 12,
+   "margin": 23.6,
+   "tax": 25.0,
+   "roc": 28.6,
+   "reinvestment": 31,
+   "beta": 0.85,
+   "cost_of_equity": 8.9,
+   "cost_of_debt": 4.9,
+   "debt_weight": 3,
+   "cost_of_capital": 8.8,
+   "terminal_growth": 3.0,
+   "terminal_roc": 13.8,
+   "revenue_now": "$11.6B",
+   "revenue_year10": "$23.1B",
+   "low": 80.7,
+   "high": 107.22,
+   "implied_growth": 27.3,
+   "implied_note": null
+  }
+ },
+ "lenses": {
+  "graham": {
+   "passed": 4,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "1.45",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "5 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": true
+    },
+    {
+     "name": "Dividend record",
+     "value": "$2.08 a share (0.9% yield)",
+     "threshold": "Pays a dividend",
+     "pass": true
+    },
+    {
+     "name": "Earnings growth",
+     "value": "+74% ($2.91 → $5.07)",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": true
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "50.9x three-year average earnings ($4.37); 43.9x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "P/E × P/B = 745; Graham number $39 vs price $222",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 2.3% vs 10-year Treasury 5.10%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "No financial distress",
+     "value": "Altman Z-score 12.15",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": true
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 7,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Owner earnings $2.0B (net income + depreciation − capex) = 2.3% yield vs 10-year Treasury 5.10%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "High return on equity without heavy debt",
+     "value": "ROE 39.4%, debt/equity 0.52",
+     "threshold": "ROE ≥ 15% and debt/equity ≤ 1.0",
+     "pass": true
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "EPS rose $2.00 on $10.76 a share retained over 4 years: 19% return",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": true
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 51%, 4.4-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": true
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Capex is 20% of net income",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": true
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest 25.8x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": true
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "1.3 years of net income",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": true
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "-3.9% over four fiscal years",
+     "threshold": "Fewer shares than four years ago",
+     "pass": true
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 4,
+   "total": 6,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 10 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 3.32",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "(14% EPS growth + 0.9% yield) ÷ P/E 43.9 = 0.34",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "EPS +14.0% a year, 0 down year(s)",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": true
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Debt is 0.52x equity",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": null
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "Pays out 41% of earnings",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": true
+    }
+   ],
+   "category": "Stalwart",
+   "category_note": "A large company growing earnings at a steady pace, between the slow and the fast growers. Lynch bought these for a 30–50% gain and for protection in recessions, then rotated."
+  },
+  "munger": {
+   "passed": 7,
+   "total": 7,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 10 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 14.52%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": true
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count -1.23% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": true
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$129M, 5% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": true
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Operating cash flow was 121% of net income over 5 fiscal years",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": true
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 7 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": true
+    }
+   ],
+   "inversion": [
+    "A deep, long recession in US employment.",
+    "A large acquisition distracts from the route business."
+   ]
+  },
+  "pabrai": {
+   "passed": 4,
+   "total": 7,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 10 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Stable",
+     "threshold": "Stable industry",
+     "pass": true
+    },
+    {
+     "name": "Durable moat",
+     "value": "Wide moat",
+     "threshold": "Wide moat",
+     "pass": true
+    },
+    {
+     "name": "Out of favour",
+     "value": "Share price +20% over 52 weeks",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": false
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety -147%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "Debt is 1.3 years of net income",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": true
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "No upside even to the high-case value ($104); 66% downside to the low case",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": -53.3,
+   "downside_pct": 65.9
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Wide moat: Scale and cost advantage, Route density.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "Most businesses still do not use a uniform or facility service.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "It keeps adding customers and services per stop.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 29%.",
+   "threshold": "",
+   "pass": true
+  }
+ ],
+ "bull_case": [
+  "Revenue and gross margin have risen every year in the record.",
+  "Very high Altman Z-score.",
+  "High insider ownership."
+ ],
+ "bear_case": [
+  "Valued at a very high forward multiple.",
+  "Sales follow employment at its customers.",
+  "Leaves little margin for error at this price."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "Cintas statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/ctas/statistics/"
+  },
+  {
+   "title": "Cintas income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/ctas/financials/"
+  },
+  {
+   "title": "Cintas balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/ctas/financials/balance-sheet/"
+  },
+  {
+   "title": "Cintas cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/ctas/financials/cash-flow-statement/"
+  }
+ ]
+}

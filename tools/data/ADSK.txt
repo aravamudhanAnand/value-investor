@@ -1,0 +1,18 @@
+# ADSK - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=261.72; date=2026-11-06; shares=209.01M; fpe=20.13; peg=1.24; cash=4.16B; debt=3.71B; equity=3.38B; eps=$7.72; cr=0.86; ic=n/a; roic=57.64%; gm=92.50%; rev=7.79B; ni=1.64B; ebitda=2.29B; ebit=2.19B; ocf=2.90B; capex=-57.00M; fcf=2.84B; dps=n/a; sc=-1.62%; ins=0.15%; z=4.44; f=8; c52=-13.04%
+F FY22,4386,91.68,497,2.24,1475
+F FY23,5005,91.57,823,3.78,2031
+F FY24,5497,91.58,906,4.19,1282
+F FY25,6131,91.96,1112,5.12,1567
+F FY26,7206,92.33,1124,5.23,2409
+B FY22,8607,3061,849
+B FY23,9438,2666,1145
+B FY24,9912,2626,1855
+B FY25,10833,2559,2621
+B FY26,12467,2734,3045
+C FY22,96,555,1531,-56,n/a,-1273
+C FY23,92,657,2071,-40,n/a,-1261
+C FY24,91,703,1313,-31,n/a,-982
+C FY25,95,683,1607,-40,n/a,-1108
+C FY26,98,788,2452,-43,n/a,-1691
+C TTM,98,706,2896,-57,n/a,-1847

@@ -1,0 +1,1001 @@
+{
+ "company": "Motorola Solutions",
+ "ticker": "MSI",
+ "exchange": "NYSE",
+ "sector": "Technology",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-10-23",
+ "currency": "USD",
+ "price": 481.83,
+ "market_cap": "$79.7B",
+ "verdict": "WATCHLIST",
+ "overall_score": 68,
+ "one_liner": "A wide-moat business worth owning, but it trades at 2.2x fair value. Interesting below about $151.",
+ "scores": {
+  "meaning": 9,
+  "moat": 8,
+  "industry": 7,
+  "management": 8,
+  "financial_health": 9,
+  "valuation": 1
+ },
+ "treasury_10y": 5.1,
+ "profile": {
+  "what": "Motorola Solutions makes the two-way radio networks, command-centre software and video security systems used by police, fire and ambulance services, and by businesses that need secure communications.",
+  "money": "Public agencies buy radio networks and devices, then pay for years of services, software and upgrades. Video cameras and command-centre software are sold on top of the same customer relationships.",
+  "valued": "Motorola Solutions is valued on P/E and free cash flow as a steady grower with long government contracts. The multiple depends on order backlog and the growth of software and video.",
+  "kind": "Established operating business",
+  "metrics": [
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 37.94,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 33.95,
+    "sector_n": 32
+   },
+   {
+    "key": "fpe",
+    "label": "Price / forward earnings",
+    "value": 26.57,
+    "unit": "x",
+    "note": "Next twelve months, analyst estimates",
+    "sector_median": 22.44,
+    "sector_n": 23
+   },
+   {
+    "key": "pfcf",
+    "label": "Price / free cash flow",
+    "value": 29.75,
+    "unit": "x",
+    "note": "Before deducting stock-based pay",
+    "sector_median": 29.63,
+    "sector_n": 20
+   },
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 23.58,
+    "unit": "x",
+    "note": "Enterprise value includes debt",
+    "sector_median": 23.69,
+    "sector_n": 33
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 1.0,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 0.61,
+    "sector_n": 31
+   }
+  ],
+  "peer_group": "Technology · established operating business",
+  "peers": [
+   {
+    "ticker": "PANW",
+    "company": "Palo Alto Networks",
+    "value": 805.6
+   },
+   {
+    "ticker": "SNPS",
+    "company": "Synopsys",
+    "value": 80.71
+   },
+   {
+    "ticker": "NOW",
+    "company": "ServiceNow",
+    "value": 73.56
+   },
+   {
+    "ticker": "CDNS",
+    "company": "Cadence Design Systems",
+    "value": 64.22
+   },
+   {
+    "ticker": "ANET",
+    "company": "Arista Networks",
+    "value": 52.89
+   },
+   {
+    "ticker": "AVGO",
+    "company": "Broadcom",
+    "value": 44.32
+   },
+   {
+    "ticker": "FTNT",
+    "company": "Fortinet",
+    "value": 41.86
+   },
+   {
+    "ticker": "AAPL",
+    "company": "Apple",
+    "value": 39.67
+   },
+   {
+    "ticker": "MSI",
+    "company": "Motorola Solutions",
+    "value": 37.94
+   },
+   {
+    "ticker": "APH",
+    "company": "Amphenol",
+    "value": 34.01
+   },
+   {
+    "ticker": "ADSK",
+    "company": "Autodesk",
+    "value": 33.9
+   },
+   {
+    "ticker": "CSCO",
+    "company": "Cisco Systems",
+    "value": 28.72
+   },
+   {
+    "ticker": "MSFT",
+    "company": "Microsoft",
+    "value": 27.36
+   },
+   {
+    "ticker": "IBM",
+    "company": "IBM",
+    "value": 21.09
+   },
+   {
+    "ticker": "INTU",
+    "company": "Intuit",
+    "value": 20.76
+   },
+   {
+    "ticker": "NVDA",
+    "company": "NVIDIA",
+    "value": 20.59
+   },
+   {
+    "ticker": "CRM",
+    "company": "Salesforce",
+    "value": 20.19
+   },
+   {
+    "ticker": "ORCL",
+    "company": "Oracle",
+    "value": 19.65
+   },
+   {
+    "ticker": "ACN",
+    "company": "Accenture",
+    "value": 18.47
+   },
+   {
+    "ticker": "ROP",
+    "company": "Roper Technologies",
+    "value": 17.57
+   },
+   {
+    "ticker": "ADBE",
+    "company": "Adobe",
+    "value": 13.56
+   }
+  ]
+ },
+ "market": {
+  "rating": "Buy",
+  "target": 526.91,
+  "beta": 0.89,
+  "as_of": "2026-10-23",
+  "low52": 359.36,
+  "high52": 494.85,
+  "range_pos": 90,
+  "below_high": 2.6,
+  "target_vs_price": 9.4,
+  "target_vs_fair": 143.9,
+  "above_low": 34.1
+ },
+ "summary": {
+  "sentence": "The standard supplier of police and emergency radio networks, adding software and video.",
+  "strengths": [
+   "Revenue has grown every year in the record.",
+   "High return on invested capital.",
+   "Gross margin has widened."
+  ],
+  "risks": [
+   "Debt rose sharply in the latest fiscal year.",
+   "Book equity is thin relative to debt.",
+   "Depends on government budgets."
+  ],
+  "swing": [
+   "Government budgets",
+   "Software and video growth",
+   "Debt after its latest acquisition"
+  ]
+ },
+ "dollar": {
+  "cogs": 47.9,
+  "opex": 25.9,
+  "op_profit": 26.2,
+  "net": 17.4,
+  "fcf": 21.9
+ },
+ "cash_use": {
+  "years": 5,
+  "first": "FY21",
+  "last": "FY25",
+  "ocf": "$10.9B",
+  "capex": 12,
+  "dividends": 27,
+  "buybacks": 33,
+  "left": 28,
+  "sbc": 10,
+  "capex_reported": true
+ },
+ "meaning": {
+  "score": 9,
+  "what_it_does": "Makes the radios, command-centre software and video security systems used by police, fire services and other emergency responders.",
+  "how_it_makes_money": "Radio networks and devices sold to public agencies, plus long service and software contracts.",
+  "how_it_keeps_making_money": "Agencies standardise on its networks for decades and add software and video on top.",
+  "how_it_could_stop": "Public-safety users move to commercial mobile networks, or budgets for police technology are cut."
+ },
+ "moat": {
+  "score": 8,
+  "strength": "Wide",
+  "sources": [
+   "Switching costs",
+   "Installed base"
+  ],
+  "summary": "Emergency services rarely replace a radio network they trust with lives, and its installed base is the largest in the field."
+ },
+ "industry": {
+  "score": 7,
+  "pace": "Steady change",
+  "summary": "Public-safety communications change slowly, though video and software are growing parts of the mix."
+ },
+ "management": {
+  "score": 8,
+  "summary": "A long record of buybacks and dividend growth, with acquisitions used to build the software and video businesses."
+ },
+ "financial_health": {
+  "score": 9,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+9.3% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "+14.7% a year, 1 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net profit margin",
+    "value": "17.4%",
+    "threshold": "≥ 5%",
+    "pass": true
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.50",
+    "threshold": "≤ 0.40",
+    "pass": false
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "-$23M → $2.4B, 0 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": true
+   },
+   {
+    "name": "ROIC",
+    "value": "21.7%",
+    "threshold": "≥ 10%",
+    "pass": true
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$1.6B → $2.6B; TTM $2.7B",
+    "threshold": "Positive every year and rising",
+    "pass": true
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 7.3x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": true
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 136% of net income over 5 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": true
+   }
+  ],
+  "red_flags": [],
+  "note": "",
+  "history": [
+   {
+    "period": "FY21",
+    "revenue": 8171.0,
+    "net_income": 1245.0,
+    "fcf": 1594.0
+   },
+   {
+    "period": "FY22",
+    "revenue": 9112.0,
+    "net_income": 1363.0,
+    "fcf": 1567.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 9978.0,
+    "net_income": 1709.0,
+    "fcf": 1791.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 10817.0,
+    "net_income": 1577.0,
+    "fcf": 2134.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 11682.0,
+    "net_income": 2154.0,
+    "fcf": 2572.0
+   },
+   {
+    "period": "TTM",
+    "revenue": 12240.0,
+    "net_income": 2130.0,
+    "fcf": 2680.0
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "52.1%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": true
+     },
+     {
+      "name": "Operating margin",
+      "value": "26.2%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Net profit margin",
+      "value": "17.4%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "21.9%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Return on equity",
+      "value": "79.2%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "21.7%",
+      "threshold": "≥ 12%",
+      "pass": true
+     },
+     {
+      "name": "Return on assets",
+      "value": "11.0%",
+      "threshold": "≥ 6%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "3.58x",
+      "threshold": "≤ 1.0x",
+      "pass": false
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.50",
+      "threshold": "≤ 0.40",
+      "pass": false
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "2.4x",
+      "threshold": "≤ 2.5x",
+      "pass": true
+     },
+     {
+      "name": "Interest cover",
+      "value": "7.3x",
+      "threshold": "≥ 5x",
+      "pass": true
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "3.6",
+      "threshold": "≤ 4 years",
+      "pass": true
+     },
+     {
+      "name": "Current ratio",
+      "value": "1.10",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": true
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "3.98",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "136% over 5 years",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "120% over 5 years",
+      "threshold": "≥ 80%",
+      "pass": true
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "10%",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": true
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "0.5x",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$357M, 12% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": false
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "5 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+9.3%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Earnings per share",
+      "value": "+15.5%",
+      "threshold": "≥ 7%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow",
+      "value": "+12.7%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Book value per share",
+      "value": "n/a",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "1.0%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "38%",
+      "threshold": "≤ 60% of earnings",
+      "pass": true
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "3.5x",
+      "threshold": "≥ 1.5x",
+      "pass": true
+     },
+     {
+      "name": "Buyback yield",
+      "value": "1.3%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "-2.7% over 4 years",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": true
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "22%",
+      "threshold": "≥ 12%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "2.6%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "2.9%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "3.0%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 22,
+   "total": 28
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 1,
+  "lifecycle_stage": "4 · Capital return",
+  "primary_metric": {
+   "name": "Trailing P/E",
+   "value": "37.9"
+  },
+  "secondary_metric": {
+   "name": "Trailing P/FCF",
+   "value": "29.8"
+  },
+  "three_numbers": {
+   "pe": "37.9",
+   "forward_pe": "26.6",
+   "peg": "2.52"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "7.2"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "23.6"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "27.6"
+   },
+   {
+    "name": "P/E",
+    "value": "37.9"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "33.1"
+   },
+   {
+    "name": "P/FCF",
+    "value": "29.8"
+   },
+   {
+    "name": "P/B",
+    "value": "29.6"
+   }
+  ],
+  "intrinsic_value_low": 181.18,
+  "intrinsic_value_high": 250.94,
+  "margin_of_safety_pct": -123.0,
+  "interesting_below": 151.24,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $2.1B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 5–11% for five years, fading to 3%; operating margin held at 26%; cost of capital 9.1%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 216.06,
+  "methods": [
+   {
+    "name": "Owner cash flow",
+    "low": 198.71,
+    "high": 280.39,
+    "basis": "$2.1B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM)."
+   },
+   {
+    "name": "Damodaran: cash flow to the firm",
+    "low": 163.64,
+    "high": 221.5,
+    "basis": "Sales grow 5–11% for five years, fading to 3%; operating margin held at 26%; cost of capital 9.1%. Cash added, debt subtracted."
+   }
+  ],
+  "stress_case": null,
+  "damodaran": {
+   "growth": 8,
+   "growth_low": 5,
+   "growth_high": 11,
+   "margin": 26.2,
+   "tax": 25.0,
+   "roc": 21.7,
+   "reinvestment": 37,
+   "beta": 1.0,
+   "cost_of_equity": 9.6,
+   "cost_of_debt": 4.9,
+   "debt_weight": 11,
+   "cost_of_capital": 9.1,
+   "terminal_growth": 3.0,
+   "terminal_roc": 14.1,
+   "revenue_now": "$12.2B",
+   "revenue_year10": "$22.9B",
+   "low": 163.64,
+   "high": 221.5,
+   "implied_growth": 25.7,
+   "implied_note": null
+  }
+ },
+ "lenses": {
+  "graham": {
+   "passed": 4,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "1.10",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "5 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": true
+    },
+    {
+     "name": "Dividend record",
+     "value": "$4.84 a share (1.0% yield)",
+     "threshold": "Pays a dividend",
+     "pass": true
+    },
+    {
+     "name": "Earnings growth",
+     "value": "+77% ($7.17 → $12.70)",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": true
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "45.3x three-year average earnings ($10.64); 37.9x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "P/E × P/B = 1125; Graham number $68 vs price $482",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 2.6% vs 10-year Treasury 5.10%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "No financial distress",
+     "value": "Altman Z-score 3.98",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": true
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 5,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Owner earnings $2.4B (net income + depreciation − capex) = 3.0% yield vs 10-year Treasury 5.10%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "High return on equity without heavy debt",
+     "value": "ROE 79.2%, debt/equity 3.58",
+     "threshold": "ROE ≥ 15% and debt/equity ≤ 1.0",
+     "pass": false
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "EPS rose $5.58 on $25.20 a share retained over 4 years: 22% return",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": true
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 52%, 3.6-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": true
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Capex is 14% of net income",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": true
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest 7.3x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": true
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "4.5 years of net income",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": false
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "-2.7% over four fiscal years",
+     "threshold": "Fewer shares than four years ago",
+     "pass": true
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 4,
+   "total": 7,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 9 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Steady change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 2.52",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "(15% EPS growth + 1.0% yield) ÷ P/E 37.9 = 0.43",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "EPS +15.5% a year, 1 down year(s)",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": true
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Debt is 3.58x equity",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": false
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "Pays out 38% of earnings",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": true
+    }
+   ],
+   "category": "Stalwart",
+   "category_note": "A large company growing earnings at a steady pace, between the slow and the fast growers. Lynch bought these for a 30–50% gain and for protection in recessions, then rotated."
+  },
+  "munger": {
+   "passed": 4,
+   "total": 6,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 9 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Steady change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 0.36%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": false
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count -1.32% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": true
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$357M, 12% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": false
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Operating cash flow was 136% of net income over 5 fiscal years",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": true
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 5 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "Broadband networks replace dedicated police radio.",
+    "A large acquisition fails to earn its cost."
+   ]
+  },
+  "pabrai": {
+   "passed": 2,
+   "total": 6,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 9 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Steady change",
+     "threshold": "Stable industry",
+     "pass": null
+    },
+    {
+     "name": "Durable moat",
+     "value": "Wide moat",
+     "threshold": "Wide moat",
+     "pass": true
+    },
+    {
+     "name": "Out of favour",
+     "value": "Share price +8% over 52 weeks",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": false
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety -123%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "Debt is 4.5 years of net income",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": false
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "No upside even to the high-case value ($251); 62% downside to the low case",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": -47.9,
+   "downside_pct": 62.4
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Wide moat: Switching costs, Installed base.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "Already the leader in public-safety radio.",
+   "threshold": "",
+   "pass": false
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Software, video and services keep adding to each contract.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 22%.",
+   "threshold": "",
+   "pass": true
+  }
+ ],
+ "bull_case": [
+  "Revenue has grown every year in the record.",
+  "High return on invested capital.",
+  "Gross margin has widened."
+ ],
+ "bear_case": [
+  "Debt rose sharply in the latest fiscal year.",
+  "Book equity is thin relative to debt.",
+  "Depends on government budgets."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "Motorola Solutions statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/msi/statistics/"
+  },
+  {
+   "title": "Motorola Solutions income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/msi/financials/"
+  },
+  {
+   "title": "Motorola Solutions balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/msi/financials/balance-sheet/"
+  },
+  {
+   "title": "Motorola Solutions cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/msi/financials/cash-flow-statement/"
+  }
+ ]
+}

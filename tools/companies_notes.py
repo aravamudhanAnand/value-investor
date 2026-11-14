@@ -32,4 +32,12 @@ NOTES = {'AMGN': 'Trailing figures are from the latest full fiscal year; the sha
     "PANW": "The source's overview page showed a price that did not match the price feed, so its analyst rating and price target are not shown. Fiscal 2026 includes a large acquisition paid for in shares, which lifted assets, equity and the share count.",
     "SNPS": "Fiscal 2025 includes the Ansys acquisition, which lifted assets, debt, equity and the share count; trailing earnings carry the deal's costs.",
     "CME": "The source shows dividends paid only for the trailing year, so the five-year 'where the cash goes' chart understates dividends.",
+    "HLT": "Two revenue definitions appear in the source: the five-year record shows fee revenue only, while trailing revenue and margins include costs reimbursed by hotel owners, which carry no profit. Margins therefore look lower than the fee business earns.",
+    "AZO": "The source's cash flow statement had not yet been updated for fiscal 2026 when collected, so the record shows four fiscal years plus the latest trailing figures, and fiscal 2026 free cash flow is blank.",
+    "ABNB": "The source reports no separate capital spending for Airbnb, so free cash flow equals operating cash flow here. Stock-based pay is large and is deducted in the owner cash flow valuation.",
+    "CMG": "The source's overview page showed a price that did not match the statistics page, so the 52-week range and beta were left blank until the weekly price refresh; the analyst rating and target come from the source's forecast page.",
+    "REGN": "The source's overview page was older than its statistics page when collected; the 52-week range is replaced at the next weekly price refresh.",
+    "TT": "The source's statistics page showed no price when collected; the price comes from its overview page. Trailing cash flow figures differ slightly between the two pages.",
+    "ROP": "Earnings in fiscal 2022 include a large gain from selling industrial businesses, so that year's profit is not comparable with the others.",
+    "CI": "Most of Cigna's revenue is the cost of drugs passed through to clients, so gross margin is thin by construction. The source does not report stock-based pay for this company.",
 }

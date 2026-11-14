@@ -1,7 +1,7 @@
 """All analyst judgments in one place. Edit the companies_*.py files, not this one."""
 from companies_core import Q as CORE
 from companies_a import Q
-import companies_b, companies_c, companies_d  # noqa: F401  (they add to Q)
+import companies_b, companies_c, companies_d, companies_e  # noqa: F401  (they add to Q)
 
 EXTRA = {  # sector and Munger-style "how does this die?" for the original 20
  "AAPL": ("Technology", ["A product misstep breaks the premium brand.", "Regulators dismantle App Store fees and the Google search payment."]),

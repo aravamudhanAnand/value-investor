@@ -1,0 +1,1003 @@
+{
+ "company": "Fortinet",
+ "ticker": "FTNT",
+ "exchange": "NASDAQ",
+ "sector": "Technology",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-11-11",
+ "currency": "USD",
+ "price": 128.1,
+ "market_cap": "$94.1B",
+ "verdict": "TOO_HARD",
+ "overall_score": 60,
+ "one_liner": "Goes in the too-hard pile: its industry is changing too fast to predict. No verdict on price.",
+ "scores": {
+  "meaning": 7,
+  "moat": 7,
+  "industry": 4,
+  "management": 8,
+  "financial_health": 9,
+  "valuation": 1
+ },
+ "treasury_10y": 5.1,
+ "profile": {
+  "what": "Fortinet sells FortiGate firewalls and a broad set of network-security software, built around chips it designs itself, to customers from small businesses to telecom carriers.",
+  "money": "A customer buys a firewall and then pays for security subscriptions and support for years. Subscriptions and support make up the larger and more profitable share of revenue.",
+  "valued": "Fortinet is valued on P/E and free cash flow relative to growth. The multiple moves with billings growth and the firewall replacement cycle.",
+  "kind": "Established operating business",
+  "metrics": [
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 41.86,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 33.95,
+    "sector_n": 32
+   },
+   {
+    "key": "fpe",
+    "label": "Price / forward earnings",
+    "value": 34.08,
+    "unit": "x",
+    "note": "Next twelve months, analyst estimates",
+    "sector_median": 22.44,
+    "sector_n": 23
+   },
+   {
+    "key": "pfcf",
+    "label": "Price / free cash flow",
+    "value": 27.44,
+    "unit": "x",
+    "note": "Before deducting stock-based pay",
+    "sector_median": 29.63,
+    "sector_n": 20
+   },
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 32.68,
+    "unit": "x",
+    "note": "Enterprise value includes debt",
+    "sector_median": 23.69,
+    "sector_n": 33
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 0.0,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 0.61,
+    "sector_n": 31
+   }
+  ],
+  "peer_group": "Technology · established operating business",
+  "peers": [
+   {
+    "ticker": "PANW",
+    "company": "Palo Alto Networks",
+    "value": 805.6
+   },
+   {
+    "ticker": "SNPS",
+    "company": "Synopsys",
+    "value": 80.71
+   },
+   {
+    "ticker": "NOW",
+    "company": "ServiceNow",
+    "value": 73.56
+   },
+   {
+    "ticker": "CDNS",
+    "company": "Cadence Design Systems",
+    "value": 64.22
+   },
+   {
+    "ticker": "ANET",
+    "company": "Arista Networks",
+    "value": 52.89
+   },
+   {
+    "ticker": "AVGO",
+    "company": "Broadcom",
+    "value": 44.32
+   },
+   {
+    "ticker": "FTNT",
+    "company": "Fortinet",
+    "value": 41.86
+   },
+   {
+    "ticker": "AAPL",
+    "company": "Apple",
+    "value": 39.67
+   },
+   {
+    "ticker": "MSI",
+    "company": "Motorola Solutions",
+    "value": 37.94
+   },
+   {
+    "ticker": "APH",
+    "company": "Amphenol",
+    "value": 34.01
+   },
+   {
+    "ticker": "ADSK",
+    "company": "Autodesk",
+    "value": 33.9
+   },
+   {
+    "ticker": "CSCO",
+    "company": "Cisco Systems",
+    "value": 28.72
+   },
+   {
+    "ticker": "MSFT",
+    "company": "Microsoft",
+    "value": 27.36
+   },
+   {
+    "ticker": "IBM",
+    "company": "IBM",
+    "value": 21.09
+   },
+   {
+    "ticker": "INTU",
+    "company": "Intuit",
+    "value": 20.76
+   },
+   {
+    "ticker": "NVDA",
+    "company": "NVIDIA",
+    "value": 20.59
+   },
+   {
+    "ticker": "CRM",
+    "company": "Salesforce",
+    "value": 20.19
+   },
+   {
+    "ticker": "ORCL",
+    "company": "Oracle",
+    "value": 19.65
+   },
+   {
+    "ticker": "ACN",
+    "company": "Accenture",
+    "value": 18.47
+   },
+   {
+    "ticker": "ROP",
+    "company": "Roper Technologies",
+    "value": 17.57
+   },
+   {
+    "ticker": "ADBE",
+    "company": "Adobe",
+    "value": 13.56
+   }
+  ]
+ },
+ "market": {
+  "rating": "Hold",
+  "target": 145.03,
+  "beta": 1.04,
+  "as_of": "2026-11-11",
+  "low52": 73.55,
+  "high52": 197.13,
+  "range_pos": 44,
+  "below_high": 35.0,
+  "target_vs_price": 13.2,
+  "target_vs_fair": 167.9,
+  "above_low": 74.2
+ },
+ "summary": {
+  "sentence": "A founder-led firewall maker with net cash, in an industry that changes too fast to forecast.",
+  "strengths": [
+   "More cash than debt.",
+   "Free cash flow is well above reported earnings.",
+   "Founders still own a large stake."
+  ],
+  "risks": [
+   "Hardware sales swing with firewall replacement cycles.",
+   "Book equity was negative in two of the last five years.",
+   "Priced for continued growth."
+  ],
+  "swing": [
+   "Firewall replacement cycle",
+   "Shift to cloud security",
+   "Product vulnerabilities"
+  ]
+ },
+ "dollar": {
+  "cogs": 20.2,
+  "opex": 46.9,
+  "op_profit": 32.9,
+  "net": 28.9,
+  "fcf": 43.5
+ },
+ "cash_use": {
+  "years": 5,
+  "first": "FY21",
+  "last": "FY25",
+  "ocf": "$10.0B",
+  "capex": 15,
+  "dividends": 0,
+  "buybacks": 72,
+  "left": 13,
+  "sbc": 12,
+  "capex_reported": true
+ },
+ "meaning": {
+  "score": 7,
+  "what_it_does": "Sells network firewalls and related security software, built on its own chips, to businesses of every size.",
+  "how_it_makes_money": "Firewall hardware, followed by years of security subscriptions and support contracts.",
+  "how_it_keeps_making_money": "Its own chip design gives more performance per dollar, and each firewall pulls through subscriptions.",
+  "how_it_could_stop": "Security moves fully to the cloud and away from hardware, or a flaw in its products drives customers away."
+ },
+ "moat": {
+  "score": 7,
+  "strength": "Narrow",
+  "sources": [
+   "Switching costs",
+   "Scale and cost advantage"
+  ],
+  "summary": "A large installed base of firewalls renews subscriptions year after year, but security buyers re-evaluate often."
+ },
+ "industry": {
+  "score": 4,
+  "pace": "Rapid change",
+  "summary": "Attackers and defences change constantly, so a security vendor must keep its products ahead every year."
+ },
+ "management": {
+  "score": 8,
+  "summary": "Founder-led with high insider ownership; growth has been organic and buybacks have been well timed."
+ },
+ "financial_health": {
+  "score": 9,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+19.4% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "+32.2% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net profit margin",
+    "value": "28.9%",
+    "threshold": "≥ 5%",
+    "pass": true
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.10",
+    "threshold": "≤ 0.40",
+    "pass": true
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$798M → $1.2B, 3 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": false
+   },
+   {
+    "name": "ROIC",
+    "value": "70.0%",
+    "threshold": "≥ 10%",
+    "pass": true
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$1.2B → $2.2B; TTM $3.4B",
+    "threshold": "Positive every year and rising",
+    "pass": true
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 175.2x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": true
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 161% of net income over 5 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": true
+   }
+  ],
+  "red_flags": [
+   "Rapidly changing industry."
+  ],
+  "note": "",
+  "history": [
+   {
+    "period": "FY21",
+    "revenue": 3342.0,
+    "net_income": 606.8,
+    "fcf": 1204.0
+   },
+   {
+    "period": "FY22",
+    "revenue": 4417.0,
+    "net_income": 857.3,
+    "fcf": 1449.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 5305.0,
+    "net_income": 1148.0,
+    "fcf": 1731.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 5956.0,
+    "net_income": 1745.0,
+    "fcf": 1879.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 6800.0,
+    "net_income": 1853.0,
+    "fcf": 2226.0
+   },
+   {
+    "period": "TTM",
+    "revenue": 7880.0,
+    "net_income": 2280.0,
+    "fcf": 3430.0
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "79.8%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": true
+     },
+     {
+      "name": "Operating margin",
+      "value": "32.9%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Net profit margin",
+      "value": "28.9%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "43.5%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Return on equity",
+      "value": "101.3%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "70.0%",
+      "threshold": "≥ 12%",
+      "pass": true
+     },
+     {
+      "name": "Return on assets",
+      "value": "21.9%",
+      "threshold": "≥ 6%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "0.25x",
+      "threshold": "≤ 1.0x",
+      "pass": true
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.10",
+      "threshold": "≤ 0.40",
+      "pass": true
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "Net cash",
+      "threshold": "≤ 2.5x",
+      "pass": true
+     },
+     {
+      "name": "Interest cover",
+      "value": "175.2x",
+      "threshold": "≥ 5x",
+      "pass": true
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "0.2",
+      "threshold": "≤ 4 years",
+      "pass": true
+     },
+     {
+      "name": "Current ratio",
+      "value": "1.40",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": true
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "6.68",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "161% over 5 years",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "137% over 5 years",
+      "threshold": "≥ 80%",
+      "pass": true
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "7%",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": true
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "1.6x",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$296M, 8% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": true
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "6 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+19.4%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Earnings per share",
+      "value": "+34.9%",
+      "threshold": "≥ 7%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow",
+      "value": "+16.6%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Book value per share",
+      "value": "+13.9%",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "0.0%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "No dividend",
+      "threshold": "≤ 60% of earnings",
+      "pass": null
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "No dividend",
+      "threshold": "≥ 1.5x",
+      "pass": null
+     },
+     {
+      "name": "Buyback yield",
+      "value": "3.2%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "-7.9% over 4 years",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": true
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "23%",
+      "threshold": "≥ 12%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "2.4%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "3.3%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "2.3%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 23,
+   "total": 26
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 1,
+  "lifecycle_stage": "3 · Operating leverage",
+  "primary_metric": {
+   "name": "Forward P/E",
+   "value": "34.1"
+  },
+  "secondary_metric": {
+   "name": "P/FCF",
+   "value": "27.4"
+  },
+  "three_numbers": {
+   "pe": "41.9",
+   "forward_pe": "34.1",
+   "peg": "2.20"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "11.4"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "32.7"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "34.7"
+   },
+   {
+    "name": "P/E",
+    "value": "41.9"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "26.2"
+   },
+   {
+    "name": "P/FCF",
+    "value": "27.4"
+   },
+   {
+    "name": "P/B",
+    "value": "41.8"
+   }
+  ],
+  "intrinsic_value_low": 46.33,
+  "intrinsic_value_high": 61.92,
+  "margin_of_safety_pct": -136.7,
+  "interesting_below": 37.89,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $1.8B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 9–15% for five years, fading to 3%; operating margin held at 33%; cost of capital 10.7%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 54.13,
+  "methods": [
+   {
+    "name": "Owner cash flow",
+    "low": 48.19,
+    "high": 67.83,
+    "basis": "$1.8B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM)."
+   },
+   {
+    "name": "Damodaran: cash flow to the firm",
+    "low": 44.48,
+    "high": 56.02,
+    "basis": "Sales grow 9–15% for five years, fading to 3%; operating margin held at 33%; cost of capital 10.7%. Cash added, debt subtracted."
+   }
+  ],
+  "stress_case": null,
+  "damodaran": {
+   "growth": 12,
+   "growth_low": 9,
+   "growth_high": 15,
+   "margin": 32.9,
+   "tax": 25.0,
+   "roc": 40.0,
+   "reinvestment": 30,
+   "beta": 1.25,
+   "cost_of_equity": 10.7,
+   "cost_of_debt": 4.9,
+   "debt_weight": 1,
+   "cost_of_capital": 10.7,
+   "terminal_growth": 3.0,
+   "terminal_roc": 12.7,
+   "revenue_now": "$7.9B",
+   "revenue_year10": "$19.1B",
+   "low": 44.48,
+   "high": 56.02,
+   "implied_growth": 35.3,
+   "implied_note": null
+  }
+ },
+ "lenses": {
+  "graham": {
+   "passed": 3,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "1.40",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "5 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": true
+    },
+    {
+     "name": "Dividend record",
+     "value": "No dividend",
+     "threshold": "Pays a dividend",
+     "pass": false
+    },
+    {
+     "name": "Earnings growth",
+     "value": "+319% ($0.73 → $3.06)",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": true
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "62.6x three-year average earnings ($2.05); 41.9x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "P/E × P/B = 1751; Graham number $15 vs price $128",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 2.4% vs 10-year Treasury 5.10%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "No financial distress",
+     "value": "Altman Z-score 6.68",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": true
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 7,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Owner earnings $2.2B (net income + depreciation − capex) = 2.3% yield vs 10-year Treasury 5.10%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "High return on equity without heavy debt",
+     "value": "ROE 101.3%, debt/equity 0.25",
+     "threshold": "ROE ≥ 15% and debt/equity ≤ 1.0",
+     "pass": true
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "EPS rose $1.69 on $7.20 a share retained over 4 years: 23% return",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": true
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 80%, 5.1-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": true
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Capex is 11% of net income",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": true
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest 175.2x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": true
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "0.2 years of net income",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": true
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "-7.9% over four fiscal years",
+     "threshold": "Fewer shares than four years ago",
+     "pass": true
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 2,
+   "total": 5,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 7 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": null
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Rapid change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": false
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 2.20",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "(30% EPS growth (capped) + 0.0% yield) ÷ P/E 41.9 = 0.72",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "EPS +34.9% a year, 0 down year(s)",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": true
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Net cash of $4.2B",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": true
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "No dividend",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": null
+    }
+   ],
+   "category": "Fast grower",
+   "category_note": "Earnings compounding at 20% or more on sales growing at least 10%. Lynch's favourite hunting ground, provided the growth is not paid for twice: check the PEG."
+  },
+  "munger": {
+   "passed": 4,
+   "total": 5,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 7 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": null
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Rapid change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": false
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 15.54%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": true
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count -3.66% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": true
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$296M, 8% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": true
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Operating cash flow was 161% of net income over 5 fiscal years",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": true
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 6 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "A serious breach traced to its own products.",
+    "Customers replace firewalls with cloud-delivered security."
+   ]
+  },
+  "pabrai": {
+   "passed": 1,
+   "total": 6,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 7 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": false
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Rapid change",
+     "threshold": "Stable industry",
+     "pass": false
+    },
+    {
+     "name": "Durable moat",
+     "value": "Narrow moat",
+     "threshold": "Wide moat",
+     "pass": null
+    },
+    {
+     "name": "Out of favour",
+     "value": "Share price +38% over 52 weeks",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": false
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety -137%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "More cash than debt",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": true
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "No upside even to the high-case value ($62); 64% downside to the low case",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": -51.7,
+   "downside_pct": 63.8
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Narrow moat: Switching costs, Scale and cost advantage.",
+   "threshold": "",
+   "pass": null
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "Security spending is spread across many vendors.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Revenue has doubled in four years.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 70%.",
+   "threshold": "",
+   "pass": true
+  }
+ ],
+ "bull_case": [
+  "More cash than debt.",
+  "Free cash flow is well above reported earnings.",
+  "Founders still own a large stake."
+ ],
+ "bear_case": [
+  "Hardware sales swing with firewall replacement cycles.",
+  "Book equity was negative in two of the last five years.",
+  "Priced for continued growth."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "Fortinet statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/ftnt/statistics/"
+  },
+  {
+   "title": "Fortinet income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/ftnt/financials/"
+  },
+  {
+   "title": "Fortinet balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/ftnt/financials/balance-sheet/"
+  },
+  {
+   "title": "Fortinet cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/ftnt/financials/cash-flow-statement/"
+  }
+ ]
+}

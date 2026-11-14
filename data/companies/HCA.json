@@ -1,0 +1,1011 @@
+{
+ "company": "HCA Healthcare",
+ "ticker": "HCA",
+ "exchange": "NYSE",
+ "sector": "Health care",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-11-06",
+ "currency": "USD",
+ "price": 494.99,
+ "market_cap": "$103.4B",
+ "verdict": "WATCHLIST",
+ "overall_score": 70,
+ "one_liner": "A narrow-moat business worth owning, but the margin of safety is only 3% against a 30% target. Interesting below about $357.",
+ "scores": {
+  "meaning": 9,
+  "moat": 7,
+  "industry": 7,
+  "management": 7,
+  "financial_health": 7,
+  "valuation": 6
+ },
+ "treasury_10y": 5.1,
+ "profile": {
+  "what": "HCA Healthcare is the largest investor-owned hospital company in the United States, with hospitals, surgery centres and urgent-care sites concentrated in states such as Texas, Florida and Tennessee.",
+  "money": "It is paid for each admission and procedure by private insurers and government programmes. Privately insured patients are the most profitable.",
+  "valued": "HCA is valued on P/E and EV/EBITDA. Investors watch patient volumes, the mix of insured patients and changes to government health funding.",
+  "kind": "Established operating business",
+  "metrics": [
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 16.38,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 32.72,
+    "sector_n": 23
+   },
+   {
+    "key": "fpe",
+    "label": "Price / forward earnings",
+    "value": 16.16,
+    "unit": "x",
+    "note": "Next twelve months, analyst estimates",
+    "sector_median": 17.77,
+    "sector_n": 24
+   },
+   {
+    "key": "pfcf",
+    "label": "Price / free cash flow",
+    "value": 17.32,
+    "unit": "x",
+    "note": "Before deducting stock-based pay",
+    "sector_median": 21.6,
+    "sector_n": 24
+   },
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 9.8,
+    "unit": "x",
+    "note": "Enterprise value includes debt",
+    "sector_median": 14.22,
+    "sector_n": 23
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 0.63,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 1.92,
+    "sector_n": 24
+   }
+  ],
+  "peer_group": "Health care",
+  "peers": [
+   {
+    "ticker": "MRK",
+    "company": "Merck",
+    "value": 149.25
+   },
+   {
+    "ticker": "ISRG",
+    "company": "Intuitive Surgical",
+    "value": 53.64
+   },
+   {
+    "ticker": "ABBV",
+    "company": "AbbVie",
+    "value": 50.78
+   },
+   {
+    "ticker": "LLY",
+    "company": "Eli Lilly",
+    "value": 46.85
+   },
+   {
+    "ticker": "JNJ",
+    "company": "Johnson & Johnson",
+    "value": 43.43
+   },
+   {
+    "ticker": "PFE",
+    "company": "Pfizer",
+    "value": 41.27
+   },
+   {
+    "ticker": "ABT",
+    "company": "Abbott Laboratories",
+    "value": 40.34
+   },
+   {
+    "ticker": "DHR",
+    "company": "Danaher",
+    "value": 38.2
+   },
+   {
+    "ticker": "TMO",
+    "company": "Thermo Fisher Scientific",
+    "value": 36.91
+   },
+   {
+    "ticker": "VRTX",
+    "company": "Vertex Pharmaceuticals",
+    "value": 34.64
+   },
+   {
+    "ticker": "SYK",
+    "company": "Stryker",
+    "value": 32.98
+   },
+   {
+    "ticker": "AMGN",
+    "company": "Amgen",
+    "value": 32.72
+   },
+   {
+    "ticker": "MCK",
+    "company": "McKesson",
+    "value": 28.29
+   },
+   {
+    "ticker": "MDT",
+    "company": "Medtronic",
+    "value": 25.33
+   },
+   {
+    "ticker": "CVS",
+    "company": "CVS Health",
+    "value": 23.39
+   },
+   {
+    "ticker": "UNH",
+    "company": "UnitedHealth Group",
+    "value": 23.28
+   },
+   {
+    "ticker": "REGN",
+    "company": "Regeneron Pharmaceuticals",
+    "value": 21.15
+   },
+   {
+    "ticker": "ELV",
+    "company": "Elevance Health",
+    "value": 18.33
+   },
+   {
+    "ticker": "BSX",
+    "company": "Boston Scientific",
+    "value": 17.95
+   },
+   {
+    "ticker": "HCA",
+    "company": "HCA Healthcare",
+    "value": 16.38
+   },
+   {
+    "ticker": "BMY",
+    "company": "Bristol-Myers Squibb",
+    "value": 14.06
+   },
+   {
+    "ticker": "ZTS",
+    "company": "Zoetis",
+    "value": 13.21
+   },
+   {
+    "ticker": "CI",
+    "company": "The Cigna Group",
+    "value": 12.96
+   }
+  ]
+ },
+ "market": {
+  "rating": "Buy",
+  "target": 477.27,
+  "beta": 1.1,
+  "as_of": "2026-11-06",
+  "low52": 353.99,
+  "high52": 556.52,
+  "range_pos": 70,
+  "below_high": 11.1,
+  "target_vs_price": -3.6,
+  "target_vs_fair": -6.5,
+  "above_low": 39.8
+ },
+ "summary": {
+  "sentence": "The largest US hospital operator, run for buybacks on a heavily indebted balance sheet.",
+  "strengths": [
+   "Revenue has grown every year in the record.",
+   "Share count is falling fast.",
+   "Gross margin has widened."
+  ],
+  "risks": [
+   "Book equity is negative after debt-funded buybacks.",
+   "Debt is very large.",
+   "Current liabilities exceed current assets."
+  ],
+  "swing": [
+   "Health-policy funding",
+   "Patient volumes",
+   "Labour costs"
+  ]
+ },
+ "dollar": {
+  "cogs": 57.2,
+  "opex": 27.4,
+  "op_profit": 15.3,
+  "net": 8.6,
+  "fcf": 7.6
+ },
+ "cash_use": {
+  "years": 5,
+  "first": "FY21",
+  "last": "FY25",
+  "ocf": "$50.1B",
+  "capex": 45,
+  "dividends": 7,
+  "buybacks": 70,
+  "left": -22,
+  "sbc": 4,
+  "capex_reported": true
+ },
+ "meaning": {
+  "score": 9,
+  "what_it_does": "The largest for-profit hospital operator in the US, with hospitals, surgery centres and emergency rooms concentrated in fast-growing states.",
+  "how_it_makes_money": "Payments from private insurers, Medicare and Medicaid for patient care.",
+  "how_it_keeps_making_money": "Dense local networks give it bargaining power with insurers and doctors.",
+  "how_it_could_stop": "Government payment cuts, a rise in uninsured patients, or wage inflation for nurses."
+ },
+ "moat": {
+  "score": 7,
+  "strength": "Narrow",
+  "sources": [
+   "Scale and cost advantage",
+   "Local density"
+  ],
+  "summary": "Leading local market shares in growing cities, though prices are largely set by governments and insurers."
+ },
+ "industry": {
+  "score": 7,
+  "pace": "Steady change",
+  "summary": "Hospital care changes slowly, but payment rules shift with health policy."
+ },
+ "management": {
+  "score": 7,
+  "summary": "An aggressive and effective buyer of its own shares, financed with heavy debt."
+ },
+ "financial_health": {
+  "score": 7,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+6.5% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "-0.6% a year, 2 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": false
+   },
+   {
+    "name": "Net profit margin",
+    "value": "8.6%",
+    "threshold": "≥ 5%",
+    "pass": true
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.80",
+    "threshold": "≤ 0.40",
+    "pass": false
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$1.5B → -$2.8B, 3 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": false
+   },
+   {
+    "name": "ROIC",
+    "value": "21.4%",
+    "threshold": "≥ 10%",
+    "pass": true
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$5.4B → $7.7B; TTM $6.0B",
+    "threshold": "Positive every year and rising",
+    "pass": true
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 5.1x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": true
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 165% of net income over 5 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": true
+   }
+  ],
+  "red_flags": [],
+  "note": "",
+  "history": [
+   {
+    "period": "FY21",
+    "revenue": 58752.0,
+    "net_income": 6956.0,
+    "fcf": 5382.0
+   },
+   {
+    "period": "FY22",
+    "revenue": 60233.0,
+    "net_income": 5643.0,
+    "fcf": 4127.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 64968.0,
+    "net_income": 5242.0,
+    "fcf": 4687.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 70603.0,
+    "net_income": 5760.0,
+    "fcf": 5639.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 75600.0,
+    "net_income": 6784.0,
+    "fcf": 7692.0
+   },
+   {
+    "period": "TTM",
+    "revenue": 78700.0,
+    "net_income": 6780.0,
+    "fcf": 5970.0
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "42.8%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": true
+     },
+     {
+      "name": "Operating margin",
+      "value": "15.3%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Net profit margin",
+      "value": "8.6%",
+      "threshold": "≥ 10%",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "7.6%",
+      "threshold": "≥ 10%",
+      "pass": false
+     },
+     {
+      "name": "Return on equity",
+      "value": "Negative book equity",
+      "threshold": "≥ 15%",
+      "pass": null
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "21.4%",
+      "threshold": "≥ 12%",
+      "pass": true
+     },
+     {
+      "name": "Return on assets",
+      "value": "11.2%",
+      "threshold": "≥ 6%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "Negative book equity",
+      "threshold": "≤ 1.0x",
+      "pass": null
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.80",
+      "threshold": "≤ 0.40",
+      "pass": false
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "3.3x",
+      "threshold": "≤ 2.5x",
+      "pass": false
+     },
+     {
+      "name": "Interest cover",
+      "value": "5.1x",
+      "threshold": "≥ 5x",
+      "pass": true
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "8.8",
+      "threshold": "≤ 4 years",
+      "pass": false
+     },
+     {
+      "name": "Current ratio",
+      "value": "0.82",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": false
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "2.52",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": false
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "165% over 5 years",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "91% over 5 years",
+      "threshold": "≥ 80%",
+      "pass": true
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "47%",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": true
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "1.4x",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$375M, 3% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": true
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "6 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+6.5%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Earnings per share",
+      "value": "+7.6%",
+      "threshold": "≥ 7%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow",
+      "value": "+9.3%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Book value per share",
+      "value": "n/a",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "0.6%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "10%",
+      "threshold": "≤ 60% of earnings",
+      "pass": true
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "8.8x",
+      "threshold": "≥ 1.5x",
+      "pass": true
+     },
+     {
+      "name": "Buyback yield",
+      "value": "8.4%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "-27.2% over 4 years",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": true
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "9%",
+      "threshold": "≥ 12%",
+      "pass": false
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "6.1%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "5.4%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": true
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "5.1%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 17,
+   "total": 26
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 6,
+  "lifecycle_stage": "4 · Capital return",
+  "primary_metric": {
+   "name": "Trailing P/E",
+   "value": "16.4"
+  },
+  "secondary_metric": {
+   "name": "Trailing P/FCF",
+   "value": "17.3"
+  },
+  "three_numbers": {
+   "pe": "16.4",
+   "forward_pe": "16.2",
+   "peg": "1.75"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "2.0"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "9.8"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "12.8"
+   },
+   {
+    "name": "P/E",
+    "value": "16.4"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "25.9"
+   },
+   {
+    "name": "P/FCF",
+    "value": "17.3"
+   },
+   {
+    "name": "P/B",
+    "value": "n/a"
+   }
+  ],
+  "intrinsic_value_low": 421.41,
+  "intrinsic_value_high": 599.48,
+  "margin_of_safety_pct": 3.0,
+  "interesting_below": 357.31,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $5.4B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 4–10% for five years, fading to 3%; operating margin held at 15%; cost of capital 8.0%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 510.44,
+  "methods": [
+   {
+    "name": "Owner cash flow",
+    "low": 387.51,
+    "high": 547.08,
+    "basis": "$5.4B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM)."
+   },
+   {
+    "name": "Damodaran: cash flow to the firm",
+    "low": 455.31,
+    "high": 651.88,
+    "basis": "Sales grow 4–10% for five years, fading to 3%; operating margin held at 15%; cost of capital 8.0%. Cash added, debt subtracted."
+   }
+  ],
+  "stress_case": null,
+  "damodaran": {
+   "growth": 7,
+   "growth_low": 4,
+   "growth_high": 10,
+   "margin": 15.3,
+   "tax": 25.0,
+   "roc": 21.4,
+   "reinvestment": 33,
+   "beta": 1.0,
+   "cost_of_equity": 9.6,
+   "cost_of_debt": 4.9,
+   "debt_weight": 34,
+   "cost_of_capital": 8.0,
+   "terminal_growth": 3.0,
+   "terminal_roc": 10.0,
+   "revenue_now": "$78.7B",
+   "revenue_year10": "$138.2B",
+   "low": 455.31,
+   "high": 651.88,
+   "implied_growth": 5.4,
+   "implied_note": null
+  }
+ },
+ "lenses": {
+  "graham": {
+   "passed": 4,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "0.82",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "5 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": true
+    },
+    {
+     "name": "Dividend record",
+     "value": "$3.12 a share (0.6% yield)",
+     "threshold": "Pays a dividend",
+     "pass": true
+    },
+    {
+     "name": "Earnings growth",
+     "value": "+43% ($21.16 → $30.22)",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": true
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "21.4x three-year average earnings ($23.10); 16.4x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "Negative earnings or book value",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 6.1% vs 10-year Treasury 5.10%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": true
+    },
+    {
+     "name": "No financial distress",
+     "value": "Altman Z-score 2.52",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": false
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 3,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Owner earnings $5.3B (net income + depreciation − capex) = 5.1% yield vs 10-year Treasury 5.10%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "High return on capital",
+     "value": "ROIC 21.4% (book equity is negative)",
+     "threshold": "ROIC ≥ 15%",
+     "pass": true
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "EPS rose $7.17 on $78.37 a share retained over 4 years: 9% return",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": false
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 43%, 3.2-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": true
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Capex is 77% of net income",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": false
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest 5.1x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": false
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "7.7 years of net income",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": false
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "-27.2% over four fiscal years",
+     "threshold": "Fewer shares than four years ago",
+     "pass": true
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 3,
+   "total": 6,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 9 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Steady change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 1.75",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": null
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "(8% EPS growth + 0.6% yield) ÷ P/E 16.4 = 0.50",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "EPS +7.6% a year, 2 down year(s)",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": false
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Book equity is negative and debt exceeds cash",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": false
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "Pays out 10% of earnings",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": true
+    }
+   ],
+   "category": "Stalwart",
+   "category_note": "A large company growing earnings at a steady pace, between the slow and the fast growers. Lynch bought these for a 30–50% gain and for protection in recessions, then rotated."
+  },
+  "munger": {
+   "passed": 6,
+   "total": 6,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 9 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Steady change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 1.48%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": true
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count -8.70% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": true
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$375M, 3% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": true
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Operating cash flow was 165% of net income over 5 fiscal years",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": true
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 6 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "Cuts to Medicare, Medicaid or insurance subsidies.",
+    "Interest costs rise sharply at refinancing."
+   ]
+  },
+  "pabrai": {
+   "passed": 1,
+   "total": 5,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 9 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Steady change",
+     "threshold": "Stable industry",
+     "pass": null
+    },
+    {
+     "name": "Durable moat",
+     "value": "Narrow moat",
+     "threshold": "Wide moat",
+     "pass": null
+    },
+    {
+     "name": "Out of favour",
+     "value": "Share price +5% over 52 weeks",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": false
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety 3%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "Debt is 7.7 years of net income",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": false
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "21% upside to the high case vs 15% downside to the low case (1.4 to 1)",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": 21.1,
+   "downside_pct": 14.9
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Narrow moat: Scale and cost advantage, Local density.",
+   "threshold": "",
+   "pass": null
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "Already the largest operator.",
+   "threshold": "",
+   "pass": false
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Its markets have growing and ageing populations.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 21%.",
+   "threshold": "",
+   "pass": true
+  }
+ ],
+ "bull_case": [
+  "Revenue has grown every year in the record.",
+  "Share count is falling fast.",
+  "Gross margin has widened."
+ ],
+ "bear_case": [
+  "Book equity is negative after debt-funded buybacks.",
+  "Debt is very large.",
+  "Current liabilities exceed current assets."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "HCA Healthcare statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/hca/statistics/"
+  },
+  {
+   "title": "HCA Healthcare income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/hca/financials/"
+  },
+  {
+   "title": "HCA Healthcare balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/hca/financials/balance-sheet/"
+  },
+  {
+   "title": "HCA Healthcare cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/hca/financials/cash-flow-statement/"
+  }
+ ]
+}

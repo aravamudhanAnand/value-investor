@@ -1,0 +1,18 @@
+# ABNB - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=171.05; date=2026-10-26; shares=589.59M; fpe=30.27; peg=1.48; cash=12.07B; debt=2.50B; equity=7.80B; eps=$4.42; cr=1.41; ic=58.26; roic=16.81%; gm=82.90%; rev=13.16B; ni=2.69B; ebitda=2.76B; ebit=2.74B; ocf=4.86B; capex=n/a; fcf=4.86B; dps=n/a; sc=-3.86%; ins=28.72%; z=3.01; f=6; c52=+33.64%
+F FY21,5992,80.71,-352,-0.57,2313
+F FY22,8399,82.15,1893,2.79,3430
+F FY23,9917,82.83,4792,7.24,3884
+F FY24,11102,83.08,2648,4.11,4518
+F FY25,12241,82.96,2511,4.04,4646
+B FY21,13708,2418,4775
+B FY22,16038,2341,5560
+B FY23,20645,2304,8165
+B FY24,20959,2294,8412
+B FY25,22208,2271,8199
+C FY21,72,899,2313,n/a,n/a,-177
+C FY22,53,930,3430,n/a,n/a,-2107
+C FY23,18,1120,3884,n/a,n/a,-3476
+C FY24,31,1407,4518,n/a,n/a,-4060
+C FY25,30,1592,4646,n/a,n/a,-4350
+C TTM,23,1707,4860,n/a,n/a,-4682

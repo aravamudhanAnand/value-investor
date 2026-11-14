@@ -1,0 +1,974 @@
+{
+ "company": "AutoZone",
+ "ticker": "AZO",
+ "exchange": "NYSE",
+ "sector": "Consumer discretionary",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-10-26",
+ "currency": "USD",
+ "price": 3190.07,
+ "market_cap": "$51.6B",
+ "verdict": "WATCHLIST",
+ "overall_score": 74,
+ "one_liner": "A wide-moat business worth owning, but it trades at 1.2x fair value. Interesting below about $1,836.",
+ "scores": {
+  "meaning": 10,
+  "moat": 8,
+  "industry": 8,
+  "management": 9,
+  "financial_health": 7,
+  "valuation": 4
+ },
+ "treasury_10y": 5.1,
+ "profile": {
+  "what": "AutoZone is the largest car-parts retailer in the United States by number of stores, with additional stores in Mexico and Brazil.",
+  "money": "Most sales are to drivers who repair their own cars. A growing share comes from delivering parts to repair garages.",
+  "valued": "AutoZone is valued on P/E and judged by earnings-per-share growth, which buybacks amplify. Book value is negative, so asset-based measures do not apply.",
+  "kind": "Established operating business",
+  "metrics": [
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 20.91,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 24.88,
+    "sector_n": 17
+   },
+   {
+    "key": "fpe",
+    "label": "Price / forward earnings",
+    "value": 18.73,
+    "unit": "x",
+    "note": "Next twelve months, analyst estimates",
+    "sector_median": 26.62,
+    "sector_n": 16
+   },
+   {
+    "key": "pfcf",
+    "label": "Price / free cash flow",
+    "value": 31.65,
+    "unit": "x",
+    "note": "Before deducting stock-based pay",
+    "sector_median": 26.81,
+    "sector_n": 15
+   },
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 14.77,
+    "unit": "x",
+    "note": "Enterprise value includes debt",
+    "sector_median": 17.54,
+    "sector_n": 17
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 0.0,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 0.76,
+    "sector_n": 17
+   }
+  ],
+  "peer_group": "Consumer discretionary · established operating business",
+  "peers": [
+   {
+    "ticker": "TSLA",
+    "company": "Tesla",
+    "value": 428.81
+   },
+   {
+    "ticker": "SBUX",
+    "company": "Starbucks",
+    "value": 61.17
+   },
+   {
+    "ticker": "HLT",
+    "company": "Hilton Worldwide",
+    "value": 46.44
+   },
+   {
+    "ticker": "MAR",
+    "company": "Marriott International",
+    "value": 43.9
+   },
+   {
+    "ticker": "ABNB",
+    "company": "Airbnb",
+    "value": 37.19
+   },
+   {
+    "ticker": "ORLY",
+    "company": "O'Reilly Automotive",
+    "value": 28.9
+   },
+   {
+    "ticker": "ROST",
+    "company": "Ross Stores",
+    "value": 28.31
+   },
+   {
+    "ticker": "CMG",
+    "company": "Chipotle Mexican Grill",
+    "value": 25.94
+   },
+   {
+    "ticker": "TJX",
+    "company": "TJX Companies",
+    "value": 24.88
+   },
+   {
+    "ticker": "HD",
+    "company": "Home Depot",
+    "value": 24.4
+   },
+   {
+    "ticker": "MCD",
+    "company": "McDonald's",
+    "value": 22.09
+   },
+   {
+    "ticker": "AMZN",
+    "company": "Amazon",
+    "value": 21.56
+   },
+   {
+    "ticker": "AZO",
+    "company": "AutoZone",
+    "value": 20.91
+   },
+   {
+    "ticker": "LOW",
+    "company": "Lowe's",
+    "value": 19.25
+   },
+   {
+    "ticker": "NKE",
+    "company": "Nike",
+    "value": 18.18
+   },
+   {
+    "ticker": "BKNG",
+    "company": "Booking Holdings",
+    "value": 17.36
+   }
+  ]
+ },
+ "market": {
+  "rating": "Strong Buy",
+  "target": 3665.61,
+  "beta": 0.4,
+  "as_of": "2026-10-26",
+  "low52": 2730.65,
+  "high52": 3996.25,
+  "range_pos": 36,
+  "below_high": 20.2,
+  "target_vs_price": 14.9,
+  "target_vs_fair": 39.7,
+  "above_low": 16.8
+ },
+ "summary": {
+  "sentence": "The largest car-parts chain, turning steady sales into rising earnings per share through buybacks.",
+  "strengths": [
+   "Revenue has grown every year in the record.",
+   "High return on invested capital.",
+   "Share count is falling."
+  ],
+  "risks": [
+   "Book equity is negative after debt-funded buybacks.",
+   "Free cash flow has fallen as capital spending rose.",
+   "Current liabilities exceed current assets."
+  ],
+  "swing": [
+   "Garage delivery growth",
+   "Buyback pace",
+   "Capital spending"
+  ]
+ },
+ "dollar": {
+  "cogs": 47.7,
+  "opex": 34.1,
+  "op_profit": 18.3,
+  "net": 12.6,
+  "fcf": 8.0
+ },
+ "cash_use": {
+  "years": 4,
+  "first": "FY22",
+  "last": "FY25",
+  "ocf": "$12.3B",
+  "capex": 32,
+  "dividends": 0,
+  "buybacks": 104,
+  "left": -36,
+  "sbc": 3,
+  "capex_reported": true
+ },
+ "meaning": {
+  "score": 10,
+  "what_it_does": "The largest US car-parts retailer by store count, serving home mechanics and repair shops, with a growing business in Mexico and Brazil.",
+  "how_it_makes_money": "Retail sales to drivers who fix their own cars, plus a growing delivery business to repair garages.",
+  "how_it_keeps_making_money": "Parts are needed immediately, so local availability and staff advice beat online ordering.",
+  "how_it_could_stop": "Electric cars need fewer parts, or online sellers erode the do-it-yourself customer."
+ },
+ "moat": {
+  "score": 8,
+  "strength": "Wide",
+  "sources": [
+   "Scale and cost advantage",
+   "Brand"
+  ],
+  "summary": "National scale in buying and distribution, and a store on most corners where its customers live."
+ },
+ "industry": {
+  "score": 8,
+  "pace": "Stable",
+  "summary": "Car parts retailing changes slowly; older cars on the road mean steady demand for repairs."
+ },
+ "management": {
+  "score": 9,
+  "summary": "One of the most consistent share repurchasers in the market over two decades."
+ },
+ "financial_health": {
+  "score": 7,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+5.8% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "+1.4% a year, 1 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net profit margin",
+    "value": "12.6%",
+    "threshold": "≥ 5%",
+    "pass": true
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.59",
+    "threshold": "≤ 0.40",
+    "pass": false
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "-$3.5B → -$2.5B, 2 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": false
+   },
+   {
+    "name": "ROIC",
+    "value": "26.3%",
+    "threshold": "≥ 10%",
+    "pass": true
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$2.5B → n/a; TTM $1.6B",
+    "threshold": "Positive every year and rising",
+    "pass": false
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 7.9x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": true
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 121% of net income over 4 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": true
+   }
+  ],
+  "red_flags": [],
+  "note": "The source's cash flow statement had not yet been updated for fiscal 2026 when collected, so the record shows four fiscal years plus the latest trailing figures, and fiscal 2026 free cash flow is blank.",
+  "history": [
+   {
+    "period": "FY22",
+    "revenue": 16252.0,
+    "net_income": 2430.0,
+    "fcf": 2539.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 17457.0,
+    "net_income": 2528.0,
+    "fcf": 2144.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 18490.0,
+    "net_income": 2662.0,
+    "fcf": 1931.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 18939.0,
+    "net_income": 2498.0,
+    "fcf": 1790.0
+   },
+   {
+    "period": "FY26",
+    "revenue": 20339.0,
+    "net_income": 2573.0,
+    "fcf": null
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "52.3%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": true
+     },
+     {
+      "name": "Operating margin",
+      "value": "18.3%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Net profit margin",
+      "value": "12.6%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "8.0%",
+      "threshold": "≥ 10%",
+      "pass": false
+     },
+     {
+      "name": "Return on equity",
+      "value": "Negative book equity",
+      "threshold": "≥ 15%",
+      "pass": null
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "26.3%",
+      "threshold": "≥ 12%",
+      "pass": true
+     },
+     {
+      "name": "Return on assets",
+      "value": "11.9%",
+      "threshold": "≥ 6%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "Negative book equity",
+      "threshold": "≤ 1.0x",
+      "pass": null
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.59",
+      "threshold": "≤ 0.40",
+      "pass": false
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "2.9x",
+      "threshold": "≤ 2.5x",
+      "pass": false
+     },
+     {
+      "name": "Interest cover",
+      "value": "7.9x",
+      "threshold": "≥ 5x",
+      "pass": true
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "7.9",
+      "threshold": "≤ 4 years",
+      "pass": false
+     },
+     {
+      "name": "Current ratio",
+      "value": "0.90",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": false
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "n/a",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "121% over 4 years",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "66% over 5 years",
+      "threshold": "≥ 80%",
+      "pass": false
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "47%",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": true
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "2.2x",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$137M, 4% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": true
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "5 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+5.8%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Earnings per share",
+      "value": "+6.8%",
+      "threshold": "≥ 7%",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow",
+      "value": "From or to negative",
+      "threshold": "≥ 5%",
+      "pass": null
+     },
+     {
+      "name": "Book value per share",
+      "value": "n/a",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "0.0%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "No dividend",
+      "threshold": "≤ 60% of earnings",
+      "pass": null
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "No dividend",
+      "threshold": "≥ 1.5x",
+      "pass": null
+     },
+     {
+      "name": "Buyback yield",
+      "value": "3.4%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "-18.7% over 4 years",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": true
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "6%",
+      "threshold": "≥ 12%",
+      "pass": false
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "4.8%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "2.9%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "3.5%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 11,
+   "total": 22
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 4,
+  "lifecycle_stage": "4 · Capital return",
+  "primary_metric": {
+   "name": "Trailing P/E",
+   "value": "20.9"
+  },
+  "secondary_metric": {
+   "name": "Trailing P/FCF",
+   "value": "31.6"
+  },
+  "three_numbers": {
+   "pe": "20.9",
+   "forward_pe": "18.7",
+   "peg": "1.34"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "3.2"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "14.8"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "17.2"
+   },
+   {
+    "name": "P/E",
+    "value": "20.9"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "39.3"
+   },
+   {
+    "name": "P/FCF",
+    "value": "31.6"
+   },
+   {
+    "name": "P/B",
+    "value": "n/a"
+   }
+  ],
+  "intrinsic_value_low": 2170.59,
+  "intrinsic_value_high": 3075.91,
+  "margin_of_safety_pct": -21.6,
+  "interesting_below": 1836.27,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow, capex held at depreciation: $2.3B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 2.2x depreciation, so most of it is expansion, not upkeep. (2) Damodaran: cash flow to the firm: Sales grow 4–10% for five years, fading to 3%; operating margin held at 18%; cost of capital 8.1%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 2623.25,
+  "methods": [
+   {
+    "name": "Owner cash flow, capex held at depreciation",
+    "low": 2162.94,
+    "high": 3053.58,
+    "basis": "$2.3B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 2.2x depreciation, so most of it is expansion, not upkeep."
+   },
+   {
+    "name": "Damodaran: cash flow to the firm",
+    "low": 2178.24,
+    "high": 3098.24,
+    "basis": "Sales grow 4–10% for five years, fading to 3%; operating margin held at 18%; cost of capital 8.1%. Cash added, debt subtracted."
+   }
+  ],
+  "stress_case": {
+   "low": 1533.27,
+   "high": 2164.63,
+   "basis": "If the expansion spending never earns a return: $1.7B a year after deducting all capex and stock-based pay."
+  },
+  "damodaran": {
+   "growth": 7,
+   "growth_low": 4,
+   "growth_high": 10,
+   "margin": 18.3,
+   "tax": 25.0,
+   "roc": 26.3,
+   "reinvestment": 27,
+   "beta": 0.85,
+   "cost_of_equity": 8.9,
+   "cost_of_debt": 4.9,
+   "debt_weight": 20,
+   "cost_of_capital": 8.1,
+   "terminal_growth": 3.0,
+   "terminal_roc": 13.1,
+   "revenue_now": "$20.3B",
+   "revenue_year10": "$35.7B",
+   "low": 2178.24,
+   "high": 3098.24,
+   "implied_growth": 10.5,
+   "implied_note": null
+  }
+ },
+ "lenses": {
+  "graham": {
+   "passed": 2,
+   "total": 7,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "0.90",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "5 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": true
+    },
+    {
+     "name": "Dividend record",
+     "value": "No dividend",
+     "threshold": "Pays a dividend",
+     "pass": false
+    },
+    {
+     "name": "Earnings growth",
+     "value": "+30% ($117.19 → $152.55)",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": true
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "21.4x three-year average earnings ($148.99); 20.9x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "Negative earnings or book value",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 4.8% vs 10-year Treasury 5.10%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "No financial distress",
+     "value": "n/a",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": null
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 4,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Owner earnings $1.8B (net income + depreciation − capex) = 3.5% yield vs 10-year Treasury 5.10%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "High return on capital",
+     "value": "ROIC 26.3% (book equity is negative)",
+     "threshold": "ROIC ≥ 15%",
+     "pass": true
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "EPS rose $35.36 on $579.33 a share retained over 4 years: 6% return",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": false
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 52%, 1.1-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": true
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Capex is 56% of net income",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": false
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest 7.9x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": true
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "5.0 years of net income",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": false
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "-18.7% over four fiscal years",
+     "threshold": "Fewer shares than four years ago",
+     "pass": true
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 3,
+   "total": 5,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 10 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 1.34",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": null
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "(7% EPS growth + 0.0% yield) ÷ P/E 20.9 = 0.33",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "EPS +6.8% a year, 1 down year(s)",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": true
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Book equity is negative and debt exceeds cash",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": false
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "No dividend",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": null
+    }
+   ],
+   "category": "Stalwart",
+   "category_note": "A large company growing earnings at a steady pace, between the slow and the fast growers. Lynch bought these for a 30–50% gain and for protection in recessions, then rotated."
+  },
+  "munger": {
+   "passed": 5,
+   "total": 6,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 10 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 0.20%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": false
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count -2.20% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": true
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$137M, 4% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": true
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Operating cash flow was 121% of net income over 4 fiscal years",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": true
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 5 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "Electric vehicles shrink the repair market faster than expected.",
+    "Debt becomes costly to refinance."
+   ]
+  },
+  "pabrai": {
+   "passed": 3,
+   "total": 7,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 10 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Stable",
+     "threshold": "Stable industry",
+     "pass": true
+    },
+    {
+     "name": "Durable moat",
+     "value": "Wide moat",
+     "threshold": "Wide moat",
+     "pass": true
+    },
+    {
+     "name": "Out of favour",
+     "value": "Share price -20% over 52 weeks",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": false
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety -22%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "Debt is 5.0 years of net income",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": false
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "No upside even to the high-case value ($3,076); 32% downside to the low case",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": -3.6,
+   "downside_pct": 32.0
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Wide moat: Scale and cost advantage, Brand.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "Already the largest chain by stores.",
+   "threshold": "",
+   "pass": false
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "It is expanding with garages and abroad.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 26%.",
+   "threshold": "",
+   "pass": true
+  }
+ ],
+ "bull_case": [
+  "Revenue has grown every year in the record.",
+  "High return on invested capital.",
+  "Share count is falling."
+ ],
+ "bear_case": [
+  "Book equity is negative after debt-funded buybacks.",
+  "Free cash flow has fallen as capital spending rose.",
+  "Current liabilities exceed current assets."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "AutoZone statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/azo/statistics/"
+  },
+  {
+   "title": "AutoZone income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/azo/financials/"
+  },
+  {
+   "title": "AutoZone balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/azo/financials/balance-sheet/"
+  },
+  {
+   "title": "AutoZone cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/azo/financials/cash-flow-statement/"
+  }
+ ]
+}
