@@ -171,16 +171,16 @@
   "above_low": 29.2
  },
  "summary": {
-  "sentence": "A high-margin restaurant chain whose growth has paused and whose shares have fallen with it.",
+  "sentence": "A high-margin restaurant chain whose earnings growth has paused.",
   "strengths": [
    "Revenue has grown every year in the record.",
    "Share count is falling.",
    "Earnings cover interest many times over."
   ],
   "risks": [
-   "The share price has fallen sharply over the past year.",
+   "Earnings growth has stalled.",
    "Current liabilities exceed current assets.",
-   "Earnings growth has stalled."
+   "Customers can switch at every meal."
   ],
   "swing": [
    "Customer traffic",
@@ -291,7 +291,7 @@
    }
   ],
   "red_flags": [],
-  "note": "The source's overview page showed a price that did not match the statistics page, so the 52-week range and beta were left blank until the weekly price refresh; the analyst rating and target come from the source's forecast page.",
+  "note": "The source's statistics page carried an out-of-date share price when collected, so the price and 52-week range come from the weekly price feed and no beta is shown; the analyst rating and target come from the source's forecast page.",
   "history": [
    {
     "period": "FY21",
@@ -954,9 +954,9 @@
   "Earnings cover interest many times over."
  ],
  "bear_case": [
-  "The share price has fallen sharply over the past year.",
+  "Earnings growth has stalled.",
   "Current liabilities exceed current assets.",
-  "Earnings growth has stalled."
+  "Customers can switch at every meal."
  ],
  "framework_version": "2.5.0",
  "sources": [

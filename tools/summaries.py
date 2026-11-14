@@ -154,7 +154,7 @@ S = {
     "CI": ("A pharmacy-benefit giant at a low multiple because its pay model is under political attack.", ["Pharmacy-manager legislation", "Client retention", "Medical costs"]),
     "ORLY": ("A compounding car-parts chain that wins on getting the part there first.", ["Comparable-store sales", "Age of cars on the road", "Electric-vehicle adoption"]),
     "AZO": ("The largest car-parts chain, turning steady sales into rising earnings per share through buybacks.", ["Garage delivery growth", "Buyback pace", "Capital spending"]),
-    "CMG": ("A high-margin restaurant chain whose growth has paused and whose shares have fallen with it.", ["Customer traffic", "New restaurant openings", "Food and labour costs"]),
+    "CMG": ("A high-margin restaurant chain whose earnings growth has paused.", ["Customer traffic", "New restaurant openings", "Food and labour costs"]),
     "HLT": ("A capital-light hotel franchisor: growing fees, negative equity, cyclical demand.", ["Travel demand", "New hotel openings", "Debt and buyback pace"]),
     "ROST": ("The number-two off-price retailer: simple stores, conservative finances, steady growth.", ["Comparable-store sales", "Lower-income consumer health", "Tariffs"]),
     "TT": ("A climate-control leader with rising margins and a data-centre tailwind, priced accordingly.", ["Data-centre orders", "Commercial construction", "Service growth"]),

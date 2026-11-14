@@ -210,7 +210,7 @@ N("CMG", "Chipotle Mexican Grill", "NYSE", D, 10, 3,
   (7, "Has grown without franchising or borrowing for buybacks; the chief executive changed in 2024."),
   (True, "It is still opening many restaurants each year."), (True, "New restaurants and international markets add to sales."),
   ["Revenue has grown every year in the record.", "Share count is falling.", "Earnings cover interest many times over."],
-  ["The share price has fallen sharply over the past year.", "Current liabilities exceed current assets.", "Earnings growth has stalled."],
+  ["Earnings growth has stalled.", "Current liabilities exceed current assets.", "Customers can switch at every meal."],
   ["A food-safety outbreak.", "Lasting loss of traffic from lower-income customers."])
 
 N("HLT", "Hilton Worldwide", "NYSE", D, 8, 4,
