@@ -5,13 +5,13 @@
  "sector": "Industrials",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-10-26",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 296.97,
- "market_cap": "$176.5B",
+ "price": 302.44,
+ "market_cap": "$179.7B",
  "verdict": "WATCHLIST",
  "overall_score": 74,
- "one_liner": "A wide-moat business worth owning, but it trades at 1.8x fair value. Interesting below about $115.",
+ "one_liner": "A wide-moat business worth owning, but it trades at 1.8x fair value. Interesting below about $116.",
  "scores": {
   "meaning": 10,
   "moat": 9,
@@ -20,7 +20,7 @@
   "financial_health": 9,
   "valuation": 1
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Union Pacific runs the largest US railroad network west of the Mississippi, carrying coal, grain, chemicals, cars and shipping containers. It has agreed to merge with Norfolk Southern to create the first coast-to-coast US railroad, pending regulatory approval.",
   "money": "It charges shippers for moving freight; railroads cannot easily be duplicated, which gives it pricing power. Profit grows with volumes, price increases and running the network more efficiently.",
@@ -30,37 +30,37 @@
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 15.4,
+    "value": 15.64,
     "unit": "x",
     "note": "Judge at mid-cycle, not peak",
-    "sector_median": 15.4,
+    "sector_median": 15.86,
     "sector_n": 15
    },
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 23.16,
+    "value": 23.59,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 23.16,
+    "sector_median": 23.59,
     "sector_n": 15
    },
    {
     "key": "fcfy",
     "label": "Free cash flow yield",
-    "value": 3.79,
+    "value": 3.72,
     "unit": "%",
     "note": "Free cash flow ÷ market value",
-    "sector_median": 3.79,
+    "sector_median": 3.72,
     "sector_n": 11
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 1.91,
+    "value": 1.88,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.53,
+    "sector_median": 1.49,
     "sector_n": 16
    }
   ],
@@ -69,52 +69,52 @@
    {
     "ticker": "GEV",
     "company": "GE Vernova",
-    "value": 37.86
+    "value": 39.37
    },
    {
     "ticker": "GE",
     "company": "GE Aerospace",
-    "value": 30.67
+    "value": 30.34
    },
    {
     "ticker": "DE",
     "company": "Deere & Company",
-    "value": 27.76
+    "value": 27.82
    },
    {
     "ticker": "CAT",
     "company": "Caterpillar",
-    "value": 17.1
+    "value": 18.21
    },
    {
     "ticker": "EMR",
     "company": "Emerson Electric",
-    "value": 16.8
-   },
-   {
-    "ticker": "UNP",
-    "company": "Union Pacific",
-    "value": 15.4
+    "value": 17.23
    },
    {
     "ticker": "MMM",
     "company": "3M",
-    "value": 14.9
+    "value": 15.86
+   },
+   {
+    "ticker": "UNP",
+    "company": "Union Pacific",
+    "value": 15.64
    },
    {
     "ticker": "HON",
     "company": "Honeywell",
-    "value": 10.92
+    "value": 11.01
    },
    {
     "ticker": "UPS",
     "company": "United Parcel Service",
-    "value": 9.46
+    "value": 9.9
    },
    {
     "ticker": "FDX",
     "company": "FedEx",
-    "value": 8.64
+    "value": 8.96
    }
   ]
  },
@@ -123,13 +123,13 @@
   "target": 330.5,
   "beta": 0.95,
   "as_of": "2026-10-26",
-  "low52": 215.53,
+  "low52": 219.89,
   "high52": 315.99,
-  "range_pos": 81,
-  "below_high": 6.0,
-  "target_vs_price": 11.3,
-  "target_vs_fair": 100.6,
-  "above_low": 37.8
+  "range_pos": 86,
+  "below_high": 4.3,
+  "target_vs_price": 9.3,
+  "target_vs_fair": 100.1,
+  "above_low": 37.5
  },
  "summary": {
   "sentence": "A western US rail franchise pursuing a coast-to-coast merger.",
@@ -460,7 +460,7 @@
      {
       "name": "Dividend yield",
       "value": "1.9%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -500,20 +500,20 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "4.3%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "4.2%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "3.8%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "3.7%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "3.6%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "3.5%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
@@ -530,53 +530,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "23.2"
+   "value": "23.6"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "26.4"
+   "value": "26.9"
   },
   "three_numbers": {
-   "pe": "23.2",
-   "forward_pe": "21.2",
-   "peg": "2.52"
+   "pe": "23.6",
+   "forward_pe": "21.5",
+   "peg": "2.57"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "7.8"
+    "value": "7.9"
    },
    {
     "name": "EV/EBITDA",
-    "value": "15.4"
+    "value": "15.6"
    },
    {
     "name": "EV/EBIT",
-    "value": "19.0"
+    "value": "19.3"
    },
    {
     "name": "P/E",
-    "value": "23.2"
+    "value": "23.6"
    },
    {
     "name": "EV/FCF",
-    "value": "30.6"
+    "value": "31.1"
    },
    {
     "name": "P/FCF",
-    "value": "26.4"
+    "value": "26.9"
    },
    {
     "name": "P/B",
-    "value": "8.0"
+    "value": "8.2"
    }
   ],
-  "intrinsic_value_low": 139.69,
-  "intrinsic_value_high": 189.89,
-  "margin_of_safety_pct": -80.2,
-  "interesting_below": 115.35,
-  "method": "Fair value is the average of two methods: (1) Owner cash flow: $5.7B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 2–8% for five years, fading to 3%; operating margin held at 41%; cost of capital 8.4%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Free cash flow (stock-based pay is not reported separately by the data source, so none is deducted).",
-  "fair_value": 164.79,
+  "intrinsic_value_low": 140.02,
+  "intrinsic_value_high": 190.37,
+  "margin_of_safety_pct": -83.1,
+  "interesting_below": 115.64,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $5.7B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 2–8% for five years, fading to 3%; operating margin held at 41%; cost of capital 8.3%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Free cash flow (stock-based pay is not reported separately by the data source, so none is deducted).",
+  "fair_value": 165.19,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -586,9 +586,9 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 152.23,
-    "high": 200.11,
-    "basis": "Sales grow 2–8% for five years, fading to 3%; operating margin held at 41%; cost of capital 8.4%. Cash added, debt subtracted."
+    "low": 152.89,
+    "high": 201.06,
+    "basis": "Sales grow 2–8% for five years, fading to 3%; operating margin held at 41%; cost of capital 8.3%. Cash added, debt subtracted."
    }
   ],
   "stress_case": null,
@@ -601,17 +601,17 @@
    "roc": 16.5,
    "reinvestment": 30,
    "beta": 0.85,
-   "cost_of_equity": 9.0,
-   "cost_of_debt": 5.0,
+   "cost_of_equity": 8.9,
+   "cost_of_debt": 4.9,
    "debt_weight": 15,
-   "cost_of_capital": 8.4,
+   "cost_of_capital": 8.3,
    "terminal_growth": 3.0,
-   "terminal_roc": 13.4,
+   "terminal_roc": 13.3,
    "revenue_now": "$26.4B",
    "revenue_year10": "$40.5B",
-   "low": 152.23,
-   "high": 200.11,
-   "implied_growth": 16.3,
+   "low": 152.89,
+   "high": 201.06,
+   "implied_growth": 16.5,
    "implied_note": null
   }
  },
@@ -646,19 +646,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "26.6x three-year average earnings ($11.17); 23.2x trailing",
+     "value": "27.1x three-year average earnings ($11.17); 23.6x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 186; Graham number $103 vs price $297",
+     "value": "P/E × P/B = 193; Graham number $103 vs price $302",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 4.3% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 4.2% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -676,7 +676,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $6.3B (net income + depreciation − capex) = 3.6% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $6.3B (net income + depreciation − capex) = 3.5% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -742,13 +742,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 2.52",
+     "value": "PEG 2.57",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(5% EPS growth + 1.9% yield) ÷ P/E 23.2 = 0.29",
+     "value": "(5% EPS growth + 1.9% yield) ÷ P/E 23.6 = 0.28",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -850,13 +850,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +37% over 52 weeks",
+     "value": "Share price +36% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -80%",
+     "value": "Margin of safety -83%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -868,13 +868,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($190); 53% downside to the low case",
+     "value": "No upside even to the high-case value ($190); 54% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -36.1,
-   "downside_pct": 53.0
+   "upside_pct": -37.1,
+   "downside_pct": 53.7
   }
  },
  "rules_of_the_road": [

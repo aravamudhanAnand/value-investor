@@ -5,10 +5,10 @@
  "sector": "Utilities",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 127.78,
- "market_cap": "$99.6B",
+ "price": 129.16,
+ "market_cap": "$100.7B",
  "verdict": "PASS",
  "overall_score": 64,
  "one_liner": "Fails the quality test (no free cash flow), so price does not matter.",
@@ -20,7 +20,7 @@
   "financial_health": 6,
   "valuation": 2
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Duke Energy is one of the largest US regulated utilities, supplying electricity to about 8 million customers in the Carolinas, Florida and the Midwest, and natural gas to about 1.7 million.",
   "money": "It earns a regulated return on its power plants and grid. Earnings grow by investing in new generation, grid upgrades and capacity for data centres, with rates approved by state regulators.",
@@ -30,19 +30,19 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 18.68,
+    "value": 18.88,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 18.68,
+    "sector_median": 18.88,
     "sector_n": 3
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 18.25,
+    "value": 18.45,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 19.97,
+    "sector_median": 20.24,
     "sector_n": 3
    },
    {
@@ -57,19 +57,19 @@
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 11.12,
+    "value": 11.18,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 12.64,
+    "sector_median": 12.74,
     "sector_n": 3
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 3.4,
+    "value": 3.36,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 3.29,
+    "sector_median": 3.25,
     "sector_n": 3
    }
   ],
@@ -78,17 +78,17 @@
    {
     "ticker": "SO",
     "company": "Southern Company",
-    "value": 22.25
+    "value": 22.55
    },
    {
     "ticker": "DUK",
     "company": "Duke Energy",
-    "value": 18.68
+    "value": 18.88
    },
    {
     "ticker": "NEE",
     "company": "NextEra Energy",
-    "value": 15.67
+    "value": 15.34
    }
   ]
  },
@@ -99,11 +99,11 @@
   "as_of": "2026-10-30",
   "low52": 112.4,
   "high52": 134.49,
-  "range_pos": 70,
-  "below_high": 5.0,
-  "target_vs_price": 3.1,
+  "range_pos": 76,
+  "below_high": 4.0,
+  "target_vs_price": 2.0,
   "target_vs_fair": null,
-  "above_low": 13.7
+  "above_low": 14.9
  },
  "summary": {
   "sentence": "A large regulated utility investing heavily to meet rising power demand.",
@@ -436,7 +436,7 @@
      {
       "name": "Dividend yield",
       "value": "3.4%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -476,20 +476,20 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "5.4%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "5.3%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Free cash flow yield after stock pay",
       "value": "-2.5%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
       "value": "-0.9%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
@@ -506,16 +506,16 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "18.7"
+   "value": "18.9"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
    "value": "n/a"
   },
   "three_numbers": {
-   "pe": "18.7",
-   "forward_pe": "18.2",
-   "peg": "2.89"
+   "pe": "18.9",
+   "forward_pe": "18.4",
+   "peg": "2.92"
   },
   "multiples": [
    {
@@ -524,15 +524,15 @@
    },
    {
     "name": "EV/EBITDA",
-    "value": "11.1"
+    "value": "11.2"
    },
    {
     "name": "EV/EBIT",
-    "value": "20.8"
+    "value": "20.9"
    },
    {
     "name": "P/E",
-    "value": "18.7"
+    "value": "18.9"
    },
    {
     "name": "EV/FCF",
@@ -544,7 +544,7 @@
    },
    {
     "name": "P/B",
-    "value": "1.7"
+    "value": "1.8"
    }
   ],
   "intrinsic_value_low": null,
@@ -588,19 +588,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "24.6x three-year average earnings ($5.19); 18.7x trailing",
+     "value": "24.9x three-year average earnings ($5.19); 18.9x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 32; Graham number $107 vs price $128",
+     "value": "P/E × P/B = 33; Graham number $107 vs price $129",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 5.4% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 5.3% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": true
     },
@@ -618,7 +618,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings -$943M (net income + depreciation − capex) = -0.9% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings -$943M (net income + depreciation − capex) = -0.9% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -684,13 +684,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 2.89",
+     "value": "PEG 2.92",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(6% EPS growth + 3.4% yield) ÷ P/E 18.7 = 0.52",
+     "value": "(6% EPS growth + 3.4% yield) ÷ P/E 18.9 = 0.51",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -793,7 +793,7 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +3% over 52 weeks",
+     "value": "Share price +5% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },

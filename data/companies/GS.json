@@ -5,10 +5,10 @@
  "sector": "Financials",
  "is_financial": true,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 865.82,
- "market_cap": "$259.8B",
+ "price": 916.56,
+ "market_cap": "$275.0B",
  "verdict": "TOO_HARD",
  "overall_score": 54,
  "one_liner": "Goes in the too-hard pile: the business is too complex or uncertain to forecast. No verdict on price.",
@@ -20,7 +20,7 @@
   "financial_health": 6,
   "valuation": 2
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Goldman Sachs is the leading global investment bank, advising on mergers, underwriting stock and bond issues, trading for institutional clients, and managing assets and wealth for wealthy individuals and institutions.",
   "money": "Fees from advising on deals and underwriting, trading revenue from making markets in stocks, bonds and commodities for hedge funds and institutions, and asset- and wealth-management fees. Revenue swings with deal activity and market volatility; it has largely exited consumer banking.",
@@ -30,19 +30,19 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 12.46,
+    "value": 13.19,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 14.17,
+    "sector_median": 14.91,
     "sector_n": 15
    },
    {
     "key": "pb",
     "label": "Price / book value",
-    "value": 2.07,
+    "value": 2.19,
     "unit": "x",
     "note": "Judge against return on equity",
-    "sector_median": 1.73,
+    "sector_median": 1.82,
     "sector_n": 12
    },
    {
@@ -57,10 +57,10 @@
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 2.31,
+    "value": 2.18,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.97,
+    "sector_median": 1.87,
     "sector_n": 15
    }
   ],
@@ -69,62 +69,62 @@
    {
     "ticker": "AXP",
     "company": "American Express",
-    "value": 17.94
+    "value": 18.08
    },
    {
     "ticker": "BNY",
     "company": "BNY",
-    "value": 16.34
+    "value": 16.99
    },
    {
     "ticker": "SCHW",
     "company": "Charles Schwab",
-    "value": 15.64
+    "value": 15.89
    },
    {
     "ticker": "MS",
     "company": "Morgan Stanley",
-    "value": 14.39
+    "value": 15.12
    },
    {
     "ticker": "BRK.B",
     "company": "Berkshire Hathaway",
-    "value": 14.17
+    "value": 14.91
    },
    {
     "ticker": "JPM",
     "company": "JPMorgan Chase",
-    "value": 14.05
+    "value": 14.54
    },
    {
     "ticker": "WFC",
     "company": "Wells Fargo",
-    "value": 12.69
+    "value": 13.28
    },
    {
     "ticker": "GS",
     "company": "Goldman Sachs",
-    "value": 12.46
+    "value": 13.19
    },
    {
     "ticker": "C",
     "company": "Citigroup",
-    "value": 12.02
-   },
-   {
-    "ticker": "COF",
-    "company": "Capital One",
-    "value": 11.99
+    "value": 12.16
    },
    {
     "ticker": "BAC",
     "company": "Bank of America",
-    "value": 11.77
+    "value": 12.15
    },
    {
     "ticker": "USB",
     "company": "U.S. Bancorp",
-    "value": 11.57
+    "value": 11.87
+   },
+   {
+    "ticker": "COF",
+    "company": "Capital One",
+    "value": 11.55
    }
   ]
  },
@@ -133,13 +133,13 @@
   "target": 1031.14,
   "beta": 1.28,
   "as_of": "2026-11-06",
-  "low52": 744.66,
+  "low52": 754.0,
   "high52": 1153.99,
-  "range_pos": 30,
-  "below_high": 25.0,
-  "target_vs_price": 19.1,
+  "range_pos": 41,
+  "below_high": 20.6,
+  "target_vs_price": 12.5,
   "target_vs_fair": 88.1,
-  "above_low": 16.3
+  "above_low": 21.6
  },
  "summary": {
   "sentence": "The leading investment bank, with earnings that follow deal-making and markets.",
@@ -356,8 +356,8 @@
     "rows": [
      {
       "name": "Dividend yield",
-      "value": "2.3%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "value": "2.2%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -379,13 +379,13 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "8.0%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "7.6%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Price to book",
-      "value": "2.07",
+      "value": "2.19",
       "threshold": "Compare with the justified P/B in M4",
       "pass": null
      }
@@ -403,38 +403,38 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "12.5"
+   "value": "13.2"
   },
   "secondary_metric": {
    "name": "Price-to-book",
-   "value": "2.1"
+   "value": "2.2"
   },
   "three_numbers": {
-   "pe": "12.5",
-   "forward_pe": "12.0",
-   "peg": "0.78"
+   "pe": "13.2",
+   "forward_pe": "12.7",
+   "peg": "0.83"
   },
   "multiples": [
    {
     "name": "P/E",
-    "value": "12.5"
+    "value": "13.2"
    },
    {
     "name": "Forward P/E",
-    "value": "12.0"
+    "value": "12.7"
    },
    {
     "name": "P/B",
-    "value": "2.1"
+    "value": "2.2"
    },
    {
     "name": "P/S",
-    "value": "3.7"
+    "value": "3.9"
    }
   ],
   "intrinsic_value_low": 469.85,
   "intrinsic_value_high": 626.46,
-  "margin_of_safety_pct": -58.0,
+  "margin_of_safety_pct": -67.2,
   "interesting_below": 383.71,
   "method": "Banks are valued on book value, not free cash flow. Justified price-to-book = (ROE − 3% growth) ÷ (required return − 3%), using a normalised ROE of 12.0% (median of the last three fiscal years and TTM, capped at 25%) and a required return of 11% (low) to 9% (high): 1.12–1.50 × book value per share of $418.56.",
   "fair_value": 548.15,
@@ -468,7 +468,7 @@
     },
     {
      "name": "Dividend record",
-     "value": "$20.00 a share (2.3% yield)",
+     "value": "$20.00 a share (2.2% yield)",
      "threshold": "Pays a dividend",
      "pass": true
     },
@@ -480,19 +480,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "22.6x three-year average earnings ($38.24); 12.5x trailing",
+     "value": "24.0x three-year average earnings ($38.24); 13.2x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 26; Graham number $809 vs price $866",
+     "value": "P/E × P/B = 29; Graham number $809 vs price $917",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 8.0% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 7.6% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": true
     },
@@ -510,7 +510,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Earnings yield 8.2% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 7.7% vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": true
     },
@@ -576,13 +576,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 0.78",
+     "value": "PEG 0.83",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": true
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(-4% EPS growth + 2.3% yield) ÷ P/E 12.5 = -0.10",
+     "value": "(-4% EPS growth + 2.2% yield) ÷ P/E 13.2 = -0.11",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -684,13 +684,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +9% over 52 weeks",
+     "value": "Share price +16% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -58%",
+     "value": "Margin of safety -67%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -702,13 +702,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($626); 46% downside to the low case",
+     "value": "No upside even to the high-case value ($626); 49% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -27.6,
-   "downside_pct": 45.7
+   "upside_pct": -31.7,
+   "downside_pct": 48.7
   }
  },
  "rules_of_the_road": [

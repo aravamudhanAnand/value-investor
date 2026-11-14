@@ -5,10 +5,10 @@
  "sector": "Industrials",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 173.4,
- "market_cap": "$137.1B",
+ "price": 171.5,
+ "market_cap": "$135.5B",
  "verdict": "PASS",
  "overall_score": 43,
  "one_liner": "Fails the quality test (weak financial health, no free cash flow), so price does not matter.",
@@ -20,7 +20,7 @@
   "financial_health": 2,
   "valuation": 2
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Boeing is one of two makers of large commercial jets (with Airbus) and a major defence and space contractor.",
   "money": "It sells aircraft to airlines and leasing companies, which pay most of the price on delivery, plus military aircraft, services and spare parts. Production problems and the 737 MAX crisis have caused years of losses and heavy debt.",
@@ -33,16 +33,16 @@
     "value": null,
     "unit": "x",
     "note": "Judge at mid-cycle, not peak",
-    "sector_median": 15.4,
+    "sector_median": 15.86,
     "sector_n": 15
    },
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 64.7,
+    "value": 63.99,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 23.16,
+    "sector_median": 23.59,
     "sector_n": 15
    },
    {
@@ -51,7 +51,7 @@
     "value": -0.15,
     "unit": "%",
     "note": "Free cash flow ÷ market value",
-    "sector_median": 3.79,
+    "sector_median": 3.72,
     "sector_n": 11
    },
    {
@@ -60,7 +60,7 @@
     "value": 0.0,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.53,
+    "sector_median": 1.49,
     "sector_n": 16
    }
   ],
@@ -69,52 +69,52 @@
    {
     "ticker": "GEV",
     "company": "GE Vernova",
-    "value": 37.86
+    "value": 39.37
    },
    {
     "ticker": "GE",
     "company": "GE Aerospace",
-    "value": 30.67
+    "value": 30.34
    },
    {
     "ticker": "DE",
     "company": "Deere & Company",
-    "value": 27.76
+    "value": 27.82
    },
    {
     "ticker": "CAT",
     "company": "Caterpillar",
-    "value": 17.1
+    "value": 18.21
    },
    {
     "ticker": "EMR",
     "company": "Emerson Electric",
-    "value": 16.8
-   },
-   {
-    "ticker": "UNP",
-    "company": "Union Pacific",
-    "value": 15.4
+    "value": 17.23
    },
    {
     "ticker": "MMM",
     "company": "3M",
-    "value": 14.9
+    "value": 15.86
+   },
+   {
+    "ticker": "UNP",
+    "company": "Union Pacific",
+    "value": 15.64
    },
    {
     "ticker": "HON",
     "company": "Honeywell",
-    "value": 10.92
+    "value": 11.01
    },
    {
     "ticker": "UPS",
     "company": "United Parcel Service",
-    "value": 9.46
+    "value": 9.9
    },
    {
     "ticker": "FDX",
     "company": "FedEx",
-    "value": 8.64
+    "value": 8.96
    }
   ]
  },
@@ -125,11 +125,11 @@
   "as_of": "2026-11-06",
   "low52": 165.01,
   "high52": 254.35,
-  "range_pos": 9,
-  "below_high": 31.8,
-  "target_vs_price": 34.6,
+  "range_pos": 7,
+  "below_high": 32.6,
+  "target_vs_price": 36.1,
   "target_vs_fair": null,
-  "above_low": 5.1
+  "above_low": 3.9
  },
  "summary": {
   "sentence": "One half of the commercial-jet duopoly, rebuilding production and its balance sheet.",
@@ -453,7 +453,7 @@
      {
       "name": "Dividend yield",
       "value": "0.0%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -493,20 +493,20 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "1.5%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "1.6%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "-1.6%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "-1.7%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
       "value": "0.3%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
@@ -523,16 +523,16 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "64.7"
+   "value": "64.0"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
    "value": "n/a"
   },
   "three_numbers": {
-   "pe": "64.7",
-   "forward_pe": "196.5",
-   "peg": "1.75"
+   "pe": "64.0",
+   "forward_pe": "194.4",
+   "peg": "1.73"
   },
   "multiples": [
    {
@@ -549,7 +549,7 @@
    },
    {
     "name": "P/E",
-    "value": "64.7"
+    "value": "64.0"
    },
    {
     "name": "EV/FCF",
@@ -561,7 +561,7 @@
    },
    {
     "name": "P/B",
-    "value": "22.4"
+    "value": "22.1"
    }
   ],
   "intrinsic_value_low": null,
@@ -611,13 +611,13 @@
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 1449; Graham number $22 vs price $173",
+     "value": "P/E × P/B = 1417; Graham number $22 vs price $172",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 1.5% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 1.6% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -635,7 +635,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $436M (net income + depreciation − capex) = 0.3% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $436M (net income + depreciation − capex) = 0.3% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -701,7 +701,7 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 1.75",
+     "value": "PEG 1.73",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": null
     },
@@ -788,7 +788,7 @@
   },
   "pabrai": {
    "passed": 2,
-   "total": 3,
+   "total": 4,
    "tests": [
     {
      "name": "A simple, existing business",
@@ -810,9 +810,9 @@
     },
     {
      "name": "Out of favour",
-     "value": "n/a",
+     "value": "Share price -12% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
-     "pass": null
+     "pass": false
     },
     {
      "name": "Bought well below value",

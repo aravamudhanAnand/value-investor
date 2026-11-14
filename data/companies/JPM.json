@@ -5,12 +5,12 @@
  "sector": "Financials",
  "is_financial": true,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 334.49,
- "market_cap": "$889.7B",
+ "price": 346.19,
+ "market_cap": "$920.9B",
  "verdict": "WATCHLIST",
- "overall_score": 72,
+ "overall_score": 70,
  "one_liner": "A wide-moat business worth owning, but it trades at 1.3x fair value. Interesting below about $185.",
  "scores": {
   "meaning": 7,
@@ -18,9 +18,9 @@
   "industry": 7,
   "management": 9,
   "financial_health": 8,
-  "valuation": 4
+  "valuation": 3
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "JPMorgan Chase is the largest US bank, with leading positions in consumer banking (Chase), credit cards, investment banking, trading, commercial banking and asset and wealth management.",
   "money": "Net interest income, the gap between what it earns on loans and securities and what it pays depositors, is roughly half of revenue. The rest is fees: card interchange, investment-banking advice and underwriting, trading, and asset-management fees. Its huge low-cost deposit base keeps funding costs down.",
@@ -30,19 +30,19 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 14.05,
+    "value": 14.54,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 14.17,
+    "sector_median": 14.91,
     "sector_n": 15
    },
    {
     "key": "pb",
     "label": "Price / book value",
-    "value": 2.39,
+    "value": 2.47,
     "unit": "x",
     "note": "Judge against return on equity",
-    "sector_median": 1.73,
+    "sector_median": 1.82,
     "sector_n": 12
    },
    {
@@ -57,10 +57,10 @@
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 1.97,
+    "value": 1.91,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.97,
+    "sector_median": 1.87,
     "sector_n": 15
    }
   ],
@@ -69,62 +69,62 @@
    {
     "ticker": "AXP",
     "company": "American Express",
-    "value": 17.94
+    "value": 18.08
    },
    {
     "ticker": "BNY",
     "company": "BNY",
-    "value": 16.34
+    "value": 16.99
    },
    {
     "ticker": "SCHW",
     "company": "Charles Schwab",
-    "value": 15.64
+    "value": 15.89
    },
    {
     "ticker": "MS",
     "company": "Morgan Stanley",
-    "value": 14.39
+    "value": 15.12
    },
    {
     "ticker": "BRK.B",
     "company": "Berkshire Hathaway",
-    "value": 14.17
+    "value": 14.91
    },
    {
     "ticker": "JPM",
     "company": "JPMorgan Chase",
-    "value": 14.05
+    "value": 14.54
    },
    {
     "ticker": "WFC",
     "company": "Wells Fargo",
-    "value": 12.69
+    "value": 13.28
    },
    {
     "ticker": "GS",
     "company": "Goldman Sachs",
-    "value": 12.46
+    "value": 13.19
    },
    {
     "ticker": "C",
     "company": "Citigroup",
-    "value": 12.02
-   },
-   {
-    "ticker": "COF",
-    "company": "Capital One",
-    "value": 11.99
+    "value": 12.16
    },
    {
     "ticker": "BAC",
     "company": "Bank of America",
-    "value": 11.77
+    "value": 12.15
    },
    {
     "ticker": "USB",
     "company": "U.S. Bancorp",
-    "value": 11.57
+    "value": 11.87
+   },
+   {
+    "ticker": "COF",
+    "company": "Capital One",
+    "value": 11.55
    }
   ]
  },
@@ -135,11 +135,11 @@
   "as_of": "2026-11-06",
   "low52": 279.1,
   "high52": 366.5,
-  "range_pos": 63,
-  "below_high": 8.7,
-  "target_vs_price": 11.7,
+  "range_pos": 77,
+  "below_high": 5.5,
+  "target_vs_price": 7.9,
   "target_vs_fair": 41.5,
-  "above_low": 19.8
+  "above_low": 24.0
  },
  "summary": {
   "sentence": "The strongest large bank in America, priced at a premium to its peers.",
@@ -357,8 +357,8 @@
     "rows": [
      {
       "name": "Dividend yield",
-      "value": "2.0%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "value": "1.9%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -380,13 +380,13 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "7.1%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "6.9%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Price to book",
-      "value": "2.39",
+      "value": "2.47",
       "threshold": "Compare with the justified P/B in M4",
       "pass": null
      }
@@ -400,42 +400,42 @@
   "ratio_gaps": "Not available from the data source: net interest margin, efficiency ratio, CET1 capital ratio, loan-loss reserves and tangible book value. Read them in the 10-K before acting."
  },
  "valuation": {
-  "score": 4,
+  "score": 3,
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "14.0"
+   "value": "14.5"
   },
   "secondary_metric": {
    "name": "Price-to-book",
-   "value": "2.4"
+   "value": "2.5"
   },
   "three_numbers": {
-   "pe": "14.0",
-   "forward_pe": "13.3",
-   "peg": "1.19"
+   "pe": "14.5",
+   "forward_pe": "13.8",
+   "peg": "1.23"
   },
   "multiples": [
    {
     "name": "P/E",
-    "value": "14.0"
+    "value": "14.5"
    },
    {
     "name": "Forward P/E",
-    "value": "13.3"
+    "value": "13.8"
    },
    {
     "name": "P/B",
-    "value": "2.4"
+    "value": "2.5"
    },
    {
     "name": "P/S",
-    "value": "4.7"
+    "value": "4.8"
    }
   ],
   "intrinsic_value_low": 226.24,
   "intrinsic_value_high": 301.65,
-  "margin_of_safety_pct": -26.7,
+  "margin_of_safety_pct": -31.2,
   "interesting_below": 184.76,
   "method": "Banks are valued on book value, not free cash flow. Justified price-to-book = (ROE − 3% growth) ÷ (required return − 3%), using a normalised ROE of 15.9% (median of the last three fiscal years and TTM, capped at 25%) and a required return of 11% (low) to 9% (high): 1.62–2.15 × book value per share of $139.99.",
   "fair_value": 263.95,
@@ -469,7 +469,7 @@
     },
     {
      "name": "Dividend record",
-     "value": "$6.60 a share (2.0% yield)",
+     "value": "$6.60 a share (1.9% yield)",
      "threshold": "Pays a dividend",
      "pass": true
     },
@@ -481,19 +481,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "17.9x three-year average earnings ($18.67); 14.0x trailing",
+     "value": "18.5x three-year average earnings ($18.67); 14.5x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 34; Graham number $274 vs price $334",
+     "value": "P/E × P/B = 36; Graham number $274 vs price $346",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 7.1% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 6.9% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": true
     },
@@ -511,7 +511,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Earnings yield 7.3% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 7.0% vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": true
     },
@@ -577,13 +577,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 1.19",
+     "value": "PEG 1.23",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": null
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(7% EPS growth + 2.0% yield) ÷ P/E 14.0 = 0.63",
+     "value": "(7% EPS growth + 1.9% yield) ÷ P/E 14.5 = 0.60",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -685,13 +685,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +7% over 52 weeks",
+     "value": "Share price +14% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -27%",
+     "value": "Margin of safety -31%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -703,13 +703,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($302); 32% downside to the low case",
+     "value": "No upside even to the high-case value ($302); 35% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -9.8,
-   "downside_pct": 32.4
+   "upside_pct": -12.9,
+   "downside_pct": 34.6
   }
  },
  "rules_of_the_road": [

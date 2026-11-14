@@ -5,10 +5,10 @@
  "sector": "Industrials",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 220.05,
- "market_cap": "$69.8B",
+ "price": 222.46,
+ "market_cap": "$70.6B",
  "verdict": "TOO_HARD",
  "overall_score": 56,
  "one_liner": "Goes in the too-hard pile: its financials are in transition and the business is too complex or uncertain to forecast. No verdict on price.",
@@ -20,7 +20,7 @@
   "financial_health": 8,
   "valuation": 2
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Honeywell is an industrial technology company splitting into three. It spun off Solstice Advanced Materials in 2025 and has announced the separation of Honeywell Aerospace, which leaves Honeywell Automation (building and industrial controls).",
   "money": "It sells aircraft systems and services, building controls, industrial automation and process software to aircraft makers, airlines, building owners and factories. The aerospace aftermarket and software are the highest-margin parts.",
@@ -30,10 +30,10 @@
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 10.92,
+    "value": 11.01,
     "unit": "x",
     "note": "Judge at mid-cycle, not peak",
-    "sector_median": 15.4,
+    "sector_median": 15.86,
     "sector_n": 15
    },
    {
@@ -42,25 +42,25 @@
     "value": null,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 23.16,
+    "sector_median": 23.59,
     "sector_n": 15
    },
    {
     "key": "fcfy",
     "label": "Free cash flow yield",
-    "value": 7.76,
+    "value": 7.68,
     "unit": "%",
     "note": "Free cash flow ÷ market value",
-    "sector_median": 3.79,
+    "sector_median": 3.72,
     "sector_n": 11
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 2.16,
+    "value": 2.14,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.53,
+    "sector_median": 1.49,
     "sector_n": 16
    }
   ],
@@ -69,52 +69,52 @@
    {
     "ticker": "GEV",
     "company": "GE Vernova",
-    "value": 37.86
+    "value": 39.37
    },
    {
     "ticker": "GE",
     "company": "GE Aerospace",
-    "value": 30.67
+    "value": 30.34
    },
    {
     "ticker": "DE",
     "company": "Deere & Company",
-    "value": 27.76
+    "value": 27.82
    },
    {
     "ticker": "CAT",
     "company": "Caterpillar",
-    "value": 17.1
+    "value": 18.21
    },
    {
     "ticker": "EMR",
     "company": "Emerson Electric",
-    "value": 16.8
-   },
-   {
-    "ticker": "UNP",
-    "company": "Union Pacific",
-    "value": 15.4
+    "value": 17.23
    },
    {
     "ticker": "MMM",
     "company": "3M",
-    "value": 14.9
+    "value": 15.86
+   },
+   {
+    "ticker": "UNP",
+    "company": "Union Pacific",
+    "value": 15.64
    },
    {
     "ticker": "HON",
     "company": "Honeywell",
-    "value": 10.92
+    "value": 11.01
    },
    {
     "ticker": "UPS",
     "company": "United Parcel Service",
-    "value": 9.46
+    "value": 9.9
    },
    {
     "ticker": "FDX",
     "company": "FedEx",
-    "value": 8.64
+    "value": 8.96
    }
   ]
  },
@@ -125,11 +125,11 @@
   "as_of": "2026-11-06",
   "low52": 195.87,
   "high52": 260.28,
-  "range_pos": 38,
-  "below_high": 15.5,
-  "target_vs_price": 15.4,
+  "range_pos": 41,
+  "below_high": 14.5,
+  "target_vs_price": 14.1,
   "target_vs_fair": null,
-  "above_low": 12.3
+  "above_low": 13.6
  },
  "summary": {
   "sentence": "An industrial group breaking itself into three focused companies.",

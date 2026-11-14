@@ -5,10 +5,10 @@
  "sector": "Financials",
  "is_financial": true,
  "as_of": "2026-11-12",
- "price_date": "2026-11-12",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 318.06,
- "market_cap": "$213.3B",
+ "price": 320.6,
+ "market_cap": "$215.0B",
  "verdict": "WATCHLIST",
  "overall_score": 74,
  "one_liner": "A wide-moat business worth owning, but it trades at 1.9x fair value. Interesting below about $120.",
@@ -20,7 +20,7 @@
   "financial_health": 10,
   "valuation": 1
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "American Express runs a card network and issues its own premium charge and credit cards to affluent consumers and businesses. It is both the network and the lender.",
   "money": "Discount fees from merchants (a percentage of every purchase) are the largest revenue source, followed by annual card fees and interest on card balances. Its cardholders spend heavily, and premium cards such as Platinum charge high annual fees.",
@@ -30,19 +30,19 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 17.94,
+    "value": 18.08,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 14.17,
+    "sector_median": 14.91,
     "sector_n": 15
    },
    {
     "key": "pb",
     "label": "Price / book value",
-    "value": 5.96,
+    "value": 6.0,
     "unit": "x",
     "note": "Judge against return on equity",
-    "sector_median": 1.73,
+    "sector_median": 1.82,
     "sector_n": 12
    },
    {
@@ -60,7 +60,7 @@
     "value": 1.19,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.97,
+    "sector_median": 1.87,
     "sector_n": 15
    }
   ],
@@ -69,62 +69,62 @@
    {
     "ticker": "AXP",
     "company": "American Express",
-    "value": 17.94
+    "value": 18.08
    },
    {
     "ticker": "BNY",
     "company": "BNY",
-    "value": 16.34
+    "value": 16.99
    },
    {
     "ticker": "SCHW",
     "company": "Charles Schwab",
-    "value": 15.64
+    "value": 15.89
    },
    {
     "ticker": "MS",
     "company": "Morgan Stanley",
-    "value": 14.39
+    "value": 15.12
    },
    {
     "ticker": "BRK.B",
     "company": "Berkshire Hathaway",
-    "value": 14.17
+    "value": 14.91
    },
    {
     "ticker": "JPM",
     "company": "JPMorgan Chase",
-    "value": 14.05
+    "value": 14.54
    },
    {
     "ticker": "WFC",
     "company": "Wells Fargo",
-    "value": 12.69
+    "value": 13.28
    },
    {
     "ticker": "GS",
     "company": "Goldman Sachs",
-    "value": 12.46
+    "value": 13.19
    },
    {
     "ticker": "C",
     "company": "Citigroup",
-    "value": 12.02
-   },
-   {
-    "ticker": "COF",
-    "company": "Capital One",
-    "value": 11.99
+    "value": 12.16
    },
    {
     "ticker": "BAC",
     "company": "Bank of America",
-    "value": 11.77
+    "value": 12.15
    },
    {
     "ticker": "USB",
     "company": "U.S. Bancorp",
-    "value": 11.57
+    "value": 11.87
+   },
+   {
+    "ticker": "COF",
+    "company": "Capital One",
+    "value": 11.55
    }
   ]
  },
@@ -135,11 +135,11 @@
   "as_of": "2026-11-12",
   "low52": 290.97,
   "high52": 387.49,
-  "range_pos": 28,
-  "below_high": 17.9,
-  "target_vs_price": 14.7,
+  "range_pos": 31,
+  "below_high": 17.3,
+  "target_vs_price": 13.8,
   "target_vs_fair": 113.0,
-  "above_low": 9.3
+  "above_low": 10.2
  },
  "summary": {
   "sentence": "A premium card network and lender with affluent, loyal customers.",
@@ -358,7 +358,7 @@
      {
       "name": "Dividend yield",
       "value": "1.2%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -380,13 +380,13 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "5.6%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "5.5%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Price to book",
-      "value": "5.96",
+      "value": "6.00",
       "threshold": "Compare with the justified P/B in M4",
       "pass": null
      }
@@ -404,25 +404,25 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "17.9"
+   "value": "18.1"
   },
   "secondary_metric": {
    "name": "Price-to-book",
    "value": "6.0"
   },
   "three_numbers": {
-   "pe": "17.9",
-   "forward_pe": "16.4",
-   "peg": "1.24"
+   "pe": "18.1",
+   "forward_pe": "16.5",
+   "peg": "1.25"
   },
   "multiples": [
    {
     "name": "P/E",
-    "value": "17.9"
+    "value": "18.1"
    },
    {
     "name": "Forward P/E",
-    "value": "16.4"
+    "value": "16.5"
    },
    {
     "name": "P/B",
@@ -430,12 +430,12 @@
    },
    {
     "name": "P/S",
-    "value": "2.9"
+    "value": "3.0"
    }
   ],
   "intrinsic_value_low": 146.82,
   "intrinsic_value_high": 195.76,
-  "margin_of_safety_pct": -85.7,
+  "margin_of_safety_pct": -87.2,
   "interesting_below": 119.9,
   "method": "Banks are valued on book value, not free cash flow. Justified price-to-book = (ROE − 3% growth) ÷ (required return − 3%), using a normalised ROE of 25.0% (median of the last three fiscal years and TTM, capped at 25%) and a required return of 11% (low) to 9% (high): 2.75–3.67 × book value per share of $53.39.",
   "fair_value": 171.29,
@@ -481,19 +481,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "23.5x three-year average earnings ($13.53); 17.9x trailing",
+     "value": "23.7x three-year average earnings ($13.53); 18.1x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 107; Graham number $146 vs price $318",
+     "value": "P/E × P/B = 109; Graham number $146 vs price $321",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 5.6% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 5.5% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": true
     },
@@ -511,7 +511,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Earnings yield 5.7% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 5.6% vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": true
     },
@@ -577,13 +577,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 1.24",
+     "value": "PEG 1.25",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": null
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(11% EPS growth + 1.2% yield) ÷ P/E 17.9 = 0.70",
+     "value": "(11% EPS growth + 1.2% yield) ÷ P/E 18.1 = 0.69",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -663,7 +663,7 @@
   },
   "pabrai": {
    "passed": 3,
-   "total": 5,
+   "total": 6,
    "tests": [
     {
      "name": "A simple, existing business",
@@ -685,13 +685,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "n/a",
+     "value": "Share price -10% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
-     "pass": null
+     "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -86%",
+     "value": "Margin of safety -87%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -708,8 +708,8 @@
      "pass": false
     }
    ],
-   "upside_pct": -38.5,
-   "downside_pct": 53.8
+   "upside_pct": -38.9,
+   "downside_pct": 54.2
   }
  },
  "rules_of_the_road": [

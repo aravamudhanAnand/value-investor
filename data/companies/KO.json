@@ -5,10 +5,10 @@
  "sector": "Consumer staples",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-09",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 96.03,
- "market_cap": "$412.9B",
+ "price": 99.25,
+ "market_cap": "$426.8B",
  "verdict": "WATCHLIST",
  "overall_score": 68,
  "one_liner": "A wide-moat business worth owning, but it trades at 2.3x fair value. Interesting below about $30.",
@@ -20,7 +20,7 @@
   "financial_health": 7,
   "valuation": 1
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Coca-Cola owns the world's most recognised drink brands: Coca-Cola, Sprite, Fanta, Powerade, smartwater and fairlife.",
   "money": "It mostly sells concentrate and syrup to independent bottlers, who make, distribute and sell the drinks. This keeps Coca-Cola's capital needs low and margins high. Revenue grows through price increases and modest volume growth.",
@@ -30,46 +30,46 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 28.33,
+    "value": 29.28,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 28.33,
+    "sector_median": 29.05,
     "sector_n": 9
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 27.69,
+    "value": 28.62,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 23.39,
+    "sector_median": 24.01,
     "sector_n": 9
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 28.92,
+    "value": 29.89,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 25.01,
+    "sector_median": 25.68,
     "sector_n": 9
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 25.16,
+    "value": 25.95,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 16.6,
+    "sector_median": 17.47,
     "sector_n": 9
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 2.21,
+    "value": 2.14,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 2.63,
+    "sector_median": 2.56,
     "sector_n": 9
    }
   ],
@@ -78,7 +78,7 @@
    {
     "ticker": "COST",
     "company": "Costco",
-    "value": 50.75
+    "value": 53.29
    },
    {
     "ticker": "WMT",
@@ -88,37 +88,37 @@
    {
     "ticker": "CL",
     "company": "Colgate-Palmolive",
-    "value": 36.8
-   },
-   {
-    "ticker": "PM",
-    "company": "Philip Morris International",
-    "value": 29.47
+    "value": 39.4
    },
    {
     "ticker": "KO",
     "company": "Coca-Cola",
-    "value": 28.33
+    "value": 29.28
+   },
+   {
+    "ticker": "PM",
+    "company": "Philip Morris International",
+    "value": 29.05
    },
    {
     "ticker": "PG",
     "company": "Procter & Gamble",
-    "value": 24.91
+    "value": 25.57
    },
    {
     "ticker": "MDLZ",
     "company": "Mondelez International",
-    "value": 23.07
+    "value": 24.74
    },
    {
     "ticker": "PEP",
     "company": "PepsiCo",
-    "value": 17.28
+    "value": 18.29
    },
    {
     "ticker": "MO",
     "company": "Altria",
-    "value": 15.41
+    "value": 16.56
    }
   ]
  },
@@ -128,12 +128,12 @@
   "beta": 0.27,
   "as_of": "2026-11-09",
   "low52": 67.27,
-  "high52": 97.39,
-  "range_pos": 95,
-  "below_high": 1.4,
-  "target_vs_price": 1.8,
-  "target_vs_fair": 131.7,
-  "above_low": 42.8
+  "high52": 99.3,
+  "range_pos": 100,
+  "below_high": 0.1,
+  "target_vs_price": -1.5,
+  "target_vs_fair": 131.3,
+  "above_low": 47.5
  },
  "summary": {
   "sentence": "One of the best consumer brands in the world, at a price that already reflects it.",
@@ -465,8 +465,8 @@
     "rows": [
      {
       "name": "Dividend yield",
-      "value": "2.2%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "value": "2.1%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -506,20 +506,20 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "3.5%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "3.4%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "3.4%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "3.3%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "3.3%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "3.2%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
@@ -536,53 +536,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "28.3"
+   "value": "29.3"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "28.9"
+   "value": "29.9"
   },
   "three_numbers": {
-   "pe": "28.3",
-   "forward_pe": "27.7",
-   "peg": "3.85"
+   "pe": "29.3",
+   "forward_pe": "28.6",
+   "peg": "3.98"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "8.6"
+    "value": "8.9"
    },
    {
     "name": "EV/EBITDA",
-    "value": "25.2"
+    "value": "26.0"
    },
    {
     "name": "EV/EBIT",
-    "value": "26.7"
+    "value": "27.6"
    },
    {
     "name": "P/E",
-    "value": "28.3"
+    "value": "29.3"
    },
    {
     "name": "EV/FCF",
-    "value": "30.7"
+    "value": "31.7"
    },
    {
     "name": "P/FCF",
-    "value": "28.9"
+    "value": "29.9"
    },
    {
     "name": "P/B",
-    "value": "10.4"
+    "value": "10.8"
    }
   ],
-  "intrinsic_value_low": 35.69,
-  "intrinsic_value_high": 48.67,
-  "margin_of_safety_pct": -127.7,
-  "interesting_below": 29.53,
+  "intrinsic_value_low": 35.75,
+  "intrinsic_value_high": 48.76,
+  "margin_of_safety_pct": -134.9,
+  "interesting_below": 29.58,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $11.7B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM; adjusted). (2) Damodaran: cash flow to the firm: Sales grow 2–8% for five years, fading to 3%; operating margin held at 32%; cost of capital 8.6%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners. FY24-FY25 FCF was depressed by the one-off fairlife contingent payment; normalised FCF of about $12B sits between FY23 and the recovered TTM figure.",
-  "fair_value": 42.18,
+  "fair_value": 42.25,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -592,8 +592,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 35.17,
-    "high": 46.2,
+    "low": 35.29,
+    "high": 46.37,
     "basis": "Sales grow 2–8% for five years, fading to 3%; operating margin held at 32%; cost of capital 8.6%. Cash added, debt subtracted."
    }
   ],
@@ -607,17 +607,17 @@
    "roc": 20.6,
    "reinvestment": 24,
    "beta": 0.85,
-   "cost_of_equity": 9.0,
-   "cost_of_debt": 5.0,
+   "cost_of_equity": 8.9,
+   "cost_of_debt": 4.9,
    "debt_weight": 9,
    "cost_of_capital": 8.6,
    "terminal_growth": 3.0,
    "terminal_roc": 13.6,
    "revenue_now": "$51.0B",
    "revenue_year10": "$78.5B",
-   "low": 35.17,
-   "high": 46.2,
-   "implied_growth": 23.1,
+   "low": 35.29,
+   "high": 46.37,
+   "implied_growth": 23.6,
    "implied_note": null
   }
  },
@@ -640,7 +640,7 @@
     },
     {
      "name": "Dividend record",
-     "value": "$2.12 a share (2.2% yield)",
+     "value": "$2.12 a share (2.1% yield)",
      "threshold": "Pays a dividend",
      "pass": true
     },
@@ -652,19 +652,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "36.1x three-year average earnings ($2.66); 28.3x trailing",
+     "value": "37.4x three-year average earnings ($2.66); 29.3x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 296; Graham number $26 vs price $96",
+     "value": "P/E × P/B = 316; Graham number $26 vs price $99",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 3.5% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 3.4% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -682,7 +682,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $13.7B (net income + depreciation − capex) = 3.3% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $13.7B (net income + depreciation − capex) = 3.2% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -748,13 +748,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 3.85",
+     "value": "PEG 3.98",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(8% EPS growth + 2.2% yield) ÷ P/E 28.3 = 0.35",
+     "value": "(8% EPS growth + 2.1% yield) ÷ P/E 29.3 = 0.34",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -834,7 +834,7 @@
   },
   "pabrai": {
    "passed": 4,
-   "total": 6,
+   "total": 7,
    "tests": [
     {
      "name": "A simple, existing business",
@@ -856,13 +856,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "n/a",
+     "value": "Share price +39% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
-     "pass": null
+     "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -128%",
+     "value": "Margin of safety -135%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -874,13 +874,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($49); 63% downside to the low case",
+     "value": "No upside even to the high-case value ($49); 64% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -49.3,
-   "downside_pct": 62.8
+   "upside_pct": -50.9,
+   "downside_pct": 64.0
   }
  },
  "rules_of_the_road": [

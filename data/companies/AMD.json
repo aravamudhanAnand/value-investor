@@ -20,7 +20,7 @@
   "financial_health": 9,
   "valuation": 1
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "AMD designs processors: EPYC server chips, Ryzen PC chips, Radeon graphics, Instinct AI accelerators, and embedded chips from its Xilinx acquisition. It owns no factories; TSMC manufactures its chips.",
   "money": "It sells chips to server makers, cloud providers, PC makers and game-console makers (the PlayStation and Xbox use AMD chips). Data centre was about half of 2025 revenue, client PCs about 30%, with gaming and embedded the rest. Profit depends on winning share from Intel in CPUs and from Nvidia in AI accelerators.",
@@ -33,7 +33,7 @@
     "value": 78.03,
     "unit": "x",
     "note": "Judge at mid-cycle, not peak",
-    "sector_median": 19.33,
+    "sector_median": 19.34,
     "sector_n": 20
    },
    {
@@ -51,7 +51,7 @@
     "value": 0.81,
     "unit": "%",
     "note": "Free cash flow ÷ market value",
-    "sector_median": 1.86,
+    "sector_median": 1.91,
     "sector_n": 7
    },
    {
@@ -74,32 +74,32 @@
    {
     "ticker": "TXN",
     "company": "Texas Instruments",
-    "value": 32.81
+    "value": 32.9
    },
    {
     "ticker": "AMAT",
     "company": "Applied Materials",
-    "value": 29.57
+    "value": 28.75
    },
    {
     "ticker": "LRCX",
     "company": "Lam Research",
-    "value": 24.39
+    "value": 27.54
    },
    {
     "ticker": "QCOM",
     "company": "Qualcomm",
-    "value": 17.45
+    "value": 18.16
    },
    {
     "ticker": "INTC",
     "company": "Intel",
-    "value": 15.44
+    "value": 16.38
    },
    {
     "ticker": "MU",
     "company": "Micron Technology",
-    "value": 7.57
+    "value": 7.73
    }
   ]
  },
@@ -113,7 +113,7 @@
   "range_pos": 74,
   "below_high": 18.9,
   "target_vs_price": 23.2,
-  "target_vs_fair": 1116.7,
+  "target_vs_fair": 1113.8,
   "above_low": 183.7
  },
  "summary": {
@@ -446,7 +446,7 @@
      {
       "name": "Dividend yield",
       "value": "0.0%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -487,19 +487,19 @@
      {
       "name": "Earnings yield",
       "value": "0.9%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
       "value": "0.6%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
       "value": "1.0%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
@@ -557,12 +557,12 @@
     "value": "12.8"
    }
   ],
-  "intrinsic_value_low": 45.75,
-  "intrinsic_value_high": 62.37,
-  "margin_of_safety_pct": -887.9,
-  "interesting_below": 37.84,
+  "intrinsic_value_low": 45.86,
+  "intrinsic_value_high": 62.52,
+  "margin_of_safety_pct": -885.6,
+  "interesting_below": 37.93,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $3.0B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 12–18% for five years, fading to 3%; operating margin held at 18%; cost of capital 10.7%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 54.06,
+  "fair_value": 54.19,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -572,8 +572,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 47.71,
-    "high": 63.26,
+    "low": 47.93,
+    "high": 63.56,
     "basis": "Sales grow 12–18% for five years, fading to 3%; operating margin held at 18%; cost of capital 10.7%. Cash added, debt subtracted."
    }
   ],
@@ -587,16 +587,16 @@
    "roc": 12.8,
    "reinvestment": 90,
    "beta": 1.25,
-   "cost_of_equity": 10.8,
-   "cost_of_debt": 5.0,
+   "cost_of_equity": 10.7,
+   "cost_of_debt": 4.9,
    "debt_weight": 1,
    "cost_of_capital": 10.7,
    "terminal_growth": 3.0,
    "terminal_roc": 12.7,
    "revenue_now": "$45.4B",
    "revenue_year10": "$132.7B",
-   "low": 47.71,
-   "high": 63.26,
+   "low": 47.93,
+   "high": 63.56,
    "implied_growth": null,
    "implied_note": "No growth rate up to 60% a year justifies today's price."
   }
@@ -644,7 +644,7 @@
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 0.9% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 0.9% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -662,7 +662,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $8.6B (net income + depreciation − capex) = 1.0% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $8.6B (net income + depreciation − capex) = 1.0% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -814,7 +814,7 @@
   },
   "pabrai": {
    "passed": 1,
-   "total": 5,
+   "total": 6,
    "tests": [
     {
      "name": "A simple, existing business",
@@ -836,13 +836,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "n/a",
+     "value": "Share price +116% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
-     "pass": null
+     "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -888%",
+     "value": "Margin of safety -886%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -854,7 +854,7 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($62); 91% downside to the low case",
+     "value": "No upside even to the high-case value ($63); 91% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }

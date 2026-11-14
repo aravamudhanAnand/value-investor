@@ -20,7 +20,7 @@
   "financial_health": 8,
   "valuation": 4
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Uber runs the largest ride-hailing and food-delivery marketplace in the world, in about 70 countries, plus a freight brokerage.",
   "money": "It takes a share of each ride and delivery booking (its take rate) and charges restaurants and advertisers. Mobility earns most of the profit; delivery is growing; advertising and the Uber One membership add higher-margin revenue. It partners with robotaxi companies rather than building its own cars.",
@@ -33,7 +33,7 @@
     "value": 15.22,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 23.16,
+    "sector_median": 23.59,
     "sector_n": 15
    },
    {
@@ -42,7 +42,7 @@
     "value": 17.27,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 19.37,
+    "sector_median": 19.88,
     "sector_n": 5
    },
    {
@@ -51,7 +51,7 @@
     "value": 14.05,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 16.56,
+    "sector_median": 17.0,
     "sector_n": 5
    },
    {
@@ -60,7 +60,7 @@
     "value": 20.28,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 15.4,
+    "sector_median": 15.86,
     "sector_n": 15
    },
    {
@@ -69,7 +69,7 @@
     "value": 0.0,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.53,
+    "sector_median": 1.49,
     "sector_n": 16
    }
   ],
@@ -78,22 +78,22 @@
    {
     "ticker": "RTX",
     "company": "RTX",
-    "value": 32.09
+    "value": 32.29
    },
    {
     "ticker": "WM",
     "company": "Waste Management",
-    "value": 31.01
-   },
-   {
-    "ticker": "LMT",
-    "company": "Lockheed Martin",
-    "value": 20.89
+    "value": 32.0
    },
    {
     "ticker": "GD",
     "company": "General Dynamics",
-    "value": 20.84
+    "value": 21.39
+   },
+   {
+    "ticker": "LMT",
+    "company": "Lockheed Martin",
+    "value": 21.17
    },
    {
     "ticker": "UBER",
@@ -108,11 +108,11 @@
   "beta": 1.31,
   "as_of": "2026-11-13",
   "low52": 64.04,
-  "high52": 94.06,
-  "range_pos": 19,
-  "below_high": 25.9,
+  "high52": 92.92,
+  "range_pos": 20,
+  "below_high": 25.0,
   "target_vs_price": 41.6,
-  "target_vs_fair": 66.8,
+  "target_vs_fair": 66.4,
   "above_low": 8.8
  },
  "summary": {
@@ -447,7 +447,7 @@
      {
       "name": "Dividend yield",
       "value": "0.0%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -488,19 +488,19 @@
      {
       "name": "Earnings yield",
       "value": "6.6%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Free cash flow yield after stock pay",
       "value": "5.8%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Owner-earnings yield",
       "value": "7.1%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      }
     ]
@@ -558,12 +558,12 @@
     "value": "5.0"
    }
   ],
-  "intrinsic_value_low": 50.09,
-  "intrinsic_value_high": 68.2,
-  "margin_of_safety_pct": -17.8,
-  "interesting_below": 41.4,
+  "intrinsic_value_low": 50.2,
+  "intrinsic_value_high": 68.36,
+  "margin_of_safety_pct": -17.6,
+  "interesting_below": 41.49,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $6.5B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 9–15% for five years, fading to 3%; operating margin held at 12%; cost of capital 9.2%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 59.15,
+  "fair_value": 59.28,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -573,8 +573,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 36.77,
-    "high": 47.15,
+    "low": 36.97,
+    "high": 47.45,
     "basis": "Sales grow 9–15% for five years, fading to 3%; operating margin held at 12%; cost of capital 9.2%. Cash added, debt subtracted."
    }
   ],
@@ -589,16 +589,16 @@
    "reinvestment": 63,
    "beta": 1.0,
    "cost_of_equity": 9.6,
-   "cost_of_debt": 5.0,
+   "cost_of_debt": 4.9,
    "debt_weight": 9,
    "cost_of_capital": 9.2,
    "terminal_growth": 3.0,
    "terminal_roc": 14.2,
    "revenue_now": "$55.2B",
    "revenue_year10": "$133.8B",
-   "low": 36.77,
-   "high": 47.15,
-   "implied_growth": 22.5,
+   "low": 36.97,
+   "high": 47.45,
+   "implied_growth": 22.4,
    "implied_note": null
   }
  },
@@ -645,7 +645,7 @@
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 6.6% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 6.6% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": true
     },
@@ -663,7 +663,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $10.0B (net income + depreciation − capex) = 7.1% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $10.0B (net income + depreciation − capex) = 7.1% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": true
     },
@@ -814,8 +814,8 @@
    ]
   },
   "pabrai": {
-   "passed": 3,
-   "total": 5,
+   "passed": 4,
+   "total": 6,
    "tests": [
     {
      "name": "A simple, existing business",
@@ -837,9 +837,9 @@
     },
     {
      "name": "Out of favour",
-     "value": "n/a",
+     "value": "Share price -24% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
-     "pass": null
+     "pass": true
     },
     {
      "name": "Bought well below value",
@@ -860,8 +860,8 @@
      "pass": false
     }
    ],
-   "upside_pct": -2.1,
-   "downside_pct": 28.1
+   "upside_pct": -1.9,
+   "downside_pct": 28.0
   }
  },
  "rules_of_the_road": [

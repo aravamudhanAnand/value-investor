@@ -7,8 +7,8 @@
  "as_of": "2026-11-12",
  "price_date": "2026-11-13",
  "currency": "USD",
- "price": 265.63,
- "market_cap": "$2.87T",
+ "price": 266.66,
+ "market_cap": "$2.88T",
  "verdict": "PASS",
  "overall_score": 64,
  "one_liner": "Fails the quality test (no free cash flow), so price does not matter.",
@@ -20,7 +20,7 @@
   "financial_health": 9,
   "valuation": 1
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Amazon is the largest online retailer in the US and runs Amazon Web Services (AWS), the largest cloud-computing provider. It also sells advertising, Prime memberships and streaming video.",
   "money": "Online retail is most of revenue but earns thin margins. AWS earns most of the operating profit, charging companies for computing and storage. Advertising on its shopping sites, fees from third-party sellers who use its warehouses, and Prime subscriptions are increasingly important profit sources.",
@@ -30,19 +30,19 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 21.47,
+    "value": 21.56,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 21.47,
+    "sector_median": 21.56,
     "sector_n": 9
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 26.86,
+    "value": 26.96,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 24.14,
+    "sector_median": 24.82,
     "sector_n": 8
    },
    {
@@ -51,16 +51,16 @@
     "value": null,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 25.22,
+    "sector_median": 24.8,
     "sector_n": 7
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 16.67,
+    "value": 16.73,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 15.8,
+    "sector_median": 16.49,
     "sector_n": 9
    },
    {
@@ -69,7 +69,7 @@
     "value": 0.0,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 2.29,
+    "sector_median": 2.2,
     "sector_n": 9
    }
   ],
@@ -78,42 +78,42 @@
    {
     "ticker": "TSLA",
     "company": "Tesla",
-    "value": 428.59
+    "value": 428.81
    },
    {
     "ticker": "SBUX",
     "company": "Starbucks",
-    "value": 60.58
+    "value": 61.17
    },
    {
     "ticker": "HD",
     "company": "Home Depot",
-    "value": 23.04
+    "value": 24.4
    },
    {
     "ticker": "MCD",
     "company": "McDonald's",
-    "value": 22.46
+    "value": 22.09
    },
    {
     "ticker": "AMZN",
     "company": "Amazon",
-    "value": 21.47
-   },
-   {
-    "ticker": "NKE",
-    "company": "Nike",
-    "value": 18.46
+    "value": 21.56
    },
    {
     "ticker": "LOW",
     "company": "Lowe's",
-    "value": 18.44
+    "value": 19.25
+   },
+   {
+    "ticker": "NKE",
+    "company": "Nike",
+    "value": 18.18
    },
    {
     "ticker": "BKNG",
     "company": "Booking Holdings",
-    "value": 17.48
+    "value": 17.36
    }
   ]
  },
@@ -124,11 +124,11 @@
   "as_of": "2026-11-13",
   "low52": 196.0,
   "high52": 287.2,
-  "range_pos": 76,
-  "below_high": 7.5,
-  "target_vs_price": 23.0,
-  "target_vs_fair": 183.1,
-  "above_low": 35.5
+  "range_pos": 77,
+  "below_high": 7.2,
+  "target_vs_price": 22.5,
+  "target_vs_fair": 182.1,
+  "above_low": 36.1
  },
  "summary": {
   "sentence": "The leader in online retail and cloud computing, reinvesting nearly all its cash in AI capacity.",
@@ -465,7 +465,7 @@
      {
       "name": "Dividend yield",
       "value": "0.0%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -505,20 +505,20 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "4.7%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "4.6%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
       "value": "-2.3%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
       "value": "-0.0%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
@@ -535,21 +535,21 @@
   "lifecycle_stage": "3 · Operating leverage",
   "primary_metric": {
    "name": "Forward P/E",
-   "value": "26.9"
+   "value": "27.0"
   },
   "secondary_metric": {
    "name": "P/FCF",
    "value": "n/a"
   },
   "three_numbers": {
-   "pe": "21.5",
-   "forward_pe": "26.9",
+   "pe": "21.6",
+   "forward_pe": "27.0",
    "peg": "1.15"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "3.8"
+    "value": "3.9"
    },
    {
     "name": "EV/EBITDA",
@@ -557,11 +557,11 @@
    },
    {
     "name": "EV/EBIT",
-    "value": "29.3"
+    "value": "29.4"
    },
    {
     "name": "P/E",
-    "value": "21.5"
+    "value": "21.6"
    },
    {
     "name": "EV/FCF",
@@ -576,12 +576,12 @@
     "value": "4.7"
    }
   ],
-  "intrinsic_value_low": 94.94,
-  "intrinsic_value_high": 135.9,
-  "margin_of_safety_pct": -130.1,
-  "interesting_below": 80.8,
+  "intrinsic_value_low": 95.26,
+  "intrinsic_value_high": 136.34,
+  "margin_of_safety_pct": -130.3,
+  "interesting_below": 81.06,
   "method": "Fair value is the average of two methods: (1) Owner cash flow, capex held at depreciation: $47.7B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 2.7x depreciation, so most of it is expansion, not upkeep. (2) Damodaran: cash flow to the firm: Sales grow 11–17% for five years, fading to 3%; operating margin held at 13%; cost of capital 9.2%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 115.42,
+  "fair_value": 115.8,
   "methods": [
    {
     "name": "Owner cash flow, capex held at depreciation",
@@ -591,8 +591,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 91.73,
-    "high": 133.85,
+    "low": 92.36,
+    "high": 134.74,
     "basis": "Sales grow 11–17% for five years, fading to 3%; operating margin held at 13%; cost of capital 9.2%. Cash added, debt subtracted."
    }
   ],
@@ -611,15 +611,15 @@
    "reinvestment": 90,
    "beta": 1.0,
    "cost_of_equity": 9.6,
-   "cost_of_debt": 5.0,
+   "cost_of_debt": 4.9,
    "debt_weight": 10,
    "cost_of_capital": 9.2,
    "terminal_growth": 3.0,
    "terminal_roc": 14.2,
    "revenue_now": "$797.5B",
    "revenue_year10": "$2.19T",
-   "low": 91.73,
-   "high": 133.85,
+   "low": 92.36,
+   "high": 134.74,
    "implied_growth": 28.3,
    "implied_note": null
   }
@@ -655,19 +655,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "51.1x three-year average earnings ($5.20); 21.5x trailing",
+     "value": "51.3x three-year average earnings ($5.20); 21.6x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 100; Graham number $126 vs price $266",
+     "value": "P/E × P/B = 101; Graham number $126 vs price $267",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 4.7% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 4.6% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -685,7 +685,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings -$1.1B (net income + depreciation − capex) = -0.0% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings -$1.1B (net income + depreciation − capex) = -0.0% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -757,7 +757,7 @@
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(22% EPS growth + 0.0% yield) ÷ P/E 21.5 = 1.02",
+     "value": "(22% EPS growth + 0.0% yield) ÷ P/E 21.6 = 1.02",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": null
     },
@@ -837,7 +837,7 @@
   },
   "pabrai": {
    "passed": 3,
-   "total": 5,
+   "total": 6,
    "tests": [
     {
      "name": "A simple, existing business",
@@ -859,9 +859,9 @@
     },
     {
      "name": "Out of favour",
-     "value": "n/a",
+     "value": "Share price +14% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
-     "pass": null
+     "pass": false
     },
     {
      "name": "Bought well below value",
@@ -882,7 +882,7 @@
      "pass": false
     }
    ],
-   "upside_pct": -48.8,
+   "upside_pct": -48.9,
    "downside_pct": 64.3
   }
  },

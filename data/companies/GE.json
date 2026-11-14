@@ -5,13 +5,13 @@
  "sector": "Industrials",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-09",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 335.54,
- "market_cap": "$345.6B",
+ "price": 331.81,
+ "market_cap": "$341.8B",
  "verdict": "WATCHLIST",
  "overall_score": 69,
- "one_liner": "A wide-moat business worth owning, but it trades at 2.3x fair value. Interesting below about $104.",
+ "one_liner": "A wide-moat business worth owning, but it trades at 2.2x fair value. Interesting below about $104.",
  "scores": {
   "meaning": 9,
   "moat": 9,
@@ -20,7 +20,7 @@
   "financial_health": 7,
   "valuation": 1
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "GE Aerospace makes jet engines for commercial and military aircraft, through its own engines and CFM International, its joint venture with France's Safran that powers most narrow-body jets.",
   "money": "It sells engines to aircraft makers, often at low or negative margins, then earns most of its profit over decades from spare parts and services as those engines fly. More than two-thirds of revenue comes from services.",
@@ -30,37 +30,37 @@
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 30.67,
+    "value": 30.34,
     "unit": "x",
     "note": "Judge at mid-cycle, not peak",
-    "sector_median": 15.4,
+    "sector_median": 15.86,
     "sector_n": 15
    },
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 38.7,
+    "value": 38.27,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 23.16,
+    "sector_median": 23.59,
     "sector_n": 15
    },
    {
     "key": "fcfy",
     "label": "Free cash flow yield",
-    "value": 2.32,
+    "value": 2.35,
     "unit": "%",
     "note": "Free cash flow ÷ market value",
-    "sector_median": 3.79,
+    "sector_median": 3.72,
     "sector_n": 11
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 0.56,
+    "value": 0.57,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.53,
+    "sector_median": 1.49,
     "sector_n": 16
    }
   ],
@@ -69,52 +69,52 @@
    {
     "ticker": "GEV",
     "company": "GE Vernova",
-    "value": 37.86
+    "value": 39.37
    },
    {
     "ticker": "GE",
     "company": "GE Aerospace",
-    "value": 30.67
+    "value": 30.34
    },
    {
     "ticker": "DE",
     "company": "Deere & Company",
-    "value": 27.76
+    "value": 27.82
    },
    {
     "ticker": "CAT",
     "company": "Caterpillar",
-    "value": 17.1
+    "value": 18.21
    },
    {
     "ticker": "EMR",
     "company": "Emerson Electric",
-    "value": 16.8
-   },
-   {
-    "ticker": "UNP",
-    "company": "Union Pacific",
-    "value": 15.4
+    "value": 17.23
    },
    {
     "ticker": "MMM",
     "company": "3M",
-    "value": 14.9
+    "value": 15.86
+   },
+   {
+    "ticker": "UNP",
+    "company": "Union Pacific",
+    "value": 15.64
    },
    {
     "ticker": "HON",
     "company": "Honeywell",
-    "value": 10.92
+    "value": 11.01
    },
    {
     "ticker": "UPS",
     "company": "United Parcel Service",
-    "value": 9.46
+    "value": 9.9
    },
    {
     "ticker": "FDX",
     "company": "FedEx",
-    "value": 8.64
+    "value": 8.96
    }
   ]
  },
@@ -125,11 +125,11 @@
   "as_of": "2026-11-09",
   "low52": 268.91,
   "high52": 388.84,
-  "range_pos": 56,
-  "below_high": 13.7,
-  "target_vs_price": 12.8,
-  "target_vs_fair": 155.9,
-  "above_low": 24.8
+  "range_pos": 52,
+  "below_high": 14.7,
+  "target_vs_price": 14.1,
+  "target_vs_fair": 155.0,
+  "above_low": 23.4
  },
  "summary": {
   "sentence": "A jet-engine franchise earning decades of service revenue, priced for it.",
@@ -463,7 +463,7 @@
      {
       "name": "Dividend yield",
       "value": "0.6%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -504,19 +504,19 @@
      {
       "name": "Earnings yield",
       "value": "2.6%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
       "value": "2.3%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
       "value": "2.6%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
@@ -533,53 +533,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "38.7"
+   "value": "38.3"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "43.1"
+   "value": "42.6"
   },
   "three_numbers": {
-   "pe": "38.7",
-   "forward_pe": "37.8",
-   "peg": "2.41"
+   "pe": "38.3",
+   "forward_pe": "37.3",
+   "peg": "2.38"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "6.8"
+    "value": "6.7"
    },
    {
     "name": "EV/EBITDA",
-    "value": "30.7"
+    "value": "30.3"
    },
    {
     "name": "EV/EBIT",
-    "value": "34.4"
+    "value": "34.1"
    },
    {
     "name": "P/E",
-    "value": "38.7"
+    "value": "38.3"
    },
    {
     "name": "EV/FCF",
-    "value": "44.4"
+    "value": "44.0"
    },
    {
     "name": "P/FCF",
-    "value": "43.1"
+    "value": "42.6"
    },
    {
     "name": "P/B",
-    "value": "19.5"
+    "value": "19.3"
    }
   ],
-  "intrinsic_value_low": 124.72,
-  "intrinsic_value_high": 171.08,
-  "margin_of_safety_pct": -126.9,
-  "interesting_below": 103.53,
+  "intrinsic_value_low": 125.12,
+  "intrinsic_value_high": 171.66,
+  "margin_of_safety_pct": -123.6,
+  "interesting_below": 103.88,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $5.8B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 9–15% for five years, fading to 3%; operating margin held at 20%; cost of capital 8.7%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Free cash flow (stock-based pay is not reported separately by the data source, so none is deducted).",
-  "fair_value": 147.9,
+  "fair_value": 148.39,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -589,8 +589,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 137.75,
-    "high": 184.97,
+    "low": 138.57,
+    "high": 186.14,
     "basis": "Sales grow 9–15% for five years, fading to 3%; operating margin held at 20%; cost of capital 8.7%. Cash added, debt subtracted."
    }
   ],
@@ -604,17 +604,17 @@
    "roc": 31.6,
    "reinvestment": 38,
    "beta": 0.85,
-   "cost_of_equity": 9.0,
-   "cost_of_debt": 5.0,
+   "cost_of_equity": 8.9,
+   "cost_of_debt": 4.9,
    "debt_weight": 6,
    "cost_of_capital": 8.7,
    "terminal_growth": 3.0,
    "terminal_roc": 13.7,
    "revenue_now": "$52.6B",
    "revenue_year10": "$127.4B",
-   "low": 137.75,
-   "high": 184.97,
-   "implied_growth": 27.4,
+   "low": 138.57,
+   "high": 186.14,
+   "implied_growth": 27.0,
    "implied_note": null
   }
  },
@@ -649,19 +649,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "44.7x three-year average earnings ($7.50); 38.7x trailing",
+     "value": "44.2x three-year average earnings ($7.50); 38.3x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 754; Graham number $58 vs price $336",
+     "value": "P/E × P/B = 737; Graham number $58 vs price $332",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 2.6% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 2.6% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -679,7 +679,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $8.9B (net income + depreciation − capex) = 2.6% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $8.9B (net income + depreciation − capex) = 2.6% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -745,7 +745,7 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 2.41",
+     "value": "PEG 2.38",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
@@ -831,7 +831,7 @@
   },
   "pabrai": {
    "passed": 4,
-   "total": 6,
+   "total": 7,
    "tests": [
     {
      "name": "A simple, existing business",
@@ -853,13 +853,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "n/a",
+     "value": "Share price +9% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
-     "pass": null
+     "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -127%",
+     "value": "Margin of safety -124%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -871,13 +871,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($171); 63% downside to the low case",
+     "value": "No upside even to the high-case value ($172); 62% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -49.0,
-   "downside_pct": 62.8
+   "upside_pct": -48.3,
+   "downside_pct": 62.3
   }
  },
  "rules_of_the_road": [

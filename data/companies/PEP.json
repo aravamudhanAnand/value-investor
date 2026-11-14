@@ -5,13 +5,13 @@
  "sector": "Consumer staples",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-10-30",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 137.34,
- "market_cap": "$186.8B",
+ "price": 145.44,
+ "market_cap": "$197.8B",
  "verdict": "WATCHLIST",
  "overall_score": 70,
- "one_liner": "A wide-moat business worth owning, but it trades at 1.4x fair value. Interesting below about $70.",
+ "one_liner": "A wide-moat business worth owning, but it trades at 1.5x fair value. Interesting below about $70.",
  "scores": {
   "meaning": 9,
   "moat": 8,
@@ -20,7 +20,7 @@
   "financial_health": 9,
   "valuation": 3
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "PepsiCo owns Pepsi, Gatorade, Mountain Dew, Frito-Lay (Lay's, Doritos, Cheetos) and Quaker. Snacks are a larger part of the business than drinks.",
   "money": "Unlike Coca-Cola, it makes and distributes much of its product itself, through its own trucks and warehouses, which requires more capital. Frito-Lay North America earns the highest margins. Volumes have weakened as consumers trade down and as weight-loss drugs affect snacking.",
@@ -30,46 +30,46 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 17.28,
+    "value": 18.29,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 28.33,
+    "sector_median": 29.05,
     "sector_n": 9
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 16.22,
+    "value": 17.18,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 23.39,
+    "sector_median": 24.01,
     "sector_n": 9
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 17.84,
+    "value": 18.89,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 25.01,
+    "sector_median": 25.68,
     "sector_n": 9
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 11.87,
+    "value": 12.44,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 16.6,
+    "sector_median": 17.47,
     "sector_n": 9
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 4.31,
+    "value": 4.07,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 2.63,
+    "sector_median": 2.56,
     "sector_n": 9
    }
   ],
@@ -78,7 +78,7 @@
    {
     "ticker": "COST",
     "company": "Costco",
-    "value": 50.75
+    "value": 53.29
    },
    {
     "ticker": "WMT",
@@ -88,37 +88,37 @@
    {
     "ticker": "CL",
     "company": "Colgate-Palmolive",
-    "value": 36.8
-   },
-   {
-    "ticker": "PM",
-    "company": "Philip Morris International",
-    "value": 29.47
+    "value": 39.4
    },
    {
     "ticker": "KO",
     "company": "Coca-Cola",
-    "value": 28.33
+    "value": 29.28
+   },
+   {
+    "ticker": "PM",
+    "company": "Philip Morris International",
+    "value": 29.05
    },
    {
     "ticker": "PG",
     "company": "Procter & Gamble",
-    "value": 24.91
+    "value": 25.57
    },
    {
     "ticker": "MDLZ",
     "company": "Mondelez International",
-    "value": 23.07
+    "value": 24.74
    },
    {
     "ticker": "PEP",
     "company": "PepsiCo",
-    "value": 17.28
+    "value": 18.29
    },
    {
     "ticker": "MO",
     "company": "Altria",
-    "value": 15.41
+    "value": 16.56
    }
   ]
  },
@@ -129,11 +129,11 @@
   "as_of": "2026-10-28",
   "low52": 123.47,
   "high52": 171.48,
-  "range_pos": 29,
-  "below_high": 19.9,
-  "target_vs_price": 3.1,
-  "target_vs_fair": 41.1,
-  "above_low": 11.2
+  "range_pos": 46,
+  "below_high": 15.2,
+  "target_vs_price": -2.6,
+  "target_vs_fair": 41.3,
+  "above_low": 17.8
  },
  "summary": {
   "sentence": "A snack and drinks giant with weakening volumes and pressure to restructure.",
@@ -465,8 +465,8 @@
     "rows": [
      {
       "name": "Dividend yield",
-      "value": "4.3%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "value": "4.1%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -483,7 +483,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "0.6%",
+      "value": "0.5%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -506,20 +506,20 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "5.8%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "5.5%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "5.4%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "5.1%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Owner-earnings yield",
-      "value": "5.9%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "5.5%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      }
     ]
@@ -536,53 +536,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "17.3"
+   "value": "18.3"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "17.8"
+   "value": "18.9"
   },
   "three_numbers": {
-   "pe": "17.3",
-   "forward_pe": "16.2",
-   "peg": "2.93"
+   "pe": "18.3",
+   "forward_pe": "17.2",
+   "peg": "3.10"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "2.3"
+    "value": "2.4"
    },
    {
     "name": "EV/EBITDA",
-    "value": "11.9"
+    "value": "12.4"
    },
    {
     "name": "EV/EBIT",
-    "value": "14.4"
+    "value": "15.1"
    },
    {
     "name": "P/E",
-    "value": "17.3"
+    "value": "18.3"
    },
    {
     "name": "EV/FCF",
-    "value": "21.7"
+    "value": "22.8"
    },
    {
     "name": "P/FCF",
-    "value": "17.8"
+    "value": "18.9"
    },
    {
     "name": "P/B",
-    "value": "8.3"
+    "value": "8.8"
    }
   ],
-  "intrinsic_value_low": 84.37,
-  "intrinsic_value_high": 116.37,
-  "margin_of_safety_pct": -36.8,
-  "interesting_below": 70.26,
+  "intrinsic_value_low": 84.26,
+  "intrinsic_value_high": 116.22,
+  "margin_of_safety_pct": -45.1,
+  "interesting_below": 70.17,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $7.5B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 1–7% for five years, fading to 3%; operating margin held at 16%; cost of capital 8.1%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 100.37,
+  "fair_value": 100.24,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -592,8 +592,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 100.03,
-    "high": 135.62,
+    "low": 99.82,
+    "high": 135.31,
     "basis": "Sales grow 1–7% for five years, fading to 3%; operating margin held at 16%; cost of capital 8.1%. Cash added, debt subtracted."
    }
   ],
@@ -607,17 +607,17 @@
    "roc": 19.7,
    "reinvestment": 20,
    "beta": 0.85,
-   "cost_of_equity": 9.0,
-   "cost_of_debt": 5.0,
-   "debt_weight": 22,
+   "cost_of_equity": 8.9,
+   "cost_of_debt": 4.9,
+   "debt_weight": 21,
    "cost_of_capital": 8.1,
    "terminal_growth": 3.0,
    "terminal_roc": 13.1,
    "revenue_now": "$98.2B",
    "revenue_year10": "$141.3B",
-   "low": 100.03,
-   "high": 135.62,
-   "implied_growth": 7.3,
+   "low": 99.82,
+   "high": 135.31,
+   "implied_growth": 8.4,
    "implied_note": null
   }
  },
@@ -640,7 +640,7 @@
     },
     {
      "name": "Dividend record",
-     "value": "$5.92 a share (4.3% yield)",
+     "value": "$5.92 a share (4.1% yield)",
      "threshold": "Pays a dividend",
      "pass": true
     },
@@ -652,19 +652,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "21.1x three-year average earnings ($6.50); 17.3x trailing",
+     "value": "22.4x three-year average earnings ($6.50); 18.3x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 143; Graham number $54 vs price $137",
+     "value": "P/E × P/B = 161; Graham number $54 vs price $145",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 5.8% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 5.5% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": true
     },
@@ -682,7 +682,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $11.0B (net income + depreciation − capex) = 5.9% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $11.0B (net income + depreciation − capex) = 5.5% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": true
     },
@@ -748,13 +748,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 2.93",
+     "value": "PEG 3.10",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(2% EPS growth + 4.3% yield) ÷ P/E 17.3 = 0.38",
+     "value": "(2% EPS growth + 4.1% yield) ÷ P/E 18.3 = 0.35",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -856,13 +856,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price -6% over 52 weeks",
+     "value": "Share price -0% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -37%",
+     "value": "Margin of safety -45%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -874,13 +874,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($116); 39% downside to the low case",
+     "value": "No upside even to the high-case value ($116); 42% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -15.3,
-   "downside_pct": 38.6
+   "upside_pct": -20.1,
+   "downside_pct": 42.1
   }
  },
  "rules_of_the_road": [

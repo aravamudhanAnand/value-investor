@@ -5,10 +5,10 @@
  "sector": "Consumer staples",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-10-27",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 73.2,
- "market_cap": "$122.2B",
+ "price": 78.64,
+ "market_cap": "$131.3B",
  "verdict": "PASS",
  "overall_score": 64,
  "one_liner": "Fails the quality test (its best days look to be behind it), so price does not matter.",
@@ -20,7 +20,7 @@
   "financial_health": 7,
   "valuation": 5
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Altria sells Marlboro cigarettes in the US, plus cigars, oral tobacco and on! nicotine pouches. It owns a stake in brewer Anheuser-Busch InBev.",
   "money": "It earns very high margins on cigarettes sold to wholesalers and retailers. Volumes fall several percent a year, and Altria offsets this with price increases. Most of the cash is returned through dividends.",
@@ -30,46 +30,46 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 15.41,
+    "value": 16.56,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 28.33,
+    "sector_median": 29.05,
     "sector_n": 9
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 12.69,
+    "value": 13.63,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 23.39,
+    "sector_median": 24.01,
     "sector_n": 9
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 13.42,
+    "value": 14.42,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 25.01,
+    "sector_median": 25.68,
     "sector_n": 9
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 11.31,
+    "value": 12.02,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 16.6,
+    "sector_median": 17.47,
     "sector_n": 9
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 6.07,
+    "value": 5.65,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 2.63,
+    "sector_median": 2.56,
     "sector_n": 9
    }
   ],
@@ -78,7 +78,7 @@
    {
     "ticker": "COST",
     "company": "Costco",
-    "value": 50.75
+    "value": 53.29
    },
    {
     "ticker": "WMT",
@@ -88,37 +88,37 @@
    {
     "ticker": "CL",
     "company": "Colgate-Palmolive",
-    "value": 36.8
-   },
-   {
-    "ticker": "PM",
-    "company": "Philip Morris International",
-    "value": 29.47
+    "value": 39.4
    },
    {
     "ticker": "KO",
     "company": "Coca-Cola",
-    "value": 28.33
+    "value": 29.28
+   },
+   {
+    "ticker": "PM",
+    "company": "Philip Morris International",
+    "value": 29.05
    },
    {
     "ticker": "PG",
     "company": "Procter & Gamble",
-    "value": 24.91
+    "value": 25.57
    },
    {
     "ticker": "MDLZ",
     "company": "Mondelez International",
-    "value": 23.07
+    "value": 24.74
    },
    {
     "ticker": "PEP",
     "company": "PepsiCo",
-    "value": 17.28
+    "value": 18.29
    },
    {
     "ticker": "MO",
     "company": "Altria",
-    "value": 15.41
+    "value": 16.56
    }
   ]
  },
@@ -128,12 +128,12 @@
   "beta": 0.46,
   "as_of": "2026-10-26",
   "low52": 54.7,
-  "high52": 77.06,
-  "range_pos": 83,
-  "below_high": 5.0,
-  "target_vs_price": -4.4,
-  "target_vs_fair": -1.5,
-  "above_low": 33.8
+  "high52": 79.87,
+  "range_pos": 95,
+  "below_high": 1.5,
+  "target_vs_price": -11.0,
+  "target_vs_fair": -1.4,
+  "above_low": 43.8
  },
  "summary": {
   "sentence": "A US cigarette maker paying a high dividend from a slowly shrinking business.",
@@ -465,8 +465,8 @@
     "rows": [
      {
       "name": "Dividend yield",
-      "value": "6.1%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "value": "5.6%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -506,20 +506,20 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "6.5%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "6.0%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "7.5%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "6.9%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Owner-earnings yield",
-      "value": "6.5%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "6.0%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      }
     ]
@@ -536,53 +536,53 @@
   "lifecycle_stage": "5 · Decline",
   "primary_metric": {
    "name": "Forward P/E",
-   "value": "12.7"
+   "value": "13.6"
   },
   "secondary_metric": {
    "name": "P/FCF",
-   "value": "13.4"
+   "value": "14.4"
   },
   "three_numbers": {
-   "pe": "15.4",
-   "forward_pe": "12.7",
-   "peg": "3.25"
+   "pe": "16.6",
+   "forward_pe": "13.6",
+   "peg": "3.49"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "7.1"
+    "value": "7.5"
    },
    {
     "name": "EV/EBITDA",
-    "value": "11.3"
+    "value": "12.0"
    },
    {
     "name": "EV/EBIT",
-    "value": "11.5"
+    "value": "12.3"
    },
    {
     "name": "P/E",
-    "value": "15.4"
+    "value": "16.6"
    },
    {
     "name": "EV/FCF",
-    "value": "15.9"
+    "value": "16.9"
    },
    {
     "name": "P/FCF",
-    "value": "13.4"
+    "value": "14.4"
    },
    {
     "name": "P/B",
     "value": "n/a"
    }
   ],
-  "intrinsic_value_low": 64.97,
-  "intrinsic_value_high": 77.12,
-  "margin_of_safety_pct": -3.0,
-  "interesting_below": 49.73,
+  "intrinsic_value_low": 64.91,
+  "intrinsic_value_high": 77.05,
+  "margin_of_safety_pct": -10.8,
+  "interesting_below": 49.69,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $9.1B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 0–3% for five years, fading to 3%; operating margin held at 61%; cost of capital 8.3%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Free cash flow (stock-based pay is not reported separately by the data source, so none is deducted).",
-  "fair_value": 71.05,
+  "fair_value": 70.98,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -592,8 +592,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 65.68,
-    "high": 77.82,
+    "low": 65.55,
+    "high": 77.67,
     "basis": "Sales grow 0–3% for five years, fading to 3%; operating margin held at 61%; cost of capital 8.3%. Cash added, debt subtracted."
    }
   ],
@@ -607,23 +607,23 @@
    "roc": 37.2,
    "reinvestment": 0,
    "beta": 0.85,
-   "cost_of_equity": 9.0,
-   "cost_of_debt": 5.0,
-   "debt_weight": 17,
+   "cost_of_equity": 8.9,
+   "cost_of_debt": 4.9,
+   "debt_weight": 16,
    "cost_of_capital": 8.3,
    "terminal_growth": 3.0,
    "terminal_roc": 13.3,
    "revenue_now": "$20.4B",
    "revenue_year10": "$22.3B",
-   "low": 65.68,
-   "high": 77.82,
-   "implied_growth": 1.9,
+   "low": 65.55,
+   "high": 77.67,
+   "implied_growth": 3.2,
    "implied_note": null
   }
  },
  "lenses": {
   "graham": {
-   "passed": 6,
+   "passed": 5,
    "total": 8,
    "tests": [
     {
@@ -640,7 +640,7 @@
     },
     {
      "name": "Dividend record",
-     "value": "$4.44 a share (6.1% yield)",
+     "value": "$4.44 a share (5.6% yield)",
      "threshold": "Pays a dividend",
      "pass": true
     },
@@ -652,9 +652,9 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "14.4x three-year average earnings ($5.08); 15.4x trailing",
+     "value": "15.5x three-year average earnings ($5.08); 16.6x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
-     "pass": true
+     "pass": false
     },
     {
      "name": "Graham number",
@@ -664,7 +664,7 @@
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 6.5% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 6.0% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": true
     },
@@ -682,7 +682,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $7.9B (net income + depreciation − capex) = 6.5% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $7.9B (net income + depreciation − capex) = 6.0% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": true
     },
@@ -748,13 +748,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 3.25",
+     "value": "PEG 3.49",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(30% EPS growth (capped) + 6.1% yield) ÷ P/E 15.4 = 2.34",
+     "value": "(30% EPS growth (capped) + 5.6% yield) ÷ P/E 16.6 = 2.15",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": true
     },
@@ -856,13 +856,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +13% over 52 weeks",
+     "value": "Share price +35% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -3%",
+     "value": "Margin of safety -11%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -874,13 +874,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "5% upside to the high case vs 11% downside to the low case (0.5 to 1)",
+     "value": "No upside even to the high-case value ($77); 17% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": 5.4,
-   "downside_pct": 11.2
+   "upside_pct": -2.0,
+   "downside_pct": 17.5
   }
  },
  "rules_of_the_road": [

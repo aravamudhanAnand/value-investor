@@ -5,13 +5,13 @@
  "sector": "Financials",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 652.7,
- "market_cap": "$568.6B",
+ "price": 661.19,
+ "market_cap": "$576.0B",
  "verdict": "WATCHLIST",
  "overall_score": 73,
- "one_liner": "A wide-moat business worth owning, but it trades at 1.7x fair value. Interesting below about $272.",
+ "one_liner": "A wide-moat business worth owning, but it trades at 1.7x fair value. Interesting below about $273.",
  "scores": {
   "meaning": 9,
   "moat": 10,
@@ -20,7 +20,7 @@
   "financial_health": 8,
   "valuation": 2
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Mastercard runs the second-largest card-payment network in the world, with a growing business in data, fraud prevention and other value-added services.",
   "money": "Like Visa, it charges small fees on payment volume and transactions, with higher fees on cross-border payments, and lends no money. Value-added services such as cybersecurity, data analytics and loyalty programmes are growing faster than core payments.",
@@ -30,37 +30,37 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 34.15,
+    "value": 34.6,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 14.17,
+    "sector_median": 14.91,
     "sector_n": 15
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 29.35,
+    "value": 29.73,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 28.11,
+    "sector_median": 28.32,
     "sector_n": 3
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 35.36,
+    "value": 35.82,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 36.21,
+    "sector_median": 36.48,
     "sector_n": 3
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 25.28,
+    "value": 25.6,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 25.28,
+    "sector_median": 25.55,
     "sector_n": 3
    },
    {
@@ -69,7 +69,7 @@
     "value": 0.53,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.97,
+    "sector_median": 1.87,
     "sector_n": 15
    }
   ],
@@ -78,77 +78,77 @@
    {
     "ticker": "V",
     "company": "Visa",
-    "value": 34.59
+    "value": 34.84
    },
    {
     "ticker": "MA",
     "company": "Mastercard",
-    "value": 34.15
+    "value": 34.6
    },
    {
     "ticker": "BLK",
     "company": "BlackRock",
-    "value": 25.71
+    "value": 27.81
    },
    {
     "ticker": "AXP",
     "company": "American Express",
-    "value": 17.94
+    "value": 18.08
    },
    {
     "ticker": "BNY",
     "company": "BNY",
-    "value": 16.34
+    "value": 16.99
    },
    {
     "ticker": "SCHW",
     "company": "Charles Schwab",
-    "value": 15.64
+    "value": 15.89
    },
    {
     "ticker": "MS",
     "company": "Morgan Stanley",
-    "value": 14.39
+    "value": 15.12
    },
    {
     "ticker": "BRK.B",
     "company": "Berkshire Hathaway",
-    "value": 14.17
+    "value": 14.91
    },
    {
     "ticker": "JPM",
     "company": "JPMorgan Chase",
-    "value": 14.05
+    "value": 14.54
    },
    {
     "ticker": "WFC",
     "company": "Wells Fargo",
-    "value": 12.69
+    "value": 13.28
    },
    {
     "ticker": "GS",
     "company": "Goldman Sachs",
-    "value": 12.46
+    "value": 13.19
    },
    {
     "ticker": "C",
     "company": "Citigroup",
-    "value": 12.02
-   },
-   {
-    "ticker": "COF",
-    "company": "Capital One",
-    "value": 11.99
+    "value": 12.16
    },
    {
     "ticker": "BAC",
     "company": "Bank of America",
-    "value": 11.77
+    "value": 12.15
    },
    {
     "ticker": "USB",
     "company": "U.S. Bancorp",
-    "value": 11.57
+    "value": 11.87
+   },
+   {
+    "ticker": "COF",
+    "company": "Capital One",
+    "value": 11.55
    }
   ]
  },
@@ -159,11 +159,11 @@
   "as_of": "2026-11-06",
   "low52": 464.52,
   "high52": 681.99,
-  "range_pos": 87,
-  "below_high": 4.3,
-  "target_vs_price": 9.8,
-  "target_vs_fair": 84.3,
-  "above_low": 40.5
+  "range_pos": 90,
+  "below_high": 3.0,
+  "target_vs_price": 8.3,
+  "target_vs_fair": 83.9,
+  "above_low": 42.3
  },
  "summary": {
   "sentence": "The second global payment network, with faster-growing services on top.",
@@ -496,7 +496,7 @@
      {
       "name": "Dividend yield",
       "value": "0.5%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -537,19 +537,19 @@
      {
       "name": "Earnings yield",
       "value": "2.9%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
       "value": "2.7%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "3.1%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "3.0%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
@@ -566,53 +566,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "34.2"
+   "value": "34.6"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "35.4"
+   "value": "35.8"
   },
   "three_numbers": {
-   "pe": "34.2",
-   "forward_pe": "29.4",
-   "peg": "1.76"
+   "pe": "34.6",
+   "forward_pe": "29.7",
+   "peg": "1.78"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "16.0"
+    "value": "16.2"
    },
    {
     "name": "EV/EBITDA",
-    "value": "25.3"
+    "value": "25.6"
    },
    {
     "name": "EV/EBIT",
-    "value": "26.7"
+    "value": "27.0"
    },
    {
     "name": "P/E",
-    "value": "34.2"
+    "value": "34.6"
    },
    {
     "name": "EV/FCF",
-    "value": "36.2"
+    "value": "36.7"
    },
    {
     "name": "P/FCF",
-    "value": "35.4"
+    "value": "35.8"
    },
    {
     "name": "P/B",
-    "value": "84.4"
+    "value": "85.5"
    }
   ],
-  "intrinsic_value_low": 327.51,
-  "intrinsic_value_high": 449.81,
-  "margin_of_safety_pct": -67.9,
-  "interesting_below": 272.06,
+  "intrinsic_value_low": 328.22,
+  "intrinsic_value_high": 450.81,
+  "margin_of_safety_pct": -69.7,
+  "interesting_below": 272.66,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $14.6B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 9–15% for five years, fading to 3%; operating margin held at 60%; cost of capital 9.4%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 388.66,
+  "fair_value": 389.51,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -622,8 +622,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 321.86,
-    "high": 430.7,
+    "low": 323.27,
+    "high": 432.71,
     "basis": "Sales grow 9–15% for five years, fading to 3%; operating margin held at 60%; cost of capital 9.4%. Cash added, debt subtracted."
    }
   ],
@@ -638,16 +638,16 @@
    "reinvestment": 30,
    "beta": 1.0,
    "cost_of_equity": 9.6,
-   "cost_of_debt": 5.0,
+   "cost_of_debt": 4.9,
    "debt_weight": 4,
    "cost_of_capital": 9.4,
    "terminal_growth": 3.0,
    "terminal_roc": 14.4,
    "revenue_now": "$36.3B",
    "revenue_year10": "$87.9B",
-   "low": 321.86,
-   "high": 430.7,
-   "implied_growth": 23.7,
+   "low": 323.27,
+   "high": 432.71,
+   "implied_growth": 23.8,
    "implied_note": null
   }
  },
@@ -682,19 +682,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "46.4x three-year average earnings ($14.08); 34.2x trailing",
+     "value": "47.0x three-year average earnings ($14.08); 34.6x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 2881; Graham number $58 vs price $653",
+     "value": "P/E × P/B = 2957; Graham number $58 vs price $661",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 2.9% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 2.9% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -712,7 +712,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $17.5B (net income + depreciation − capex) = 3.1% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $17.5B (net income + depreciation − capex) = 3.0% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -778,13 +778,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 1.76",
+     "value": "PEG 1.78",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": null
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(17% EPS growth + 0.5% yield) ÷ P/E 34.2 = 0.52",
+     "value": "(17% EPS growth + 0.5% yield) ÷ P/E 34.6 = 0.51",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -886,13 +886,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +18% over 52 weeks",
+     "value": "Share price +21% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -68%",
+     "value": "Margin of safety -70%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -904,13 +904,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($450); 50% downside to the low case",
+     "value": "No upside even to the high-case value ($451); 50% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -31.1,
-   "downside_pct": 49.8
+   "upside_pct": -31.8,
+   "downside_pct": 50.4
   }
  },
  "rules_of_the_road": [

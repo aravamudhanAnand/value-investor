@@ -5,10 +5,10 @@
  "sector": "Consumer discretionary",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 38.59,
- "market_cap": "$57.5B",
+ "price": 37.99,
+ "market_cap": "$56.6B",
  "verdict": "PASS",
  "overall_score": 54,
  "one_liner": "Fails the quality test (its best days look to be behind it), so price does not matter.",
@@ -20,7 +20,7 @@
   "financial_health": 6,
   "valuation": 2
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Nike is the largest athletic footwear and apparel brand in the world, with Jordan and Converse. It is in a turnaround under chief executive Elliott Hill.",
   "money": "It sells shoes and clothing through retailers such as Foot Locker and Dick's, and directly through its own stores and app. Footwear is about two-thirds of revenue. Discounting and a shift away from retailers hurt margins, and Nike is rebuilding its retail partnerships.",
@@ -30,46 +30,46 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 18.46,
+    "value": 18.18,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 21.47,
+    "sector_median": 21.56,
     "sector_n": 9
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 29.88,
+    "value": 29.41,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 24.14,
+    "sector_median": 24.82,
     "sector_n": 8
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 27.25,
+    "value": 26.83,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 25.22,
+    "sector_median": 24.8,
     "sector_n": 7
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 12.32,
+    "value": 12.14,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 15.8,
+    "sector_median": 16.49,
     "sector_n": 9
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 4.25,
+    "value": 4.32,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 2.29,
+    "sector_median": 2.2,
     "sector_n": 9
    }
   ],
@@ -78,42 +78,42 @@
    {
     "ticker": "TSLA",
     "company": "Tesla",
-    "value": 428.59
+    "value": 428.81
    },
    {
     "ticker": "SBUX",
     "company": "Starbucks",
-    "value": 60.58
+    "value": 61.17
    },
    {
     "ticker": "HD",
     "company": "Home Depot",
-    "value": 23.04
+    "value": 24.4
    },
    {
     "ticker": "MCD",
     "company": "McDonald's",
-    "value": 22.46
+    "value": 22.09
    },
    {
     "ticker": "AMZN",
     "company": "Amazon",
-    "value": 21.47
-   },
-   {
-    "ticker": "NKE",
-    "company": "Nike",
-    "value": 18.46
+    "value": 21.56
    },
    {
     "ticker": "LOW",
     "company": "Lowe's",
-    "value": 18.44
+    "value": 19.25
+   },
+   {
+    "ticker": "NKE",
+    "company": "Nike",
+    "value": 18.18
    },
    {
     "ticker": "BKNG",
     "company": "Booking Holdings",
-    "value": 17.48
+    "value": 17.36
    }
   ]
  },
@@ -124,11 +124,11 @@
   "as_of": "2026-11-06",
   "low52": 31.97,
   "high52": 69.14,
-  "range_pos": 18,
-  "below_high": 44.2,
-  "target_vs_price": -5.6,
-  "target_vs_fair": 51.6,
-  "above_low": 20.7
+  "range_pos": 16,
+  "below_high": 45.1,
+  "target_vs_price": -4.1,
+  "target_vs_fair": 51.1,
+  "above_low": 18.8
  },
  "summary": {
   "sentence": "The largest sportswear brand, rebuilding after product and distribution mistakes.",
@@ -459,8 +459,8 @@
     "rows": [
      {
       "name": "Dividend yield",
-      "value": "4.2%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "value": "4.3%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -500,20 +500,20 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "5.4%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "5.5%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Free cash flow yield after stock pay",
       "value": "2.5%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "5.5%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "5.6%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      }
     ]
@@ -530,16 +530,16 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "18.5"
+   "value": "18.2"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "27.3"
+   "value": "26.8"
   },
   "three_numbers": {
-   "pe": "18.5",
-   "forward_pe": "29.9",
-   "peg": "5.98"
+   "pe": "18.2",
+   "forward_pe": "29.4",
+   "peg": "5.88"
   },
   "multiples": [
    {
@@ -548,35 +548,35 @@
    },
    {
     "name": "EV/EBITDA",
-    "value": "12.3"
+    "value": "12.1"
    },
    {
     "name": "EV/EBIT",
-    "value": "14.6"
+    "value": "14.3"
    },
    {
     "name": "P/E",
-    "value": "18.5"
+    "value": "18.2"
    },
    {
     "name": "EV/FCF",
-    "value": "28.6"
+    "value": "28.1"
    },
    {
     "name": "P/FCF",
-    "value": "27.3"
+    "value": "26.8"
    },
    {
     "name": "P/B",
-    "value": "3.8"
+    "value": "3.7"
    }
   ],
-  "intrinsic_value_low": 20.73,
-  "intrinsic_value_high": 27.31,
-  "margin_of_safety_pct": -60.7,
-  "interesting_below": 16.81,
-  "method": "Fair value is the average of two methods: (1) Owner cash flow: $2.0B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 1–7% for five years, fading to 3%; operating margin held at 9%; cost of capital 8.9%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 24.02,
+  "intrinsic_value_low": 20.8,
+  "intrinsic_value_high": 27.41,
+  "margin_of_safety_pct": -57.6,
+  "interesting_below": 16.87,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $2.0B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 1–7% for five years, fading to 3%; operating margin held at 9%; cost of capital 8.8%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 24.11,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -586,9 +586,9 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 24.54,
-    "high": 30.7,
-    "basis": "Sales grow 1–7% for five years, fading to 3%; operating margin held at 9%; cost of capital 8.9%. Cash added, debt subtracted."
+    "low": 24.68,
+    "high": 30.9,
+    "basis": "Sales grow 1–7% for five years, fading to 3%; operating margin held at 9%; cost of capital 8.8%. Cash added, debt subtracted."
    }
   ],
   "stress_case": null,
@@ -602,16 +602,16 @@
    "reinvestment": 21,
    "beta": 1.0,
    "cost_of_equity": 9.6,
-   "cost_of_debt": 5.0,
+   "cost_of_debt": 4.9,
    "debt_weight": 16,
-   "cost_of_capital": 8.9,
+   "cost_of_capital": 8.8,
    "terminal_growth": 3.0,
-   "terminal_roc": 10.9,
+   "terminal_roc": 10.8,
    "revenue_now": "$45.9B",
    "revenue_year10": "$66.0B",
-   "low": 24.54,
-   "high": 30.7,
-   "implied_growth": 13.0,
+   "low": 24.68,
+   "high": 30.9,
+   "implied_growth": 12.4,
    "implied_note": null
   }
  },
@@ -634,7 +634,7 @@
     },
     {
      "name": "Dividend record",
-     "value": "$1.64 a share (4.2% yield)",
+     "value": "$1.64 a share (4.3% yield)",
      "threshold": "Pays a dividend",
      "pass": true
     },
@@ -646,19 +646,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "14.5x three-year average earnings ($2.66); 18.5x trailing",
+     "value": "14.3x three-year average earnings ($2.66); 18.2x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": true
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 70; Graham number $22 vs price $39",
+     "value": "P/E × P/B = 68; Graham number $22 vs price $38",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 5.4% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 5.5% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": true
     },
@@ -676,7 +676,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $3.2B (net income + depreciation − capex) = 5.5% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $3.2B (net income + depreciation − capex) = 5.6% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": true
     },
@@ -742,13 +742,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 5.98",
+     "value": "PEG 5.88",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(-13% EPS growth + 4.2% yield) ÷ P/E 18.5 = -0.50",
+     "value": "(-13% EPS growth + 4.3% yield) ÷ P/E 18.2 = -0.50",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -827,8 +827,8 @@
    ]
   },
   "pabrai": {
-   "passed": 2,
-   "total": 4,
+   "passed": 3,
+   "total": 5,
    "tests": [
     {
      "name": "A simple, existing business",
@@ -850,13 +850,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "n/a",
+     "value": "Share price -41% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
-     "pass": null
+     "pass": true
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -61%",
+     "value": "Margin of safety -58%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -868,13 +868,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($27); 46% downside to the low case",
+     "value": "No upside even to the high-case value ($27); 45% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -29.2,
-   "downside_pct": 46.3
+   "upside_pct": -27.8,
+   "downside_pct": 45.2
   }
  },
  "rules_of_the_road": [

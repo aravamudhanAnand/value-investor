@@ -5,13 +5,13 @@
  "sector": "Health care",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-09",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 1393.45,
- "market_cap": "$1.24T",
+ "price": 1443.5,
+ "market_cap": "$1.29T",
  "verdict": "WATCHLIST",
  "overall_score": 68,
- "one_liner": "A wide-moat business worth owning, but it trades at 2.4x fair value. Interesting below about $410.",
+ "one_liner": "A wide-moat business worth owning, but it trades at 2.5x fair value. Interesting below about $411.",
  "scores": {
   "meaning": 8,
   "moat": 8,
@@ -20,7 +20,7 @@
   "financial_health": 9,
   "valuation": 1
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Eli Lilly is the largest pharmaceutical company by market value, driven by Mounjaro and Zepbound (tirzepatide) for diabetes and obesity, plus medicines for cancer, immunology and Alzheimer's disease.",
   "money": "It sells prescription drugs to wholesalers, pharmacies and governments, with patent protection that allows high prices for years. Tirzepatide now provides most of its growth, and Lilly sells Zepbound directly to patients. It is building factories to meet demand and developing a pill version (orforglipron).",
@@ -30,46 +30,46 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 45.23,
+    "value": 46.85,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 39.47,
+    "sector_median": 39.27,
     "sector_n": 14
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 29.7,
+    "value": 30.77,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 17.43,
+    "sector_median": 18.41,
     "sector_n": 15
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 63.13,
+    "value": 65.4,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 27.32,
+    "sector_median": 27.67,
     "sector_n": 15
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 27.66,
+    "value": 28.62,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 16.07,
+    "sector_median": 16.82,
     "sector_n": 14
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 0.5,
+    "value": 0.48,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 2.29,
+    "sector_median": 2.28,
     "sector_n": 15
    }
   ],
@@ -78,72 +78,72 @@
    {
     "ticker": "MRK",
     "company": "Merck",
-    "value": 148.21
+    "value": 149.25
    },
    {
     "ticker": "ISRG",
     "company": "Intuitive Surgical",
-    "value": 54.75
+    "value": 53.64
    },
    {
     "ticker": "ABBV",
     "company": "AbbVie",
-    "value": 50.14
+    "value": 50.78
    },
    {
     "ticker": "LLY",
     "company": "Eli Lilly",
-    "value": 45.23
-   },
-   {
-    "ticker": "PFE",
-    "company": "Pfizer",
-    "value": 41.99
+    "value": 46.85
    },
    {
     "ticker": "JNJ",
     "company": "Johnson & Johnson",
-    "value": 41.98
+    "value": 43.43
+   },
+   {
+    "ticker": "PFE",
+    "company": "Pfizer",
+    "value": 41.27
    },
    {
     "ticker": "ABT",
     "company": "Abbott Laboratories",
-    "value": 40.87
+    "value": 40.34
    },
    {
     "ticker": "DHR",
     "company": "Danaher",
-    "value": 38.07
+    "value": 38.2
    },
    {
     "ticker": "TMO",
     "company": "Thermo Fisher Scientific",
-    "value": 36.74
+    "value": 36.91
    },
    {
     "ticker": "AMGN",
     "company": "Amgen",
-    "value": 31.25
+    "value": 32.72
    },
    {
     "ticker": "MDT",
     "company": "Medtronic",
-    "value": 25.07
-   },
-   {
-    "ticker": "UNH",
-    "company": "UnitedHealth Group",
-    "value": 22.52
+    "value": 25.33
    },
    {
     "ticker": "CVS",
     "company": "CVS Health",
-    "value": 21.95
+    "value": 23.39
+   },
+   {
+    "ticker": "UNH",
+    "company": "UnitedHealth Group",
+    "value": 23.28
    },
    {
     "ticker": "BMY",
     "company": "Bristol-Myers Squibb",
-    "value": 13.78
+    "value": 14.06
    }
   ]
  },
@@ -153,12 +153,12 @@
   "beta": 0.39,
   "as_of": "2026-11-09",
   "low52": 850.51,
-  "high52": 1453.0,
-  "range_pos": 90,
-  "below_high": 4.1,
-  "target_vs_price": 4.3,
-  "target_vs_fair": 148.1,
-  "above_low": 63.8
+  "high52": 1460.0,
+  "range_pos": 97,
+  "below_high": 1.1,
+  "target_vs_price": 0.7,
+  "target_vs_fair": 147.3,
+  "above_low": 69.7
  },
  "summary": {
   "sentence": "The leader in obesity and diabetes medicines, priced for a decade of growth.",
@@ -489,7 +489,7 @@
      {
       "name": "Dividend yield",
       "value": "0.5%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -529,20 +529,20 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "2.2%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "2.1%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
       "value": "1.5%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
       "value": "1.5%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
@@ -559,53 +559,53 @@
   "lifecycle_stage": "3 · Operating leverage",
   "primary_metric": {
    "name": "Forward P/E",
-   "value": "29.7"
+   "value": "30.8"
   },
   "secondary_metric": {
    "name": "P/FCF",
-   "value": "63.1"
+   "value": "65.4"
   },
   "three_numbers": {
-   "pe": "45.2",
-   "forward_pe": "29.7",
-   "peg": "1.43"
+   "pe": "46.9",
+   "forward_pe": "30.8",
+   "peg": "1.48"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "14.9"
+    "value": "15.4"
    },
    {
     "name": "EV/EBITDA",
-    "value": "27.7"
+    "value": "28.6"
    },
    {
     "name": "EV/EBIT",
-    "value": "29.0"
+    "value": "30.0"
    },
    {
     "name": "P/E",
-    "value": "45.2"
+    "value": "46.9"
    },
    {
     "name": "EV/FCF",
-    "value": "65.4"
+    "value": "67.7"
    },
    {
     "name": "P/FCF",
-    "value": "63.1"
+    "value": "65.4"
    },
    {
     "name": "P/B",
-    "value": "30.8"
+    "value": "31.9"
    }
   ],
-  "intrinsic_value_low": 496.18,
-  "intrinsic_value_high": 675.67,
-  "margin_of_safety_pct": -137.8,
-  "interesting_below": 410.15,
-  "method": "Fair value is the average of two methods: (1) Owner cash flow, capex held at depreciation: $10.3B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 5.2x depreciation, so most of it is expansion, not upkeep. (2) Damodaran: cash flow to the firm: Sales grow 12–18% for five years, fading to 3%; operating margin held at 51%; cost of capital 9.5%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 585.92,
+  "intrinsic_value_low": 497.63,
+  "intrinsic_value_high": 677.74,
+  "margin_of_safety_pct": -145.6,
+  "interesting_below": 411.38,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow, capex held at depreciation: $10.3B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 5.2x depreciation, so most of it is expansion, not upkeep. (2) Damodaran: cash flow to the firm: Sales grow 12–18% for five years, fading to 3%; operating margin held at 51%; cost of capital 9.4%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 587.68,
   "methods": [
    {
     "name": "Owner cash flow, capex held at depreciation",
@@ -615,9 +615,9 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 719.97,
-    "high": 968.9,
-    "basis": "Sales grow 12–18% for five years, fading to 3%; operating margin held at 51%; cost of capital 9.5%. Cash added, debt subtracted."
+    "low": 722.88,
+    "high": 973.03,
+    "basis": "Sales grow 12–18% for five years, fading to 3%; operating margin held at 51%; cost of capital 9.4%. Cash added, debt subtracted."
    }
   ],
   "stress_case": {
@@ -635,16 +635,16 @@
    "reinvestment": 38,
    "beta": 1.0,
    "cost_of_equity": 9.6,
-   "cost_of_debt": 5.0,
+   "cost_of_debt": 4.9,
    "debt_weight": 4,
-   "cost_of_capital": 9.5,
+   "cost_of_capital": 9.4,
    "terminal_growth": 3.0,
-   "terminal_roc": 14.5,
+   "terminal_roc": 14.4,
    "revenue_now": "$86.5B",
    "revenue_year10": "$252.5B",
-   "low": 719.97,
-   "high": 968.9,
-   "implied_growth": 25.5,
+   "low": 722.88,
+   "high": 973.03,
+   "implied_growth": 26.1,
    "implied_note": null
   }
  },
@@ -679,19 +679,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "103.3x three-year average earnings ($13.49); 45.2x trailing",
+     "value": "107.0x three-year average earnings ($13.49); 46.9x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 1394; Graham number $177 vs price $1,393",
+     "value": "P/E × P/B = 1496; Graham number $177 vs price $1,444",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 2.2% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 2.1% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -709,7 +709,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $18.7B (net income + depreciation − capex) = 1.5% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $18.7B (net income + depreciation − capex) = 1.5% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -775,13 +775,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 1.43",
+     "value": "PEG 1.48",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": null
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(30% EPS growth (capped) + 0.5% yield) ÷ P/E 45.2 = 0.67",
+     "value": "(30% EPS growth (capped) + 0.5% yield) ÷ P/E 46.9 = 0.65",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -861,7 +861,7 @@
   },
   "pabrai": {
    "passed": 3,
-   "total": 5,
+   "total": 6,
    "tests": [
     {
      "name": "A simple, existing business",
@@ -883,13 +883,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "n/a",
+     "value": "Share price +41% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
-     "pass": null
+     "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -138%",
+     "value": "Margin of safety -146%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -901,13 +901,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($676); 64% downside to the low case",
+     "value": "No upside even to the high-case value ($678); 66% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -51.5,
-   "downside_pct": 64.4
+   "upside_pct": -53.0,
+   "downside_pct": 65.5
   }
  },
  "rules_of_the_road": [

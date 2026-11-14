@@ -5,13 +5,13 @@
  "sector": "Materials",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-10-27",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 323.42,
- "market_cap": "$78.1B",
+ "price": 349.89,
+ "market_cap": "$84.4B",
  "verdict": "WATCHLIST",
  "overall_score": 70,
- "one_liner": "A wide-moat business worth owning, but it trades at 1.9x fair value. Interesting below about $117.",
+ "one_liner": "A wide-moat business worth owning, but it trades at 2.1x fair value. Interesting below about $117.",
  "scores": {
   "meaning": 9,
   "moat": 8,
@@ -20,7 +20,7 @@
   "financial_health": 9,
   "valuation": 1
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Sherwin-Williams is the largest paint and coatings company in the world, selling through about 5,000 of its own paint stores and to industrial customers.",
   "money": "Paint Stores Group, which sells to professional painters and contractors, earns most of the profit. Consumer Brands sells through retailers such as Lowe's, and Performance Coatings sells industrial coatings. Owning its stores gives it pricing power and close contact with painters.",
@@ -30,7 +30,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 29.81,
+    "value": 32.25,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": null,
@@ -39,7 +39,7 @@
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 24.31,
+    "value": 26.3,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
     "sector_median": null,
@@ -48,7 +48,7 @@
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 24.31,
+    "value": 26.3,
     "unit": "x",
     "note": "Before deducting stock-based pay",
     "sector_median": null,
@@ -57,7 +57,7 @@
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 19.28,
+    "value": 20.62,
     "unit": "x",
     "note": "Enterprise value includes debt",
     "sector_median": null,
@@ -66,7 +66,7 @@
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 0.99,
+    "value": 0.91,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
     "sector_median": null,
@@ -78,12 +78,12 @@
    {
     "ticker": "LIN",
     "company": "Linde",
-    "value": 34.24
+    "value": 34.95
    },
    {
     "ticker": "SHW",
     "company": "Sherwin-Williams",
-    "value": 29.81
+    "value": 32.25
    }
   ]
  },
@@ -94,11 +94,11 @@
   "as_of": "2026-10-27",
   "low52": 289.86,
   "high52": 377.77,
-  "range_pos": 38,
-  "below_high": 14.4,
-  "target_vs_price": 18.5,
-  "target_vs_fair": 129.1,
-  "above_low": 11.6
+  "range_pos": 68,
+  "below_high": 7.4,
+  "target_vs_price": 9.5,
+  "target_vs_fair": 129.4,
+  "above_low": 20.7
  },
  "summary": {
   "sentence": "The leading paint company, with pricing power and exposure to housing.",
@@ -431,8 +431,8 @@
     "rows": [
      {
       "name": "Dividend yield",
-      "value": "1.0%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "value": "0.9%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -449,7 +449,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "3.4%",
+      "value": "3.1%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -472,20 +472,20 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "3.4%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "3.1%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "4.0%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "3.7%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "3.5%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "3.2%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
@@ -502,53 +502,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "29.8"
+   "value": "32.2"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "24.3"
+   "value": "26.3"
   },
   "three_numbers": {
-   "pe": "29.8",
-   "forward_pe": "24.3",
-   "peg": "2.27"
+   "pe": "32.2",
+   "forward_pe": "26.3",
+   "peg": "2.46"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "3.7"
+    "value": "3.9"
    },
    {
     "name": "EV/EBITDA",
-    "value": "19.3"
+    "value": "20.6"
    },
    {
     "name": "EV/EBIT",
-    "value": "22.9"
+    "value": "24.5"
    },
    {
     "name": "P/E",
-    "value": "29.8"
+    "value": "32.2"
    },
    {
     "name": "EV/FCF",
-    "value": "28.6"
+    "value": "30.6"
    },
    {
     "name": "P/FCF",
-    "value": "24.3"
+    "value": "26.3"
    },
    {
     "name": "P/B",
-    "value": "19.6"
+    "value": "21.2"
    }
   ],
-  "intrinsic_value_low": 140.36,
-  "intrinsic_value_high": 194.15,
-  "margin_of_safety_pct": -93.4,
-  "interesting_below": 117.08,
+  "intrinsic_value_low": 140.19,
+  "intrinsic_value_high": 193.91,
+  "margin_of_safety_pct": -109.5,
+  "interesting_below": 116.93,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $2.5B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 3–9% for five years, fading to 3%; operating margin held at 16%; cost of capital 8.4%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 167.25,
+  "fair_value": 167.05,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -558,8 +558,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 133.71,
-    "high": 180.68,
+    "low": 133.38,
+    "high": 180.19,
     "basis": "Sales grow 3–9% for five years, fading to 3%; operating margin held at 16%; cost of capital 8.4%. Cash added, debt subtracted."
    }
   ],
@@ -573,17 +573,17 @@
    "roc": 16.9,
    "reinvestment": 35,
    "beta": 0.85,
-   "cost_of_equity": 9.0,
-   "cost_of_debt": 5.0,
-   "debt_weight": 15,
+   "cost_of_equity": 8.9,
+   "cost_of_debt": 4.9,
+   "debt_weight": 14,
    "cost_of_capital": 8.4,
    "terminal_growth": 3.0,
    "terminal_roc": 13.4,
    "revenue_now": "$24.9B",
    "revenue_year10": "$40.9B",
-   "low": 133.71,
-   "high": 180.68,
-   "implied_growth": 19.6,
+   "low": 133.38,
+   "high": 180.19,
+   "implied_growth": 20.9,
    "implied_note": null
   }
  },
@@ -606,7 +606,7 @@
     },
     {
      "name": "Dividend record",
-     "value": "$3.20 a share (1.0% yield)",
+     "value": "$3.20 a share (0.9% yield)",
      "threshold": "Pays a dividend",
      "pass": true
     },
@@ -618,19 +618,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "32.3x three-year average earnings ($10.02); 29.8x trailing",
+     "value": "34.9x three-year average earnings ($10.02); 32.2x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 585; Graham number $63 vs price $323",
+     "value": "P/E × P/B = 684; Graham number $63 vs price $350",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 3.4% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 3.1% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -648,7 +648,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $2.7B (net income + depreciation − capex) = 3.5% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $2.7B (net income + depreciation − capex) = 3.2% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -714,13 +714,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 2.27",
+     "value": "PEG 2.46",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(10% EPS growth + 1.0% yield) ÷ P/E 29.8 = 0.37",
+     "value": "(10% EPS growth + 0.9% yield) ÷ P/E 32.2 = 0.34",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -822,13 +822,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price -2% over 52 weeks",
+     "value": "Share price +5% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -93%",
+     "value": "Margin of safety -109%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -840,13 +840,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($194); 57% downside to the low case",
+     "value": "No upside even to the high-case value ($194); 60% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -40.0,
-   "downside_pct": 56.6
+   "upside_pct": -44.6,
+   "downside_pct": 59.9
   }
  },
  "rules_of_the_road": [

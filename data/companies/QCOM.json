@@ -5,10 +5,10 @@
  "sector": "Technology",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 165.41,
- "market_cap": "$177.0B",
+ "price": 172.47,
+ "market_cap": "$184.5B",
  "verdict": "TOO_HARD",
  "overall_score": 56,
  "one_liner": "Goes in the too-hard pile: its industry is changing too fast to predict. No verdict on price.",
@@ -20,7 +20,7 @@
   "financial_health": 9,
   "valuation": 1
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Qualcomm designs the Snapdragon processors and modems used in most premium Android phones, and licenses the wireless patents that nearly every phone maker pays for. It is expanding into PCs, cars and connected devices.",
   "money": "Two businesses. Chips (QCT) are most of revenue and are sold to phone makers, with Apple's modem business winding down. Licensing (QTL) is smaller but very profitable: phone makers pay a royalty on every handset sold. Automotive and IoT chips are the growth areas.",
@@ -30,16 +30,16 @@
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 17.45,
+    "value": 18.16,
     "unit": "x",
     "note": "Judge at mid-cycle, not peak",
-    "sector_median": 19.33,
+    "sector_median": 19.34,
     "sector_n": 20
    },
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 13.02,
+    "value": 13.58,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 27.36,
@@ -48,16 +48,16 @@
    {
     "key": "fcfy",
     "label": "Free cash flow yield",
-    "value": 4.89,
+    "value": 4.69,
     "unit": "%",
     "note": "Free cash flow ÷ market value",
-    "sector_median": 1.86,
+    "sector_median": 1.91,
     "sector_n": 7
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 2.22,
+    "value": 2.13,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
     "sector_median": 0.75,
@@ -74,32 +74,32 @@
    {
     "ticker": "TXN",
     "company": "Texas Instruments",
-    "value": 32.81
+    "value": 32.9
    },
    {
     "ticker": "AMAT",
     "company": "Applied Materials",
-    "value": 29.57
+    "value": 28.75
    },
    {
     "ticker": "LRCX",
     "company": "Lam Research",
-    "value": 24.39
+    "value": 27.54
    },
    {
     "ticker": "QCOM",
     "company": "Qualcomm",
-    "value": 17.45
+    "value": 18.16
    },
    {
     "ticker": "INTC",
     "company": "Intel",
-    "value": 15.44
+    "value": 16.38
    },
    {
     "ticker": "MU",
     "company": "Micron Technology",
-    "value": 7.57
+    "value": 7.73
    }
   ]
  },
@@ -110,11 +110,11 @@
   "as_of": "2026-11-06",
   "low52": 121.99,
   "high52": 259.92,
-  "range_pos": 31,
-  "below_high": 36.4,
-  "target_vs_price": 12.3,
-  "target_vs_fair": 106.1,
-  "above_low": 35.6
+  "range_pos": 37,
+  "below_high": 33.6,
+  "target_vs_price": 7.7,
+  "target_vs_fair": 106.0,
+  "above_low": 41.4
  },
  "summary": {
   "sentence": "The leader in phone chips and wireless patents, working to depend less on smartphones.",
@@ -445,8 +445,8 @@
     "rows": [
      {
       "name": "Dividend yield",
-      "value": "2.2%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "value": "2.1%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -463,7 +463,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "5.9%",
+      "value": "5.6%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -486,20 +486,20 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "7.7%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "7.4%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "3.1%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "2.9%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "7.2%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "6.9%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      }
     ]
@@ -516,53 +516,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "13.0"
+   "value": "13.6"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "20.5"
+   "value": "21.3"
   },
   "three_numbers": {
-   "pe": "13.0",
-   "forward_pe": "17.2",
-   "peg": "2.79"
+   "pe": "13.6",
+   "forward_pe": "18.0",
+   "peg": "2.91"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "4.3"
+    "value": "4.5"
    },
    {
     "name": "EV/EBITDA",
-    "value": "17.4"
+    "value": "18.2"
    },
    {
     "name": "EV/EBIT",
-    "value": "20.6"
+    "value": "21.5"
    },
    {
     "name": "P/E",
-    "value": "13.0"
+    "value": "13.6"
    },
    {
     "name": "EV/FCF",
-    "value": "21.4"
+    "value": "22.3"
    },
    {
     "name": "P/FCF",
-    "value": "20.5"
+    "value": "21.3"
    },
    {
     "name": "P/B",
-    "value": "5.8"
+    "value": "6.1"
    }
   ],
-  "intrinsic_value_low": 76.47,
-  "intrinsic_value_high": 103.83,
-  "margin_of_safety_pct": -83.5,
-  "interesting_below": 63.11,
+  "intrinsic_value_low": 76.52,
+  "intrinsic_value_high": 103.9,
+  "margin_of_safety_pct": -91.2,
+  "interesting_below": 63.14,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $7.9B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 1–7% for five years, fading to 3%; operating margin held at 21%; cost of capital 10.3%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 90.15,
+  "fair_value": 90.21,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -572,8 +572,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 60.05,
-    "high": 76.36,
+    "low": 60.13,
+    "high": 76.49,
     "basis": "Sales grow 1–7% for five years, fading to 3%; operating margin held at 21%; cost of capital 10.3%. Cash added, debt subtracted."
    }
   ],
@@ -587,17 +587,17 @@
    "roc": 24.5,
    "reinvestment": 16,
    "beta": 1.25,
-   "cost_of_equity": 10.8,
-   "cost_of_debt": 5.0,
+   "cost_of_equity": 10.7,
+   "cost_of_debt": 4.9,
    "debt_weight": 8,
    "cost_of_capital": 10.3,
    "terminal_growth": 3.0,
    "terminal_roc": 12.3,
    "revenue_now": "$43.1B",
    "revenue_year10": "$62.0B",
-   "low": 60.05,
-   "high": 76.36,
-   "implied_growth": 25.0,
+   "low": 60.13,
+   "high": 76.49,
+   "implied_growth": 25.8,
    "implied_note": null
   }
  },
@@ -620,7 +620,7 @@
     },
     {
      "name": "Dividend record",
-     "value": "$3.68 a share (2.2% yield)",
+     "value": "$3.68 a share (2.1% yield)",
      "threshold": "Pays a dividend",
      "pass": true
     },
@@ -632,19 +632,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "24.3x three-year average earnings ($6.80); 13.0x trailing",
+     "value": "25.4x three-year average earnings ($6.80); 13.6x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 76; Graham number $90 vs price $165",
+     "value": "P/E × P/B = 82; Graham number $90 vs price $172",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 7.7% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 7.4% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": true
     },
@@ -662,7 +662,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $12.7B (net income + depreciation − capex) = 7.2% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $12.7B (net income + depreciation − capex) = 6.9% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": true
     },
@@ -728,13 +728,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 2.79",
+     "value": "PEG 2.91",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(-11% EPS growth + 2.2% yield) ÷ P/E 13.0 = -0.65",
+     "value": "(-11% EPS growth + 2.1% yield) ÷ P/E 13.6 = -0.63",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -836,13 +836,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price -8% over 52 weeks",
+     "value": "Share price -1% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -83%",
+     "value": "Margin of safety -91%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -854,13 +854,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($104); 54% downside to the low case",
+     "value": "No upside even to the high-case value ($104); 56% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -37.2,
-   "downside_pct": 53.8
+   "upside_pct": -39.8,
+   "downside_pct": 55.6
   }
  },
  "rules_of_the_road": [

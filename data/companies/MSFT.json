@@ -11,7 +11,7 @@
  "market_cap": "$3.89T",
  "verdict": "WATCHLIST",
  "overall_score": 70,
- "one_liner": "A wide-moat business worth owning, but it trades at 1.7x fair value. Interesting below about $211.",
+ "one_liner": "A wide-moat business worth owning, but it trades at 1.7x fair value. Interesting below about $212.",
  "scores": {
   "meaning": 8,
   "moat": 9,
@@ -20,7 +20,7 @@
   "financial_health": 9,
   "valuation": 1
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Microsoft sells Azure cloud computing, Microsoft 365 (Office, Teams, Outlook), Windows, LinkedIn, GitHub, Dynamics business software and Xbox gaming. It is a large investor in OpenAI and is building AI into all its products through Copilot.",
   "money": "Mostly subscriptions and usage fees from companies. Azure is the fastest-growing part, charging by computing used. Microsoft 365 charges per user per month. Windows earns licence fees from PC makers. It is spending well over $100 billion a year on data centres for AI.",
@@ -42,7 +42,7 @@
     "value": 25.24,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 17.35,
+    "sector_median": 18.6,
     "sector_n": 13
    },
    {
@@ -51,7 +51,7 @@
     "value": 64.92,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 22.33,
+    "sector_median": 22.39,
     "sector_n": 11
    },
    {
@@ -60,7 +60,7 @@
     "value": 19.26,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 19.33,
+    "sector_median": 19.34,
     "sector_n": 20
    },
    {
@@ -78,22 +78,22 @@
    {
     "ticker": "NOW",
     "company": "ServiceNow",
-    "value": 73.36
-   },
-   {
-    "ticker": "AAPL",
-    "company": "Apple",
-    "value": 39.05
+    "value": 73.56
    },
    {
     "ticker": "AVGO",
     "company": "Broadcom",
-    "value": 37.51
+    "value": 44.32
+   },
+   {
+    "ticker": "AAPL",
+    "company": "Apple",
+    "value": 39.67
    },
    {
     "ticker": "CSCO",
     "company": "Cisco Systems",
-    "value": 28.18
+    "value": 28.72
    },
    {
     "ticker": "MSFT",
@@ -103,37 +103,37 @@
    {
     "ticker": "IBM",
     "company": "IBM",
-    "value": 22.0
+    "value": 21.09
    },
    {
     "ticker": "INTU",
     "company": "Intuit",
-    "value": 20.75
+    "value": 20.76
    },
    {
     "ticker": "NVDA",
     "company": "NVIDIA",
-    "value": 20.55
+    "value": 20.59
    },
    {
     "ticker": "CRM",
     "company": "Salesforce",
-    "value": 19.8
-   },
-   {
-    "ticker": "ACN",
-    "company": "Accenture",
-    "value": 18.76
+    "value": 20.19
    },
    {
     "ticker": "ORCL",
     "company": "Oracle",
-    "value": 18.2
+    "value": 19.65
+   },
+   {
+    "ticker": "ACN",
+    "company": "Accenture",
+    "value": 18.47
    },
    {
     "ticker": "ADBE",
     "company": "Adobe",
-    "value": 13.35
+    "value": 13.56
    }
   ]
  },
@@ -147,7 +147,7 @@
   "range_pos": 83,
   "below_high": 6.3,
   "target_vs_price": 21.4,
-  "target_vs_fair": 110.7,
+  "target_vs_fair": 110.1,
   "above_low": 50.0
  },
  "summary": {
@@ -482,7 +482,7 @@
      {
       "name": "Dividend yield",
       "value": "0.7%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -523,19 +523,19 @@
      {
       "name": "Earnings yield",
       "value": "3.7%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
       "value": "1.2%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
       "value": "1.2%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
@@ -593,12 +593,12 @@
     "value": "8.3"
    }
   ],
-  "intrinsic_value_low": 257.3,
-  "intrinsic_value_high": 346.64,
-  "margin_of_safety_pct": -73.5,
-  "interesting_below": 211.38,
-  "method": "Fair value is the average of two methods: (1) Owner cash flow, capex held at depreciation: $92.0B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 3.5x depreciation, so most of it is expansion, not upkeep. (2) Damodaran: cash flow to the firm: Sales grow 9–15% for five years, fading to 3%; operating margin held at 47%; cost of capital 9.5%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 301.97,
+  "intrinsic_value_low": 257.95,
+  "intrinsic_value_high": 347.58,
+  "margin_of_safety_pct": -73.0,
+  "interesting_below": 211.94,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow, capex held at depreciation: $92.0B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 3.5x depreciation, so most of it is expansion, not upkeep. (2) Damodaran: cash flow to the firm: Sales grow 9–15% for five years, fading to 3%; operating margin held at 47%; cost of capital 9.4%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 302.76,
   "methods": [
    {
     "name": "Owner cash flow, capex held at depreciation",
@@ -608,9 +608,9 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 268.82,
-    "high": 347.36,
-    "basis": "Sales grow 9–15% for five years, fading to 3%; operating margin held at 47%; cost of capital 9.5%. Cash added, debt subtracted."
+    "low": 270.13,
+    "high": 349.22,
+    "basis": "Sales grow 9–15% for five years, fading to 3%; operating margin held at 47%; cost of capital 9.4%. Cash added, debt subtracted."
    }
   ],
   "stress_case": {
@@ -628,16 +628,16 @@
    "reinvestment": 47,
    "beta": 1.0,
    "cost_of_equity": 9.6,
-   "cost_of_debt": 5.0,
+   "cost_of_debt": 4.9,
    "debt_weight": 3,
-   "cost_of_capital": 9.5,
+   "cost_of_capital": 9.4,
    "terminal_growth": 3.0,
-   "terminal_roc": 14.5,
+   "terminal_roc": 14.4,
    "revenue_now": "$346.4B",
    "revenue_year10": "$839.3B",
-   "low": 268.82,
-   "high": 347.36,
-   "implied_growth": 24.2,
+   "low": 270.13,
+   "high": 349.22,
+   "implied_growth": 24.1,
    "implied_note": null
   }
  },
@@ -684,7 +684,7 @@
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 3.7% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 3.7% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -702,7 +702,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $45.7B (net income + depreciation − capex) = 1.2% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $45.7B (net income + depreciation − capex) = 1.2% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -854,7 +854,7 @@
   },
   "pabrai": {
    "passed": 3,
-   "total": 5,
+   "total": 6,
    "tests": [
     {
      "name": "A simple, existing business",
@@ -876,9 +876,9 @@
     },
     {
      "name": "Out of favour",
-     "value": "n/a",
+     "value": "Share price +3% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
-     "pass": null
+     "pass": false
     },
     {
      "name": "Bought well below value",
@@ -894,13 +894,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($347); 51% downside to the low case",
+     "value": "No upside even to the high-case value ($348); 51% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -33.8,
-   "downside_pct": 50.9
+   "upside_pct": -33.7,
+   "downside_pct": 50.8
   }
  },
  "rules_of_the_road": [

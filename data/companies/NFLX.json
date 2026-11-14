@@ -5,10 +5,10 @@
  "sector": "Communication services",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 63.41,
- "market_cap": "$260.6B",
+ "price": 62.15,
+ "market_cap": "$255.4B",
  "verdict": "WATCHLIST",
  "overall_score": 72,
  "one_liner": "A wide-moat business worth owning, but it trades at 1.2x fair value. Interesting below about $36.",
@@ -20,7 +20,7 @@
   "financial_health": 8,
   "valuation": 4
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Netflix is the largest paid video-streaming service in the world, with more than 300 million paying households in over 190 countries. It makes and licenses films and series and has added live events and games.",
   "money": "Monthly subscriptions are nearly all revenue; the US and Canada are the largest region at about 45%. Growth comes from new members, price increases, the crackdown on password sharing, and a cheaper ad-supported plan that also earns advertising revenue.",
@@ -30,25 +30,25 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 18.38,
+    "value": 18.01,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 16.29,
+    "sector_median": 16.62,
     "sector_n": 8
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 17.66,
+    "value": 17.31,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 14.2,
+    "sector_median": 14.66,
     "sector_n": 8
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 22.9,
+    "value": 22.45,
     "unit": "x",
     "note": "Before deducting stock-based pay",
     "sector_median": 16.16,
@@ -57,10 +57,10 @@
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 16.91,
+    "value": 16.59,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 10.03,
+    "sector_median": 10.24,
     "sector_n": 8
    },
    {
@@ -69,7 +69,7 @@
     "value": 0.0,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 2.08,
+    "sector_median": 2.0,
     "sector_n": 8
    }
   ],
@@ -78,42 +78,42 @@
    {
     "ticker": "DIS",
     "company": "Walt Disney",
-    "value": 24.12
+    "value": 24.58
    },
    {
     "ticker": "META",
     "company": "Meta Platforms",
-    "value": 21.63
+    "value": 21.88
    },
    {
     "ticker": "NFLX",
     "company": "Netflix",
-    "value": 18.38
+    "value": 18.01
    },
    {
     "ticker": "TMUS",
     "company": "T-Mobile US",
-    "value": 16.98
+    "value": 17.81
    },
    {
     "ticker": "GOOGL",
     "company": "Alphabet",
-    "value": 15.6
-   },
-   {
-    "ticker": "VZ",
-    "company": "Verizon",
-    "value": 11.66
+    "value": 15.44
    },
    {
     "ticker": "T",
     "company": "AT&T",
-    "value": 11.51
+    "value": 11.92
+   },
+   {
+    "ticker": "VZ",
+    "company": "Verizon",
+    "value": 11.83
    },
    {
     "ticker": "CMCSA",
     "company": "Comcast",
-    "value": 7.77
+    "value": 8.01
    }
   ]
  },
@@ -123,12 +123,12 @@
   "beta": 1.61,
   "as_of": "2026-11-06",
   "low52": 61.39,
-  "high52": 116.73,
-  "range_pos": 4,
-  "below_high": 45.7,
-  "target_vs_price": 33.7,
-  "target_vs_fair": 63.3,
-  "above_low": 3.3
+  "high52": 115.25,
+  "range_pos": 1,
+  "below_high": 46.1,
+  "target_vs_price": 36.4,
+  "target_vs_fair": 62.7,
+  "above_low": 1.2
  },
  "summary": {
   "sentence": "The winner of the streaming wars, still growing through prices, advertising and new members.",
@@ -461,7 +461,7 @@
      {
       "name": "Dividend yield",
       "value": "0.0%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -478,7 +478,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "5.0%",
+      "value": "5.1%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -501,20 +501,20 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "5.4%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "5.6%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Free cash flow yield after stock pay",
       "value": "4.2%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "5.5%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "5.6%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      }
     ]
@@ -531,53 +531,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "18.4"
+   "value": "18.0"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "22.9"
+   "value": "22.4"
   },
   "three_numbers": {
-   "pe": "18.4",
-   "forward_pe": "17.7",
-   "peg": "0.84"
+   "pe": "18.0",
+   "forward_pe": "17.3",
+   "peg": "0.82"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "5.4"
+    "value": "5.3"
    },
    {
     "name": "EV/EBITDA",
-    "value": "16.9"
+    "value": "16.6"
    },
    {
     "name": "EV/EBIT",
-    "value": "17.3"
+    "value": "17.0"
    },
    {
     "name": "P/E",
-    "value": "18.4"
+    "value": "18.0"
    },
    {
     "name": "EV/FCF",
-    "value": "23.7"
+    "value": "23.3"
    },
    {
     "name": "P/FCF",
-    "value": "22.9"
+    "value": "22.4"
    },
    {
     "name": "P/B",
-    "value": "8.9"
+    "value": "8.7"
    }
   ],
-  "intrinsic_value_low": 43.94,
-  "intrinsic_value_high": 59.89,
-  "margin_of_safety_pct": -22.1,
-  "interesting_below": 36.34,
+  "intrinsic_value_low": 44.08,
+  "intrinsic_value_high": 60.09,
+  "margin_of_safety_pct": -19.3,
+  "interesting_below": 36.46,
   "method": "Fair value is the average of two methods: (1) Owner cash flow, capex held at depreciation: $8.1B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 2.4x depreciation, so most of it is expansion, not upkeep. (2) Damodaran: cash flow to the firm: Sales grow 9–15% for five years, fading to 3%; operating margin held at 31%; cost of capital 9.3%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 51.91,
+  "fair_value": 52.09,
   "methods": [
    {
     "name": "Owner cash flow, capex held at depreciation",
@@ -587,8 +587,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 48.74,
-    "high": 64.71,
+    "low": 49.02,
+    "high": 65.11,
     "basis": "Sales grow 9–15% for five years, fading to 3%; operating margin held at 31%; cost of capital 9.3%. Cash added, debt subtracted."
    }
   ],
@@ -607,16 +607,16 @@
    "reinvestment": 35,
    "beta": 1.0,
    "cost_of_equity": 9.6,
-   "cost_of_debt": 5.0,
+   "cost_of_debt": 4.9,
    "debt_weight": 6,
    "cost_of_capital": 9.3,
    "terminal_growth": 3.0,
    "terminal_roc": 14.3,
    "revenue_now": "$49.7B",
    "revenue_year10": "$120.5B",
-   "low": 48.74,
-   "high": 64.71,
-   "implied_growth": 14.6,
+   "low": 49.02,
+   "high": 65.11,
+   "implied_growth": 14.0,
    "implied_note": null
   }
  },
@@ -651,19 +651,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "33.3x three-year average earnings ($1.90); 18.4x trailing",
+     "value": "32.7x three-year average earnings ($1.90); 18.0x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 164; Graham number $24 vs price $63",
+     "value": "P/E × P/B = 157; Graham number $24 vs price $62",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 5.4% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 5.6% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": true
     },
@@ -681,7 +681,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $14.2B (net income + depreciation − capex) = 5.5% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $14.2B (net income + depreciation − capex) = 5.6% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": true
     },
@@ -747,13 +747,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 0.84",
+     "value": "PEG 0.82",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": true
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(23% EPS growth + 0.0% yield) ÷ P/E 18.4 = 1.23",
+     "value": "(23% EPS growth + 0.0% yield) ÷ P/E 18.0 = 1.25",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": null
     },
@@ -855,13 +855,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price -42% over 52 weeks",
+     "value": "Share price -44% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": true
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -22%",
+     "value": "Margin of safety -19%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -873,13 +873,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($60); 31% downside to the low case",
+     "value": "No upside even to the high-case value ($60); 29% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -5.5,
-   "downside_pct": 30.7
+   "upside_pct": -3.3,
+   "downside_pct": 29.1
   }
  },
  "rules_of_the_road": [

@@ -5,13 +5,13 @@
  "sector": "Industrials",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-10-27",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 197.36,
- "market_cap": "$266.4B",
+ "price": 198.58,
+ "market_cap": "$268.1B",
  "verdict": "WATCHLIST",
  "overall_score": 62,
- "one_liner": "A wide-moat business worth owning, but it trades at 2.4x fair value. Interesting below about $57.",
+ "one_liner": "A wide-moat business worth owning, but it trades at 2.4x fair value. Interesting below about $58.",
  "scores": {
   "meaning": 8,
   "moat": 7,
@@ -20,7 +20,7 @@
   "financial_health": 9,
   "valuation": 1
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "RTX (formerly Raytheon Technologies) makes jet engines (Pratt & Whitney), aircraft systems (Collins Aerospace) and missiles and defence systems (Raytheon).",
   "money": "Revenue is split roughly between commercial aerospace (engines and parts, with high-margin aftermarket service) and defence (missiles, radars and air defence sold to the US and allied governments). A large engine recall in 2023 is still costing it money.",
@@ -30,46 +30,46 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 32.09,
+    "value": 32.29,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 23.16,
+    "sector_median": 23.59,
     "sector_n": 15
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 25.43,
+    "value": 25.59,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 19.37,
+    "sector_median": 19.88,
     "sector_n": 5
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 28.05,
+    "value": 28.22,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 16.56,
+    "sector_median": 17.0,
     "sector_n": 5
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 17.46,
+    "value": 17.56,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 15.4,
+    "sector_median": 15.86,
     "sector_n": 15
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 1.48,
+    "value": 1.47,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.53,
+    "sector_median": 1.49,
     "sector_n": 16
    }
   ],
@@ -78,22 +78,22 @@
    {
     "ticker": "RTX",
     "company": "RTX",
-    "value": 32.09
+    "value": 32.29
    },
    {
     "ticker": "WM",
     "company": "Waste Management",
-    "value": 31.01
-   },
-   {
-    "ticker": "LMT",
-    "company": "Lockheed Martin",
-    "value": 20.89
+    "value": 32.0
    },
    {
     "ticker": "GD",
     "company": "General Dynamics",
-    "value": 20.84
+    "value": 21.39
+   },
+   {
+    "ticker": "LMT",
+    "company": "Lockheed Martin",
+    "value": 21.17
    },
    {
     "ticker": "UBER",
@@ -109,11 +109,11 @@
   "as_of": "2026-10-27",
   "low52": 166.74,
   "high52": 226.88,
-  "range_pos": 51,
-  "below_high": 13.0,
-  "target_vs_price": 16.1,
-  "target_vs_fair": 179.6,
-  "above_low": 18.4
+  "range_pos": 53,
+  "below_high": 12.5,
+  "target_vs_price": 15.4,
+  "target_vs_fair": 178.6,
+  "above_low": 19.1
  },
  "summary": {
   "sentence": "An aerospace and defence supplier with strong demand and a costly engine recall behind it.",
@@ -444,7 +444,7 @@
      {
       "name": "Dividend yield",
       "value": "1.5%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -485,19 +485,19 @@
      {
       "name": "Earnings yield",
       "value": "3.1%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
       "value": "3.1%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
       "value": "3.7%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
@@ -514,16 +514,16 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "32.1"
+   "value": "32.3"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "28.0"
+   "value": "28.2"
   },
   "three_numbers": {
-   "pe": "32.1",
-   "forward_pe": "25.4",
-   "peg": "2.11"
+   "pe": "32.3",
+   "forward_pe": "25.6",
+   "peg": "2.12"
   },
   "multiples": [
    {
@@ -532,35 +532,35 @@
    },
    {
     "name": "EV/EBITDA",
-    "value": "17.5"
+    "value": "17.6"
    },
    {
     "name": "EV/EBIT",
-    "value": "23.5"
+    "value": "23.7"
    },
    {
     "name": "P/E",
-    "value": "32.1"
+    "value": "32.3"
    },
    {
     "name": "EV/FCF",
-    "value": "31.2"
+    "value": "31.3"
    },
    {
     "name": "P/FCF",
-    "value": "28.0"
+    "value": "28.2"
    },
    {
     "name": "P/B",
     "value": "3.8"
    }
   ],
-  "intrinsic_value_low": 71.53,
-  "intrinsic_value_high": 92.38,
-  "margin_of_safety_pct": -140.8,
-  "interesting_below": 57.37,
+  "intrinsic_value_low": 71.77,
+  "intrinsic_value_high": 92.72,
+  "margin_of_safety_pct": -141.4,
+  "interesting_below": 57.57,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $5.8B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 4–10% for five years, fading to 3%; operating margin held at 13%; cost of capital 8.4%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 81.95,
+  "fair_value": 82.25,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -570,8 +570,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 78.92,
-    "high": 94.22,
+    "low": 79.41,
+    "high": 94.91,
     "basis": "Sales grow 4–10% for five years, fading to 3%; operating margin held at 13%; cost of capital 8.4%. Cash added, debt subtracted."
    }
   ],
@@ -585,16 +585,16 @@
    "roc": 10.3,
    "reinvestment": 68,
    "beta": 0.85,
-   "cost_of_equity": 9.0,
-   "cost_of_debt": 5.0,
+   "cost_of_equity": 8.9,
+   "cost_of_debt": 4.9,
    "debt_weight": 13,
    "cost_of_capital": 8.4,
    "terminal_growth": 3.0,
    "terminal_roc": 13.4,
    "revenue_now": "$96.0B",
    "revenue_year10": "$168.5B",
-   "low": 78.92,
-   "high": 94.22,
+   "low": 79.41,
+   "high": 94.91,
    "implied_growth": 21.4,
    "implied_note": null
   }
@@ -630,19 +630,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "55.1x three-year average earnings ($3.58); 32.1x trailing",
+     "value": "55.5x three-year average earnings ($3.58); 32.3x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 120; Graham number $85 vs price $197",
+     "value": "P/E × P/B = 122; Graham number $85 vs price $199",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 3.1% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 3.1% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -660,7 +660,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $9.8B (net income + depreciation − capex) = 3.7% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $9.8B (net income + depreciation − capex) = 3.7% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -726,13 +726,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 2.11",
+     "value": "PEG 2.12",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(18% EPS growth + 1.5% yield) ÷ P/E 32.1 = 0.61",
+     "value": "(18% EPS growth + 1.5% yield) ÷ P/E 32.3 = 0.60",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -834,7 +834,7 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +10% over 52 weeks",
+     "value": "Share price +13% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
@@ -852,13 +852,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($92); 64% downside to the low case",
+     "value": "No upside even to the high-case value ($93); 64% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -53.2,
-   "downside_pct": 63.8
+   "upside_pct": -53.3,
+   "downside_pct": 63.9
   }
  },
  "rules_of_the_road": [

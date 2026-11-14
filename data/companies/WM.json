@@ -5,13 +5,13 @@
  "sector": "Industrials",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 236.26,
- "market_cap": "$93.9B",
+ "price": 243.83,
+ "market_cap": "$97.0B",
  "verdict": "WATCHLIST",
  "overall_score": 75,
- "one_liner": "A wide-moat business worth owning, but it trades at 2.3x fair value. Interesting below about $72.",
+ "one_liner": "A wide-moat business worth owning, but it trades at 2.4x fair value. Interesting below about $72.",
  "scores": {
   "meaning": 10,
   "moat": 10,
@@ -20,7 +20,7 @@
   "financial_health": 8,
   "valuation": 1
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Waste Management is the largest waste and recycling company in North America, collecting, transporting and disposing of household and business waste. It owns the largest network of landfills, and acquired Stericycle's medical-waste business in 2024.",
   "money": "It charges homes, businesses and municipalities for collection and disposal under long-term contracts, with annual price increases. Owning landfills, which are very hard to permit, gives it pricing power. It also earns revenue from recycling and from turning landfill gas into energy.",
@@ -30,46 +30,46 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 31.01,
+    "value": 32.0,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 23.16,
+    "sector_median": 23.59,
     "sector_n": 15
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 27.52,
+    "value": 28.4,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 19.37,
+    "sector_median": 19.88,
     "sector_n": 5
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 25.12,
+    "value": 25.92,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 16.56,
+    "sector_median": 17.0,
     "sector_n": 5
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 14.84,
+    "value": 15.22,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 15.4,
+    "sector_median": 15.86,
     "sector_n": 15
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 1.6,
+    "value": 1.55,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.53,
+    "sector_median": 1.49,
     "sector_n": 16
    }
   ],
@@ -78,22 +78,22 @@
    {
     "ticker": "RTX",
     "company": "RTX",
-    "value": 32.09
+    "value": 32.29
    },
    {
     "ticker": "WM",
     "company": "Waste Management",
-    "value": 31.01
-   },
-   {
-    "ticker": "LMT",
-    "company": "Lockheed Martin",
-    "value": 20.89
+    "value": 32.0
    },
    {
     "ticker": "GD",
     "company": "General Dynamics",
-    "value": 20.84
+    "value": 21.39
+   },
+   {
+    "ticker": "LMT",
+    "company": "Lockheed Martin",
+    "value": 21.17
    },
    {
     "ticker": "UBER",
@@ -107,13 +107,13 @@
   "target": 255.6,
   "beta": 0.39,
   "as_of": "2026-11-06",
-  "low52": 197.47,
+  "low52": 200.58,
   "high52": 248.13,
-  "range_pos": 77,
-  "below_high": 4.8,
-  "target_vs_price": 8.2,
-  "target_vs_fair": 148.2,
-  "above_low": 19.6
+  "range_pos": 91,
+  "below_high": 1.7,
+  "target_vs_price": 4.8,
+  "target_vs_fair": 147.8,
+  "above_low": 21.6
  },
  "summary": {
   "sentence": "The largest US waste company: essential service, pricing power, premium price.",
@@ -446,7 +446,7 @@
      {
       "name": "Dividend yield",
       "value": "1.6%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -486,20 +486,20 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "3.2%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "3.1%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "3.8%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "3.7%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "3.4%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "3.3%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
@@ -516,53 +516,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "31.0"
+   "value": "32.0"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "25.1"
+   "value": "25.9"
   },
   "three_numbers": {
-   "pe": "31.0",
-   "forward_pe": "27.5",
-   "peg": "2.82"
+   "pe": "32.0",
+   "forward_pe": "28.4",
+   "peg": "2.91"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "4.5"
+    "value": "4.6"
    },
    {
     "name": "EV/EBITDA",
-    "value": "14.8"
+    "value": "15.2"
    },
    {
     "name": "EV/EBIT",
-    "value": "23.8"
+    "value": "24.4"
    },
    {
     "name": "P/E",
-    "value": "31.0"
+    "value": "32.0"
    },
    {
     "name": "EV/FCF",
-    "value": "31.3"
+    "value": "32.1"
    },
    {
     "name": "P/FCF",
-    "value": "25.1"
+    "value": "25.9"
    },
    {
     "name": "P/B",
-    "value": "9.5"
+    "value": "9.8"
    }
   ],
-  "intrinsic_value_low": 87.41,
-  "intrinsic_value_high": 118.58,
-  "margin_of_safety_pct": -129.4,
-  "interesting_below": 72.1,
+  "intrinsic_value_low": 87.53,
+  "intrinsic_value_high": 118.75,
+  "margin_of_safety_pct": -136.4,
+  "interesting_below": 72.2,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $2.3B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 4–10% for five years, fading to 3%; operating margin held at 19%; cost of capital 8.2%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 103.0,
+  "fair_value": 103.14,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -572,8 +572,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 87.06,
-    "high": 113.26,
+    "low": 87.3,
+    "high": 113.6,
     "basis": "Sales grow 4–10% for five years, fading to 3%; operating margin held at 19%; cost of capital 8.2%. Cash added, debt subtracted."
    }
   ],
@@ -587,17 +587,17 @@
    "roc": 11.8,
    "reinvestment": 59,
    "beta": 0.85,
-   "cost_of_equity": 9.0,
-   "cost_of_debt": 5.0,
-   "debt_weight": 20,
+   "cost_of_equity": 8.9,
+   "cost_of_debt": 4.9,
+   "debt_weight": 19,
    "cost_of_capital": 8.2,
    "terminal_growth": 3.0,
    "terminal_roc": 13.2,
    "revenue_now": "$26.1B",
    "revenue_year10": "$45.8B",
-   "low": 87.06,
-   "high": 113.26,
-   "implied_growth": 20.2,
+   "low": 87.3,
+   "high": 113.6,
+   "implied_growth": 20.6,
    "implied_note": null
   }
  },
@@ -632,19 +632,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "37.0x three-year average earnings ($6.39); 31.0x trailing",
+     "value": "38.2x three-year average earnings ($6.39); 32.0x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 295; Graham number $65 vs price $236",
+     "value": "P/E × P/B = 314; Graham number $65 vs price $244",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 3.2% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 3.1% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -662,7 +662,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $3.2B (net income + depreciation − capex) = 3.4% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $3.2B (net income + depreciation − capex) = 3.3% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -728,13 +728,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 2.82",
+     "value": "PEG 2.91",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(12% EPS growth + 1.6% yield) ÷ P/E 31.0 = 0.43",
+     "value": "(12% EPS growth + 1.6% yield) ÷ P/E 32.0 = 0.42",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -836,13 +836,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +18% over 52 weeks",
+     "value": "Share price +17% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -129%",
+     "value": "Margin of safety -136%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -854,13 +854,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($119); 63% downside to the low case",
+     "value": "No upside even to the high-case value ($119); 64% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -49.8,
-   "downside_pct": 63.0
+   "upside_pct": -51.3,
+   "downside_pct": 64.1
   }
  },
  "rules_of_the_road": [

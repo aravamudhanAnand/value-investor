@@ -5,13 +5,13 @@
  "sector": "Consumer discretionary",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 276.52,
- "market_cap": "$195.7B",
+ "price": 271.97,
+ "market_cap": "$192.5B",
  "verdict": "WATCHLIST",
  "overall_score": 70,
- "one_liner": "A wide-moat business worth owning, but it trades at 1.6x fair value. Interesting below about $118.",
+ "one_liner": "A wide-moat business worth owning, but it trades at 1.6x fair value. Interesting below about $119.",
  "scores": {
   "meaning": 9,
   "moat": 9,
@@ -20,7 +20,7 @@
   "financial_health": 8,
   "valuation": 2
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "McDonald's is the largest restaurant brand in the world, with more than 40,000 restaurants in over 100 countries, about 95% run by franchisees.",
   "money": "It earns rent and royalties from franchisees, a percentage of each restaurant's sales, and owns or leases much of the land under its restaurants. This makes it effectively a real-estate and brand-licensing company with high, stable margins.",
@@ -30,46 +30,46 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 22.46,
+    "value": 22.09,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 21.47,
+    "sector_median": 21.56,
     "sector_n": 9
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 20.99,
+    "value": 20.64,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 24.14,
+    "sector_median": 24.82,
     "sector_n": 8
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 25.22,
+    "value": 24.8,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 25.22,
+    "sector_median": 24.8,
     "sector_n": 7
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 16.71,
+    "value": 16.49,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 15.8,
+    "sector_median": 16.49,
     "sector_n": 9
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 2.79,
+    "value": 2.84,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 2.29,
+    "sector_median": 2.2,
     "sector_n": 9
    }
   ],
@@ -78,42 +78,42 @@
    {
     "ticker": "TSLA",
     "company": "Tesla",
-    "value": 428.59
+    "value": 428.81
    },
    {
     "ticker": "SBUX",
     "company": "Starbucks",
-    "value": 60.58
+    "value": 61.17
    },
    {
     "ticker": "HD",
     "company": "Home Depot",
-    "value": 23.04
+    "value": 24.4
    },
    {
     "ticker": "MCD",
     "company": "McDonald's",
-    "value": 22.46
+    "value": 22.09
    },
    {
     "ticker": "AMZN",
     "company": "Amazon",
-    "value": 21.47
-   },
-   {
-    "ticker": "NKE",
-    "company": "Nike",
-    "value": 18.46
+    "value": 21.56
    },
    {
     "ticker": "LOW",
     "company": "Lowe's",
-    "value": 18.44
+    "value": 19.25
+   },
+   {
+    "ticker": "NKE",
+    "company": "Nike",
+    "value": 18.18
    },
    {
     "ticker": "BKNG",
     "company": "Booking Holdings",
-    "value": 17.48
+    "value": 17.36
    }
   ]
  },
@@ -124,11 +124,11 @@
   "as_of": "2026-11-06",
   "low52": 229.2,
   "high52": 341.75,
-  "range_pos": 42,
-  "below_high": 19.1,
-  "target_vs_price": 8.3,
-  "target_vs_fair": 77.8,
-  "above_low": 20.6
+  "range_pos": 38,
+  "below_high": 20.4,
+  "target_vs_price": 10.1,
+  "target_vs_fair": 76.8,
+  "above_low": 18.7
  },
  "summary": {
   "sentence": "A franchise and real-estate business with stable cash flows and a premium price.",
@@ -462,7 +462,7 @@
      {
       "name": "Dividend yield",
       "value": "2.8%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -503,19 +503,19 @@
      {
       "name": "Earnings yield",
       "value": "4.5%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
       "value": "3.9%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "3.8%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "3.9%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
@@ -532,53 +532,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "22.5"
+   "value": "22.1"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "25.2"
+   "value": "24.8"
   },
   "three_numbers": {
-   "pe": "22.5",
-   "forward_pe": "21.0",
-   "peg": "3.16"
+   "pe": "22.1",
+   "forward_pe": "20.6",
+   "peg": "3.11"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "9.0"
+    "value": "8.9"
    },
    {
     "name": "EV/EBITDA",
-    "value": "16.7"
+    "value": "16.5"
    },
    {
     "name": "EV/EBIT",
-    "value": "19.7"
+    "value": "19.4"
    },
    {
     "name": "P/E",
-    "value": "22.5"
+    "value": "22.1"
    },
    {
     "name": "EV/FCF",
-    "value": "32.1"
+    "value": "31.7"
    },
    {
     "name": "P/FCF",
-    "value": "25.2"
+    "value": "24.8"
    },
    {
     "name": "P/B",
     "value": "n/a"
    }
   ],
-  "intrinsic_value_low": 139.88,
-  "intrinsic_value_high": 197.13,
-  "margin_of_safety_pct": -64.1,
-  "interesting_below": 117.95,
-  "method": "Fair value is the average of two methods: (1) Owner cash flow: $7.1B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 3–9% for five years, fading to 3%; operating margin held at 46%; cost of capital 8.1%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 168.5,
+  "intrinsic_value_low": 140.65,
+  "intrinsic_value_high": 198.25,
+  "margin_of_safety_pct": -60.5,
+  "interesting_below": 118.61,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $7.1B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 3–9% for five years, fading to 3%; operating margin held at 46%; cost of capital 8.0%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 169.45,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -588,9 +588,9 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 139.74,
-    "high": 196.5,
-    "basis": "Sales grow 3–9% for five years, fading to 3%; operating margin held at 46%; cost of capital 8.1%. Cash added, debt subtracted."
+    "low": 141.28,
+    "high": 198.73,
+    "basis": "Sales grow 3–9% for five years, fading to 3%; operating margin held at 46%; cost of capital 8.0%. Cash added, debt subtracted."
    }
   ],
   "stress_case": null,
@@ -603,17 +603,17 @@
    "roc": 17.8,
    "reinvestment": 34,
    "beta": 0.85,
-   "cost_of_equity": 9.0,
-   "cost_of_debt": 5.0,
+   "cost_of_equity": 8.9,
+   "cost_of_debt": 4.9,
    "debt_weight": 22,
-   "cost_of_capital": 8.1,
+   "cost_of_capital": 8.0,
    "terminal_growth": 3.0,
-   "terminal_roc": 13.1,
+   "terminal_roc": 13.0,
    "revenue_now": "$27.7B",
    "revenue_year10": "$45.5B",
-   "low": 139.74,
-   "high": 196.5,
-   "implied_growth": 15.4,
+   "low": 141.28,
+   "high": 198.73,
+   "implied_growth": 14.9,
    "implied_note": null
   }
  },
@@ -648,7 +648,7 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "23.8x three-year average earnings ($11.63); 22.5x trailing",
+     "value": "23.4x three-year average earnings ($11.63); 22.1x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
@@ -660,7 +660,7 @@
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 4.5% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 4.5% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -678,7 +678,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $7.5B (net income + depreciation − capex) = 3.8% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $7.5B (net income + depreciation − capex) = 3.9% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -744,13 +744,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 3.16",
+     "value": "PEG 3.11",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(4% EPS growth + 2.8% yield) ÷ P/E 22.5 = 0.32",
+     "value": "(4% EPS growth + 2.8% yield) ÷ P/E 22.1 = 0.33",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -830,7 +830,7 @@
   },
   "pabrai": {
    "passed": 3,
-   "total": 6,
+   "total": 7,
    "tests": [
     {
      "name": "A simple, existing business",
@@ -852,13 +852,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "n/a",
+     "value": "Share price -11% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
-     "pass": null
+     "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -64%",
+     "value": "Margin of safety -61%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -870,13 +870,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($197); 49% downside to the low case",
+     "value": "No upside even to the high-case value ($198); 48% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -28.7,
-   "downside_pct": 49.4
+   "upside_pct": -27.1,
+   "downside_pct": 48.3
   }
  },
  "rules_of_the_road": [

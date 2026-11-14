@@ -5,10 +5,10 @@
  "sector": "Technology",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 293.69,
- "market_cap": "$1.40T",
+ "price": 347.01,
+ "market_cap": "$1.66T",
  "verdict": "TOO_HARD",
  "overall_score": 65,
  "one_liner": "Goes in the too-hard pile: its industry is changing too fast to predict. No verdict on price.",
@@ -20,7 +20,7 @@
   "financial_health": 10,
   "valuation": 1
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Broadcom designs chips for networking, data-centre connectivity, broadband, wireless and storage, and since buying VMware in 2023 it is also one of the largest enterprise software companies. It is a central supplier of the networking and custom AI chips that hyperscale cloud providers build their AI clusters around.",
   "money": "Two engines. Semiconductors (a little under 60% of fiscal 2025 revenue) sells chips to device makers and cloud giants, increasingly custom AI accelerators designed with a handful of very large customers. Infrastructure software (just over 40%) sells VMware, mainframe and security software on multi-year subscriptions with very high margins. Broadcom buys franchises, cuts costs hard and raises prices.",
@@ -30,7 +30,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 37.51,
+    "value": 44.32,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 27.36,
@@ -39,34 +39,34 @@
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 16.88,
+    "value": 19.94,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 17.35,
+    "sector_median": 18.6,
     "sector_n": 13
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 35.56,
+    "value": 42.01,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 22.33,
+    "sector_median": 22.39,
     "sector_n": 11
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 27.48,
+    "value": 32.35,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 19.33,
+    "sector_median": 19.34,
     "sector_n": 20
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 0.89,
+    "value": 0.75,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
     "sector_median": 0.75,
@@ -78,22 +78,22 @@
    {
     "ticker": "NOW",
     "company": "ServiceNow",
-    "value": 73.36
-   },
-   {
-    "ticker": "AAPL",
-    "company": "Apple",
-    "value": 39.05
+    "value": 73.56
    },
    {
     "ticker": "AVGO",
     "company": "Broadcom",
-    "value": 37.51
+    "value": 44.32
+   },
+   {
+    "ticker": "AAPL",
+    "company": "Apple",
+    "value": 39.67
    },
    {
     "ticker": "CSCO",
     "company": "Cisco Systems",
-    "value": 28.18
+    "value": 28.72
    },
    {
     "ticker": "MSFT",
@@ -103,37 +103,37 @@
    {
     "ticker": "IBM",
     "company": "IBM",
-    "value": 22.0
+    "value": 21.09
    },
    {
     "ticker": "INTU",
     "company": "Intuit",
-    "value": 20.75
+    "value": 20.76
    },
    {
     "ticker": "NVDA",
     "company": "NVIDIA",
-    "value": 20.55
+    "value": 20.59
    },
    {
     "ticker": "CRM",
     "company": "Salesforce",
-    "value": 19.8
-   },
-   {
-    "ticker": "ACN",
-    "company": "Accenture",
-    "value": 18.76
+    "value": 20.19
    },
    {
     "ticker": "ORCL",
     "company": "Oracle",
-    "value": 18.2
+    "value": 19.65
+   },
+   {
+    "ticker": "ACN",
+    "company": "Accenture",
+    "value": 18.47
    },
    {
     "ticker": "ADBE",
     "company": "Adobe",
-    "value": 13.35
+    "value": 13.56
    }
   ]
  },
@@ -144,11 +144,11 @@
   "as_of": "2026-11-06",
   "low52": 289.77,
   "high52": 495.0,
-  "range_pos": 2,
-  "below_high": 40.7,
-  "target_vs_price": 79.4,
-  "target_vs_fair": 437.0,
-  "above_low": 1.4
+  "range_pos": 28,
+  "below_high": 29.9,
+  "target_vs_price": 51.8,
+  "target_vs_fair": 437.2,
+  "above_low": 19.8
  },
  "summary": {
   "sentence": "A chip and software consolidator whose growth now leans on a handful of very large AI customers.",
@@ -480,8 +480,8 @@
     "rows": [
      {
       "name": "Dividend yield",
-      "value": "0.9%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "value": "0.7%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -498,7 +498,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "0.6%",
+      "value": "0.5%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -521,20 +521,20 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "2.7%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "2.3%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "2.2%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "1.9%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "3.3%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "2.8%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
@@ -551,53 +551,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "37.5"
+   "value": "44.3"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "35.6"
+   "value": "42.0"
   },
   "three_numbers": {
-   "pe": "37.5",
-   "forward_pe": "16.9",
-   "peg": "0.31"
+   "pe": "44.3",
+   "forward_pe": "19.9",
+   "peg": "0.37"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "16.1"
+    "value": "19.0"
    },
    {
     "name": "EV/EBITDA",
-    "value": "27.5"
+    "value": "32.4"
    },
    {
     "name": "EV/EBIT",
-    "value": "33.0"
+    "value": "38.9"
    },
    {
     "name": "P/E",
-    "value": "37.5"
+    "value": "44.3"
    },
    {
     "name": "EV/FCF",
-    "value": "36.5"
+    "value": "42.9"
    },
    {
     "name": "P/FCF",
-    "value": "35.6"
+    "value": "42.0"
    },
    {
     "name": "P/B",
-    "value": "14.1"
+    "value": "16.6"
    }
   ],
-  "intrinsic_value_low": 83.52,
-  "intrinsic_value_high": 112.69,
-  "margin_of_safety_pct": -199.4,
-  "interesting_below": 68.67,
+  "intrinsic_value_low": 83.48,
+  "intrinsic_value_high": 112.64,
+  "margin_of_safety_pct": -253.9,
+  "interesting_below": 68.64,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $17.4B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 9–15% for five years, fading to 3%; operating margin held at 49%; cost of capital 10.5%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 98.1,
+  "fair_value": 98.06,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -607,8 +607,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 94.62,
-    "high": 123.44,
+    "low": 94.55,
+    "high": 123.34,
     "basis": "Sales grow 9–15% for five years, fading to 3%; operating margin held at 49%; cost of capital 10.5%. Cash added, debt subtracted."
    }
   ],
@@ -622,17 +622,17 @@
    "roc": 30.7,
    "reinvestment": 39,
    "beta": 1.25,
-   "cost_of_equity": 10.8,
-   "cost_of_debt": 5.0,
-   "debt_weight": 4,
+   "cost_of_equity": 10.7,
+   "cost_of_debt": 4.9,
+   "debt_weight": 3,
    "cost_of_capital": 10.5,
    "terminal_growth": 3.0,
    "terminal_roc": 15.5,
    "revenue_now": "$89.1B",
    "revenue_year10": "$215.8B",
-   "low": 94.62,
-   "high": 123.44,
-   "implied_growth": 33.7,
+   "low": 94.55,
+   "high": 123.34,
+   "implied_growth": 37.0,
    "implied_note": null
   }
  },
@@ -655,7 +655,7 @@
     },
     {
      "name": "Dividend record",
-     "value": "$2.60 a share (0.9% yield)",
+     "value": "$2.60 a share (0.7% yield)",
      "threshold": "Pays a dividend",
      "pass": true
     },
@@ -667,19 +667,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "94.7x three-year average earnings ($3.10); 37.5x trailing",
+     "value": "111.9x three-year average earnings ($3.10); 44.3x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 527; Graham number $61 vs price $294",
+     "value": "P/E × P/B = 736; Graham number $61 vs price $347",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 2.7% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 2.3% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -697,7 +697,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $45.8B (net income + depreciation − capex) = 3.3% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $45.8B (net income + depreciation − capex) = 2.8% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -763,13 +763,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 0.31",
+     "value": "PEG 0.37",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": true
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(30% EPS growth (capped) + 0.9% yield) ÷ P/E 37.5 = 0.82",
+     "value": "(30% EPS growth (capped) + 0.7% yield) ÷ P/E 44.3 = 0.69",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -871,13 +871,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price -18% over 52 weeks",
+     "value": "Share price +1% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -199%",
+     "value": "Margin of safety -254%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -889,13 +889,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($113); 72% downside to the low case",
+     "value": "No upside even to the high-case value ($113); 76% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -61.6,
-   "downside_pct": 71.6
+   "upside_pct": -67.5,
+   "downside_pct": 75.9
   }
  },
  "rules_of_the_road": [

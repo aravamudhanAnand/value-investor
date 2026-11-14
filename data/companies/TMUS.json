@@ -5,12 +5,12 @@
  "sector": "Communication services",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 162.01,
- "market_cap": "$173.4B",
+ "price": 169.95,
+ "market_cap": "$181.8B",
  "verdict": "PASS",
- "overall_score": 65,
+ "overall_score": 63,
  "one_liner": "Fails the quality test (weak financial health), so price does not matter.",
  "scores": {
   "meaning": 9,
@@ -18,9 +18,9 @@
   "industry": 7,
   "management": 8,
   "financial_health": 4,
-  "valuation": 7
+  "valuation": 6
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "T-Mobile US is the second-largest US wireless carrier by subscribers and the leader in 5G coverage. It also sells home internet over its 5G network and is building fibre through joint ventures.",
   "money": "Monthly service plans, mainly postpaid phone plans (about two-thirds of 2025 revenue), plus prepaid plans and phone sales. Profit grows by adding customers, selling premium plans, and spreading the cost of its network over more users.",
@@ -30,25 +30,25 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 16.98,
+    "value": 17.81,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 16.29,
+    "sector_median": 16.62,
     "sector_n": 8
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 12.93,
+    "value": 13.56,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 14.2,
+    "sector_median": 14.66,
     "sector_n": 8
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 9.42,
+    "value": 9.88,
     "unit": "x",
     "note": "Before deducting stock-based pay",
     "sector_median": 16.16,
@@ -57,19 +57,19 @@
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 8.47,
+    "value": 8.71,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 10.03,
+    "sector_median": 10.24,
     "sector_n": 8
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 2.89,
+    "value": 2.75,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 2.08,
+    "sector_median": 2.0,
     "sector_n": 8
    }
   ],
@@ -78,42 +78,42 @@
    {
     "ticker": "DIS",
     "company": "Walt Disney",
-    "value": 24.12
+    "value": 24.58
    },
    {
     "ticker": "META",
     "company": "Meta Platforms",
-    "value": 21.63
+    "value": 21.88
    },
    {
     "ticker": "NFLX",
     "company": "Netflix",
-    "value": 18.38
+    "value": 18.01
    },
    {
     "ticker": "TMUS",
     "company": "T-Mobile US",
-    "value": 16.98
+    "value": 17.81
    },
    {
     "ticker": "GOOGL",
     "company": "Alphabet",
-    "value": 15.6
-   },
-   {
-    "ticker": "VZ",
-    "company": "Verizon",
-    "value": 11.66
+    "value": 15.44
    },
    {
     "ticker": "T",
     "company": "AT&T",
-    "value": 11.51
+    "value": 11.92
+   },
+   {
+    "ticker": "VZ",
+    "company": "Verizon",
+    "value": 11.83
    },
    {
     "ticker": "CMCSA",
     "company": "Comcast",
-    "value": 7.77
+    "value": 8.01
    }
   ]
  },
@@ -124,11 +124,11 @@
   "as_of": "2026-11-06",
   "low52": 143.75,
   "high52": 224.75,
-  "range_pos": 23,
-  "below_high": 27.9,
-  "target_vs_price": 39.3,
-  "target_vs_fair": 20.6,
-  "above_low": 12.7
+  "range_pos": 32,
+  "below_high": 24.4,
+  "target_vs_price": 32.8,
+  "target_vs_fair": 20.9,
+  "above_low": 18.2
  },
  "summary": {
   "sentence": "The fastest-growing US wireless carrier, with a premium valuation built on taking share.",
@@ -460,8 +460,8 @@
     "rows": [
      {
       "name": "Dividend yield",
-      "value": "2.9%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "value": "2.8%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -478,7 +478,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "7.1%",
+      "value": "6.8%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -501,20 +501,20 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "5.9%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "5.6%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "10.1%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "9.6%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Owner-earnings yield",
-      "value": "8.2%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "7.8%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      }
     ]
@@ -527,20 +527,20 @@
   "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
  },
  "valuation": {
-  "score": 7,
+  "score": 6,
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "17.0"
+   "value": "17.8"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "9.4"
+   "value": "9.9"
   },
   "three_numbers": {
-   "pe": "17.0",
-   "forward_pe": "12.9",
-   "peg": "0.73"
+   "pe": "17.8",
+   "forward_pe": "13.6",
+   "peg": "0.77"
   },
   "multiples": [
    {
@@ -549,35 +549,35 @@
    },
    {
     "name": "EV/EBITDA",
-    "value": "8.5"
+    "value": "8.7"
    },
    {
     "name": "EV/EBIT",
-    "value": "14.3"
+    "value": "14.7"
    },
    {
     "name": "P/E",
-    "value": "17.0"
+    "value": "17.8"
    },
    {
     "name": "EV/FCF",
-    "value": "15.8"
+    "value": "16.3"
    },
    {
     "name": "P/FCF",
-    "value": "9.4"
+    "value": "9.9"
    },
    {
     "name": "P/B",
-    "value": "3.1"
+    "value": "3.2"
    }
   ],
-  "intrinsic_value_low": 158.01,
-  "intrinsic_value_high": 216.15,
-  "margin_of_safety_pct": 13.4,
-  "interesting_below": 130.96,
+  "intrinsic_value_low": 157.59,
+  "intrinsic_value_high": 215.54,
+  "margin_of_safety_pct": 8.9,
+  "interesting_below": 130.59,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $15.0B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 3–9% for five years, fading to 3%; operating margin held at 22%; cost of capital 7.3%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 187.08,
+  "fair_value": 186.56,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -587,8 +587,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 119.22,
-    "high": 154.31,
+    "low": 118.36,
+    "high": 153.09,
     "basis": "Sales grow 3–9% for five years, fading to 3%; operating margin held at 22%; cost of capital 7.3%. Cash added, debt subtracted."
    }
   ],
@@ -602,17 +602,17 @@
    "roc": 8.9,
    "reinvestment": 67,
    "beta": 0.85,
-   "cost_of_equity": 9.0,
-   "cost_of_debt": 5.0,
-   "debt_weight": 41,
+   "cost_of_equity": 8.9,
+   "cost_of_debt": 4.9,
+   "debt_weight": 40,
    "cost_of_capital": 7.3,
    "terminal_growth": 3.0,
    "terminal_roc": 9.3,
    "revenue_now": "$92.2B",
    "revenue_year10": "$151.5B",
-   "low": 119.22,
-   "high": 154.31,
-   "implied_growth": 9.5,
+   "low": 118.36,
+   "high": 153.09,
+   "implied_growth": 10.2,
    "implied_note": null
   }
  },
@@ -635,7 +635,7 @@
     },
     {
      "name": "Dividend record",
-     "value": "$4.68 a share (2.9% yield)",
+     "value": "$4.68 a share (2.8% yield)",
      "threshold": "Pays a dividend",
      "pass": true
     },
@@ -647,19 +647,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "18.5x three-year average earnings ($8.77); 17.0x trailing",
+     "value": "19.4x three-year average earnings ($8.77); 17.8x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 52; Graham number $106 vs price $162",
+     "value": "P/E × P/B = 58; Graham number $106 vs price $170",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 5.9% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 5.6% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": true
     },
@@ -677,7 +677,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $14.1B (net income + depreciation − capex) = 8.2% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $14.1B (net income + depreciation − capex) = 7.8% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": true
     },
@@ -743,13 +743,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 0.73",
+     "value": "PEG 0.77",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": true
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(30% EPS growth (capped) + 2.9% yield) ÷ P/E 17.0 = 1.94",
+     "value": "(30% EPS growth (capped) + 2.8% yield) ÷ P/E 17.8 = 1.84",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": true
     },
@@ -829,8 +829,8 @@
    ]
   },
   "pabrai": {
-   "passed": 3,
-   "total": 5,
+   "passed": 4,
+   "total": 6,
    "tests": [
     {
      "name": "A simple, existing business",
@@ -852,13 +852,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "n/a",
+     "value": "Share price -21% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
-     "pass": null
+     "pass": true
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety 13%",
+     "value": "Margin of safety 9%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -870,13 +870,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "33% upside to the high case vs 2% downside to the low case (13.6 to 1)",
+     "value": "27% upside to the high case vs 7% downside to the low case (3.7 to 1)",
      "threshold": "Upside at least 3x the downside",
      "pass": true
     }
    ],
-   "upside_pct": 33.4,
-   "downside_pct": 2.5
+   "upside_pct": 26.8,
+   "downside_pct": 7.3
   }
  },
  "rules_of_the_road": [

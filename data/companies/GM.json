@@ -5,12 +5,12 @@
  "sector": "Consumer discretionary",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-10-27",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 80.11,
- "market_cap": "$67.6B",
+ "price": 86.0,
+ "market_cap": "$72.5B",
  "verdict": "PASS",
- "overall_score": 56,
+ "overall_score": 54,
  "one_liner": "Fails the quality test (no durable moat, weak financial health), so price does not matter.",
  "scores": {
   "meaning": 8,
@@ -18,9 +18,9 @@
   "industry": 4,
   "management": 7,
   "financial_health": 4,
-  "valuation": 9
+  "valuation": 8
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "General Motors is the largest US carmaker, selling Chevrolet, GMC, Cadillac and Buick vehicles. It is profitable mainly on pickup trucks and large SUVs in North America.",
   "money": "It sells vehicles to dealers, then earns more from financing them through GM Financial. North American trucks and SUVs earn most of the profit. Electric vehicles still lose money, and the Cruise robotaxi unit has been shut down.",
@@ -30,25 +30,25 @@
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 9.06,
+    "value": 9.32,
     "unit": "x",
     "note": "Judge at mid-cycle, not peak",
-    "sector_median": 15.8,
+    "sector_median": 16.49,
     "sector_n": 9
    },
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 18.94,
+    "value": 20.33,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 21.47,
+    "sector_median": 21.56,
     "sector_n": 9
    },
    {
     "key": "fcfy",
     "label": "Free cash flow yield",
-    "value": 21.31,
+    "value": 19.85,
     "unit": "%",
     "note": "Free cash flow ÷ market value",
     "sector_median": null,
@@ -57,10 +57,10 @@
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 0.9,
+    "value": 0.84,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 2.29,
+    "sector_median": 2.2,
     "sector_n": 9
    }
   ],
@@ -69,47 +69,47 @@
    {
     "ticker": "TSLA",
     "company": "Tesla",
-    "value": 153.62
+    "value": 153.7
    },
    {
     "ticker": "SBUX",
     "company": "Starbucks",
-    "value": 24.65
-   },
-   {
-    "ticker": "MCD",
-    "company": "McDonald's",
-    "value": 16.71
+    "value": 24.85
    },
    {
     "ticker": "AMZN",
     "company": "Amazon",
-    "value": 16.67
+    "value": 16.73
    },
    {
     "ticker": "HD",
     "company": "Home Depot",
-    "value": 15.8
+    "value": 16.59
    },
    {
-    "ticker": "BKNG",
-    "company": "Booking Holdings",
-    "value": 12.72
+    "ticker": "MCD",
+    "company": "McDonald's",
+    "value": 16.49
    },
    {
     "ticker": "LOW",
     "company": "Lowe's",
-    "value": 12.67
+    "value": 13.09
+   },
+   {
+    "ticker": "BKNG",
+    "company": "Booking Holdings",
+    "value": 12.63
    },
    {
     "ticker": "NKE",
     "company": "Nike",
-    "value": 12.32
+    "value": 12.14
    },
    {
     "ticker": "GM",
     "company": "General Motors",
-    "value": 9.06
+    "value": 9.32
    }
   ]
  },
@@ -118,13 +118,13 @@
   "target": 101.09,
   "beta": 1.42,
   "as_of": "2026-10-27",
-  "low52": 66.75,
-  "high52": 91.85,
-  "range_pos": 53,
-  "below_high": 12.8,
-  "target_vs_price": 26.2,
-  "target_vs_fair": -18.1,
-  "above_low": 20.0
+  "low52": 67.06,
+  "high52": 93.7,
+  "range_pos": 71,
+  "below_high": 8.2,
+  "target_vs_price": 17.5,
+  "target_vs_fair": -17.6,
+  "above_low": 28.2
  },
  "summary": {
   "sentence": "A truck and SUV maker earning strong cash flows at a low multiple, in a cyclical industry.",
@@ -456,8 +456,8 @@
     "rows": [
      {
       "name": "Dividend yield",
-      "value": "0.9%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "value": "0.8%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -474,7 +474,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "11.5%",
+      "value": "10.8%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -497,46 +497,46 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "5.3%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
-      "pass": true
+      "value": "4.9%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "21.3%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "19.8%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Owner-earnings yield",
       "value": "-0.3%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
    }
   ],
   "ratio_summary": {
-   "passed": 12,
+   "passed": 11,
    "total": 27
   },
   "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
  },
  "valuation": {
-  "score": 9,
+  "score": 8,
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "18.9"
+   "value": "20.3"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "4.7"
+   "value": "5.0"
   },
   "three_numbers": {
-   "pe": "18.9",
-   "forward_pe": "5.7",
-   "peg": "0.33"
+   "pe": "20.3",
+   "forward_pe": "6.1",
+   "peg": "0.35"
   },
   "multiples": [
    {
@@ -545,35 +545,35 @@
    },
    {
     "name": "EV/EBITDA",
-    "value": "9.1"
+    "value": "9.3"
    },
    {
     "name": "EV/EBIT",
-    "value": "13.3"
+    "value": "13.7"
    },
    {
     "name": "P/E",
-    "value": "18.9"
+    "value": "20.3"
    },
    {
     "name": "EV/FCF",
-    "value": "11.8"
+    "value": "12.2"
    },
    {
     "name": "P/FCF",
-    "value": "4.7"
+    "value": "5.0"
    },
    {
     "name": "P/B",
-    "value": "1.0"
+    "value": "1.1"
    }
   ],
-  "intrinsic_value_low": 113.43,
-  "intrinsic_value_high": 133.5,
-  "margin_of_safety_pct": 35.1,
-  "interesting_below": 86.43,
+  "intrinsic_value_low": 112.72,
+  "intrinsic_value_high": 132.66,
+  "margin_of_safety_pct": 29.9,
+  "interesting_below": 85.88,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $12.2B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 0–3% for five years, fading to 3%; operating margin held at 7%; cost of capital 6.6%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Free cash flow (stock-based pay is not reported separately by the data source, so none is deducted).",
-  "fair_value": 123.47,
+  "fair_value": 122.69,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -583,8 +583,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 56.23,
-    "high": 64.08,
+    "low": 54.8,
+    "high": 62.39,
     "basis": "Sales grow 0–3% for five years, fading to 3%; operating margin held at 7%; cost of capital 6.6%. Cash added, debt subtracted."
    }
   ],
@@ -599,22 +599,22 @@
    "reinvestment": 0,
    "beta": 1.0,
    "cost_of_equity": 9.6,
-   "cost_of_debt": 5.0,
-   "debt_weight": 66,
+   "cost_of_debt": 4.9,
+   "debt_weight": 64,
    "cost_of_capital": 6.6,
    "terminal_growth": 3.0,
    "terminal_roc": 6.6,
    "revenue_now": "$186.9B",
    "revenue_year10": "$204.4B",
-   "low": 56.23,
-   "high": 64.08,
-   "implied_growth": 7.7,
+   "low": 54.8,
+   "high": 62.39,
+   "implied_growth": 8.5,
    "implied_note": null
   }
  },
  "lenses": {
   "graham": {
-   "passed": 5,
+   "passed": 2,
    "total": 8,
    "tests": [
     {
@@ -631,7 +631,7 @@
     },
     {
      "name": "Dividend record",
-     "value": "$0.72 a share (0.9% yield)",
+     "value": "$0.72 a share (0.8% yield)",
      "threshold": "Pays a dividend",
      "pass": true
     },
@@ -643,21 +643,21 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "14.2x three-year average earnings ($5.65); 18.9x trailing",
+     "value": "15.2x three-year average earnings ($5.65); 20.3x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
-     "pass": true
+     "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 20; Graham number $85 vs price $80",
+     "value": "P/E × P/B = 23; Graham number $85 vs price $86",
      "threshold": "P/E × P/B ≤ 22.5",
-     "pass": true
+     "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 5.3% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 4.9% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
-     "pass": true
+     "pass": false
     },
     {
      "name": "No financial distress",
@@ -673,7 +673,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings -$189M (net income + depreciation − capex) = -0.3% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings -$189M (net income + depreciation − capex) = -0.3% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -739,13 +739,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 0.33",
+     "value": "PEG 0.35",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": true
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(-16% EPS growth + 0.9% yield) ÷ P/E 18.9 = -0.82",
+     "value": "(-16% EPS growth + 0.8% yield) ÷ P/E 20.3 = -0.77",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -825,7 +825,7 @@
    ]
   },
   "pabrai": {
-   "passed": 3,
+   "passed": 2,
    "total": 6,
    "tests": [
     {
@@ -848,15 +848,15 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +15% over 52 weeks",
+     "value": "Share price +22% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety 35%",
+     "value": "Margin of safety 30%",
      "threshold": "≥ 30%",
-     "pass": true
+     "pass": false
     },
     {
      "name": "Low risk of permanent loss",
@@ -866,12 +866,12 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "67% upside to the high case; price is already below the low-case value",
+     "value": "54% upside to the high case; price is already below the low-case value",
      "threshold": "Upside at least 3x the downside",
      "pass": true
     }
    ],
-   "upside_pct": 66.6,
+   "upside_pct": 54.2,
    "downside_pct": 0.0
   }
  },

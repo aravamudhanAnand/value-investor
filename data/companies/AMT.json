@@ -5,10 +5,10 @@
  "sector": "Real estate",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-10-30",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 187.78,
- "market_cap": "$87.5B",
+ "price": 191.64,
+ "market_cap": "$89.3B",
  "verdict": "PASS",
  "overall_score": 56,
  "one_liner": "Fails the quality test (weak financial health), so price does not matter.",
@@ -20,7 +20,7 @@
   "financial_health": 3,
   "valuation": 1
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "American Tower is one of the largest owners of cell towers in the world, with about 150,000 sites in the US, Latin America, Europe and Africa, and data centres through CoreSite.",
   "money": "It leases space on towers to wireless carriers under long-term contracts with built-in annual rent increases. Adding a second or third carrier to a tower costs little, so each extra tenant is very profitable.",
@@ -30,7 +30,7 @@
    {
     "key": "pocf",
     "label": "Price / operating cash flow",
-    "value": 15.16,
+    "value": 15.48,
     "unit": "x",
     "note": "Stand-in for price / FFO",
     "sector_median": null,
@@ -39,7 +39,7 @@
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 18.57,
+    "value": 18.82,
     "unit": "x",
     "note": "Enterprise value includes debt",
     "sector_median": null,
@@ -48,7 +48,7 @@
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 3.81,
+    "value": 3.74,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
     "sector_median": null,
@@ -57,7 +57,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 25.83,
+    "value": 26.36,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": null,
@@ -69,12 +69,12 @@
    {
     "ticker": "SPG",
     "company": "Simon Property Group",
-    "value": 19.59
+    "value": 21.45
    },
    {
     "ticker": "AMT",
     "company": "American Tower",
-    "value": 15.16
+    "value": 15.48
    }
   ]
  },
@@ -85,11 +85,11 @@
   "as_of": "2026-10-30",
   "low52": 160.06,
   "high52": 202.5,
-  "range_pos": 65,
-  "below_high": 7.3,
-  "target_vs_price": 14.9,
-  "target_vs_fair": 123.8,
-  "above_low": 17.3
+  "range_pos": 74,
+  "below_high": 5.4,
+  "target_vs_price": 12.6,
+  "target_vs_fair": 123.4,
+  "above_low": 19.7
  },
  "summary": {
   "sentence": "A global tower landlord with long leases and sensitivity to interest rates.",
@@ -419,8 +419,8 @@
     "rows": [
      {
       "name": "Dividend yield",
-      "value": "3.8%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "value": "3.7%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -460,20 +460,20 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "3.9%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "3.8%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "4.3%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "4.2%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "4.2%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "4.1%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
@@ -490,53 +490,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "25.8"
+   "value": "26.4"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "22.1"
+   "value": "22.5"
   },
   "three_numbers": {
-   "pe": "25.8",
-   "forward_pe": "27.7",
-   "peg": "5.01"
+   "pe": "26.4",
+   "forward_pe": "28.3",
+   "peg": "5.11"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "11.9"
+    "value": "12.1"
    },
    {
     "name": "EV/EBITDA",
-    "value": "18.6"
+    "value": "18.8"
    },
    {
     "name": "EV/EBIT",
-    "value": "26.3"
+    "value": "26.7"
    },
    {
     "name": "P/E",
-    "value": "25.8"
+    "value": "26.4"
    },
    {
     "name": "EV/FCF",
-    "value": "33.0"
+    "value": "33.5"
    },
    {
     "name": "P/FCF",
-    "value": "22.1"
+    "value": "22.5"
    },
    {
     "name": "P/B",
-    "value": "8.5"
+    "value": "8.7"
    }
   ],
-  "intrinsic_value_low": 80.22,
-  "intrinsic_value_high": 112.6,
-  "margin_of_safety_pct": -94.8,
-  "interesting_below": 67.49,
+  "intrinsic_value_low": 80.33,
+  "intrinsic_value_high": 112.77,
+  "margin_of_safety_pct": -98.5,
+  "interesting_below": 67.58,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $4.8B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 1–7% for five years, fading to 3%; operating margin held at 45%; cost of capital 7.6%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 96.41,
+  "fair_value": 96.55,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -546,8 +546,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 31.28,
-    "high": 42.65,
+    "low": 31.51,
+    "high": 42.98,
     "basis": "Sales grow 1–7% for five years, fading to 3%; operating margin held at 45%; cost of capital 7.6%. Cash added, debt subtracted."
    }
   ],
@@ -561,17 +561,17 @@
    "roc": 8.0,
    "reinvestment": 50,
    "beta": 0.85,
-   "cost_of_equity": 9.0,
-   "cost_of_debt": 5.0,
-   "debt_weight": 34,
+   "cost_of_equity": 8.9,
+   "cost_of_debt": 4.9,
+   "debt_weight": 33,
    "cost_of_capital": 7.6,
    "terminal_growth": 3.0,
    "terminal_roc": 12.6,
    "revenue_now": "$10.9B",
    "revenue_year10": "$15.7B",
-   "low": 31.28,
-   "high": 42.65,
-   "implied_growth": 19.9,
+   "low": 31.51,
+   "high": 42.98,
+   "implied_growth": 20.1,
    "implied_note": null
   }
  },
@@ -594,7 +594,7 @@
     },
     {
      "name": "Dividend record",
-     "value": "$7.16 a share (3.8% yield)",
+     "value": "$7.16 a share (3.7% yield)",
      "threshold": "Pays a dividend",
      "pass": true
     },
@@ -606,19 +606,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "42.0x three-year average earnings ($4.47); 25.8x trailing",
+     "value": "42.9x three-year average earnings ($4.47); 26.4x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 220; Graham number $60 vs price $188",
+     "value": "P/E × P/B = 230; Graham number $60 vs price $192",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 3.9% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 3.8% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -636,7 +636,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $3.7B (net income + depreciation − capex) = 4.2% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $3.7B (net income + depreciation − capex) = 4.1% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -702,13 +702,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 5.01",
+     "value": "PEG 5.11",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(-1% EPS growth + 3.8% yield) ÷ P/E 25.8 = 0.10",
+     "value": "(-1% EPS growth + 3.7% yield) ÷ P/E 26.4 = 0.10",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -789,7 +789,7 @@
   },
   "pabrai": {
    "passed": 3,
-   "total": 6,
+   "total": 7,
    "tests": [
     {
      "name": "A simple, existing business",
@@ -811,13 +811,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "n/a",
+     "value": "Share price +4% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
-     "pass": null
+     "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -95%",
+     "value": "Margin of safety -98%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -829,13 +829,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($113); 57% downside to the low case",
+     "value": "No upside even to the high-case value ($113); 58% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -40.0,
-   "downside_pct": 57.3
+   "upside_pct": -41.2,
+   "downside_pct": 58.1
   }
  },
  "rules_of_the_road": [

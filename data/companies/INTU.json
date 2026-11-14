@@ -5,13 +5,13 @@
  "sector": "Technology",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 341.5,
+ "price": 341.7,
  "market_cap": "$91.3B",
  "verdict": "WATCHLIST",
  "overall_score": 79,
- "one_liner": "A wide-moat business worth owning, but the margin of safety is only 8% against a 30% target. Interesting below about $258.",
+ "one_liner": "A wide-moat business worth owning, but the margin of safety is only 8% against a 30% target. Interesting below about $259.",
  "scores": {
   "meaning": 9,
   "moat": 8,
@@ -20,7 +20,7 @@
   "financial_health": 10,
   "valuation": 6
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Intuit makes TurboTax, QuickBooks accounting software, Credit Karma and Mailchimp. It serves consumers, the self-employed and small businesses in the US and a few other countries.",
   "money": "Mostly subscriptions and fees. QuickBooks charges small businesses monthly and earns more from payroll and payments processing. TurboTax charges per tax return, so revenue is highly seasonal and concentrated in its fiscal third quarter. Credit Karma earns referral fees when members take out loans and cards.",
@@ -30,7 +30,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 20.75,
+    "value": 20.76,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 27.36,
@@ -39,10 +39,10 @@
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 14.35,
+    "value": 14.36,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 17.35,
+    "sector_median": 18.6,
     "sector_n": 13
    },
    {
@@ -51,16 +51,16 @@
     "value": 10.54,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 22.33,
+    "sector_median": 22.39,
     "sector_n": 11
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 13.5,
+    "value": 13.51,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 19.33,
+    "sector_median": 19.34,
     "sector_n": 20
    },
    {
@@ -78,22 +78,22 @@
    {
     "ticker": "NOW",
     "company": "ServiceNow",
-    "value": 73.36
-   },
-   {
-    "ticker": "AAPL",
-    "company": "Apple",
-    "value": 39.05
+    "value": 73.56
    },
    {
     "ticker": "AVGO",
     "company": "Broadcom",
-    "value": 37.51
+    "value": 44.32
+   },
+   {
+    "ticker": "AAPL",
+    "company": "Apple",
+    "value": 39.67
    },
    {
     "ticker": "CSCO",
     "company": "Cisco Systems",
-    "value": 28.18
+    "value": 28.72
    },
    {
     "ticker": "MSFT",
@@ -103,37 +103,37 @@
    {
     "ticker": "IBM",
     "company": "IBM",
-    "value": 22.0
+    "value": 21.09
    },
    {
     "ticker": "INTU",
     "company": "Intuit",
-    "value": 20.75
+    "value": 20.76
    },
    {
     "ticker": "NVDA",
     "company": "NVIDIA",
-    "value": 20.55
+    "value": 20.59
    },
    {
     "ticker": "CRM",
     "company": "Salesforce",
-    "value": 19.8
-   },
-   {
-    "ticker": "ACN",
-    "company": "Accenture",
-    "value": 18.76
+    "value": 20.19
    },
    {
     "ticker": "ORCL",
     "company": "Oracle",
-    "value": 18.2
+    "value": 19.65
+   },
+   {
+    "ticker": "ACN",
+    "company": "Accenture",
+    "value": 18.47
    },
    {
     "ticker": "ADBE",
     "company": "Adobe",
-    "value": 13.35
+    "value": 13.56
    }
   ]
  },
@@ -146,8 +146,8 @@
   "high52": 682.27,
   "range_pos": 21,
   "below_high": 49.9,
-  "target_vs_price": 19.4,
-  "target_vs_fair": 10.4,
+  "target_vs_price": 19.3,
+  "target_vs_fair": 10.2,
   "above_low": 35.1
  },
  "summary": {
@@ -473,7 +473,7 @@
      {
       "name": "Dividend yield",
       "value": "1.6%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -514,19 +514,19 @@
      {
       "name": "Earnings yield",
       "value": "4.8%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
       "value": "7.2%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Owner-earnings yield",
-      "value": "5.6%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "5.5%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      }
     ]
@@ -543,15 +543,15 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "20.7"
+   "value": "20.8"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
    "value": "10.5"
   },
   "three_numbers": {
-   "pe": "20.7",
-   "forward_pe": "14.3",
+   "pe": "20.8",
+   "forward_pe": "14.4",
    "peg": "1.14"
   },
   "multiples": [
@@ -569,7 +569,7 @@
    },
    {
     "name": "P/E",
-    "value": "20.7"
+    "value": "20.8"
    },
    {
     "name": "EV/FCF",
@@ -584,12 +584,12 @@
     "value": "4.8"
    }
   ],
-  "intrinsic_value_low": 313.96,
-  "intrinsic_value_high": 424.56,
-  "margin_of_safety_pct": 7.5,
-  "interesting_below": 258.48,
+  "intrinsic_value_low": 314.6,
+  "intrinsic_value_high": 425.49,
+  "margin_of_safety_pct": 7.7,
+  "interesting_below": 259.03,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $5.4B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 7–13% for five years, fading to 3%; operating margin held at 29%; cost of capital 9.2%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 369.26,
+  "fair_value": 370.04,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -599,8 +599,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 271.7,
-    "high": 347.07,
+    "low": 272.98,
+    "high": 348.91,
     "basis": "Sales grow 7–13% for five years, fading to 3%; operating margin held at 29%; cost of capital 9.2%. Cash added, debt subtracted."
    }
   ],
@@ -615,16 +615,16 @@
    "reinvestment": 44,
    "beta": 1.0,
    "cost_of_equity": 9.6,
-   "cost_of_debt": 5.0,
+   "cost_of_debt": 4.9,
    "debt_weight": 8,
    "cost_of_capital": 9.2,
    "terminal_growth": 3.0,
    "terminal_roc": 14.2,
    "revenue_now": "$21.4B",
    "revenue_year10": "$45.8B",
-   "low": 271.7,
-   "high": 347.07,
-   "implied_growth": 12.6,
+   "low": 272.98,
+   "high": 348.91,
+   "implied_growth": 12.5,
    "implied_note": null
   }
  },
@@ -659,7 +659,7 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "25.3x three-year average earnings ($13.52); 20.7x trailing",
+     "value": "25.3x three-year average earnings ($13.52); 20.8x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
@@ -671,7 +671,7 @@
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 4.8% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 4.8% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -689,7 +689,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $5.1B (net income + depreciation − capex) = 5.6% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $5.1B (net income + depreciation − capex) = 5.5% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": true
     },
@@ -761,7 +761,7 @@
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(23% EPS growth + 1.6% yield) ÷ P/E 20.7 = 1.17",
+     "value": "(23% EPS growth + 1.6% yield) ÷ P/E 20.8 = 1.17",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": null
     },
@@ -840,8 +840,8 @@
    ]
   },
   "pabrai": {
-   "passed": 4,
-   "total": 5,
+   "passed": 5,
+   "total": 6,
    "tests": [
     {
      "name": "A simple, existing business",
@@ -863,9 +863,9 @@
     },
     {
      "name": "Out of favour",
-     "value": "n/a",
+     "value": "Share price -48% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
-     "pass": null
+     "pass": true
     },
     {
      "name": "Bought well below value",
@@ -881,13 +881,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "24% upside to the high case vs 8% downside to the low case (3.0 to 1)",
+     "value": "25% upside to the high case vs 8% downside to the low case (3.1 to 1)",
      "threshold": "Upside at least 3x the downside",
      "pass": true
     }
    ],
-   "upside_pct": 24.3,
-   "downside_pct": 8.1
+   "upside_pct": 24.5,
+   "downside_pct": 7.9
   }
  },
  "rules_of_the_road": [

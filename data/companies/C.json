@@ -5,10 +5,10 @@
  "sector": "Financials",
  "is_financial": true,
  "as_of": "2026-11-12",
- "price_date": "2026-10-30",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 122.64,
- "market_cap": "$203.6B",
+ "price": 124.01,
+ "market_cap": "$205.9B",
  "verdict": "TOO_HARD",
  "overall_score": 40,
  "one_liner": "Goes in the too-hard pile: the business is too complex or uncertain to forecast. No verdict on price.",
@@ -20,7 +20,7 @@
   "financial_health": 2,
   "valuation": 1
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Citigroup is the most global US bank, serving multinational companies in about 90 countries through treasury, trade and securities services, plus US credit cards and wealth management. It is in a multi-year restructuring and is exiting most consumer banking outside the US.",
   "money": "Net interest income and fees from moving money for multinationals (its treasury and trade business), plus card interest, investment banking and trading. Restructuring costs and regulatory penalties have kept returns below its peers'.",
@@ -30,19 +30,19 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 12.02,
+    "value": 12.16,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 14.17,
+    "sector_median": 14.91,
     "sector_n": 15
    },
    {
     "key": "pb",
     "label": "Price / book value",
-    "value": 0.96,
+    "value": 0.97,
     "unit": "x",
     "note": "Judge against return on equity",
-    "sector_median": 1.73,
+    "sector_median": 1.82,
     "sector_n": 12
    },
    {
@@ -57,10 +57,10 @@
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 2.19,
+    "value": 2.16,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.97,
+    "sector_median": 1.87,
     "sector_n": 15
    }
   ],
@@ -69,62 +69,62 @@
    {
     "ticker": "AXP",
     "company": "American Express",
-    "value": 17.94
+    "value": 18.08
    },
    {
     "ticker": "BNY",
     "company": "BNY",
-    "value": 16.34
+    "value": 16.99
    },
    {
     "ticker": "SCHW",
     "company": "Charles Schwab",
-    "value": 15.64
+    "value": 15.89
    },
    {
     "ticker": "MS",
     "company": "Morgan Stanley",
-    "value": 14.39
+    "value": 15.12
    },
    {
     "ticker": "BRK.B",
     "company": "Berkshire Hathaway",
-    "value": 14.17
+    "value": 14.91
    },
    {
     "ticker": "JPM",
     "company": "JPMorgan Chase",
-    "value": 14.05
+    "value": 14.54
    },
    {
     "ticker": "WFC",
     "company": "Wells Fargo",
-    "value": 12.69
+    "value": 13.28
    },
    {
     "ticker": "GS",
     "company": "Goldman Sachs",
-    "value": 12.46
+    "value": 13.19
    },
    {
     "ticker": "C",
     "company": "Citigroup",
-    "value": 12.02
-   },
-   {
-    "ticker": "COF",
-    "company": "Capital One",
-    "value": 11.99
+    "value": 12.16
    },
    {
     "ticker": "BAC",
     "company": "Bank of America",
-    "value": 11.77
+    "value": 12.15
    },
    {
     "ticker": "USB",
     "company": "U.S. Bancorp",
-    "value": 11.57
+    "value": 11.87
+   },
+   {
+    "ticker": "COF",
+    "company": "Capital One",
+    "value": 11.55
    }
   ]
  },
@@ -135,11 +135,11 @@
   "as_of": "2026-10-30",
   "low52": 95.83,
   "high52": 147.96,
-  "range_pos": 51,
-  "below_high": 17.1,
-  "target_vs_price": 23.0,
+  "range_pos": 54,
+  "below_high": 16.2,
+  "target_vs_price": 21.6,
   "target_vs_fair": 191.5,
-  "above_low": 28.0
+  "above_low": 29.4
  },
  "summary": {
   "sentence": "A global bank partway through a long restructuring, priced below its book value.",
@@ -360,7 +360,7 @@
      {
       "name": "Dividend yield",
       "value": "2.2%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -382,13 +382,13 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "8.3%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "8.2%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Price to book",
-      "value": "0.96",
+      "value": "0.97",
       "threshold": "Compare with the justified P/B in M4",
       "pass": null
      }
@@ -406,25 +406,25 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "12.0"
+   "value": "12.2"
   },
   "secondary_metric": {
    "name": "Price-to-book",
    "value": "1.0"
   },
   "three_numbers": {
-   "pe": "12.0",
-   "forward_pe": "10.0",
+   "pe": "12.2",
+   "forward_pe": "10.1",
    "peg": "0.41"
   },
   "multiples": [
    {
     "name": "P/E",
-    "value": "12.0"
+    "value": "12.2"
    },
    {
     "name": "Forward P/E",
-    "value": "10.0"
+    "value": "10.1"
    },
    {
     "name": "P/B",
@@ -432,12 +432,12 @@
    },
    {
     "name": "P/S",
-    "value": "2.4"
+    "value": "2.5"
    }
   ],
   "intrinsic_value_low": 44.35,
   "intrinsic_value_high": 59.14,
-  "margin_of_safety_pct": -137.0,
+  "margin_of_safety_pct": -139.7,
   "interesting_below": 36.22,
   "method": "Banks are valued on book value, not free cash flow. Justified price-to-book = (ROE − 3% growth) ÷ (required return − 3%), using a normalised ROE of 5.8% (median of the last three fiscal years and TTM, capped at 25%) and a required return of 11% (low) to 9% (high): 0.35–0.46 × book value per share of $127.58.",
   "fair_value": 51.74,
@@ -483,19 +483,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "21.7x three-year average earnings ($5.66); 12.0x trailing",
+     "value": "21.9x three-year average earnings ($5.66); 12.2x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 12; Graham number $171 vs price $123",
+     "value": "P/E × P/B = 12; Graham number $171 vs price $124",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": true
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 8.3% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 8.2% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": true
     },
@@ -513,7 +513,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Earnings yield 8.8% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 8.7% vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": true
     },
@@ -585,7 +585,7 @@
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(-9% EPS growth + 2.2% yield) ÷ P/E 12.0 = -0.56",
+     "value": "(-9% EPS growth + 2.2% yield) ÷ P/E 12.2 = -0.55",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -665,7 +665,7 @@
   },
   "pabrai": {
    "passed": 1,
-   "total": 4,
+   "total": 5,
    "tests": [
     {
      "name": "A simple, existing business",
@@ -687,13 +687,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "n/a",
+     "value": "Share price +24% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
-     "pass": null
+     "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -137%",
+     "value": "Margin of safety -140%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -710,8 +710,8 @@
      "pass": false
     }
    ],
-   "upside_pct": -51.8,
-   "downside_pct": 63.8
+   "upside_pct": -52.3,
+   "downside_pct": 64.2
   }
  },
  "rules_of_the_road": [

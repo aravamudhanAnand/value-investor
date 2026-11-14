@@ -5,10 +5,10 @@
  "sector": "Technology",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 101.97,
- "market_cap": "$106.0B",
+ "price": 102.25,
+ "market_cap": "$106.3B",
  "verdict": "WATCHLIST",
  "overall_score": 62,
  "one_liner": "A wide-moat business worth owning, but it trades at 2.6x fair value. Interesting below about $28.",
@@ -20,7 +20,7 @@
   "financial_health": 9,
   "valuation": 1
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "ServiceNow sells a cloud platform that automates internal company workflows: IT service management, HR, customer service and security operations. Most of the Fortune 500 use it.",
   "money": "Subscriptions are nearly all revenue, sold on multi-year contracts and priced by user and by module. Customers rarely leave (renewal rates near 98%) and expand by adding workflows and, now, AI agents.",
@@ -30,7 +30,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 73.36,
+    "value": 73.56,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 27.36,
@@ -39,28 +39,28 @@
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 22.46,
+    "value": 22.52,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 17.35,
+    "sector_median": 18.6,
     "sector_n": 13
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 22.33,
+    "value": 22.39,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 22.33,
+    "sector_median": 22.39,
     "sector_n": 11
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 33.91,
+    "value": 34.0,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 19.33,
+    "sector_median": 19.34,
     "sector_n": 20
    },
    {
@@ -78,22 +78,22 @@
    {
     "ticker": "NOW",
     "company": "ServiceNow",
-    "value": 73.36
-   },
-   {
-    "ticker": "AAPL",
-    "company": "Apple",
-    "value": 39.05
+    "value": 73.56
    },
    {
     "ticker": "AVGO",
     "company": "Broadcom",
-    "value": 37.51
+    "value": 44.32
+   },
+   {
+    "ticker": "AAPL",
+    "company": "Apple",
+    "value": 39.67
    },
    {
     "ticker": "CSCO",
     "company": "Cisco Systems",
-    "value": 28.18
+    "value": 28.72
    },
    {
     "ticker": "MSFT",
@@ -103,37 +103,37 @@
    {
     "ticker": "IBM",
     "company": "IBM",
-    "value": 22.0
+    "value": 21.09
    },
    {
     "ticker": "INTU",
     "company": "Intuit",
-    "value": 20.75
+    "value": 20.76
    },
    {
     "ticker": "NVDA",
     "company": "NVIDIA",
-    "value": 20.55
+    "value": 20.59
    },
    {
     "ticker": "CRM",
     "company": "Salesforce",
-    "value": 19.8
-   },
-   {
-    "ticker": "ACN",
-    "company": "Accenture",
-    "value": 18.76
+    "value": 20.19
    },
    {
     "ticker": "ORCL",
     "company": "Oracle",
-    "value": 18.2
+    "value": 19.65
+   },
+   {
+    "ticker": "ACN",
+    "company": "Accenture",
+    "value": 18.47
    },
    {
     "ticker": "ADBE",
     "company": "Adobe",
-    "value": 13.35
+    "value": 13.56
    }
   ]
  },
@@ -143,12 +143,12 @@
   "beta": 0.98,
   "as_of": "2026-11-06",
   "low52": 81.24,
-  "high52": 175.8,
+  "high52": 175.0,
   "range_pos": 22,
-  "below_high": 42.0,
-  "target_vs_price": 52.8,
-  "target_vs_fair": 291.1,
-  "above_low": 25.5
+  "below_high": 41.6,
+  "target_vs_price": 52.4,
+  "target_vs_fair": 290.4,
+  "above_low": 25.9
  },
  "summary": {
   "sentence": "A workflow-software leader with durable growth and a valuation that needs it to continue.",
@@ -478,7 +478,7 @@
      {
       "name": "Dividend yield",
       "value": "0.0%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -519,19 +519,19 @@
      {
       "name": "Earnings yield",
       "value": "1.4%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
       "value": "2.4%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
       "value": "1.8%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
@@ -552,10 +552,10 @@
   },
   "secondary_metric": {
    "name": "P/FCF",
-   "value": "22.3"
+   "value": "22.4"
   },
   "three_numbers": {
-   "pe": "73.4",
+   "pe": "73.6",
    "forward_pe": "22.5",
    "peg": "0.92"
   },
@@ -566,35 +566,35 @@
    },
    {
     "name": "EV/EBITDA",
-    "value": "33.9"
+    "value": "34.0"
    },
    {
     "name": "EV/EBIT",
-    "value": "55.8"
+    "value": "55.9"
    },
    {
     "name": "P/E",
-    "value": "73.4"
+    "value": "73.6"
    },
    {
     "name": "EV/FCF",
-    "value": "23.1"
+    "value": "23.2"
    },
    {
     "name": "P/FCF",
-    "value": "22.3"
+    "value": "22.4"
    },
    {
     "name": "P/B",
     "value": "8.1"
    }
   ],
-  "intrinsic_value_low": 32.81,
-  "intrinsic_value_high": 46.87,
-  "margin_of_safety_pct": -156.0,
-  "interesting_below": 27.89,
+  "intrinsic_value_low": 32.88,
+  "intrinsic_value_high": 46.95,
+  "margin_of_safety_pct": -156.2,
+  "interesting_below": 27.94,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $2.1B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 12–18% for five years, fading to 3%; operating margin held at 13%; cost of capital 9.3%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 39.84,
+  "fair_value": 39.91,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -604,8 +604,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 17.66,
-    "high": 26.39,
+    "low": 17.79,
+    "high": 26.57,
     "basis": "Sales grow 12–18% for five years, fading to 3%; operating margin held at 13%; cost of capital 9.3%. Cash added, debt subtracted."
    }
   ],
@@ -620,16 +620,16 @@
    "reinvestment": 90,
    "beta": 1.0,
    "cost_of_equity": 9.6,
-   "cost_of_debt": 5.0,
+   "cost_of_debt": 4.9,
    "debt_weight": 7,
    "cost_of_capital": 9.3,
    "terminal_growth": 3.0,
    "terminal_roc": 14.3,
    "revenue_now": "$15.4B",
    "revenue_year10": "$45.1B",
-   "low": 17.66,
-   "high": 26.39,
-   "implied_growth": 41.2,
+   "low": 17.79,
+   "high": 26.57,
+   "implied_growth": 41.1,
    "implied_note": null
   }
  },
@@ -664,19 +664,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "64.8x three-year average earnings ($1.57); 73.4x trailing",
+     "value": "65.0x three-year average earnings ($1.57); 73.6x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 594; Graham number $20 vs price $102",
+     "value": "P/E × P/B = 597; Graham number $20 vs price $102",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 1.4% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 1.4% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -694,7 +694,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $1.9B (net income + depreciation − capex) = 1.8% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $1.9B (net income + depreciation − capex) = 1.8% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -766,7 +766,7 @@
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(30% EPS growth (capped) + 0.0% yield) ÷ P/E 73.4 = 0.41",
+     "value": "(30% EPS growth (capped) + 0.0% yield) ÷ P/E 73.6 = 0.41",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -868,7 +868,7 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price -42% over 52 weeks",
+     "value": "Share price -40% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": true
     },
@@ -891,7 +891,7 @@
      "pass": false
     }
    ],
-   "upside_pct": -54.0,
+   "upside_pct": -54.1,
    "downside_pct": 67.8
   }
  },

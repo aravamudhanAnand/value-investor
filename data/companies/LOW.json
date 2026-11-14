@@ -5,10 +5,10 @@
  "sector": "Consumer discretionary",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-02",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 218.15,
- "market_cap": "$122.4B",
+ "price": 227.73,
+ "market_cap": "$127.8B",
  "verdict": "PASS",
  "overall_score": 61,
  "one_liner": "Fails the quality test (weak financial health), so price does not matter.",
@@ -20,7 +20,7 @@
   "financial_health": 4,
   "valuation": 4
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Lowe's is the second-largest US home-improvement retailer, with about 1,700 stores selling building materials, appliances, tools and garden supplies to homeowners and professional contractors.",
   "money": "It earns a retail margin on products sold in stores and online. Do-it-yourself homeowners are most of sales; Lowe's is growing its share of professional contractors. Sales follow home sales, home prices and renovation spending.",
@@ -30,46 +30,46 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 18.44,
+    "value": 19.25,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 21.47,
+    "sector_median": 21.56,
     "sector_n": 9
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 17.47,
+    "value": 18.24,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 24.14,
+    "sector_median": 24.82,
     "sector_n": 8
    },
    {
     "key": "pfcf",
     "label": "Price / free cash flow",
-    "value": 17.48,
+    "value": 18.25,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 25.22,
+    "sector_median": 24.8,
     "sector_n": 7
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 12.67,
+    "value": 13.09,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 15.8,
+    "sector_median": 16.49,
     "sector_n": 9
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 2.29,
+    "value": 2.2,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 2.29,
+    "sector_median": 2.2,
     "sector_n": 9
    }
   ],
@@ -78,42 +78,42 @@
    {
     "ticker": "TSLA",
     "company": "Tesla",
-    "value": 428.59
+    "value": 428.81
    },
    {
     "ticker": "SBUX",
     "company": "Starbucks",
-    "value": 60.58
+    "value": 61.17
    },
    {
     "ticker": "HD",
     "company": "Home Depot",
-    "value": 23.04
+    "value": 24.4
    },
    {
     "ticker": "MCD",
     "company": "McDonald's",
-    "value": 22.46
+    "value": 22.09
    },
    {
     "ticker": "AMZN",
     "company": "Amazon",
-    "value": 21.47
-   },
-   {
-    "ticker": "NKE",
-    "company": "Nike",
-    "value": 18.46
+    "value": 21.56
    },
    {
     "ticker": "LOW",
     "company": "Lowe's",
-    "value": 18.44
+    "value": 19.25
+   },
+   {
+    "ticker": "NKE",
+    "company": "Nike",
+    "value": 18.18
    },
    {
     "ticker": "BKNG",
     "company": "Booking Holdings",
-    "value": 17.48
+    "value": 17.36
    }
   ]
  },
@@ -124,11 +124,11 @@
   "as_of": "2026-10-27",
   "low52": 178.45,
   "high52": 293.06,
-  "range_pos": 35,
-  "below_high": 25.6,
-  "target_vs_price": 15.5,
-  "target_vs_fair": 38.4,
-  "above_low": 22.2
+  "range_pos": 43,
+  "below_high": 22.3,
+  "target_vs_price": 10.6,
+  "target_vs_fair": 38.5,
+  "above_low": 27.6
  },
  "summary": {
   "sentence": "The number-two home-improvement retailer, tied even more closely to do-it-yourself spending.",
@@ -460,8 +460,8 @@
     "rows": [
      {
       "name": "Dividend yield",
-      "value": "2.3%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "value": "2.2%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -501,20 +501,20 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "5.4%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "5.2%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "5.5%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "5.3%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Owner-earnings yield",
-      "value": "5.6%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "5.3%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      }
     ]
@@ -531,16 +531,16 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "18.4"
+   "value": "19.3"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "17.5"
+   "value": "18.3"
   },
   "three_numbers": {
-   "pe": "18.4",
-   "forward_pe": "17.5",
-   "peg": "2.07"
+   "pe": "19.3",
+   "forward_pe": "18.2",
+   "peg": "2.16"
   },
   "multiples": [
    {
@@ -549,35 +549,35 @@
    },
    {
     "name": "EV/EBITDA",
-    "value": "12.7"
+    "value": "13.1"
    },
    {
     "name": "EV/EBIT",
-    "value": "15.7"
+    "value": "16.2"
    },
    {
     "name": "P/E",
-    "value": "18.4"
+    "value": "19.3"
    },
    {
     "name": "EV/FCF",
-    "value": "23.0"
+    "value": "23.8"
    },
    {
     "name": "P/FCF",
-    "value": "17.5"
+    "value": "18.3"
    },
    {
     "name": "P/B",
     "value": "n/a"
    }
   ],
-  "intrinsic_value_low": 150.1,
-  "intrinsic_value_high": 213.94,
-  "margin_of_safety_pct": -19.8,
-  "interesting_below": 127.42,
+  "intrinsic_value_low": 150.03,
+  "intrinsic_value_high": 213.83,
+  "margin_of_safety_pct": -25.2,
+  "interesting_below": 127.35,
   "method": "Fair value is the average of two methods: (1) Owner cash flow: $7.1B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 1–7% for five years, fading to 3%; operating margin held at 11%; cost of capital 7.9%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 182.02,
+  "fair_value": 181.93,
   "methods": [
    {
     "name": "Owner cash flow",
@@ -587,8 +587,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 142.4,
-    "high": 204.86,
+    "low": 142.25,
+    "high": 204.64,
     "basis": "Sales grow 1–7% for five years, fading to 3%; operating margin held at 11%; cost of capital 7.9%. Cash added, debt subtracted."
    }
   ],
@@ -602,17 +602,17 @@
    "roc": 22.4,
    "reinvestment": 18,
    "beta": 0.85,
-   "cost_of_equity": 9.0,
-   "cost_of_debt": 5.0,
-   "debt_weight": 26,
+   "cost_of_equity": 8.9,
+   "cost_of_debt": 4.9,
+   "debt_weight": 25,
    "cost_of_capital": 7.9,
    "terminal_growth": 3.0,
    "terminal_roc": 12.9,
    "revenue_now": "$90.4B",
    "revenue_year10": "$130.0B",
-   "low": 142.4,
-   "high": 204.86,
-   "implied_growth": 8.1,
+   "low": 142.25,
+   "high": 204.64,
+   "implied_growth": 8.8,
    "implied_note": null
   }
  },
@@ -635,7 +635,7 @@
     },
     {
      "name": "Dividend record",
-     "value": "$5.00 a share (2.3% yield)",
+     "value": "$5.00 a share (2.2% yield)",
      "threshold": "Pays a dividend",
      "pass": true
     },
@@ -647,7 +647,7 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "17.6x three-year average earnings ($12.43); 18.4x trailing",
+     "value": "18.3x three-year average earnings ($12.43); 19.3x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
@@ -659,7 +659,7 @@
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 5.4% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 5.2% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": true
     },
@@ -677,7 +677,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $6.8B (net income + depreciation − capex) = 5.6% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $6.8B (net income + depreciation − capex) = 5.3% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": true
     },
@@ -743,13 +743,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 2.07",
+     "value": "PEG 2.16",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(-0% EPS growth + 2.3% yield) ÷ P/E 18.4 = 0.10",
+     "value": "(-0% EPS growth + 2.2% yield) ÷ P/E 19.3 = 0.09",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -851,13 +851,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price -8% over 52 weeks",
+     "value": "Share price -0% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -20%",
+     "value": "Margin of safety -25%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -869,13 +869,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($214); 31% downside to the low case",
+     "value": "No upside even to the high-case value ($214); 34% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -1.9,
-   "downside_pct": 31.2
+   "upside_pct": -6.1,
+   "downside_pct": 34.1
   }
  },
  "rules_of_the_road": [

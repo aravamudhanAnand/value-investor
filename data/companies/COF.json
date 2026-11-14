@@ -5,10 +5,10 @@
  "sector": "Financials",
  "is_financial": true,
  "as_of": "2026-11-12",
- "price_date": "2026-10-27",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 202.5,
- "market_cap": "$121.8B",
+ "price": 195.08,
+ "market_cap": "$117.3B",
  "verdict": "PASS",
  "overall_score": 51,
  "one_liner": "Fails the quality test (weak financial health), so price does not matter.",
@@ -20,7 +20,7 @@
   "financial_health": 4,
   "valuation": 2
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Capital One is a large credit-card lender and consumer bank, with auto loans and commercial banking. It bought Discover Financial in 2025, gaining its own payment network.",
   "money": "Mostly interest on credit-card balances and auto loans, funded by online and branch deposits, plus card interchange fees. Credit losses are the main swing factor. Moving its debit cards and some credit cards onto the Discover network saves fees paid to Visa and Mastercard.",
@@ -30,19 +30,19 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 11.99,
+    "value": 11.55,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 14.17,
+    "sector_median": 14.91,
     "sector_n": 15
    },
    {
     "key": "pb",
     "label": "Price / book value",
-    "value": 1.11,
+    "value": 1.07,
     "unit": "x",
     "note": "Judge against return on equity",
-    "sector_median": 1.73,
+    "sector_median": 1.82,
     "sector_n": 12
    },
    {
@@ -57,10 +57,10 @@
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 1.58,
+    "value": 1.64,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.97,
+    "sector_median": 1.87,
     "sector_n": 15
    }
   ],
@@ -69,62 +69,62 @@
    {
     "ticker": "AXP",
     "company": "American Express",
-    "value": 17.94
+    "value": 18.08
    },
    {
     "ticker": "BNY",
     "company": "BNY",
-    "value": 16.34
+    "value": 16.99
    },
    {
     "ticker": "SCHW",
     "company": "Charles Schwab",
-    "value": 15.64
+    "value": 15.89
    },
    {
     "ticker": "MS",
     "company": "Morgan Stanley",
-    "value": 14.39
+    "value": 15.12
    },
    {
     "ticker": "BRK.B",
     "company": "Berkshire Hathaway",
-    "value": 14.17
+    "value": 14.91
    },
    {
     "ticker": "JPM",
     "company": "JPMorgan Chase",
-    "value": 14.05
+    "value": 14.54
    },
    {
     "ticker": "WFC",
     "company": "Wells Fargo",
-    "value": 12.69
+    "value": 13.28
    },
    {
     "ticker": "GS",
     "company": "Goldman Sachs",
-    "value": 12.46
+    "value": 13.19
    },
    {
     "ticker": "C",
     "company": "Citigroup",
-    "value": 12.02
-   },
-   {
-    "ticker": "COF",
-    "company": "Capital One",
-    "value": 11.99
+    "value": 12.16
    },
    {
     "ticker": "BAC",
     "company": "Bank of America",
-    "value": 11.77
+    "value": 12.15
    },
    {
     "ticker": "USB",
     "company": "U.S. Bancorp",
-    "value": 11.57
+    "value": 11.87
+   },
+   {
+    "ticker": "COF",
+    "company": "Capital One",
+    "value": 11.55
    }
   ]
  },
@@ -135,11 +135,11 @@
   "as_of": "2026-10-26",
   "low52": 174.24,
   "high52": 259.64,
-  "range_pos": 33,
-  "below_high": 22.0,
-  "target_vs_price": 25.9,
+  "range_pos": 24,
+  "below_high": 24.9,
+  "target_vs_price": 30.7,
   "target_vs_fair": 108.5,
-  "above_low": 16.2
+  "above_low": 12.0
  },
  "summary": {
   "sentence": "A card lender betting that owning a payment network lifts its returns.",
@@ -360,7 +360,7 @@
      {
       "name": "Dividend yield",
       "value": "1.6%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -382,13 +382,13 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "8.3%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "8.7%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Price to book",
-      "value": "1.11",
+      "value": "1.07",
       "threshold": "Compare with the justified P/B in M4",
       "pass": null
      }
@@ -406,25 +406,25 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "12.0"
+   "value": "11.6"
   },
   "secondary_metric": {
    "name": "Price-to-book",
    "value": "1.1"
   },
   "three_numbers": {
-   "pe": "12.0",
-   "forward_pe": "8.8",
-   "peg": "0.83"
+   "pe": "11.6",
+   "forward_pe": "8.5",
+   "peg": "0.80"
   },
   "multiples": [
    {
     "name": "P/E",
-    "value": "12.0"
+    "value": "11.6"
    },
    {
     "name": "Forward P/E",
-    "value": "8.8"
+    "value": "8.5"
    },
    {
     "name": "P/B",
@@ -432,12 +432,12 @@
    },
    {
     "name": "P/S",
-    "value": "2.5"
+    "value": "2.4"
    }
   ],
   "intrinsic_value_low": 104.84,
   "intrinsic_value_high": 139.78,
-  "margin_of_safety_pct": -65.6,
+  "margin_of_safety_pct": -59.5,
   "interesting_below": 85.62,
   "method": "Banks are valued on book value, not free cash flow. Justified price-to-book = (ROE − 3% growth) ÷ (required return − 3%), using a normalised ROE of 7.6% (median of the last three fiscal years and TTM, capped at 25%) and a required return of 11% (low) to 9% (high): 0.58–0.77 × book value per share of $182.31.",
   "fair_value": 122.31,
@@ -483,19 +483,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "22.0x three-year average earnings ($9.19); 12.0x trailing",
+     "value": "21.2x three-year average earnings ($9.19); 11.6x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 13; Graham number $263 vs price $202",
+     "value": "P/E × P/B = 12; Graham number $263 vs price $195",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": true
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 8.3% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 8.7% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": true
     },
@@ -513,7 +513,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Earnings yield 8.6% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 8.9% vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": true
     },
@@ -579,13 +579,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 0.83",
+     "value": "PEG 0.80",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": true
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(-38% EPS growth + 1.6% yield) ÷ P/E 12.0 = -3.02",
+     "value": "(-38% EPS growth + 1.6% yield) ÷ P/E 11.6 = -3.13",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -687,13 +687,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price -11% over 52 weeks",
+     "value": "Share price -8% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -66%",
+     "value": "Margin of safety -59%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -705,13 +705,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($140); 48% downside to the low case",
+     "value": "No upside even to the high-case value ($140); 46% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -31.0,
-   "downside_pct": 48.2
+   "upside_pct": -28.3,
+   "downside_pct": 46.3
   }
  },
  "rules_of_the_road": [

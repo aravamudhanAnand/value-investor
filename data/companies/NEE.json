@@ -5,10 +5,10 @@
  "sector": "Utilities",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 86.95,
- "market_cap": "$182.6B",
+ "price": 85.12,
+ "market_cap": "$178.8B",
  "verdict": "PASS",
  "overall_score": 65,
  "one_liner": "Fails the quality test (no free cash flow), so price does not matter.",
@@ -20,7 +20,7 @@
   "financial_health": 6,
   "valuation": 2
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "NextEra Energy owns Florida Power & Light, the largest US electric utility, and NextEra Energy Resources, the world's largest generator of wind and solar power.",
   "money": "Florida Power & Light earns a regulated return on the power grid and plants it builds. NextEra Energy Resources sells renewable power under long-term contracts, often to data centres and utilities. Earnings grow by investing heavily in new assets.",
@@ -30,19 +30,19 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 15.67,
+    "value": 15.34,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 18.68,
+    "sector_median": 18.88,
     "sector_n": 3
    },
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 21.05,
+    "value": 20.61,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 19.97,
+    "sector_median": 20.24,
     "sector_n": 3
    },
    {
@@ -57,19 +57,19 @@
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 21.71,
+    "value": 21.43,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 12.64,
+    "sector_median": 12.74,
     "sector_n": 3
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 2.86,
+    "value": 2.93,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 3.29,
+    "sector_median": 3.25,
     "sector_n": 3
    }
   ],
@@ -78,17 +78,17 @@
    {
     "ticker": "SO",
     "company": "Southern Company",
-    "value": 22.25
+    "value": 22.55
    },
    {
     "ticker": "DUK",
     "company": "Duke Energy",
-    "value": 18.68
+    "value": 18.88
    },
    {
     "ticker": "NEE",
     "company": "NextEra Energy",
-    "value": 15.67
+    "value": 15.34
    }
   ]
  },
@@ -99,11 +99,11 @@
   "as_of": "2026-10-27",
   "low52": 74.41,
   "high52": 98.75,
-  "range_pos": 52,
-  "below_high": 11.9,
-  "target_vs_price": 8.8,
+  "range_pos": 44,
+  "below_high": 13.8,
+  "target_vs_price": 11.1,
   "target_vs_fair": null,
-  "above_low": 16.9
+  "above_low": 14.4
  },
  "summary": {
   "sentence": "The largest US utility and renewables developer, sensitive to rates and policy.",
@@ -436,7 +436,7 @@
      {
       "name": "Dividend yield",
       "value": "2.9%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -476,20 +476,20 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "6.4%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "6.5%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "-9.9%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "-10.1%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "-9.0%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "-9.2%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
@@ -506,33 +506,33 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "15.7"
+   "value": "15.3"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
    "value": "n/a"
   },
   "three_numbers": {
-   "pe": "15.7",
-   "forward_pe": "21.1",
-   "peg": "2.60"
+   "pe": "15.3",
+   "forward_pe": "20.6",
+   "peg": "2.55"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "10.1"
+    "value": "10.0"
    },
    {
     "name": "EV/EBITDA",
-    "value": "21.7"
+    "value": "21.4"
    },
    {
     "name": "EV/EBIT",
-    "value": "33.6"
+    "value": "33.2"
    },
    {
     "name": "P/E",
-    "value": "15.7"
+    "value": "15.3"
    },
    {
     "name": "EV/FCF",
@@ -544,7 +544,7 @@
    },
    {
     "name": "P/B",
-    "value": "2.5"
+    "value": "2.4"
    }
   ],
   "intrinsic_value_low": null,
@@ -588,19 +588,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "25.4x three-year average earnings ($3.42); 15.7x trailing",
+     "value": "24.9x three-year average earnings ($3.42); 15.3x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 38; Graham number $66 vs price $87",
+     "value": "P/E × P/B = 37; Graham number $66 vs price $85",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 6.4% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 6.5% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": true
     },
@@ -618,7 +618,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings -$16.4B (net income + depreciation − capex) = -9.0% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings -$16.4B (net income + depreciation − capex) = -9.2% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -684,13 +684,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 2.60",
+     "value": "PEG 2.55",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": false
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(16% EPS growth + 2.9% yield) ÷ P/E 15.7 = 1.22",
+     "value": "(16% EPS growth + 2.9% yield) ÷ P/E 15.3 = 1.25",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": null
     },
@@ -793,7 +793,7 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price +6% over 52 weeks",
+     "value": "Share price +1% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": false
     },

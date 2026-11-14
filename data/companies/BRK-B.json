@@ -5,13 +5,13 @@
  "sector": "Financials",
  "is_financial": true,
  "as_of": "2026-11-12",
- "price_date": "2026-11-09",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 563.4,
- "market_cap": "$794.4B",
+ "price": 592.94,
+ "market_cap": "$836.0B",
  "verdict": "WATCHLIST",
  "overall_score": 80,
- "one_liner": "A wide-moat business worth owning, but the margin of safety is only 20% against a 30% target. Interesting below about $493.",
+ "one_liner": "A wide-moat business worth owning, but the margin of safety is only 16% against a 30% target. Interesting below about $493.",
  "scores": {
   "meaning": 9,
   "moat": 8,
@@ -20,7 +20,7 @@
   "financial_health": 8,
   "valuation": 7
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Berkshire Hathaway is a conglomerate: insurance (GEICO, General Re, Berkshire Hathaway Reinsurance), the BNSF railroad, Berkshire Hathaway Energy, dozens of manufacturing and retail companies, and a large stock portfolio led by Apple and American Express. Greg Abel succeeded Warren Buffett as chief executive at the start of 2026.",
   "money": "Insurance provides float, premiums received before claims are paid, which Berkshire invests. Operating businesses (railroad, utilities, manufacturing) earn steady profits. Dividends and gains on its stock portfolio, plus interest on a very large cash pile, add the rest.",
@@ -30,19 +30,19 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 14.17,
+    "value": 14.91,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 14.17,
+    "sector_median": 14.91,
     "sector_n": 15
    },
    {
     "key": "pb",
     "label": "Price / book value",
-    "value": 1.04,
+    "value": 1.09,
     "unit": "x",
     "note": "Judge against return on equity",
-    "sector_median": 1.73,
+    "sector_median": 1.82,
     "sector_n": 12
    },
    {
@@ -60,7 +60,7 @@
     "value": 0.0,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 1.97,
+    "sector_median": 1.87,
     "sector_n": 15
    }
   ],
@@ -69,62 +69,62 @@
    {
     "ticker": "AXP",
     "company": "American Express",
-    "value": 17.94
+    "value": 18.08
    },
    {
     "ticker": "BNY",
     "company": "BNY",
-    "value": 16.34
+    "value": 16.99
    },
    {
     "ticker": "SCHW",
     "company": "Charles Schwab",
-    "value": 15.64
+    "value": 15.89
    },
    {
     "ticker": "MS",
     "company": "Morgan Stanley",
-    "value": 14.39
+    "value": 15.12
    },
    {
     "ticker": "BRK.B",
     "company": "Berkshire Hathaway",
-    "value": 14.17
+    "value": 14.91
    },
    {
     "ticker": "JPM",
     "company": "JPMorgan Chase",
-    "value": 14.05
+    "value": 14.54
    },
    {
     "ticker": "WFC",
     "company": "Wells Fargo",
-    "value": 12.69
+    "value": 13.28
    },
    {
     "ticker": "GS",
     "company": "Goldman Sachs",
-    "value": 12.46
+    "value": 13.19
    },
    {
     "ticker": "C",
     "company": "Citigroup",
-    "value": 12.02
-   },
-   {
-    "ticker": "COF",
-    "company": "Capital One",
-    "value": 11.99
+    "value": 12.16
    },
    {
     "ticker": "BAC",
     "company": "Bank of America",
-    "value": 11.77
+    "value": 12.15
    },
    {
     "ticker": "USB",
     "company": "U.S. Bancorp",
-    "value": 11.57
+    "value": 11.87
+   },
+   {
+    "ticker": "COF",
+    "company": "Capital One",
+    "value": 11.55
    }
   ]
  },
@@ -134,12 +134,12 @@
   "beta": 0.57,
   "as_of": "2026-11-09",
   "low52": 464.01,
-  "high52": 586.3,
-  "range_pos": 81,
-  "below_high": 3.9,
-  "target_vs_price": -1.4,
+  "high52": 596.92,
+  "range_pos": 97,
+  "below_high": 0.7,
+  "target_vs_price": -6.3,
   "target_vs_fair": -21.1,
-  "above_low": 21.4
+  "above_low": 27.8
  },
  "summary": {
   "sentence": "A fortress conglomerate with a very large cash pile, in its first years after Buffett.",
@@ -363,7 +363,7 @@
      {
       "name": "Dividend yield",
       "value": "0.0%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -385,13 +385,13 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "7.1%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "6.7%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": true
      },
      {
       "name": "Price to book",
-      "value": "1.04",
+      "value": "1.09",
       "threshold": "Compare with the justified P/B in M4",
       "pass": null
      }
@@ -409,38 +409,38 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "14.2"
+   "value": "14.9"
   },
   "secondary_metric": {
    "name": "Price-to-book",
-   "value": "1.0"
+   "value": "1.1"
   },
   "three_numbers": {
-   "pe": "14.2",
-   "forward_pe": "25.4",
+   "pe": "14.9",
+   "forward_pe": "26.7",
    "peg": null
   },
   "multiples": [
    {
     "name": "P/E",
-    "value": "14.2"
+    "value": "14.9"
    },
    {
     "name": "Forward P/E",
-    "value": "25.4"
+    "value": "26.7"
    },
    {
     "name": "P/B",
-    "value": "1.0"
+    "value": "1.1"
    },
    {
     "name": "P/S",
-    "value": "2.0"
+    "value": "2.1"
    }
   ],
   "intrinsic_value_low": 595.74,
   "intrinsic_value_high": 812.37,
-  "margin_of_safety_pct": 20.0,
+  "margin_of_safety_pct": 15.8,
   "interesting_below": 492.84,
   "method": "Book value per share ($542) × 1.1–1.5. Reported earnings swing with investment marks, so a judgment range on book value is used.",
   "fair_value": 704.06,
@@ -457,7 +457,7 @@
  },
  "lenses": {
   "graham": {
-   "passed": 3,
+   "passed": 2,
    "total": 6,
    "tests": [
     {
@@ -486,19 +486,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "14.5x three-year average earnings ($38.86); 14.2x trailing",
+     "value": "15.3x three-year average earnings ($38.86); 14.9x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
-     "pass": true
+     "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 15; Graham number $696 vs price $563",
+     "value": "P/E × P/B = 16; Graham number $696 vs price $593",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": true
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 7.1% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 6.7% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": true
     },
@@ -516,7 +516,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Earnings yield 9.7% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 9.2% vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": true
     },
@@ -668,7 +668,7 @@
   },
   "pabrai": {
    "passed": 4,
-   "total": 5,
+   "total": 6,
    "tests": [
     {
      "name": "A simple, existing business",
@@ -690,13 +690,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "n/a",
+     "value": "Share price +16% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
-     "pass": null
+     "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety 20%",
+     "value": "Margin of safety 16%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -708,12 +708,12 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "44% upside to the high case; price is already below the low-case value",
+     "value": "37% upside to the high case; price is already below the low-case value",
      "threshold": "Upside at least 3x the downside",
      "pass": true
     }
    ],
-   "upside_pct": 44.2,
+   "upside_pct": 37.0,
    "downside_pct": 0.0
   }
  },

@@ -5,12 +5,12 @@
  "sector": "Technology",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-06",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 116.1,
- "market_cap": "$362.2B",
+ "price": 125.35,
+ "market_cap": "$391.1B",
  "verdict": "PASS",
- "overall_score": 62,
+ "overall_score": 60,
  "one_liner": "Fails the quality test (no free cash flow), so price does not matter.",
  "scores": {
   "meaning": 8,
@@ -18,9 +18,9 @@
   "industry": 5,
   "management": 6,
   "financial_health": 7,
-  "valuation": 3
+  "valuation": 2
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Oracle sells the database software that runs much of the world's corporate data, business applications (Fusion ERP, NetSuite, Cerner health records), and Oracle Cloud Infrastructure (OCI), which it is expanding rapidly to rent computing capacity for AI training.",
   "money": "Most revenue is recurring: annual support fees on software customers already own, plus cloud subscriptions. Cloud infrastructure was about a quarter of fiscal 2026 revenue and is the fastest-growing line, backed by very large multi-year contracts with AI companies. New licence sales and hardware are small and shrinking.",
@@ -30,7 +30,7 @@
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 18.2,
+    "value": 19.65,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 27.36,
@@ -39,10 +39,10 @@
    {
     "key": "fpe",
     "label": "Price / forward earnings",
-    "value": 13.6,
+    "value": 14.68,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 17.35,
+    "sector_median": 18.6,
     "sector_n": 13
    },
    {
@@ -51,22 +51,22 @@
     "value": null,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 22.33,
+    "sector_median": 22.39,
     "sector_n": 11
    },
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 14.36,
+    "value": 15.19,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 19.33,
+    "sector_median": 19.34,
     "sector_n": 20
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 1.72,
+    "value": 1.6,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
     "sector_median": 0.75,
@@ -78,22 +78,22 @@
    {
     "ticker": "NOW",
     "company": "ServiceNow",
-    "value": 73.36
-   },
-   {
-    "ticker": "AAPL",
-    "company": "Apple",
-    "value": 39.05
+    "value": 73.56
    },
    {
     "ticker": "AVGO",
     "company": "Broadcom",
-    "value": 37.51
+    "value": 44.32
+   },
+   {
+    "ticker": "AAPL",
+    "company": "Apple",
+    "value": 39.67
    },
    {
     "ticker": "CSCO",
     "company": "Cisco Systems",
-    "value": 28.18
+    "value": 28.72
    },
    {
     "ticker": "MSFT",
@@ -103,37 +103,37 @@
    {
     "ticker": "IBM",
     "company": "IBM",
-    "value": 22.0
+    "value": 21.09
    },
    {
     "ticker": "INTU",
     "company": "Intuit",
-    "value": 20.75
+    "value": 20.76
    },
    {
     "ticker": "NVDA",
     "company": "NVIDIA",
-    "value": 20.55
+    "value": 20.59
    },
    {
     "ticker": "CRM",
     "company": "Salesforce",
-    "value": 19.8
-   },
-   {
-    "ticker": "ACN",
-    "company": "Accenture",
-    "value": 18.76
+    "value": 20.19
    },
    {
     "ticker": "ORCL",
     "company": "Oracle",
-    "value": 18.2
+    "value": 19.65
+   },
+   {
+    "ticker": "ACN",
+    "company": "Accenture",
+    "value": 18.47
    },
    {
     "ticker": "ADBE",
     "company": "Adobe",
-    "value": 13.35
+    "value": 13.56
    }
   ]
  },
@@ -144,11 +144,11 @@
   "as_of": "2026-11-06",
   "low52": 109.21,
   "high52": 250.25,
-  "range_pos": 5,
-  "below_high": 53.6,
-  "target_vs_price": 103.1,
-  "target_vs_fair": 203.8,
-  "above_low": 6.3
+  "range_pos": 11,
+  "below_high": 49.9,
+  "target_vs_price": 88.1,
+  "target_vs_fair": 205.9,
+  "above_low": 14.8
  },
  "summary": {
   "sentence": "A mature database business making a debt-funded bet on becoming a major AI cloud landlord.",
@@ -479,8 +479,8 @@
     "rows": [
      {
       "name": "Dividend yield",
-      "value": "1.7%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "value": "1.6%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -520,63 +520,63 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "5.5%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
-      "pass": true
+      "value": "5.1%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "-9.3%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "-8.6%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "-13.0%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "-12.0%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
    }
   ],
   "ratio_summary": {
-   "passed": 12,
+   "passed": 11,
    "total": 27
   },
   "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
  },
  "valuation": {
-  "score": 3,
+  "score": 2,
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "18.2"
+   "value": "19.6"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
    "value": "n/a"
   },
   "three_numbers": {
-   "pe": "18.2",
-   "forward_pe": "13.6",
-   "peg": "0.46"
+   "pe": "19.6",
+   "forward_pe": "14.7",
+   "peg": "0.50"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "6.9"
+    "value": "7.3"
    },
    {
     "name": "EV/EBITDA",
-    "value": "14.4"
+    "value": "15.2"
    },
    {
     "name": "EV/EBIT",
-    "value": "20.1"
+    "value": "21.3"
    },
    {
     "name": "P/E",
-    "value": "18.2"
+    "value": "19.6"
    },
    {
     "name": "EV/FCF",
@@ -588,15 +588,15 @@
    },
    {
     "name": "P/B",
-    "value": "5.4"
+    "value": "5.8"
    }
   ],
-  "intrinsic_value_low": 65.02,
-  "intrinsic_value_high": 90.22,
-  "margin_of_safety_pct": -49.6,
-  "interesting_below": 54.33,
-  "method": "Fair value is the average of two methods: (1) Owner cash flow, capex held at depreciation: $15.4B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 7.7x depreciation, so most of it is expansion, not upkeep. (2) Damodaran: cash flow to the firm: Sales grow 5–11% for five years, fading to 3%; operating margin held at 34%; cost of capital 8.1%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 77.62,
+  "intrinsic_value_low": 64.57,
+  "intrinsic_value_high": 89.59,
+  "margin_of_safety_pct": -62.6,
+  "interesting_below": 53.95,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow, capex held at depreciation: $15.4B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 7.7x depreciation, so most of it is expansion, not upkeep. (2) Damodaran: cash flow to the firm: Sales grow 5–11% for five years, fading to 3%; operating margin held at 34%; cost of capital 8.2%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 77.08,
   "methods": [
    {
     "name": "Owner cash flow, capex held at depreciation",
@@ -606,9 +606,9 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 52.06,
-    "high": 70.41,
-    "basis": "Sales grow 5–11% for five years, fading to 3%; operating margin held at 34%; cost of capital 8.1%. Cash added, debt subtracted."
+    "low": 51.17,
+    "high": 69.15,
+    "basis": "Sales grow 5–11% for five years, fading to 3%; operating margin held at 34%; cost of capital 8.2%. Cash added, debt subtracted."
    }
   ],
   "stress_case": {
@@ -626,22 +626,22 @@
    "reinvestment": 71,
    "beta": 1.0,
    "cost_of_equity": 9.6,
-   "cost_of_debt": 5.0,
-   "debt_weight": 32,
-   "cost_of_capital": 8.1,
+   "cost_of_debt": 4.9,
+   "debt_weight": 30,
+   "cost_of_capital": 8.2,
    "terminal_growth": 3.0,
-   "terminal_roc": 13.1,
+   "terminal_roc": 13.2,
    "revenue_now": "$71.8B",
    "revenue_year10": "$134.5B",
-   "low": 52.06,
-   "high": 70.41,
-   "implied_growth": 17.2,
+   "low": 51.17,
+   "high": 69.15,
+   "implied_growth": 18.4,
    "implied_note": null
   }
  },
  "lenses": {
   "graham": {
-   "passed": 4,
+   "passed": 3,
    "total": 8,
    "tests": [
     {
@@ -658,7 +658,7 @@
     },
     {
      "name": "Dividend record",
-     "value": "$2.00 a share (1.7% yield)",
+     "value": "$2.00 a share (1.6% yield)",
      "threshold": "Pays a dividend",
      "pass": true
     },
@@ -670,21 +670,21 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "25.1x three-year average earnings ($4.63); 18.2x trailing",
+     "value": "27.1x three-year average earnings ($4.63); 19.6x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 98; Graham number $56 vs price $116",
+     "value": "P/E × P/B = 114; Graham number $56 vs price $125",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 5.5% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 5.1% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
-     "pass": true
+     "pass": false
     },
     {
      "name": "No financial distress",
@@ -700,7 +700,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings -$47.1B (net income + depreciation − capex) = -13.0% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings -$47.1B (net income + depreciation − capex) = -12.0% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -766,13 +766,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 0.46",
+     "value": "PEG 0.50",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": true
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(25% EPS growth + 1.7% yield) ÷ P/E 18.2 = 1.45",
+     "value": "(25% EPS growth + 1.6% yield) ÷ P/E 19.6 = 1.34",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": null
     },
@@ -875,13 +875,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "Share price -54% over 52 weeks",
+     "value": "Share price -44% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
      "pass": true
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -50%",
+     "value": "Margin of safety -63%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -893,13 +893,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($90); 44% downside to the low case",
+     "value": "No upside even to the high-case value ($90); 48% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -22.3,
-   "downside_pct": 44.0
+   "upside_pct": -28.5,
+   "downside_pct": 48.5
   }
  },
  "rules_of_the_road": [

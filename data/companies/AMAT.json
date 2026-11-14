@@ -5,10 +5,10 @@
  "sector": "Technology",
  "is_financial": false,
  "as_of": "2026-11-12",
- "price_date": "2026-11-12",
+ "price_date": "2026-11-13",
  "currency": "USD",
- "price": 380.95,
- "market_cap": "$302.3B",
+ "price": 370.5,
+ "market_cap": "$294.0B",
  "verdict": "TOO_HARD",
  "overall_score": 65,
  "one_liner": "Goes in the too-hard pile: its industry is changing too fast to predict. No verdict on price.",
@@ -20,7 +20,7 @@
   "financial_health": 10,
   "valuation": 1
  },
- "treasury_10y": 5.13,
+ "treasury_10y": 5.1,
  "profile": {
   "what": "Applied Materials is the largest maker of chip-manufacturing equipment, covering deposition, etching, ion implantation and inspection. It also supplies equipment for display panels.",
   "money": "It sells production tools to chipmakers expanding or upgrading factories, then earns service and spare-parts revenue from a large installed base. Sales follow chipmakers' spending, with China a large and politically sensitive customer.",
@@ -30,16 +30,16 @@
    {
     "key": "evebitda",
     "label": "EV / EBITDA",
-    "value": 29.57,
+    "value": 28.75,
     "unit": "x",
     "note": "Judge at mid-cycle, not peak",
-    "sector_median": 19.33,
+    "sector_median": 19.34,
     "sector_n": 20
    },
    {
     "key": "pe",
     "label": "Price / earnings",
-    "value": 32.87,
+    "value": 31.97,
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 27.36,
@@ -48,16 +48,16 @@
    {
     "key": "fcfy",
     "label": "Free cash flow yield",
-    "value": 1.86,
+    "value": 1.91,
     "unit": "%",
     "note": "Free cash flow ÷ market value",
-    "sector_median": 1.86,
+    "sector_median": 1.91,
     "sector_n": 7
    },
    {
     "key": "dy",
     "label": "Dividend yield",
-    "value": 0.56,
+    "value": 0.57,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
     "sector_median": 0.75,
@@ -74,32 +74,32 @@
    {
     "ticker": "TXN",
     "company": "Texas Instruments",
-    "value": 32.81
+    "value": 32.9
    },
    {
     "ticker": "AMAT",
     "company": "Applied Materials",
-    "value": 29.57
+    "value": 28.75
    },
    {
     "ticker": "LRCX",
     "company": "Lam Research",
-    "value": 24.39
+    "value": 27.54
    },
    {
     "ticker": "QCOM",
     "company": "Qualcomm",
-    "value": 17.45
+    "value": 18.16
    },
    {
     "ticker": "INTC",
     "company": "Intel",
-    "value": 15.44
+    "value": 16.38
    },
    {
     "ticker": "MU",
     "company": "Micron Technology",
-    "value": 7.57
+    "value": 7.73
    }
   ]
  },
@@ -110,11 +110,11 @@
   "as_of": "2026-11-12",
   "low52": 203.4,
   "high52": 739.67,
-  "range_pos": 33,
-  "below_high": 48.5,
-  "target_vs_price": 59.7,
-  "target_vs_fair": 289.2,
-  "above_low": 87.3
+  "range_pos": 31,
+  "below_high": 49.9,
+  "target_vs_price": 64.2,
+  "target_vs_fair": 288.4,
+  "above_low": 82.2
  },
  "summary": {
   "sentence": "The broadest chip-equipment supplier, strong through the cycle but exposed to China policy.",
@@ -447,7 +447,7 @@
      {
       "name": "Dividend yield",
       "value": "0.6%",
-      "threshold": "For reference; 10-year Treasury 5.13%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
       "pass": null
      },
      {
@@ -464,7 +464,7 @@
      },
      {
       "name": "Buyback yield",
-      "value": "0.8%",
+      "value": "0.9%",
       "threshold": "For reference: gross repurchases ÷ market value",
       "pass": null
      },
@@ -487,20 +487,20 @@
     "rows": [
      {
       "name": "Earnings yield",
-      "value": "3.0%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "3.1%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Free cash flow yield after stock pay",
-      "value": "1.6%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "1.7%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      },
      {
       "name": "Owner-earnings yield",
-      "value": "2.3%",
-      "threshold": "≥ 10-year Treasury (5.13%)",
+      "value": "2.4%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
       "pass": false
      }
     ]
@@ -517,53 +517,53 @@
   "lifecycle_stage": "4 · Capital return",
   "primary_metric": {
    "name": "Trailing P/E",
-   "value": "32.9"
+   "value": "32.0"
   },
   "secondary_metric": {
    "name": "Trailing P/FCF",
-   "value": "53.8"
+   "value": "52.3"
   },
   "three_numbers": {
-   "pe": "32.9",
-   "forward_pe": "21.6",
-   "peg": "0.70"
+   "pe": "32.0",
+   "forward_pe": "21.0",
+   "peg": "0.68"
   },
   "multiples": [
    {
     "name": "EV/Sales",
-    "value": "9.7"
+    "value": "9.5"
    },
    {
     "name": "EV/EBITDA",
-    "value": "29.6"
+    "value": "28.8"
    },
    {
     "name": "EV/EBIT",
-    "value": "31.2"
+    "value": "30.3"
    },
    {
     "name": "P/E",
-    "value": "32.9"
+    "value": "32.0"
    },
    {
     "name": "EV/FCF",
-    "value": "53.5"
+    "value": "52.0"
    },
    {
     "name": "P/FCF",
-    "value": "53.8"
+    "value": "52.3"
    },
    {
     "name": "P/B",
-    "value": "11.8"
+    "value": "11.5"
    }
   ],
-  "intrinsic_value_low": 132.75,
-  "intrinsic_value_high": 179.86,
-  "margin_of_safety_pct": -143.7,
-  "interesting_below": 109.41,
+  "intrinsic_value_low": 132.99,
+  "intrinsic_value_high": 180.2,
+  "margin_of_safety_pct": -136.6,
+  "interesting_below": 109.61,
   "method": "Fair value is the average of two methods: (1) Owner cash flow, capex held at depreciation: $7.4B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 5.3x depreciation, so most of it is expansion, not upkeep. (2) Damodaran: cash flow to the firm: Sales grow 5–11% for five years, fading to 3%; operating margin held at 31%; cost of capital 10.6%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
-  "fair_value": 156.3,
+  "fair_value": 156.59,
   "methods": [
    {
     "name": "Owner cash flow, capex held at depreciation",
@@ -573,8 +573,8 @@
    },
    {
     "name": "Damodaran: cash flow to the firm",
-    "low": 117.8,
-    "high": 151.32,
+    "low": 118.28,
+    "high": 152.0,
     "basis": "Sales grow 5–11% for five years, fading to 3%; operating margin held at 31%; cost of capital 10.6%. Cash added, debt subtracted."
    }
   ],
@@ -592,17 +592,17 @@
    "roc": 35.6,
    "reinvestment": 22,
    "beta": 1.25,
-   "cost_of_equity": 10.8,
-   "cost_of_debt": 5.0,
+   "cost_of_equity": 10.7,
+   "cost_of_debt": 4.9,
    "debt_weight": 2,
    "cost_of_capital": 10.6,
    "terminal_growth": 3.0,
    "terminal_roc": 15.6,
    "revenue_now": "$30.8B",
    "revenue_year10": "$57.8B",
-   "low": 117.8,
-   "high": 151.32,
-   "implied_growth": 32.4,
+   "low": 118.28,
+   "high": 152.0,
+   "implied_growth": 31.7,
    "implied_note": null
   }
  },
@@ -637,19 +637,19 @@
     },
     {
      "name": "Moderate P/E",
-     "value": "45.0x three-year average earnings ($8.46); 32.9x trailing",
+     "value": "43.8x three-year average earnings ($8.46); 32.0x trailing",
      "threshold": "Price ≤ 15x average earnings of the last three years",
      "pass": false
     },
     {
      "name": "Graham number",
-     "value": "P/E × P/B = 388; Graham number $92 vs price $381",
+     "value": "P/E × P/B = 367; Graham number $92 vs price $370",
      "threshold": "P/E × P/B ≤ 22.5",
      "pass": false
     },
     {
      "name": "Earnings beat bonds",
-     "value": "Earnings yield 3.0% vs 10-year Treasury 5.13%",
+     "value": "Earnings yield 3.1% vs 10-year Treasury 5.10%",
      "threshold": "Earnings yield ≥ Treasury yield",
      "pass": false
     },
@@ -667,7 +667,7 @@
    "tests": [
     {
      "name": "Owner-earnings yield beats bonds",
-     "value": "Owner earnings $7.0B (net income + depreciation − capex) = 2.3% yield vs 10-year Treasury 5.13%",
+     "value": "Owner earnings $7.0B (net income + depreciation − capex) = 2.4% yield vs 10-year Treasury 5.10%",
      "threshold": "Yield ≥ Treasury yield",
      "pass": false
     },
@@ -733,13 +733,13 @@
     },
     {
      "name": "Growth at a reasonable price",
-     "value": "PEG 0.70",
+     "value": "PEG 0.68",
      "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
      "pass": true
     },
     {
      "name": "Growth plus yield against P/E",
-     "value": "(8% EPS growth + 0.6% yield) ÷ P/E 32.9 = 0.26",
+     "value": "(8% EPS growth + 0.6% yield) ÷ P/E 32.0 = 0.26",
      "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
      "pass": false
     },
@@ -819,7 +819,7 @@
   },
   "pabrai": {
    "passed": 2,
-   "total": 6,
+   "total": 7,
    "tests": [
     {
      "name": "A simple, existing business",
@@ -841,13 +841,13 @@
     },
     {
      "name": "Out of favour",
-     "value": "n/a",
+     "value": "Share price +64% over 52 weeks",
      "threshold": "Down 20% or more: bargains come from distress",
-     "pass": null
+     "pass": false
     },
     {
      "name": "Bought well below value",
-     "value": "Margin of safety -144%",
+     "value": "Margin of safety -137%",
      "threshold": "≥ 30%",
      "pass": false
     },
@@ -859,13 +859,13 @@
     },
     {
      "name": "Heads I win, tails I don't lose much",
-     "value": "No upside even to the high-case value ($180); 65% downside to the low case",
+     "value": "No upside even to the high-case value ($180); 64% downside to the low case",
      "threshold": "Upside at least 3x the downside",
      "pass": false
     }
    ],
-   "upside_pct": -52.8,
-   "downside_pct": 65.2
+   "upside_pct": -51.4,
+   "downside_pct": 64.1
   }
  },
  "rules_of_the_road": [
