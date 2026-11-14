@@ -1,0 +1,17 @@
+# PANW - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=313.84; date=2026-11-06; shares=816.72M; fpe=75.09; peg=4.30; cash=3.07B; debt=2.57B; equity=27.49B; eps=$0.40; cr=0.87; ic=n/a; roic=1.73%; gm=70.38%; rev=11.48B; ni=307.00M; ebitda=1.56B; ebit=809.00M; ocf=4.55B; capex=-440.00M; fcf=4.11B; dps=n/a; sc=+7.76%; ins=0.56%; z=4.84; f=4; c52=+47.22%
+F FY22,5502,68.76,-267,-0.45,1792
+F FY23,6893,72.29,439.7,0.64,2631
+F FY24,8027,74.35,2578,3.64,3101
+F FY25,9221,73.42,1134,1.60,3469
+F FY26,11480,70.38,307,0.40,4113
+B FY22,12254,3953,210
+B FY23,14501,2271,1748
+B FY24,19991,1344,5170
+B FY25,23576,338,7824
+B FY26,48460,2567,27492
+C FY22,220.2,1011,1985,-192.8,n/a,-942.6
+C FY23,202.7,1075,2778,-146.3,n/a,-293.1
+C FY24,206,1076,3258,-157,n/a,-593
+C FY25,260,1295,3716,-247,n/a,-184
+C FY26,751,1774,4553,-440,n/a,-1126

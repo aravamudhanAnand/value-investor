@@ -26,4 +26,10 @@ NOTES = {'AMGN': 'Trailing figures are from the latest full fiscal year; the sha
  'TXN': 'Free cash flow is depressed by a multi-year factory build-out, so the valuation here is deliberately conservative. The statistics page appeared older than the share price when collected.',
  'V': 'Equity is flat to down because buybacks return more than all earnings; per-share value is still compounding.',
  'WM': 'Debt jumped in FY24 with the Stericycle acquisition; landfill-heavy, capital-intensive model.',
- 'XOM': 'Earnings track oil and gas prices; FY24 asset and equity jump reflects the Pioneer acquisition paid in stock.'}
+ 'XOM': 'Earnings track oil and gas prices; FY24 asset and equity jump reflects the Pioneer acquisition paid in stock.',
+    "MAR": "Two revenue definitions appear in the source: the five-year record shows fee revenue only, while trailing revenue and margins include costs reimbursed by hotel owners, which carry no profit. Margins therefore look lower than the fee business earns.",
+    "ANET": "The source's overview page for this company was out of date, so no analyst rating or price target is shown.",
+    "PANW": "The source showed two different recent prices for this company; the price here comes from the weekly price feed. Fiscal 2026 includes a large acquisition paid for in shares, which lifted assets, equity and the share count.",
+    "SNPS": "Fiscal 2025 includes the Ansys acquisition, which lifted assets, debt, equity and the share count; trailing earnings carry the deal's costs.",
+    "CME": "The source shows dividends paid only for the trailing year, so the five-year 'where the cash goes' chart understates dividends.",
+}

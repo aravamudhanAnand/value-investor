@@ -1,0 +1,18 @@
+# BSX - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=45.58; date=2026-10-26; shares=1.45B; fpe=14.23; peg=1.07; cash=539.00M; debt=12.62B; equity=25.17B; eps=$2.47; cr=1.24; ic=11.84; roic=11.20%; gm=69.19%; rev=21.00B; ni=3.67B; ebitda=5.71B; ebit=4.30B; ocf=4.53B; capex=-904.00M; fcf=3.63B; dps=n/a; sc=-0.05%; ins=0.18%; z=4.8; f=7; c52=-54.92%
+F FY21,11888,68.37,985,0.69,1316
+F FY22,12682,68.44,642,0.45,938
+F FY23,14240,69.16,1570,1.07,1792
+F FY24,16747,68.41,1853,1.25,2645
+F FY25,20074,68.78,2898,1.94,3658
+B FY21,32229,9525,16622
+B FY22,32469,9343,17573
+B FY23,35136,9568,19530
+B FY24,39395,11228,22003
+B FY25,43673,11972,24472
+C FY21,1093,194,1870,-554,n/a,n/a
+C FY22,1136,220,1526,-588,n/a,n/a
+C FY23,1196,233,2503,-711,n/a,n/a
+C FY24,1269,266,3435,-790,n/a,n/a
+C FY25,1368,299,4534,-876,n/a,n/a
+C TTM,1413,320,4529,-904,n/a,-2000

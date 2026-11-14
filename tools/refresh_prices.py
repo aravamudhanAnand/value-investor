@@ -8,7 +8,7 @@ Writes    tools/prices.csv     latest close and its date
           tools/settings.json  treasury_10y, prices_as_of
           tools/refresh_log.txt what changed and what was skipped
 
-A company is skipped, and its old figures kept, if the feed fails or the new price is more than 40% away
+A company is skipped, and its old figures are kept, if the feed fails or the new price is more than 40% away
 from the price on file (a likely split or bad data point: check it by hand).
 """
 import csv, datetime, json, os, sys, time, urllib.request

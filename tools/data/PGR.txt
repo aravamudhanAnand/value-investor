@@ -1,0 +1,12 @@
+# PGR - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=227.80; date=2026-10-26; shares=579.50M; fpe=14.16; peg=n/a; cash=2.13B; debt=8.39B; equity=34.49B; eps=$19.85; cr=0.28; ic=47.79; roic=27.74%; gm=17.28%; rev=91.70B; ni=11.62B; ebitda=15.34B; ebit=15.01B; ocf=16.34B; capex=-388.00M; fcf=15.95B; dps=$0.40; sc=-0.43%; ins=0.27%; z=n/a; f=4; c52=+4.51%
+F FY21,47677,n/a,3324,5.66,7518
+F FY22,49587,n/a,695,1.18,6557
+F FY23,62083,n/a,3865,6.58,10391
+F FY24,75343,n/a,8463,14.40,14834
+F FY25,87637,n/a,11308,19.23,17200
+B FY21,71132,5080,18232
+B FY22,75465,6388,15891
+B FY23,88691,7066,20277
+B FY24,105745,7089,25591
+B FY25,123039,7102,30323

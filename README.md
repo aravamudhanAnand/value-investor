@@ -1,8 +1,8 @@
 # Value Investor
 
-**Business quality and fair value for 102 large US companies.**
+**Business quality and fair value for large US companies.**
 
-Pick one of 102 large US companies (the S&P 100, plus Waste Management and
+Pick one of 125 large US companies (the S&P 100, a first batch of other S&P 500 members, plus Waste Management and
 Sherwin-Williams) and see it assessed the way a value investor would: first on
 the 4 M's, then on a full ratio sheet, then against the checklists of Benjamin
 Graham, Warren Buffett, Peter Lynch, Charlie Munger and Mohnish Pabrai.

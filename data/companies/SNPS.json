@@ -1,0 +1,982 @@
+{
+ "company": "Synopsys",
+ "ticker": "SNPS",
+ "exchange": "NASDAQ",
+ "sector": "Technology",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-11-06",
+ "currency": "USD",
+ "price": 450.46,
+ "market_cap": "$86.3B",
+ "verdict": "WATCHLIST",
+ "overall_score": 60,
+ "one_liner": "A wide-moat business worth owning, but it trades at 8.6x fair value. Interesting below about $37.",
+ "scores": {
+  "meaning": 7,
+  "moat": 8,
+  "industry": 6,
+  "management": 6,
+  "financial_health": 8,
+  "valuation": 1
+ },
+ "treasury_10y": 5.1,
+ "profile": {
+  "what": "Synopsys sells electronic design automation software, the tools engineers use to design and verify chips, and licenses pre-built circuit designs. It bought Ansys, a simulation software company, in 2025.",
+  "money": "Customers sign multi-year software licences and pay royalties on reused designs. Chipmakers, and increasingly large technology companies designing their own chips, depend on the tools for every new product.",
+  "valued": "Synopsys is valued on forward earnings and free cash flow. Reported earnings are depressed by the cost of the Ansys deal, so investors watch debt reduction, integration and exposure to China.",
+  "kind": "Established operating business",
+  "metrics": [
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 79.87,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 34.01,
+    "sector_n": 27
+   },
+   {
+    "key": "fpe",
+    "label": "Price / forward earnings",
+    "value": 25.6,
+    "unit": "x",
+    "note": "Next twelve months, analyst estimates",
+    "sector_median": 22.44,
+    "sector_n": 19
+   },
+   {
+    "key": "pfcf",
+    "label": "Price / free cash flow",
+    "value": 31.39,
+    "unit": "x",
+    "note": "Before deducting stock-based pay",
+    "sector_median": 31.18,
+    "sector_n": 16
+   },
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 44.98,
+    "unit": "x",
+    "note": "Enterprise value includes debt",
+    "sector_median": 26.99,
+    "sector_n": 28
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 0.0,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 0.64,
+    "sector_n": 26
+   }
+  ],
+  "peer_group": "Technology · established operating business",
+  "peers": [
+   {
+    "ticker": "PANW",
+    "company": "Palo Alto Networks",
+    "value": 784.6
+   },
+   {
+    "ticker": "SNPS",
+    "company": "Synopsys",
+    "value": 79.87
+   },
+   {
+    "ticker": "NOW",
+    "company": "ServiceNow",
+    "value": 73.56
+   },
+   {
+    "ticker": "CDNS",
+    "company": "Cadence Design Systems",
+    "value": 63.6
+   },
+   {
+    "ticker": "ANET",
+    "company": "Arista Networks",
+    "value": 45.79
+   },
+   {
+    "ticker": "AVGO",
+    "company": "Broadcom",
+    "value": 44.32
+   },
+   {
+    "ticker": "AAPL",
+    "company": "Apple",
+    "value": 39.67
+   },
+   {
+    "ticker": "APH",
+    "company": "Amphenol",
+    "value": 34.01
+   },
+   {
+    "ticker": "CSCO",
+    "company": "Cisco Systems",
+    "value": 28.72
+   },
+   {
+    "ticker": "MSFT",
+    "company": "Microsoft",
+    "value": 27.36
+   },
+   {
+    "ticker": "IBM",
+    "company": "IBM",
+    "value": 21.09
+   },
+   {
+    "ticker": "INTU",
+    "company": "Intuit",
+    "value": 20.76
+   },
+   {
+    "ticker": "NVDA",
+    "company": "NVIDIA",
+    "value": 20.59
+   },
+   {
+    "ticker": "CRM",
+    "company": "Salesforce",
+    "value": 20.19
+   },
+   {
+    "ticker": "ORCL",
+    "company": "Oracle",
+    "value": 19.65
+   },
+   {
+    "ticker": "ACN",
+    "company": "Accenture",
+    "value": 18.47
+   },
+   {
+    "ticker": "ADBE",
+    "company": "Adobe",
+    "value": 13.56
+   }
+  ]
+ },
+ "market": {
+  "rating": "Strong Buy",
+  "target": 586.95,
+  "beta": 1.18,
+  "as_of": "2026-11-06",
+  "low52": 362.55,
+  "high52": 539.48,
+  "range_pos": 50,
+  "below_high": 16.5,
+  "target_vs_price": 30.3,
+  "target_vs_fair": 1014.8,
+  "above_low": 24.2
+ },
+ "summary": {
+  "sentence": "Half of the chip-design software duopoly, digesting a large, debt-funded acquisition.",
+  "strengths": [
+   "Very high gross margin.",
+   "Multi-year contracts give visibility.",
+   "Chip design demand is broadening beyond chipmakers."
+  ],
+  "risks": [
+   "Debt and share count jumped with the Ansys acquisition.",
+   "Return on invested capital has fallen sharply.",
+   "Interest cover is thin."
+  ],
+  "swing": [
+   "Ansys integration",
+   "Debt reduction",
+   "China export rules"
+  ]
+ },
+ "dollar": {
+  "cogs": 17.1,
+  "opex": 71.9,
+  "op_profit": 11.0,
+  "net": 11.5,
+  "fcf": 29.2
+ },
+ "cash_use": {
+  "years": 5,
+  "first": "FY21",
+  "last": "FY25",
+  "ocf": "$7.9B",
+  "capex": 9,
+  "dividends": 0,
+  "buybacks": 54,
+  "left": 37,
+  "sbc": 38,
+  "capex_reported": true
+ },
+ "meaning": {
+  "score": 7,
+  "what_it_does": "Sells the design software and pre-built circuit blocks that engineers use to create chips; bought the simulation company Ansys in 2025.",
+  "how_it_makes_money": "Multi-year software licences and royalties on reusable chip designs.",
+  "how_it_keeps_making_money": "Every advanced chip is designed with its tools, and engineers train on them for years.",
+  "how_it_could_stop": "The Ansys acquisition and its debt fail to pay off, or export limits cut sales to China."
+ },
+ "moat": {
+  "score": 8,
+  "strength": "Wide",
+  "sources": [
+   "Switching costs",
+   "Intellectual property"
+  ],
+  "summary": "One of two companies whose software is essential to designing advanced chips."
+ },
+ "industry": {
+  "score": 6,
+  "pace": "Steady change",
+  "summary": "Design software advances with each chip generation, but the two leaders have held their positions for decades."
+ },
+ "management": {
+  "score": 6,
+  "summary": "A strong long-term record, but the Ansys deal added heavy debt and many new shares."
+ },
+ "financial_health": {
+  "score": 8,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+13.8% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "+15.2% a year, 1 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net profit margin",
+    "value": "11.5%",
+    "threshold": "≥ 5%",
+    "pass": true
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.30",
+    "threshold": "≤ 0.40",
+    "pass": true
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$5.3B → $28.3B, 0 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": true
+   },
+   {
+    "name": "ROIC",
+    "value": "2.2%",
+    "threshold": "≥ 10%",
+    "pass": false
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$1.4B → $1.3B; TTM $2.8B",
+    "threshold": "Positive every year and rising",
+    "pass": true
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 1.7x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": false
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 120% of net income over 5 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": true
+   }
+  ],
+  "red_flags": [],
+  "note": "Fiscal 2025 includes the Ansys acquisition, which lifted assets, debt, equity and the share count; trailing earnings carry the deal's costs.",
+  "history": [
+   {
+    "period": "FY21",
+    "revenue": 4204.0,
+    "net_income": 757.52,
+    "fcf": 1399.0
+   },
+   {
+    "period": "FY22",
+    "revenue": 4616.0,
+    "net_income": 984.59,
+    "fcf": 1602.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 5318.0,
+    "net_income": 1230.0,
+    "fcf": 1514.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 6127.0,
+    "net_income": 2263.0,
+    "fcf": 1268.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 7054.0,
+    "net_income": 1332.0,
+    "fcf": 1349.0
+   },
+   {
+    "period": "TTM",
+    "revenue": 9420.0,
+    "net_income": 1080.0,
+    "fcf": 2750.0
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "82.9%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": true
+     },
+     {
+      "name": "Operating margin",
+      "value": "11.0%",
+      "threshold": "≥ 15%",
+      "pass": false
+     },
+     {
+      "name": "Net profit margin",
+      "value": "11.5%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "29.2%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Return on equity",
+      "value": "3.5%",
+      "threshold": "≥ 15%",
+      "pass": false
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "2.2%",
+      "threshold": "≥ 12%",
+      "pass": false
+     },
+     {
+      "name": "Return on assets",
+      "value": "2.2%",
+      "threshold": "≥ 6%",
+      "pass": false
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "0.35x",
+      "threshold": "≤ 1.0x",
+      "pass": true
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.30",
+      "threshold": "≤ 0.40",
+      "pass": true
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "3.5x",
+      "threshold": "≤ 2.5x",
+      "pass": false
+     },
+     {
+      "name": "Interest cover",
+      "value": "1.7x",
+      "threshold": "≥ 5x",
+      "pass": false
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "3.9",
+      "threshold": "≤ 4 years",
+      "pass": true
+     },
+     {
+      "name": "Current ratio",
+      "value": "1.34",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": true
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "3.84",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "120% over 5 years",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "109% over 5 years",
+      "threshold": "≥ 80%",
+      "pass": true
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "6%",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": true
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "0.2x",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$950M, 32% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": false
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "6 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+13.8%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Earnings per share",
+      "value": "+13.7%",
+      "threshold": "≥ 7%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow",
+      "value": "-0.9%",
+      "threshold": "≥ 5%",
+      "pass": false
+     },
+     {
+      "name": "Book value per share",
+      "value": "+50.2%",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "0.0%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "No dividend",
+      "threshold": "≤ 60% of earnings",
+      "pass": null
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "No dividend",
+      "threshold": "≥ 1.5x",
+      "pass": null
+     },
+     {
+      "name": "Buyback yield",
+      "value": "0.7%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "+5.1% over 4 years",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": false
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "9%",
+      "threshold": "≥ 12%",
+      "pass": false
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "1.3%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "2.1%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "2.2%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 13,
+   "total": 26
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 1,
+  "lifecycle_stage": "3 · Operating leverage",
+  "primary_metric": {
+   "name": "Forward P/E",
+   "value": "25.6"
+  },
+  "secondary_metric": {
+   "name": "P/FCF",
+   "value": "31.4"
+  },
+  "three_numbers": {
+   "pe": "79.9",
+   "forward_pe": "25.6",
+   "peg": "1.02"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "9.9"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "45.0"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "90.0"
+   },
+   {
+    "name": "P/E",
+    "value": "79.9"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "34.0"
+   },
+   {
+    "name": "P/FCF",
+    "value": "31.4"
+   },
+   {
+    "name": "P/B",
+    "value": "2.8"
+   }
+  ],
+  "intrinsic_value_low": 40.98,
+  "intrinsic_value_high": 64.32,
+  "margin_of_safety_pct": -755.5,
+  "interesting_below": 36.86,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $763M a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 7–13% for five years, fading to 3%; operating margin held at 11%; cost of capital 9.1%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 52.65,
+  "methods": [
+   {
+    "name": "Owner cash flow",
+    "low": 70.47,
+    "high": 99.33,
+    "basis": "$763M a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM)."
+   },
+   {
+    "name": "Damodaran: cash flow to the firm",
+    "low": 11.5,
+    "high": 29.31,
+    "basis": "Sales grow 7–13% for five years, fading to 3%; operating margin held at 11%; cost of capital 9.1%. Cash added, debt subtracted."
+   }
+  ],
+  "stress_case": null,
+  "damodaran": {
+   "growth": 10,
+   "growth_low": 7,
+   "growth_high": 13,
+   "margin": 11.0,
+   "tax": 25.0,
+   "roc": 8.0,
+   "reinvestment": 90,
+   "beta": 1.0,
+   "cost_of_equity": 9.6,
+   "cost_of_debt": 4.9,
+   "debt_weight": 11,
+   "cost_of_capital": 9.1,
+   "terminal_growth": 3.0,
+   "terminal_roc": 14.1,
+   "revenue_now": "$9.4B",
+   "revenue_year10": "$20.1B",
+   "low": 11.5,
+   "high": 29.31,
+   "implied_growth": 50.0,
+   "implied_note": null
+  }
+ },
+ "lenses": {
+  "graham": {
+   "passed": 3,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "1.34",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "5 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": true
+    },
+    {
+     "name": "Dividend record",
+     "value": "No dividend",
+     "threshold": "Pays a dividend",
+     "pass": false
+    },
+    {
+     "name": "Earnings growth",
+     "value": "+17% ($4.81 → $5.64)",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": true
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "44.3x three-year average earnings ($10.17); 79.9x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "P/E × P/B = 221; Graham number $144 vs price $450",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 1.3% vs 10-year Treasury 5.10%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "No financial distress",
+     "value": "Altman Z-score 3.84",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": true
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 2,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Owner earnings $1.9B (net income + depreciation − capex) = 2.2% yield vs 10-year Treasury 5.10%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "High return on equity without heavy debt",
+     "value": "ROE 3.5%, debt/equity 0.35",
+     "threshold": "ROE ≥ 15% and debt/equity ≤ 1.0",
+     "pass": false
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "EPS rose $3.24 on $36.79 a share retained over 4 years: 9% return",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": false
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 83%, 0.9-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": true
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Capex is 18% of net income",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": true
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest 1.7x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": false
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "10.0 years of net income",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": false
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "+5.1% over four fiscal years",
+     "threshold": "Fewer shares than four years ago",
+     "pass": false
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 3,
+   "total": 4,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 7 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": null
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Steady change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 1.02",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": null
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "(14% EPS growth + 0.0% yield) ÷ P/E 79.9 = 0.17",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "EPS +13.7% a year, 1 down year(s)",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": true
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Debt is 0.35x equity",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": true
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "No dividend",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": null
+    }
+   ],
+   "category": "Stalwart",
+   "category_note": "A large company growing earnings at a steady pace, between the slow and the fast growers. Lynch bought these for a 30–50% gain and for protection in recessions, then rotated."
+  },
+  "munger": {
+   "passed": 2,
+   "total": 5,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 7 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": null
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Steady change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 0.45%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": false
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count +21.14% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": false
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$950M, 32% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": false
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Operating cash flow was 120% of net income over 5 fiscal years",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": true
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 6 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "Integration of Ansys goes badly.",
+    "China is closed off as a market.",
+    "Debt equals 10 years of earnings, which leaves little room for a bad stretch."
+   ]
+  },
+  "pabrai": {
+   "passed": 1,
+   "total": 6,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 7 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": false
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Steady change",
+     "threshold": "Stable industry",
+     "pass": null
+    },
+    {
+     "name": "Durable moat",
+     "value": "Wide moat",
+     "threshold": "Wide moat",
+     "pass": true
+    },
+    {
+     "name": "Out of favour",
+     "value": "Share price +10% over 52 weeks",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": false
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety -756%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "Debt is 10.0 years of net income",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": false
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "No upside even to the high-case value ($64); 91% downside to the low case",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": -85.7,
+   "downside_pct": 90.9
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Wide moat: Switching costs, Intellectual property.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "Shares a duopoly with Cadence.",
+   "threshold": "",
+   "pass": false
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "More companies are designing their own chips.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 2%.",
+   "threshold": "",
+   "pass": false
+  }
+ ],
+ "bull_case": [
+  "Very high gross margin.",
+  "Multi-year contracts give visibility.",
+  "Chip design demand is broadening beyond chipmakers."
+ ],
+ "bear_case": [
+  "Debt and share count jumped with the Ansys acquisition.",
+  "Return on invested capital has fallen sharply.",
+  "Interest cover is thin."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "Synopsys statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/snps/statistics/"
+  },
+  {
+   "title": "Synopsys income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/snps/financials/"
+  },
+  {
+   "title": "Synopsys balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/snps/financials/balance-sheet/"
+  },
+  {
+   "title": "Synopsys cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/snps/financials/cash-flow-statement/"
+  }
+ ]
+}

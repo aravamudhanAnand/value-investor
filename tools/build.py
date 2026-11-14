@@ -181,7 +181,7 @@ def val_score(mos):
 
 # Lynch's cyclicals: earnings follow the economic or product cycle, so a low P/E can mark the peak
 CYCLICAL = {"CAT", "DE", "GM", "MU", "LRCX", "AMAT", "AMD", "INTC", "TXN", "QCOM", "XOM", "CVX", "COP", "GS", "MS", "BA",
-            "FDX", "UPS", "UNP", "EMR", "MMM", "HON", "GE", "GEV"}
+            "FDX", "UPS", "UNP", "EMR", "MMM", "HON", "GE", "GEV", "KLAC", "ADI"}
 LYNCH = {
     "Fast grower": "Earnings compounding at 20% or more on sales growing at least 10%. Lynch's favourite hunting ground, provided the growth is not paid for twice: check the PEG.",
     "Stalwart": "A large company growing earnings at a steady pace, between the slow and the fast growers. Lynch bought these for a 30–50% gain and for protection in recessions, then rotated.",

@@ -1,0 +1,946 @@
+{
+ "company": "Marriott International",
+ "ticker": "MAR",
+ "exchange": "NASDAQ",
+ "sector": "Consumer discretionary",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-10-23",
+ "currency": "USD",
+ "price": 390.71,
+ "market_cap": "$101.9B",
+ "verdict": "WATCHLIST",
+ "overall_score": 64,
+ "one_liner": "A wide-moat business worth owning, but it trades at 2.7x fair value. Interesting below about $100.",
+ "scores": {
+  "meaning": 9,
+  "moat": 8,
+  "industry": 7,
+  "management": 7,
+  "financial_health": 8,
+  "valuation": 1
+ },
+ "treasury_10y": 5.1,
+ "profile": {
+  "what": "Marriott International is the world's largest hotel company by rooms, with brands including Marriott, Ritz-Carlton, Sheraton, Westin and Courtyard, and the Marriott Bonvoy loyalty programme.",
+  "money": "It owns very few hotels. Property owners pay it franchise and management fees based on room revenue, and it earns fees from co-branded credit cards. The revenue it reports also includes costs reimbursed by hotel owners, which carry no profit.",
+  "valued": "Marriott is valued on P/E and EV/EBITDA as a capital-light fee business. The multiple moves with room-revenue growth and the pace of new hotel openings.",
+  "kind": "Established operating business",
+  "metrics": [
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 40.53,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 22.09,
+    "sector_n": 11
+   },
+   {
+    "key": "fpe",
+    "label": "Price / forward earnings",
+    "value": 31.67,
+    "unit": "x",
+    "note": "Next twelve months, analyst estimates",
+    "sector_median": 26.87,
+    "sector_n": 10
+   },
+   {
+    "key": "pfcf",
+    "label": "Price / free cash flow",
+    "value": 36.65,
+    "unit": "x",
+    "note": "Before deducting stock-based pay",
+    "sector_median": 26.83,
+    "sector_n": 9
+   },
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 24.78,
+    "unit": "x",
+    "note": "Enterprise value includes debt",
+    "sector_median": 16.59,
+    "sector_n": 11
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 0.75,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 1.33,
+    "sector_n": 11
+   }
+  ],
+  "peer_group": "Consumer discretionary · established operating business",
+  "peers": [
+   {
+    "ticker": "TSLA",
+    "company": "Tesla",
+    "value": 428.81
+   },
+   {
+    "ticker": "SBUX",
+    "company": "Starbucks",
+    "value": 61.17
+   },
+   {
+    "ticker": "MAR",
+    "company": "Marriott International",
+    "value": 40.53
+   },
+   {
+    "ticker": "TJX",
+    "company": "TJX Companies",
+    "value": 26.81
+   },
+   {
+    "ticker": "HD",
+    "company": "Home Depot",
+    "value": 24.4
+   },
+   {
+    "ticker": "MCD",
+    "company": "McDonald's",
+    "value": 22.09
+   },
+   {
+    "ticker": "AMZN",
+    "company": "Amazon",
+    "value": 21.56
+   },
+   {
+    "ticker": "LOW",
+    "company": "Lowe's",
+    "value": 19.25
+   },
+   {
+    "ticker": "NKE",
+    "company": "Nike",
+    "value": 18.18
+   },
+   {
+    "ticker": "BKNG",
+    "company": "Booking Holdings",
+    "value": 17.36
+   }
+  ]
+ },
+ "market": {
+  "rating": "Buy",
+  "target": 387.77,
+  "beta": 1.17,
+  "as_of": "2026-10-26",
+  "low52": 256.76,
+  "high52": 410.98,
+  "range_pos": 87,
+  "below_high": 4.9,
+  "target_vs_price": -0.8,
+  "target_vs_fair": 172.0,
+  "above_low": 52.2
+ },
+ "summary": {
+  "sentence": "The largest hotel franchisor: capital-light, cyclical and financed with heavy debt.",
+  "strengths": [
+   "Capital-light franchise model.",
+   "Share count is falling fast.",
+   "Strong Piotroski score."
+  ],
+  "risks": [
+   "Book equity is negative after debt-funded buybacks.",
+   "Debt is high relative to earnings.",
+   "Travel demand is cyclical."
+  ],
+  "swing": [
+   "Travel demand",
+   "New hotel openings",
+   "Debt and buyback pace"
+  ]
+ },
+ "dollar": {
+  "cogs": 78.2,
+  "opex": 5.7,
+  "op_profit": 16.1,
+  "net": 9.6,
+  "fcf": 10.3
+ },
+ "cash_use": {
+  "years": 5,
+  "first": "FY21",
+  "last": "FY25",
+  "ocf": "$12.7B",
+  "capex": 22,
+  "dividends": 18,
+  "buybacks": 111,
+  "left": -52,
+  "sbc": 8,
+  "capex_reported": true
+ },
+ "meaning": {
+  "score": 9,
+  "what_it_does": "The largest hotel company in the world by rooms, with brands from Ritz-Carlton to Courtyard; it owns almost none of the hotels.",
+  "how_it_makes_money": "Franchise and management fees paid by hotel owners as a share of room revenue, plus credit-card and loyalty fees.",
+  "how_it_keeps_making_money": "Owners want its brands and its loyalty programme because they fill rooms.",
+  "how_it_could_stop": "A travel downturn, or online travel sites weaken the value of its direct bookings."
+ },
+ "moat": {
+  "score": 8,
+  "strength": "Wide",
+  "sources": [
+   "Brand",
+   "Network effects"
+  ],
+  "summary": "The largest loyalty programme in hotels draws travellers, which draws owners, which adds rooms."
+ },
+ "industry": {
+  "score": 7,
+  "pace": "Steady change",
+  "summary": "Hotels change slowly, but travel demand is cyclical."
+ },
+ "management": {
+  "score": 7,
+  "summary": "Capital-light and shareholder-friendly, though it has borrowed heavily to buy back stock."
+ },
+ "financial_health": {
+  "score": 8,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+19.6% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "+24.0% a year, 1 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net profit margin",
+    "value": "9.6%",
+    "threshold": "≥ 5%",
+    "pass": true
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.62",
+    "threshold": "≤ 0.40",
+    "pass": false
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$1.4B → -$3.8B, 4 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": false
+   },
+   {
+    "name": "ROIC",
+    "value": "16.3%",
+    "threshold": "≥ 10%",
+    "pass": true
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$994M → $2.3B; TTM $2.8B",
+    "threshold": "Positive every year and rising",
+    "pass": true
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 5.1x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": true
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 110% of net income over 5 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": true
+   }
+  ],
+  "red_flags": [],
+  "note": "Two revenue definitions appear in the source: the five-year record shows fee revenue only, while trailing revenue and margins include costs reimbursed by hotel owners, which carry no profit. Margins therefore look lower than the fee business earns.",
+  "history": [
+   {
+    "period": "FY21",
+    "revenue": 3415.0,
+    "net_income": 1099.0,
+    "fcf": 994.0
+   },
+   {
+    "period": "FY22",
+    "revenue": 5356.0,
+    "net_income": 2358.0,
+    "fcf": 2031.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 6300.0,
+    "net_income": 3083.0,
+    "fcf": 2617.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 6618.0,
+    "net_income": 2375.0,
+    "fcf": 1973.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 6982.0,
+    "net_income": 2601.0,
+    "fcf": 2258.0
+   },
+   {
+    "period": "TTM",
+    "revenue": 26900.0,
+    "net_income": 2590.0,
+    "fcf": 2780.0
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "21.8%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": false
+     },
+     {
+      "name": "Operating margin",
+      "value": "16.1%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Net profit margin",
+      "value": "9.6%",
+      "threshold": "≥ 10%",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "10.3%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Return on equity",
+      "value": "Negative book equity",
+      "threshold": "≥ 15%",
+      "pass": null
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "16.3%",
+      "threshold": "≥ 12%",
+      "pass": true
+     },
+     {
+      "name": "Return on assets",
+      "value": "9.4%",
+      "threshold": "≥ 6%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "Negative book equity",
+      "threshold": "≤ 1.0x",
+      "pass": null
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.62",
+      "threshold": "≤ 0.40",
+      "pass": false
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "3.6x",
+      "threshold": "≤ 2.5x",
+      "pass": false
+     },
+     {
+      "name": "Interest cover",
+      "value": "5.1x",
+      "threshold": "≥ 5x",
+      "pass": true
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "6.4",
+      "threshold": "≤ 4 years",
+      "pass": false
+     },
+     {
+      "name": "Current ratio",
+      "value": "0.53",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": false
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "3.12",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "110% over 5 years",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "86% over 5 years",
+      "threshold": "≥ 80%",
+      "pass": true
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "25%",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": true
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "1.9x",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$249M, 7% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": true
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "7 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+19.6%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Earnings per share",
+      "value": "+29.9%",
+      "threshold": "≥ 7%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow",
+      "value": "+22.8%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Book value per share",
+      "value": "n/a",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "0.7%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "30%",
+      "threshold": "≤ 60% of earnings",
+      "pass": true
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "3.8x",
+      "threshold": "≥ 1.5x",
+      "pass": true
+     },
+     {
+      "name": "Buyback yield",
+      "value": "3.7%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "-16.9% over 4 years",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": true
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "23%",
+      "threshold": "≥ 12%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "2.5%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "2.5%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "2.1%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 18,
+   "total": 27
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 1,
+  "lifecycle_stage": "4 · Capital return",
+  "primary_metric": {
+   "name": "Trailing P/E",
+   "value": "40.5"
+  },
+  "secondary_metric": {
+   "name": "Trailing P/FCF",
+   "value": "36.6"
+  },
+  "three_numbers": {
+   "pe": "40.5",
+   "forward_pe": "31.7",
+   "peg": "2.63"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "4.4"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "24.8"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "27.5"
+   },
+   {
+    "name": "P/E",
+    "value": "40.5"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "42.9"
+   },
+   {
+    "name": "P/FCF",
+    "value": "36.6"
+   },
+   {
+    "name": "P/B",
+    "value": "n/a"
+   }
+  ],
+  "intrinsic_value_low": 119.56,
+  "intrinsic_value_high": 165.56,
+  "margin_of_safety_pct": -174.1,
+  "interesting_below": 99.79,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $2.2B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 4–10% for five years, fading to 3%; operating margin held at 16%; cost of capital 8.9%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 142.56,
+  "methods": [
+   {
+    "name": "Owner cash flow",
+    "low": 126.58,
+    "high": 178.7,
+    "basis": "$2.2B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM)."
+   },
+   {
+    "name": "Damodaran: cash flow to the firm",
+    "low": 112.55,
+    "high": 152.41,
+    "basis": "Sales grow 4–10% for five years, fading to 3%; operating margin held at 16%; cost of capital 8.9%. Cash added, debt subtracted."
+   }
+  ],
+  "stress_case": null,
+  "damodaran": {
+   "growth": 7,
+   "growth_low": 4,
+   "growth_high": 10,
+   "margin": 16.1,
+   "tax": 25.0,
+   "roc": 16.3,
+   "reinvestment": 43,
+   "beta": 1.0,
+   "cost_of_equity": 9.6,
+   "cost_of_debt": 4.9,
+   "debt_weight": 15,
+   "cost_of_capital": 8.9,
+   "terminal_growth": 3.0,
+   "terminal_roc": 13.9,
+   "revenue_now": "$26.9B",
+   "revenue_year10": "$47.2B",
+   "low": 112.55,
+   "high": 152.41,
+   "implied_growth": 25.4,
+   "implied_note": null
+  }
+ },
+ "lenses": {
+  "graham": {
+   "passed": 4,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "0.53",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "5 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": true
+    },
+    {
+     "name": "Dividend record",
+     "value": "$2.92 a share (0.7% yield)",
+     "threshold": "Pays a dividend",
+     "pass": true
+    },
+    {
+     "name": "Earnings growth",
+     "value": "+189% ($3.34 → $9.64)",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": true
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "41.8x three-year average earnings ($9.34); 40.5x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "Negative earnings or book value",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 2.5% vs 10-year Treasury 5.10%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "No financial distress",
+     "value": "Altman Z-score 3.12",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": true
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 4,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Owner earnings $2.1B (net income + depreciation − capex) = 2.1% yield vs 10-year Treasury 5.10%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "High return on capital",
+     "value": "ROIC 16.3% (book equity is negative)",
+     "threshold": "ROIC ≥ 15%",
+     "pass": true
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "EPS rose $6.17 on $27.32 a share retained over 4 years: 23% return",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": true
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 22%, 1.4-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": false
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Capex is 37% of net income",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": true
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest 5.1x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": false
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "6.9 years of net income",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": false
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "-16.9% over four fiscal years",
+     "threshold": "Fewer shares than four years ago",
+     "pass": true
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 4,
+   "total": 7,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 9 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Steady change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 2.63",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "(30% EPS growth + 0.7% yield) ÷ P/E 40.5 = 0.76",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "EPS +29.9% a year, 1 down year(s)",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": true
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Book equity is negative and debt exceeds cash",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": false
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "Pays out 30% of earnings",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": true
+    }
+   ],
+   "category": "Fast grower",
+   "category_note": "Earnings compounding at 20% or more on sales growing at least 10%. Lynch's favourite hunting ground, provided the growth is not paid for twice: check the PEG."
+  },
+  "munger": {
+   "passed": 7,
+   "total": 7,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 9 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Steady change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 9.11%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": true
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count -3.73% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": true
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$249M, 7% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": true
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Operating cash flow was 110% of net income over 5 fiscal years",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": true
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 7 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": true
+    }
+   ],
+   "inversion": [
+    "A deep travel recession.",
+    "Hotel owners defect to rival brands or go independent."
+   ]
+  },
+  "pabrai": {
+   "passed": 2,
+   "total": 6,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 9 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Steady change",
+     "threshold": "Stable industry",
+     "pass": null
+    },
+    {
+     "name": "Durable moat",
+     "value": "Wide moat",
+     "threshold": "Wide moat",
+     "pass": true
+    },
+    {
+     "name": "Out of favour",
+     "value": "Share price +44% over 52 weeks",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": false
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety -174%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "Debt is 6.9 years of net income",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": false
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "No upside even to the high-case value ($166); 69% downside to the low case",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": -57.6,
+   "downside_pct": 69.4
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Wide moat: Brand, Network effects.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "Already the largest hotel company.",
+   "threshold": "",
+   "pass": false
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Room count and fees keep growing.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 16%.",
+   "threshold": "",
+   "pass": true
+  }
+ ],
+ "bull_case": [
+  "Capital-light franchise model.",
+  "Share count is falling fast.",
+  "Strong Piotroski score."
+ ],
+ "bear_case": [
+  "Book equity is negative after debt-funded buybacks.",
+  "Debt is high relative to earnings.",
+  "Travel demand is cyclical."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "Marriott International statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/mar/statistics/"
+  },
+  {
+   "title": "Marriott International income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/mar/financials/"
+  },
+  {
+   "title": "Marriott International balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/mar/financials/balance-sheet/"
+  },
+  {
+   "title": "Marriott International cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/mar/financials/cash-flow-statement/"
+  }
+ ]
+}

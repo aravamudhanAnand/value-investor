@@ -1,0 +1,12 @@
+# CB - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=365.02; date=2026-11-06; shares=382.08M; fpe=12.62; peg=1.74; cash=8.05B; debt=25.87B; equity=78.51B; eps=$28.57; cr=0.40; ic=17.06; roic=10.58%; gm=29.80%; rev=61.94B; ni=11.23B; ebitda=14.06B; ebit=13.77B; ocf=17.81B; capex=n/a; fcf=n/a; dps=$4.08; sc=-2.78%; ins=0.33%; z=n/a; f=5; c52=+28.86%
+F FY21,40529,n/a,8525,19.24,11151
+F FY22,42700,n/a,5246,12.39,11258
+F FY23,49783,n/a,9028,21.80,12632
+F FY24,55976,n/a,9272,22.70,16182
+F FY25,59625,n/a,10310,25.68,12816
+B FY21,200054,20197,59714
+B FY22,199017,18760,50519
+B FY23,230682,19767,63691
+B FY24,246548,20716,68394
+B FY25,272327,24687,79779

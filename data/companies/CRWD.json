@@ -1,0 +1,874 @@
+{
+ "company": "CrowdStrike",
+ "ticker": "CRWD",
+ "exchange": "NASDAQ",
+ "sector": "Technology",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-11-06",
+ "currency": "USD",
+ "price": 216.9,
+ "market_cap": "$223.4B",
+ "verdict": "TOO_HARD",
+ "overall_score": 49,
+ "one_liner": "Goes in the too-hard pile: its industry is changing too fast to predict. No verdict on price.",
+ "scores": {
+  "meaning": 7,
+  "moat": 6,
+  "industry": 4,
+  "management": 6,
+  "financial_health": 6,
+  "valuation": 1
+ },
+ "treasury_10y": 5.1,
+ "profile": {
+  "what": "CrowdStrike sells cloud-based security software that protects laptops, servers and cloud workloads from attack. Its Falcon platform runs through a single small program on each device.",
+  "money": "Customers pay annual subscriptions per device and per module, and tend to add modules over time. A faulty software update in 2024 caused a worldwide computer outage and tested customer loyalty.",
+  "valued": "CrowdStrike is valued on a multiple of sales and on recurring-revenue growth, because reported earnings are still close to zero. Its high valuation depends on growth continuing and on stock-based pay falling as a share of revenue.",
+  "kind": "Growth company",
+  "metrics": [
+   {
+    "key": "ps",
+    "label": "Price / sales",
+    "value": 41.37,
+    "unit": "x",
+    "note": "Used when profits are still small",
+    "sector_median": null,
+    "sector_n": 2
+   },
+   {
+    "key": "fpe",
+    "label": "Price / forward earnings",
+    "value": 153.6,
+    "unit": "x",
+    "note": "Next twelve months, analyst estimates",
+    "sector_median": 22.44,
+    "sector_n": 19
+   },
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 5422.5,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 34.01,
+    "sector_n": 27
+   },
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 2051.44,
+    "unit": "x",
+    "note": "Enterprise value includes debt",
+    "sector_median": 26.99,
+    "sector_n": 28
+   }
+  ],
+  "peer_group": "Technology",
+  "peers": [
+   {
+    "ticker": "PLTR",
+    "company": "Palantir",
+    "value": 55.54
+   },
+   {
+    "ticker": "CRWD",
+    "company": "CrowdStrike",
+    "value": 41.37
+   }
+  ]
+ },
+ "market": {
+  "rating": "Buy",
+  "target": 249.68,
+  "beta": 1.15,
+  "as_of": "2026-11-11",
+  "low52": 85.68,
+  "high52": 286.99,
+  "range_pos": 65,
+  "below_high": 24.4,
+  "target_vs_price": 15.1,
+  "target_vs_fair": 2428.4,
+  "above_low": 153.2
+ },
+ "summary": {
+  "sentence": "A fast-growing security software leader that has yet to earn a steady reported profit.",
+  "strengths": [
+   "Revenue has grown every year in the record.",
+   "Free cash flow is positive and rising.",
+   "More cash than debt."
+  ],
+  "risks": [
+   "Reported losses in most years of the record.",
+   "Stock-based pay exceeds half of operating cash flow.",
+   "Valued at a very high multiple of sales."
+  ],
+  "swing": [
+   "Subscription growth",
+   "Stock-based pay",
+   "Trust after its 2024 outage"
+  ]
+ },
+ "dollar": {
+  "cogs": 24.8,
+  "opex": 77.7,
+  "op_profit": -2.5,
+  "net": 0.8,
+  "fcf": 29.8
+ },
+ "cash_use": {
+  "years": 5,
+  "first": "FY22",
+  "last": "FY26",
+  "ocf": "$5.7B",
+  "capex": 19,
+  "dividends": 0,
+  "buybacks": 0,
+  "left": 81,
+  "sbc": 61,
+  "capex_reported": true
+ },
+ "meaning": {
+  "score": 7,
+  "what_it_does": "Sells cloud-based software that protects computers and servers from attack.",
+  "how_it_makes_money": "Annual subscriptions, priced per device and per module.",
+  "how_it_keeps_making_money": "One lightweight agent on each device lets customers add modules without new installs.",
+  "how_it_could_stop": "Another faulty update like its 2024 outage, or Microsoft's bundled security wins on price."
+ },
+ "moat": {
+  "score": 6,
+  "strength": "Narrow",
+  "sources": [
+   "Switching costs",
+   "Network effects"
+  ],
+  "summary": "Threat data from millions of devices improves detection, but Microsoft and others compete hard."
+ },
+ "industry": {
+  "score": 4,
+  "pace": "Rapid change",
+  "summary": "Attackers and defences change constantly, so a security vendor must keep its products ahead every year."
+ },
+ "management": {
+  "score": 6,
+  "summary": "Founder-led and fast-growing, but still loss-making on reported earnings because of heavy stock-based pay."
+ },
+ "financial_health": {
+  "score": 6,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+34.9% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "A loss at the start or end of the period",
+    "threshold": "Rising, at most one down year",
+    "pass": false
+   },
+   {
+    "name": "Net profit margin",
+    "value": "0.8%",
+    "threshold": "≥ 5%",
+    "pass": false
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.07",
+    "threshold": "≤ 0.40",
+    "pass": true
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$1.0B → $4.5B, 0 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": true
+   },
+   {
+    "name": "ROIC",
+    "value": "-14.1%",
+    "threshold": "≥ 10%",
+    "pass": false
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$463M → $1.3B; TTM $1.6B",
+    "threshold": "Positive every year and rising",
+    "pass": true
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest -5.0x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": false
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Cumulative net loss over the period",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": true
+   }
+  ],
+  "red_flags": [
+   "At least one loss-making year in the period.",
+   "Rapidly changing industry."
+  ],
+  "note": "",
+  "history": [
+   {
+    "period": "FY22",
+    "revenue": 1452.0,
+    "net_income": -234.8,
+    "fcf": 462.64
+   },
+   {
+    "period": "FY23",
+    "revenue": 2241.0,
+    "net_income": -183.25,
+    "fcf": 705.99
+   },
+   {
+    "period": "FY24",
+    "revenue": 3056.0,
+    "net_income": 72.18,
+    "fcf": 989.68
+   },
+   {
+    "period": "FY25",
+    "revenue": 3954.0,
+    "net_income": -15.24,
+    "fcf": 1127.0
+   },
+   {
+    "period": "FY26",
+    "revenue": 4812.0,
+    "net_income": -162.5,
+    "fcf": 1310.0
+   },
+   {
+    "period": "TTM",
+    "revenue": 5400.0,
+    "net_income": 45.0,
+    "fcf": 1610.0
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "75.2%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": true
+     },
+     {
+      "name": "Operating margin",
+      "value": "-2.5%",
+      "threshold": "≥ 15%",
+      "pass": false
+     },
+     {
+      "name": "Net profit margin",
+      "value": "0.8%",
+      "threshold": "≥ 10%",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "29.8%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Return on equity",
+      "value": "0.9%",
+      "threshold": "≥ 15%",
+      "pass": false
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "-14.1%",
+      "threshold": "≥ 12%",
+      "pass": false
+     },
+     {
+      "name": "Return on assets",
+      "value": "0.4%",
+      "threshold": "≥ 6%",
+      "pass": false
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "0.16x",
+      "threshold": "≤ 1.0x",
+      "pass": true
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.07",
+      "threshold": "≤ 0.40",
+      "pass": true
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "Net cash",
+      "threshold": "≤ 2.5x",
+      "pass": true
+     },
+     {
+      "name": "Interest cover",
+      "value": "-5.0x",
+      "threshold": "≥ 5x",
+      "pass": false
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "0.5",
+      "threshold": "≤ 4 years",
+      "pass": true
+     },
+     {
+      "name": "Current ratio",
+      "value": "1.57",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": true
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "11.85",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "n/a",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": null
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "n/a",
+      "threshold": "≥ 80%",
+      "pass": null
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "20%",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": true
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "1.7x",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$1.2B, 62% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": false
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "4 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+34.9%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Earnings per share",
+      "value": "From or to a loss",
+      "threshold": "≥ 7%",
+      "pass": null
+     },
+     {
+      "name": "Free cash flow",
+      "value": "+29.7%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Book value per share",
+      "value": "n/a",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "0.0%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "No dividend",
+      "threshold": "≤ 60% of earnings",
+      "pass": null
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "No dividend",
+      "threshold": "≥ 1.5x",
+      "pass": null
+     },
+     {
+      "name": "Buyback yield",
+      "value": "0.0%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "n/a",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": null
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "n/a",
+      "threshold": "≥ 12%",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "0.0%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "0.2%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "-0.1%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 11,
+   "total": 21
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 1,
+  "lifecycle_stage": "2 · Hyper growth",
+  "primary_metric": {
+   "name": "Trailing P/S (forward not available)",
+   "value": "41.4"
+  },
+  "secondary_metric": {
+   "name": "Trailing P/Gross profit",
+   "value": "55.0"
+  },
+  "three_numbers": {
+   "pe": "5422.5",
+   "forward_pe": "153.6",
+   "peg": "5.24"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "40.6"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "2051.4"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "n/a"
+   },
+   {
+    "name": "P/E",
+    "value": "5422.5"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "136.2"
+   },
+   {
+    "name": "P/FCF",
+    "value": "138.8"
+   },
+   {
+    "name": "P/B",
+    "value": "43.5"
+   }
+  ],
+  "intrinsic_value_low": 8.23,
+  "intrinsic_value_high": 11.52,
+  "margin_of_safety_pct": -2096.5,
+  "interesting_below": 6.91,
+  "method": "Fair value is the average of the one method that applies: (1) Owner cash flow: $303M a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 9.88,
+  "methods": [
+   {
+    "name": "Owner cash flow",
+    "low": 8.23,
+    "high": 11.52,
+    "basis": "$303M a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM)."
+   }
+  ],
+  "stress_case": null,
+  "damodaran": null
+ },
+ "lenses": {
+  "graham": {
+   "passed": 1,
+   "total": 7,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "1.57",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "1 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": false
+    },
+    {
+     "name": "Dividend record",
+     "value": "No dividend",
+     "threshold": "Pays a dividend",
+     "pass": false
+    },
+    {
+     "name": "Earnings growth",
+     "value": "From a loss",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": null
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "Average earnings are not positive",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "P/E × P/B = 235686; Graham number $2 vs price $217",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 0.0% vs 10-year Treasury 5.10%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "No financial distress",
+     "value": "Altman Z-score 11.85",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": true
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 1,
+   "total": 7,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Owner earnings -$123M (net income + depreciation − capex) = -0.1% yield vs 10-year Treasury 5.10%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "High return on equity without heavy debt",
+     "value": "ROE 0.9%, debt/equity 0.16",
+     "threshold": "ROE ≥ 15% and debt/equity ≤ 1.0",
+     "pass": false
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "Not meaningful: a loss in the period",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": null
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 75%, 2.0-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": true
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Capex is 906% of net income",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": false
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest -5.0x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": false
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "18.2 years of net income",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": false
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "+3.2% over the last year",
+     "threshold": "Fewer shares than four years ago",
+     "pass": false
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 1,
+   "total": 4,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 7 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": null
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Rapid change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": false
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 5.24",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "n/a",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": null
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "n/a",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": false
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Net cash of $4.2B",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": true
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "No dividend",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": null
+    }
+   ],
+   "category": "Turnaround",
+   "category_note": "Loss-making now, or in two or more of the last five years. Lynch asked one question first: does it have the cash to survive until the fix works?"
+  },
+  "munger": {
+   "passed": 2,
+   "total": 5,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 7 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": null
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Rapid change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": false
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 1.44%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": true
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count +3.24% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": false
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$1.2B, 62% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": false
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Cumulative net loss over the period",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": true
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 4 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "A second global outage caused by its own update.",
+    "Customers move to bundled security from a platform vendor.",
+    "Debt equals 18 years of earnings, which leaves little room for a bad stretch."
+   ]
+  },
+  "pabrai": {
+   "passed": 1,
+   "total": 6,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 7 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": false
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Rapid change",
+     "threshold": "Stable industry",
+     "pass": false
+    },
+    {
+     "name": "Durable moat",
+     "value": "Narrow moat",
+     "threshold": "Wide moat",
+     "pass": null
+    },
+    {
+     "name": "Out of favour",
+     "value": "Share price +62% over 52 weeks",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": false
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety -2096%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "More cash than debt",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": true
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "No upside even to the high-case value ($12); 96% downside to the low case",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": -94.7,
+   "downside_pct": 96.2
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Narrow moat: Switching costs, Network effects.",
+   "threshold": "",
+   "pass": null
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "A small share of global security spending.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Revenue has more than tripled in four years.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of -14%.",
+   "threshold": "",
+   "pass": false
+  }
+ ],
+ "bull_case": [
+  "Revenue has grown every year in the record.",
+  "Free cash flow is positive and rising.",
+  "More cash than debt."
+ ],
+ "bear_case": [
+  "Reported losses in most years of the record.",
+  "Stock-based pay exceeds half of operating cash flow.",
+  "Valued at a very high multiple of sales."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "CrowdStrike statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/crwd/statistics/"
+  },
+  {
+   "title": "CrowdStrike income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/crwd/financials/"
+  },
+  {
+   "title": "CrowdStrike balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/crwd/financials/balance-sheet/"
+  },
+  {
+   "title": "CrowdStrike cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/crwd/financials/cash-flow-statement/"
+  }
+ ]
+}
