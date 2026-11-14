@@ -52,4 +52,5 @@ NOTES = {'AMGN': 'Trailing figures are from the latest full fiscal year; the sha
     "SYY": "Sysco agreed in March 2026 to buy Jetro Restaurant Depot for cash and shares; the deal awaits regulatory clearance. Figures here are for Sysco alone, before the added debt and shares.",
     "HSY": "Fiscal 2025 margins and earnings fell sharply as cocoa costs rose; the valuation uses free cash flow, which held up better than earnings.",
     "VRSK": "The source's cash flow statement was one quarter behind its statistics page when collected, so trailing cash flow figures differ slightly between sections.",
+    "CMI": "The shares fell after third-quarter 2026 results on 5 November, when the company narrowed its revenue outlook. The analyst price target shown was collected from a page that predates that fall, and the financial figures do not yet include that quarter.",
 }
