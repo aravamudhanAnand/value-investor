@@ -1,0 +1,960 @@
+{
+ "company": "Sysco",
+ "ticker": "SYY",
+ "exchange": "NYSE",
+ "sector": "Consumer staples",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-10-26",
+ "currency": "USD",
+ "price": 82.07,
+ "market_cap": "$40.4B",
+ "verdict": "PASS",
+ "overall_score": 60,
+ "one_liner": "Fails the quality test (weak financial health), so price does not matter.",
+ "scores": {
+  "meaning": 10,
+  "moat": 7,
+  "industry": 8,
+  "management": 7,
+  "financial_health": 4,
+  "valuation": 3
+ },
+ "treasury_10y": 5.1,
+ "profile": {
+  "what": "Sysco distributes food, kitchen equipment and supplies to restaurants, healthcare and education facilities and hotels in North America and Europe. It has agreed to buy the Restaurant Depot cash-and-carry chain, subject to regulatory clearance.",
+  "money": "It earns a small margin on a very large volume of deliveries. Local independent restaurants and its own-label products are the most profitable parts.",
+  "valued": "Sysco is valued on P/E, EV/EBITDA and dividend yield. Investors watch case volumes at independent restaurants and the progress of its pending acquisition.",
+  "kind": "Established operating business",
+  "metrics": [
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 22.42,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 25.16,
+    "sector_n": 14
+   },
+   {
+    "key": "fpe",
+    "label": "Price / forward earnings",
+    "value": 16.25,
+    "unit": "x",
+    "note": "Next twelve months, analyst estimates",
+    "sector_median": 20.97,
+    "sector_n": 15
+   },
+   {
+    "key": "pfcf",
+    "label": "Price / free cash flow",
+    "value": 20.81,
+    "unit": "x",
+    "note": "Before deducting stock-based pay",
+    "sector_median": 20.81,
+    "sector_n": 15
+   },
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 11.94,
+    "unit": "x",
+    "note": "Enterprise value includes debt",
+    "sector_median": 16.64,
+    "sector_n": 15
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 2.68,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 3.04,
+    "sector_n": 15
+   }
+  ],
+  "peer_group": "Consumer staples",
+  "peers": [
+   {
+    "ticker": "COST",
+    "company": "Costco",
+    "value": 53.29
+   },
+   {
+    "ticker": "WMT",
+    "company": "Walmart",
+    "value": 46.41
+   },
+   {
+    "ticker": "MNST",
+    "company": "Monster Beverage",
+    "value": 42.92
+   },
+   {
+    "ticker": "CL",
+    "company": "Colgate-Palmolive",
+    "value": 39.4
+   },
+   {
+    "ticker": "KO",
+    "company": "Coca-Cola",
+    "value": 29.28
+   },
+   {
+    "ticker": "PM",
+    "company": "Philip Morris International",
+    "value": 29.05
+   },
+   {
+    "ticker": "PG",
+    "company": "Procter & Gamble",
+    "value": 25.57
+   },
+   {
+    "ticker": "MDLZ",
+    "company": "Mondelez International",
+    "value": 24.74
+   },
+   {
+    "ticker": "HSY",
+    "company": "The Hershey Company",
+    "value": 22.62
+   },
+   {
+    "ticker": "SYY",
+    "company": "Sysco",
+    "value": 22.42
+   },
+   {
+    "ticker": "PEP",
+    "company": "PepsiCo",
+    "value": 18.29
+   },
+   {
+    "ticker": "MO",
+    "company": "Altria",
+    "value": 16.56
+   },
+   {
+    "ticker": "TGT",
+    "company": "Target",
+    "value": 15.41
+   },
+   {
+    "ticker": "STZ",
+    "company": "Constellation Brands",
+    "value": 12.19
+   }
+  ]
+ },
+ "market": {
+  "rating": "Buy",
+  "target": 91.08,
+  "beta": 0.64,
+  "as_of": "2026-10-26",
+  "low52": 68.19,
+  "high52": 91.85,
+  "range_pos": 59,
+  "below_high": 10.6,
+  "target_vs_price": 11.0,
+  "target_vs_fair": 55.0,
+  "above_low": 20.4
+ },
+ "summary": {
+  "sentence": "The largest food distributor, about to take on a transforming acquisition.",
+  "strengths": [
+   "Revenue has grown every year in the record.",
+   "Gross margin has been steady.",
+   "A long record of dividend increases."
+  ],
+  "risks": [
+   "Gross margin is thin.",
+   "Debt is several times shareholders' equity.",
+   "Earnings per share have slipped for two years."
+  ],
+  "swing": [
+   "Restaurant traffic",
+   "Acquisition approval and debt",
+   "Independent-customer growth"
+  ]
+ },
+ "dollar": {
+  "cogs": 81.5,
+  "opex": 14.3,
+  "op_profit": 4.2,
+  "net": 2.1,
+  "fcf": 2.3
+ },
+ "cash_use": {
+  "years": 5,
+  "first": "FY22",
+  "last": "FY26",
+  "ocf": "$12.8B",
+  "capex": 30,
+  "dividends": 39,
+  "buybacks": 29,
+  "left": 2,
+  "sbc": 4,
+  "capex_reported": true
+ },
+ "meaning": {
+  "score": 10,
+  "what_it_does": "The largest food distributor in North America, delivering food and supplies to restaurants, hospitals, schools and hotels.",
+  "how_it_makes_money": "Buys food in bulk and delivers it to customers at a small mark-up; its own-label products earn more.",
+  "how_it_keeps_making_money": "Its scale gives lower purchasing costs and denser delivery routes than regional rivals.",
+  "how_it_could_stop": "Restaurant traffic falls, or its pending purchase of a cash-and-carry chain adds debt without the expected benefits."
+ },
+ "moat": {
+  "score": 7,
+  "strength": "Narrow",
+  "sources": [
+   "Scale and cost advantage"
+  ],
+  "summary": "Scale is a real advantage in purchasing and delivery, but margins are thin and customers can switch."
+ },
+ "industry": {
+  "score": 8,
+  "pace": "Stable",
+  "summary": "Food distribution changes slowly; volumes follow restaurant traffic."
+ },
+ "management": {
+  "score": 7,
+  "summary": "A long dividend record; has agreed to its largest acquisition, which will raise debt and pause buybacks."
+ },
+ "financial_health": {
+  "score": 4,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+5.4% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "+6.6% a year, 2 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": false
+   },
+   {
+    "name": "Net profit margin",
+    "value": "2.1%",
+    "threshold": "≥ 5%",
+    "pass": false
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.53",
+    "threshold": "≤ 0.40",
+    "pass": false
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$1.4B → $2.7B, 2 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": false
+   },
+   {
+    "name": "ROIC",
+    "value": "17.1%",
+    "threshold": "≥ 10%",
+    "pass": true
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$1.2B → $1.9B; TTM $1.9B",
+    "threshold": "Positive every year and rising",
+    "pass": true
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 4.9x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": false
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 148% of net income over 5 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": true
+   }
+  ],
+  "red_flags": [],
+  "note": "Sysco agreed in March 2026 to buy Jetro Restaurant Depot for cash and shares; the deal awaits regulatory clearance. Figures here are for Sysco alone, before the added debt and shares.",
+  "history": [
+   {
+    "period": "FY22",
+    "revenue": 68636.0,
+    "net_income": 1359.0,
+    "fcf": 1158.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 76325.0,
+    "net_income": 1770.0,
+    "fcf": 2075.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 78844.0,
+    "net_income": 1955.0,
+    "fcf": 2157.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 81370.0,
+    "net_income": 1828.0,
+    "fcf": 1604.0
+   },
+   {
+    "period": "FY26",
+    "revenue": 84553.0,
+    "net_income": 1757.0,
+    "fcf": 1938.0
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "18.5%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": false
+     },
+     {
+      "name": "Operating margin",
+      "value": "4.2%",
+      "threshold": "≥ 15%",
+      "pass": false
+     },
+     {
+      "name": "Net profit margin",
+      "value": "2.1%",
+      "threshold": "≥ 10%",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "2.3%",
+      "threshold": "≥ 10%",
+      "pass": false
+     },
+     {
+      "name": "Return on equity",
+      "value": "65.9%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "17.1%",
+      "threshold": "≥ 12%",
+      "pass": true
+     },
+     {
+      "name": "Return on assets",
+      "value": "6.2%",
+      "threshold": "≥ 6%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "5.64x",
+      "threshold": "≤ 1.0x",
+      "pass": false
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.53",
+      "threshold": "≤ 0.40",
+      "pass": false
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "3.0x",
+      "threshold": "≤ 2.5x",
+      "pass": false
+     },
+     {
+      "name": "Interest cover",
+      "value": "4.9x",
+      "threshold": "≥ 5x",
+      "pass": false
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "7.8",
+      "threshold": "≤ 4 years",
+      "pass": false
+     },
+     {
+      "name": "Current ratio",
+      "value": "1.28",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": true
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "5.06",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "148% over 5 years",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "103% over 5 years",
+      "threshold": "≥ 80%",
+      "pass": true
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "27%",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": true
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "0.6x",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$118M, 4% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": true
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "6 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+5.4%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Earnings per share",
+      "value": "+8.5%",
+      "threshold": "≥ 7%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow",
+      "value": "+13.7%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Book value per share",
+      "value": "+19.2%",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "2.7%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "60%",
+      "threshold": "≤ 60% of earnings",
+      "pass": false
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "1.9x",
+      "threshold": "≥ 1.5x",
+      "pass": true
+     },
+     {
+      "name": "Buyback yield",
+      "value": "0.5%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "-6.7% over 4 years",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": true
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "15%",
+      "threshold": "≥ 12%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "4.5%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "4.5%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "5.4%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": true
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 16,
+   "total": 28
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 3,
+  "lifecycle_stage": "4 · Capital return",
+  "primary_metric": {
+   "name": "Trailing P/E",
+   "value": "22.4"
+  },
+  "secondary_metric": {
+   "name": "Trailing P/FCF",
+   "value": "20.8"
+  },
+  "three_numbers": {
+   "pe": "22.4",
+   "forward_pe": "16.2",
+   "peg": "2.71"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "0.6"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "11.9"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "15.2"
+   },
+   {
+    "name": "P/E",
+    "value": "22.4"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "27.6"
+   },
+   {
+    "name": "P/FCF",
+    "value": "20.8"
+   },
+   {
+    "name": "P/B",
+    "value": "15.1"
+   }
+  ],
+  "intrinsic_value_low": 49.11,
+  "intrinsic_value_high": 68.45,
+  "margin_of_safety_pct": -39.6,
+  "interesting_below": 41.14,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $1.8B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 1–7% for five years, fading to 3%; operating margin held at 4%; cost of capital 7.8%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 58.78,
+  "methods": [
+   {
+    "name": "Owner cash flow",
+    "low": 46.35,
+    "high": 65.51,
+    "basis": "$1.8B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM)."
+   },
+   {
+    "name": "Damodaran: cash flow to the firm",
+    "low": 51.86,
+    "high": 71.39,
+    "basis": "Sales grow 1–7% for five years, fading to 3%; operating margin held at 4%; cost of capital 7.8%. Cash added, debt subtracted."
+   }
+  ],
+  "stress_case": null,
+  "damodaran": {
+   "growth": 4,
+   "growth_low": 1,
+   "growth_high": 7,
+   "margin": 4.2,
+   "tax": 25.0,
+   "roc": 17.1,
+   "reinvestment": 23,
+   "beta": 0.85,
+   "cost_of_equity": 8.9,
+   "cost_of_debt": 4.9,
+   "debt_weight": 27,
+   "cost_of_capital": 7.8,
+   "terminal_growth": 3.0,
+   "terminal_roc": 9.8,
+   "revenue_now": "$84.5B",
+   "revenue_year10": "$121.6B",
+   "low": 51.86,
+   "high": 71.39,
+   "implied_growth": 9.7,
+   "implied_note": null
+  }
+ },
+ "lenses": {
+  "graham": {
+   "passed": 4,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "1.28",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "5 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": true
+    },
+    {
+     "name": "Dividend record",
+     "value": "$2.20 a share (2.7% yield)",
+     "threshold": "Pays a dividend",
+     "pass": true
+    },
+    {
+     "name": "Earnings growth",
+     "value": "+39% ($2.64 → $3.66)",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": true
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "21.8x three-year average earnings ($3.76); 22.4x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "P/E × P/B = 339; Graham number $21 vs price $82",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 4.5% vs 10-year Treasury 5.10%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "No financial distress",
+     "value": "Altman Z-score 5.06",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": true
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 4,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Owner earnings $2.2B (net income + depreciation − capex) = 5.4% yield vs 10-year Treasury 5.10%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": true
+    },
+    {
+     "name": "High return on equity without heavy debt",
+     "value": "ROE 65.9%, debt/equity 5.64",
+     "threshold": "ROE ≥ 15% and debt/equity ≤ 1.0",
+     "pass": false
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "EPS rose $1.02 on $6.59 a share retained over 4 years: 15% return",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": true
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 18%, 0.6-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": false
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Capex is 40% of net income",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": true
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest 4.9x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": false
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "8.6 years of net income",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": false
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "-6.7% over four fiscal years",
+     "threshold": "Fewer shares than four years ago",
+     "pass": true
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 2,
+   "total": 7,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 10 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 2.71",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "(9% EPS growth + 2.7% yield) ÷ P/E 22.4 = 0.50",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "EPS +8.5% a year, 2 down year(s)",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": false
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Debt is 5.64x equity",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": false
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "Pays out 60% of earnings",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": false
+    }
+   ],
+   "category": "Stalwart",
+   "category_note": "A large company growing earnings at a steady pace, between the slow and the fast growers. Lynch bought these for a 30–50% gain and for protection in recessions, then rotated."
+  },
+  "munger": {
+   "passed": 5,
+   "total": 6,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 10 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 0.18%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": false
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count -1.88% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": true
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$118M, 4% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": true
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Operating cash flow was 148% of net income over 5 fiscal years",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": true
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 6 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "Restaurant traffic declines for years.",
+    "The pending acquisition is blocked or integrates badly.",
+    "Debt equals 9 years of earnings, which leaves little room for a bad stretch."
+   ]
+  },
+  "pabrai": {
+   "passed": 2,
+   "total": 6,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 10 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Stable",
+     "threshold": "Stable industry",
+     "pass": true
+    },
+    {
+     "name": "Durable moat",
+     "value": "Narrow moat",
+     "threshold": "Wide moat",
+     "pass": null
+    },
+    {
+     "name": "Out of favour",
+     "value": "Share price +6% over 52 weeks",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": false
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety -40%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "Debt is 8.6 years of net income",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": false
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "No upside even to the high-case value ($68); 40% downside to the low case",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": -16.6,
+   "downside_pct": 40.2
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Narrow moat: Scale and cost advantage.",
+   "threshold": "",
+   "pass": null
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "Already the largest distributor, though the market is fragmented.",
+   "threshold": "",
+   "pass": false
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Revenue has grown every year in the record.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 17%.",
+   "threshold": "",
+   "pass": true
+  }
+ ],
+ "bull_case": [
+  "Revenue has grown every year in the record.",
+  "Gross margin has been steady.",
+  "A long record of dividend increases."
+ ],
+ "bear_case": [
+  "Gross margin is thin.",
+  "Debt is several times shareholders' equity.",
+  "Earnings per share have slipped for two years."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "Sysco statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/syy/statistics/"
+  },
+  {
+   "title": "Sysco income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/syy/financials/"
+  },
+  {
+   "title": "Sysco balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/syy/financials/balance-sheet/"
+  },
+  {
+   "title": "Sysco cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/syy/financials/cash-flow-statement/"
+  }
+ ]
+}

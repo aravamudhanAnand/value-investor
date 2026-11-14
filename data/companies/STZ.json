@@ -1,0 +1,972 @@
+{
+ "company": "Constellation Brands",
+ "ticker": "STZ",
+ "exchange": "NYSE",
+ "sector": "Consumer staples",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-10-26",
+ "currency": "USD",
+ "price": 135.62,
+ "market_cap": "$22.9B",
+ "verdict": "PASS",
+ "overall_score": 75,
+ "one_liner": "Fails the quality test (its best days look to be behind it), so price does not matter.",
+ "scores": {
+  "meaning": 9,
+  "moat": 8,
+  "industry": 7,
+  "management": 6,
+  "financial_health": 7,
+  "valuation": 8
+ },
+ "treasury_10y": 5.1,
+ "profile": {
+  "what": "Constellation Brands holds the exclusive right to sell Modelo, Corona and Pacifico beer in the United States, and owns a smaller portfolio of premium wines and spirits.",
+  "money": "Beer provides nearly all the profit. It is brewed in Mexico at the company's own breweries and sold through independent US distributors.",
+  "valued": "Constellation is valued on forward P/E and free cash flow on adjusted earnings, since reported profit has been hit by write-downs. The multiple depends on beer volumes.",
+  "kind": "Established operating business",
+  "metrics": [
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 12.19,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 25.16,
+    "sector_n": 14
+   },
+   {
+    "key": "fpe",
+    "label": "Price / forward earnings",
+    "value": 11.39,
+    "unit": "x",
+    "note": "Next twelve months, analyst estimates",
+    "sector_median": 20.97,
+    "sector_n": 15
+   },
+   {
+    "key": "pfcf",
+    "label": "Price / free cash flow",
+    "value": 12.47,
+    "unit": "x",
+    "note": "Before deducting stock-based pay",
+    "sector_median": 20.81,
+    "sector_n": 15
+   },
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 9.67,
+    "unit": "x",
+    "note": "Enterprise value includes debt",
+    "sector_median": 16.64,
+    "sector_n": 15
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 3.04,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 3.04,
+    "sector_n": 15
+   }
+  ],
+  "peer_group": "Consumer staples",
+  "peers": [
+   {
+    "ticker": "COST",
+    "company": "Costco",
+    "value": 53.29
+   },
+   {
+    "ticker": "WMT",
+    "company": "Walmart",
+    "value": 46.41
+   },
+   {
+    "ticker": "MNST",
+    "company": "Monster Beverage",
+    "value": 42.92
+   },
+   {
+    "ticker": "CL",
+    "company": "Colgate-Palmolive",
+    "value": 39.4
+   },
+   {
+    "ticker": "KO",
+    "company": "Coca-Cola",
+    "value": 29.28
+   },
+   {
+    "ticker": "PM",
+    "company": "Philip Morris International",
+    "value": 29.05
+   },
+   {
+    "ticker": "PG",
+    "company": "Procter & Gamble",
+    "value": 25.57
+   },
+   {
+    "ticker": "MDLZ",
+    "company": "Mondelez International",
+    "value": 24.74
+   },
+   {
+    "ticker": "HSY",
+    "company": "The Hershey Company",
+    "value": 22.62
+   },
+   {
+    "ticker": "SYY",
+    "company": "Sysco",
+    "value": 22.42
+   },
+   {
+    "ticker": "PEP",
+    "company": "PepsiCo",
+    "value": 18.29
+   },
+   {
+    "ticker": "MO",
+    "company": "Altria",
+    "value": 16.56
+   },
+   {
+    "ticker": "TGT",
+    "company": "Target",
+    "value": 15.41
+   },
+   {
+    "ticker": "STZ",
+    "company": "Constellation Brands",
+    "value": 12.19
+   }
+  ]
+ },
+ "market": {
+  "rating": "Buy",
+  "target": 150.87,
+  "beta": 0.43,
+  "as_of": "2026-10-26",
+  "low52": 110.6,
+  "high52": 168.6,
+  "range_pos": 43,
+  "below_high": 19.6,
+  "target_vs_price": 11.2,
+  "target_vs_fair": -19.0,
+  "above_low": 22.6
+ },
+ "summary": {
+  "sentence": "The owner of America's leading imported beers, with a record of costly side bets.",
+  "strengths": [
+   "Free cash flow has been positive every year in the record.",
+   "Gross margin above half of sales.",
+   "Share count is falling."
+  ],
+  "risks": [
+   "Reported losses in three of the last five fiscal years after write-downs.",
+   "Revenue fell in fiscal 2026.",
+   "Debt is larger than shareholders' equity."
+  ],
+  "swing": [
+   "Beer volumes",
+   "Tariffs on Mexican imports",
+   "Capital allocation"
+  ]
+ },
+ "dollar": {
+  "cogs": 47.2,
+  "opex": 20.0,
+  "op_profit": 32.8,
+  "net": 20.8,
+  "fcf": 20.0
+ },
+ "cash_use": {
+  "years": 5,
+  "first": "FY22",
+  "last": "FY26",
+  "ocf": "$14.1B",
+  "capex": 39,
+  "dividends": 23,
+  "buybacks": 39,
+  "left": 0,
+  "sbc": 2,
+  "capex_reported": true
+ },
+ "meaning": {
+  "score": 9,
+  "what_it_does": "Brews and sells Modelo, Corona and Pacifico beer in the United States under a perpetual licence, and owns a smaller wine and spirits business.",
+  "how_it_makes_money": "Beer brewed in its own Mexican breweries and sold through US distributors, plus premium wine and spirits.",
+  "how_it_keeps_making_money": "Its Mexican beers have taken share in the US for years and are brewed at large, efficient plants.",
+  "how_it_could_stop": "Tariffs on Mexican imports, weaker spending by Hispanic consumers, or a general decline in drinking."
+ },
+ "moat": {
+  "score": 8,
+  "strength": "Wide",
+  "sources": [
+   "Brand",
+   "Exclusive licence"
+  ],
+  "summary": "Exclusive US rights to the leading imported beer brands, including the best-selling beer in the country."
+ },
+ "industry": {
+  "score": 7,
+  "pace": "Stable",
+  "summary": "Beer changes slowly, though younger adults are drinking less alcohol."
+ },
+ "management": {
+  "score": 6,
+  "summary": "The beer business has been run well, but large write-downs on cannabis and wine investments have destroyed value."
+ },
+ "financial_health": {
+  "score": 7,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+0.9% a year, 1 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "A loss at the start or end of the period",
+    "threshold": "Rising, at most one down year",
+    "pass": false
+   },
+   {
+    "name": "Net profit margin",
+    "value": "20.8%",
+    "threshold": "≥ 5%",
+    "pass": true
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.51",
+    "threshold": "≤ 0.40",
+    "pass": false
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$12.0B → $8.4B, 2 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": false
+   },
+   {
+    "name": "ROIC",
+    "value": "12.8%",
+    "threshold": "≥ 10%",
+    "pass": true
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$1.7B → $1.8B; TTM $1.8B",
+    "threshold": "Positive every year and rising",
+    "pass": true
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 8.8x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": true
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 437% of net income over 5 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": true
+   }
+  ],
+  "red_flags": [
+   "At least one loss-making year in the period."
+  ],
+  "note": "Reported losses in fiscal 2022, 2023 and 2025 come from write-downs on its cannabis investment and wine business, not from the beer operations.",
+  "history": [
+   {
+    "period": "FY22",
+    "revenue": 8821.0,
+    "net_income": -40.4,
+    "fcf": 1679.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 9453.0,
+    "net_income": -71.0,
+    "fcf": 1722.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 9962.0,
+    "net_income": 1727.0,
+    "fcf": 1511.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 10209.0,
+    "net_income": -81.4,
+    "fcf": 1938.0
+   },
+   {
+    "period": "FY26",
+    "revenue": 9139.0,
+    "net_income": 1687.0,
+    "fcf": 1794.0
+   },
+   {
+    "period": "TTM",
+    "revenue": 9210.0,
+    "net_income": 1920.0,
+    "fcf": 1840.0
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "52.8%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": true
+     },
+     {
+      "name": "Operating margin",
+      "value": "32.8%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Net profit margin",
+      "value": "20.8%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "20.0%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Return on equity",
+      "value": "21.6%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "12.8%",
+      "threshold": "≥ 12%",
+      "pass": true
+     },
+     {
+      "name": "Return on assets",
+      "value": "8.8%",
+      "threshold": "≥ 6%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "1.16x",
+      "threshold": "≤ 1.0x",
+      "pass": false
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.51",
+      "threshold": "≤ 0.40",
+      "pass": false
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "3.0x",
+      "threshold": "≤ 2.5x",
+      "pass": false
+     },
+     {
+      "name": "Interest cover",
+      "value": "8.8x",
+      "threshold": "≥ 5x",
+      "pass": true
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "5.6",
+      "threshold": "≤ 4 years",
+      "pass": false
+     },
+     {
+      "name": "Current ratio",
+      "value": "1.00",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": true
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "2.92",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": false
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "437% over 5 years",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "268% over 5 years",
+      "threshold": "≥ 80%",
+      "pass": true
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "31%",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": true
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "2.0x",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$70M, 3% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": true
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "6 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+0.9%",
+      "threshold": "≥ 5%",
+      "pass": false
+     },
+     {
+      "name": "Earnings per share",
+      "value": "From or to a loss",
+      "threshold": "≥ 7%",
+      "pass": null
+     },
+     {
+      "name": "Free cash flow",
+      "value": "+1.7%",
+      "threshold": "≥ 5%",
+      "pass": false
+     },
+     {
+      "name": "Book value per share",
+      "value": "n/a",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "3.0%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "37%",
+      "threshold": "≤ 60% of earnings",
+      "pass": true
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "2.6x",
+      "threshold": "≥ 1.5x",
+      "pass": true
+     },
+     {
+      "name": "Buyback yield",
+      "value": "3.4%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "n/a",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": null
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "n/a",
+      "threshold": "≥ 12%",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "8.2%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "7.7%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": true
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "6.6%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": true
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 18,
+   "total": 25
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 8,
+  "lifecycle_stage": "4 · Capital return",
+  "primary_metric": {
+   "name": "Trailing P/E",
+   "value": "12.2"
+  },
+  "secondary_metric": {
+   "name": "Trailing P/FCF",
+   "value": "12.5"
+  },
+  "three_numbers": {
+   "pe": "12.2",
+   "forward_pe": "11.4",
+   "peg": "5.21"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "3.6"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "9.7"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "11.0"
+   },
+   {
+    "name": "P/E",
+    "value": "12.2"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "18.0"
+   },
+   {
+    "name": "P/FCF",
+    "value": "12.5"
+   },
+   {
+    "name": "P/B",
+    "value": "2.6"
+   }
+  ],
+  "intrinsic_value_low": 157.85,
+  "intrinsic_value_high": 214.68,
+  "margin_of_safety_pct": 27.2,
+  "interesting_below": 130.38,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow, capex held at depreciation: $2.2B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 2.0x depreciation, so most of it is expansion, not upkeep. (2) Damodaran: cash flow to the firm: Sales grow 1–7% for five years, fading to 3%; operating margin held at 33%; cost of capital 7.7%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 186.26,
+  "methods": [
+   {
+    "name": "Owner cash flow, capex held at depreciation",
+    "low": 165.33,
+    "high": 233.67,
+    "basis": "$2.2B a year: operating cash flow less depreciation and stock-based pay (median of the last three fiscal years and TTM). Capex is running at 2.0x depreciation, so most of it is expansion, not upkeep."
+   },
+   {
+    "name": "Damodaran: cash flow to the firm",
+    "low": 150.37,
+    "high": 195.68,
+    "basis": "Sales grow 1–7% for five years, fading to 3%; operating margin held at 33%; cost of capital 7.7%. Cash added, debt subtracted."
+   }
+  ],
+  "stress_case": {
+   "low": 129.34,
+   "high": 182.81,
+   "basis": "If the expansion spending never earns a return: $1.7B a year after deducting all capex and stock-based pay."
+  },
+  "damodaran": {
+   "growth": 4,
+   "growth_low": 1,
+   "growth_high": 7,
+   "margin": 32.8,
+   "tax": 25.0,
+   "roc": 12.8,
+   "reinvestment": 31,
+   "beta": 0.85,
+   "cost_of_equity": 8.9,
+   "cost_of_debt": 4.9,
+   "debt_weight": 31,
+   "cost_of_capital": 7.7,
+   "terminal_growth": 3.0,
+   "terminal_roc": 12.7,
+   "revenue_now": "$9.2B",
+   "revenue_year10": "$13.2B",
+   "low": 150.37,
+   "high": 195.68,
+   "implied_growth": -0.8,
+   "implied_note": null
+  }
+ },
+ "lenses": {
+  "graham": {
+   "passed": 2,
+   "total": 7,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "1.00",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "2 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": false
+    },
+    {
+     "name": "Dividend record",
+     "value": "$4.12 a share (3.0% yield)",
+     "threshold": "Pays a dividend",
+     "pass": true
+    },
+    {
+     "name": "Earnings growth",
+     "value": "From a loss",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": null
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "21.9x three-year average earnings ($6.18); 12.2x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "P/E × P/B = 31; Graham number $115 vs price $136",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 8.2% vs 10-year Treasury 5.10%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": true
+    },
+    {
+     "name": "No financial distress",
+     "value": "Altman Z-score 2.92",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": false
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 5,
+   "total": 7,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Owner earnings $1.5B (net income + depreciation − capex) = 6.6% yield vs 10-year Treasury 5.10%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": true
+    },
+    {
+     "name": "High return on equity without heavy debt",
+     "value": "ROE 21.6%, debt/equity 1.16",
+     "threshold": "ROE ≥ 15% and debt/equity ≤ 1.0",
+     "pass": false
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "Not meaningful: a loss in the period",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": null
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 53%, 3.0-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": true
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Capex is 43% of net income",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": true
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest 8.8x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": true
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "5.4 years of net income",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": false
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "-3.3% over the last year",
+     "threshold": "Fewer shares than four years ago",
+     "pass": true
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 3,
+   "total": 6,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 9 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 5.21",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "n/a",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": null
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "n/a",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": false
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Debt is 1.16x equity",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": false
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "Pays out 37% of earnings",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": true
+    }
+   ],
+   "category": "Turnaround",
+   "category_note": "Loss-making now, or in two or more of the last five years. Lynch asked one question first: does it have the cash to survive until the fix works?"
+  },
+  "munger": {
+   "passed": 5,
+   "total": 6,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 9 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 0.47%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": false
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count -3.32% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": true
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$70M, 3% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": true
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Operating cash flow was 437% of net income over 5 fiscal years",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": true
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 6 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "Tariffs or border rules raise the cost of Mexican beer.",
+    "A lasting decline in US beer drinking."
+   ]
+  },
+  "pabrai": {
+   "passed": 4,
+   "total": 7,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 9 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Stable",
+     "threshold": "Stable industry",
+     "pass": true
+    },
+    {
+     "name": "Durable moat",
+     "value": "Wide moat",
+     "threshold": "Wide moat",
+     "pass": true
+    },
+    {
+     "name": "Out of favour",
+     "value": "Share price -1% over 52 weeks",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": false
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety 27%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "Debt is 5.4 years of net income",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": false
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "58% upside to the high case; price is already below the low-case value",
+     "threshold": "Upside at least 3x the downside",
+     "pass": true
+    }
+   ],
+   "upside_pct": 58.3,
+   "downside_pct": 0.0
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Wide moat: Brand, Exclusive licence.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "Already the leading imported-beer company.",
+   "threshold": "",
+   "pass": false
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Revenue fell in the latest fiscal year.",
+   "threshold": "",
+   "pass": false
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 13%.",
+   "threshold": "",
+   "pass": true
+  }
+ ],
+ "bull_case": [
+  "Free cash flow has been positive every year in the record.",
+  "Gross margin above half of sales.",
+  "Share count is falling."
+ ],
+ "bear_case": [
+  "Reported losses in three of the last five fiscal years after write-downs.",
+  "Revenue fell in fiscal 2026.",
+  "Debt is larger than shareholders' equity."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "Constellation Brands statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/stz/statistics/"
+  },
+  {
+   "title": "Constellation Brands income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/stz/financials/"
+  },
+  {
+   "title": "Constellation Brands balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/stz/financials/balance-sheet/"
+  },
+  {
+   "title": "Constellation Brands cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/stz/financials/cash-flow-statement/"
+  }
+ ]
+}

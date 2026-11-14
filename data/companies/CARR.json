@@ -1,0 +1,1015 @@
+{
+ "company": "Carrier Global",
+ "ticker": "CARR",
+ "exchange": "NYSE",
+ "sector": "Industrials",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-10-30",
+ "currency": "USD",
+ "price": 53.63,
+ "market_cap": "$43.9B",
+ "verdict": "PASS",
+ "overall_score": 50,
+ "one_liner": "Fails the quality test (weak financial health), so price does not matter.",
+ "scores": {
+  "meaning": 8,
+  "moat": 7,
+  "industry": 7,
+  "management": 6,
+  "financial_health": 3,
+  "valuation": 1
+ },
+ "treasury_10y": 5.1,
+ "profile": {
+  "what": "Carrier Global makes heating, ventilation, air-conditioning and refrigeration products under brands including Carrier and Viessmann. It was separated from United Technologies in 2020.",
+  "money": "It sells equipment through distributors and dealers and earns recurring income from parts, service and controls. The Americas provide most of the profit.",
+  "valued": "Carrier is valued on forward P/E and EV/EBITDA on adjusted earnings, since reported profit includes large one-off items. The multiple depends on residential demand and data-centre orders.",
+  "kind": "Established operating business",
+  "metrics": [
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": null,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 28.44,
+    "sector_n": 40
+   },
+   {
+    "key": "fpe",
+    "label": "Price / forward earnings",
+    "value": 17.31,
+    "unit": "x",
+    "note": "Next twelve months, analyst estimates",
+    "sector_median": 24.49,
+    "sector_n": 24
+   },
+   {
+    "key": "pfcf",
+    "label": "Price / free cash flow",
+    "value": 18.44,
+    "unit": "x",
+    "note": "Before deducting stock-based pay",
+    "sector_median": 26.98,
+    "sector_n": 24
+   },
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 16.74,
+    "unit": "x",
+    "note": "Enterprise value includes debt",
+    "sector_median": 18.21,
+    "sector_n": 41
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 1.79,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 1.3,
+    "sector_n": 42
+   }
+  ],
+  "peer_group": "Industrials · established operating business",
+  "peers": [
+   {
+    "ticker": "PWR",
+    "company": "Quanta Services",
+    "value": 71.02
+   },
+   {
+    "ticker": "CTAS",
+    "company": "Cintas",
+    "value": 44.62
+   },
+   {
+    "ticker": "FAST",
+    "company": "Fastenal",
+    "value": 43.08
+   },
+   {
+    "ticker": "RSG",
+    "company": "Republic Services",
+    "value": 35.83
+   },
+   {
+    "ticker": "AME",
+    "company": "AMETEK",
+    "value": 35.5
+   },
+   {
+    "ticker": "ETN",
+    "company": "Eaton",
+    "value": 35.26
+   },
+   {
+    "ticker": "TDG",
+    "company": "TransDigm Group",
+    "value": 34.79
+   },
+   {
+    "ticker": "GWW",
+    "company": "W.W. Grainger",
+    "value": 34.33
+   },
+   {
+    "ticker": "TT",
+    "company": "Trane Technologies",
+    "value": 33.17
+   },
+   {
+    "ticker": "PH",
+    "company": "Parker-Hannifin",
+    "value": 32.83
+   },
+   {
+    "ticker": "RTX",
+    "company": "RTX",
+    "value": 32.29
+   },
+   {
+    "ticker": "WM",
+    "company": "Waste Management",
+    "value": 32.0
+   },
+   {
+    "ticker": "VRSK",
+    "company": "Verisk Analytics",
+    "value": 31.05
+   },
+   {
+    "ticker": "JCI",
+    "company": "Johnson Controls International",
+    "value": 28.85
+   },
+   {
+    "ticker": "ADP",
+    "company": "Automatic Data Processing",
+    "value": 27.48
+   },
+   {
+    "ticker": "ITW",
+    "company": "Illinois Tool Works",
+    "value": 26.04
+   },
+   {
+    "ticker": "PAYX",
+    "company": "Paychex",
+    "value": 22.96
+   },
+   {
+    "ticker": "GD",
+    "company": "General Dynamics",
+    "value": 21.39
+   },
+   {
+    "ticker": "LMT",
+    "company": "Lockheed Martin",
+    "value": 21.17
+   },
+   {
+    "ticker": "CPRT",
+    "company": "Copart",
+    "value": 20.61
+   },
+   {
+    "ticker": "OTIS",
+    "company": "Otis Worldwide",
+    "value": 19.35
+   },
+   {
+    "ticker": "NOC",
+    "company": "Northrop Grumman",
+    "value": 17.36
+   },
+   {
+    "ticker": "UBER",
+    "company": "Uber Technologies",
+    "value": 15.22
+   }
+  ]
+ },
+ "market": {
+  "rating": "Buy",
+  "target": 71.73,
+  "beta": 1.29,
+  "as_of": "2026-10-30",
+  "low52": 50.24,
+  "high52": 76.76,
+  "range_pos": 13,
+  "below_high": 30.1,
+  "target_vs_price": 33.7,
+  "target_vs_fair": 165.8,
+  "above_low": 6.7
+ },
+ "summary": {
+  "sentence": "A climate-control maker with strong US demand and a written-down European business.",
+  "strengths": [
+   "Free cash flow has stayed positive every year.",
+   "Share count is falling fast.",
+   "Operating cash flow is rising."
+  ],
+  "risks": [
+   "Reported a loss over the past twelve months after a goodwill write-down.",
+   "Debt is larger than shareholders' equity.",
+   "Gross margin is below its fiscal 2021 level."
+  ],
+  "swing": [
+   "Data-centre orders",
+   "European heating demand",
+   "US housing"
+  ]
+ },
+ "dollar": {
+  "cogs": 75.6,
+  "opex": 15.7,
+  "op_profit": 8.6,
+  "net": -7.9,
+  "fcf": 10.4
+ },
+ "cash_use": {
+  "years": 5,
+  "first": "FY21",
+  "last": "FY25",
+  "ocf": "$9.7B",
+  "capex": 21,
+  "dividends": 31,
+  "buybacks": 70,
+  "left": -22,
+  "sbc": 4,
+  "capex_reported": true
+ },
+ "meaning": {
+  "score": 8,
+  "what_it_does": "Makes heating, ventilation and air-conditioning systems for homes and commercial buildings, and refrigeration units for trucks and containers.",
+  "how_it_makes_money": "Equipment sales through dealers and contractors, plus parts, service and controls.",
+  "how_it_keeps_making_money": "A well-known brand with a large dealer network; data centres and efficiency rules are lifting demand.",
+  "how_it_could_stop": "Housing and construction weaken, or its European heat-pump business keeps disappointing."
+ },
+ "moat": {
+  "score": 7,
+  "strength": "Narrow",
+  "sources": [
+   "Brand",
+   "Distribution network"
+  ],
+  "summary": "A leading brand with loyal dealers, in an industry shared with several strong rivals."
+ },
+ "industry": {
+  "score": 7,
+  "pace": "Steady change",
+  "summary": "Climate-control equipment changes slowly; refrigerant rules and electrification drive periodic upgrades."
+ },
+ "management": {
+  "score": 6,
+  "summary": "Reshaped the company through a large European acquisition and several disposals; that acquisition has since been written down."
+ },
+ "financial_health": {
+  "score": 3,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+1.3% a year, 2 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": false
+   },
+   {
+    "name": "Net income trend",
+    "value": "-2.8% a year, 2 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": false
+   },
+   {
+    "name": "Net profit margin",
+    "value": "-7.9%",
+    "threshold": "≥ 5%",
+    "pass": false
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.33",
+    "threshold": "≤ 0.40",
+    "pass": true
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$7.1B → $14.1B, 1 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": true
+   },
+   {
+    "name": "ROIC",
+    "value": "8.7%",
+    "threshold": "≥ 10%",
+    "pass": false
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$1.9B → $2.1B; TTM $2.4B",
+    "threshold": "Positive every year and rising",
+    "pass": true
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 4.2x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": false
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 71% of net income over 5 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": false
+   }
+  ],
+  "red_flags": [
+   "Inconsistent revenue: two or more down years in five.",
+   "At least one loss-making year in the period."
+  ],
+  "note": "Trailing earnings include a non-cash goodwill write-down on the European business taken in the third quarter of 2026, so the reported loss does not reflect cash earnings. Fiscal 2022 and 2024 profits include gains on businesses sold.",
+  "history": [
+   {
+    "period": "FY21",
+    "revenue": 20613.0,
+    "net_income": 1664.0,
+    "fcf": 1893.0
+   },
+   {
+    "period": "FY22",
+    "revenue": 17288.0,
+    "net_income": 3534.0,
+    "fcf": 1426.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 18951.0,
+    "net_income": 1349.0,
+    "fcf": 2168.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 22486.0,
+    "net_income": 5604.0,
+    "fcf": 44.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 21747.0,
+    "net_income": 1484.0,
+    "fcf": 2121.0
+   },
+   {
+    "period": "TTM",
+    "revenue": 22790.0,
+    "net_income": -1800.0,
+    "fcf": 2380.0
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "24.4%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": false
+     },
+     {
+      "name": "Operating margin",
+      "value": "8.6%",
+      "threshold": "≥ 15%",
+      "pass": false
+     },
+     {
+      "name": "Net profit margin",
+      "value": "-7.9%",
+      "threshold": "≥ 10%",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "10.4%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Return on equity",
+      "value": "-17.3%",
+      "threshold": "≥ 15%",
+      "pass": false
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "8.7%",
+      "threshold": "≥ 12%",
+      "pass": false
+     },
+     {
+      "name": "Return on assets",
+      "value": "-4.8%",
+      "threshold": "≥ 6%",
+      "pass": false
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "1.14x",
+      "threshold": "≤ 1.0x",
+      "pass": false
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.33",
+      "threshold": "≤ 0.40",
+      "pass": true
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "3.2x",
+      "threshold": "≤ 2.5x",
+      "pass": false
+     },
+     {
+      "name": "Interest cover",
+      "value": "4.2x",
+      "threshold": "≥ 5x",
+      "pass": false
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "5.0",
+      "threshold": "≤ 4 years",
+      "pass": false
+     },
+     {
+      "name": "Current ratio",
+      "value": "1.00",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": true
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "2.59",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": false
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "71% over 5 years",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "56% over 5 years",
+      "threshold": "≥ 80%",
+      "pass": false
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "17%",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": true
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "0.4x",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$59M, 2% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": true
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "5 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+1.3%",
+      "threshold": "≥ 5%",
+      "pass": false
+     },
+     {
+      "name": "Earnings per share",
+      "value": "-2.1%",
+      "threshold": "≥ 7%",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow",
+      "value": "+2.9%",
+      "threshold": "≥ 5%",
+      "pass": false
+     },
+     {
+      "name": "Book value per share",
+      "value": "+19.7%",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "1.8%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "No dividend",
+      "threshold": "≤ 60% of earnings",
+      "pass": null
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "3.0x",
+      "threshold": "≥ 1.5x",
+      "pass": true
+     },
+     {
+      "name": "Buyback yield",
+      "value": "3.7%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "-3.0% over 4 years",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": true
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "-1%",
+      "threshold": "≥ 12%",
+      "pass": false
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "-4.0%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "5.3%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": true
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "-2.3%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 8,
+   "total": 27
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 1,
+  "lifecycle_stage": "4 · Capital return",
+  "primary_metric": {
+   "name": "Trailing P/E",
+   "value": "n/a"
+  },
+  "secondary_metric": {
+   "name": "Trailing P/FCF",
+   "value": "18.4"
+  },
+  "three_numbers": {
+   "pe": null,
+   "forward_pe": "17.3",
+   "peg": "1.70"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "2.4"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "16.7"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "27.6"
+   },
+   {
+    "name": "P/E",
+    "value": "n/a"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "22.9"
+   },
+   {
+    "name": "P/FCF",
+    "value": "18.4"
+   },
+   {
+    "name": "P/B",
+    "value": "4.2"
+   }
+  ],
+  "intrinsic_value_low": 22.82,
+  "intrinsic_value_high": 31.15,
+  "margin_of_safety_pct": -98.8,
+  "interesting_below": 18.89,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $2.1B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 3–9% for five years, fading to 3%; operating margin held at 9%; cost of capital 8.6%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 26.98,
+  "methods": [
+   {
+    "name": "Owner cash flow",
+    "low": 35.59,
+    "high": 50.27,
+    "basis": "$2.1B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM)."
+   },
+   {
+    "name": "Damodaran: cash flow to the firm",
+    "low": 10.04,
+    "high": 12.03,
+    "basis": "Sales grow 3–9% for five years, fading to 3%; operating margin held at 9%; cost of capital 8.6%. Cash added, debt subtracted."
+   }
+  ],
+  "stress_case": null,
+  "damodaran": {
+   "growth": 6,
+   "growth_low": 3,
+   "growth_high": 9,
+   "margin": 8.6,
+   "tax": 25.0,
+   "roc": 8.7,
+   "reinvestment": 69,
+   "beta": 1.0,
+   "cost_of_equity": 9.6,
+   "cost_of_debt": 4.9,
+   "debt_weight": 21,
+   "cost_of_capital": 8.6,
+   "terminal_growth": 3.0,
+   "terminal_roc": 10.6,
+   "revenue_now": "$22.8B",
+   "revenue_year10": "$37.5B",
+   "low": 10.04,
+   "high": 12.03,
+   "implied_growth": 26.5,
+   "implied_note": null
+  }
+ },
+ "lenses": {
+  "graham": {
+   "passed": 1,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "1.00",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "5 of 5 fiscal years profitable; TTM loss",
+     "threshold": "No loss in the last five years",
+     "pass": false
+    },
+    {
+     "name": "Dividend record",
+     "value": "$0.96 a share (1.8% yield)",
+     "threshold": "Pays a dividend",
+     "pass": true
+    },
+    {
+     "name": "Earnings growth",
+     "value": "-216% ($1.87 → $-2.17)",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": false
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "17.0x three-year average earnings ($3.15); n/ax trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "Negative earnings or book value",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield -4.0% vs 10-year Treasury 5.10%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "No financial distress",
+     "value": "Altman Z-score 2.59",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": false
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 1,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Owner earnings -$999M (net income + depreciation − capex) = -2.3% yield vs 10-year Treasury 5.10%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "High return on equity without heavy debt",
+     "value": "ROE -17.3%, debt/equity 1.14",
+     "threshold": "ROE ≥ 15% and debt/equity ≤ 1.0",
+     "pass": false
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "EPS rose $-0.15 on $10.62 a share retained over 4 years: -1% return",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": false
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 24%, 4.3-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": false
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Net loss",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": false
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest 4.2x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": false
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "Net loss",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": false
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "-3.0% over four fiscal years",
+     "threshold": "Fewer shares than four years ago",
+     "pass": true
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 2,
+   "total": 4,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 8 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Steady change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 1.70",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": null
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "n/a",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": null
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "EPS -2.1% a year, 2 down year(s)",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": false
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Debt is 1.14x equity",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": false
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "No dividend",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": null
+    }
+   ],
+   "category": "Turnaround",
+   "category_note": "Loss-making now, or in two or more of the last five years. Lynch asked one question first: does it have the cash to survive until the fix works?"
+  },
+  "munger": {
+   "passed": 4,
+   "total": 6,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 8 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Steady change",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 0.18%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": false
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count -5.21% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": true
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$59M, 2% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": true
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Operating cash flow was 71% of net income over 5 fiscal years",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": false
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 5 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "European heating demand stays weak for years.",
+    "A downturn in US housing and commercial construction.",
+    "The business is currently loss-making."
+   ]
+  },
+  "pabrai": {
+   "passed": 1,
+   "total": 5,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 8 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Steady change",
+     "threshold": "Stable industry",
+     "pass": null
+    },
+    {
+     "name": "Durable moat",
+     "value": "Narrow moat",
+     "threshold": "Wide moat",
+     "pass": null
+    },
+    {
+     "name": "Out of favour",
+     "value": "Share price -12% over 52 weeks",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": false
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety -99%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "Net loss with debt",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": false
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "No upside even to the high-case value ($31); 57% downside to the low case",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": -41.9,
+   "downside_pct": 57.5
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Narrow moat: Brand, Distribution network.",
+   "threshold": "",
+   "pass": null
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "Already one of the largest in its industry.",
+   "threshold": "",
+   "pass": false
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Data-centre cooling and replacement demand are growing.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 9%.",
+   "threshold": "",
+   "pass": false
+  }
+ ],
+ "bull_case": [
+  "Free cash flow has stayed positive every year.",
+  "Share count is falling fast.",
+  "Operating cash flow is rising."
+ ],
+ "bear_case": [
+  "Reported a loss over the past twelve months after a goodwill write-down.",
+  "Debt is larger than shareholders' equity.",
+  "Gross margin is below its fiscal 2021 level."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "Carrier Global statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/carr/statistics/"
+  },
+  {
+   "title": "Carrier Global income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/carr/financials/"
+  },
+  {
+   "title": "Carrier Global balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/carr/financials/balance-sheet/"
+  },
+  {
+   "title": "Carrier Global cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/carr/financials/cash-flow-statement/"
+  }
+ ]
+}

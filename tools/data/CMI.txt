@@ -1,0 +1,18 @@
+# CMI - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=450.07; date=2026-11-06; shares=137.08M; fpe=13.84; peg=0.90; cash=4.19B; debt=7.52B; equity=14.35B; eps=$23.97; cr=1.74; ic=13.39; roic=18.40%; gm=26.32%; rev=35.83B; ni=3.32B; ebitda=5.39B; ebit=4.27B; ocf=4.75B; capex=-1.29B; fcf=3.46B; dps=$8.80; sc=+0.07%; ins=0.27%; z=4.71; f=6; c52=+2.48%
+F FY21,24021,23.71,2131,14.61,1522
+F FY22,28074,23.99,2151,15.12,1046
+F FY23,34065,24.21,735,5.15,2753
+F FY24,34102,25.07,3946,28.37,279
+F FY25,33670,25.76,2843,20.50,2386
+B FY21,23710,4632,9401
+B FY22,30299,8506,10225
+B FY23,32005,7325,9904
+B FY24,31540,7598,11308
+B FY25,33992,8114,13408
+C FY21,659,n/a,2256,-734,-809,-1402
+C FY22,781,n/a,1962,-916,-855,-374
+C FY23,1016,n/a,3966,-1213,-921,n/a
+C FY24,1053,n/a,1487,-1208,-969,n/a
+C FY25,1093,n/a,3621,-1235,-1055,n/a
+C TTM,1108,n/a,4647,-1280,-1105,-468

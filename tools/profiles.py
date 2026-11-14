@@ -6,5 +6,6 @@ from profiles_c import P as C
 from profiles_d import P as D
 from profiles_e import P as E
 from profiles_f import P as F
+from profiles_g import P as G
 
-PROFILE = {**A, **B, **C, **D, **E, **F}
+PROFILE = {**A, **B, **C, **D, **E, **F, **G}

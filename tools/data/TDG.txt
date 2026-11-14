@@ -1,0 +1,18 @@
+# TDG - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=1146.81; date=2026-10-30; shares=55.28M; fpe=24.61; peg=1.58; cash=2.78B; debt=33.49B; equity=-9.72B; eps=$32.96; cr=3.02; ic=2.47; roic=15.42%; gm=59.82%; rev=10.01B; ni=1.91B; ebitda=5.10B; ebit=4.68B; ocf=2.20B; capex=-271.00M; fcf=1.93B; dps=$90.00; sc=-0.22%; ins=0.40%; z=1.93; f=6; c52=-12.86%
+F FY21,4798,52.38,607,10.39,808
+F FY22,5429,57.08,780,13.40,829
+F FY23,6585,58.34,1260,22.03,1236
+F FY24,7940,59.11,1481,25.62,1880
+F FY25,8831,60.25,1866,32.06,1816
+B FY21,19315,20377,-2910
+B FY22,18107,19952,-3766
+B FY23,19970,19821,-1978
+B FY24,25586,24950,-6283
+B FY25,22909,30084,-9679
+C FY21,253,129,913,-105,n/a,n/a
+C FY22,253,184,948,-119,n/a,-912
+C FY23,268,157,1375,-139,n/a,n/a
+C FY24,312,217,2045,-165,n/a,n/a
+C FY25,367,157,2038,-222,n/a,-500
+C TTM,420,151,2198,-271,n/a,-1807

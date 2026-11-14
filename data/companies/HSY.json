@@ -1,0 +1,966 @@
+{
+ "company": "The Hershey Company",
+ "ticker": "HSY",
+ "exchange": "NYSE",
+ "sector": "Consumer staples",
+ "is_financial": false,
+ "as_of": "2026-11-12",
+ "price_date": "2026-10-30",
+ "currency": "USD",
+ "price": 165.61,
+ "market_cap": "$33.3B",
+ "verdict": "WATCHLIST",
+ "overall_score": 70,
+ "one_liner": "A wide-moat business worth owning, but it trades at 1.4x fair value. Interesting below about $85.",
+ "scores": {
+  "meaning": 10,
+  "moat": 8,
+  "industry": 8,
+  "management": 7,
+  "financial_health": 8,
+  "valuation": 3
+ },
+ "treasury_10y": 5.1,
+ "profile": {
+  "what": "The Hershey Company makes chocolate and confectionery, including Hershey's, Reese's and Kisses, and salty snacks such as SkinnyPop and Dot's Pretzels.",
+  "money": "It sells through grocers, convenience stores and mass retailers, mostly in the United States. Cocoa is its main raw-material cost.",
+  "valued": "Hershey is valued on P/E and dividend yield. The multiple depends on how quickly margins recover from high cocoa costs.",
+  "kind": "Established operating business",
+  "metrics": [
+   {
+    "key": "pe",
+    "label": "Price / earnings",
+    "value": 22.62,
+    "unit": "x",
+    "note": "Trailing twelve months",
+    "sector_median": 25.16,
+    "sector_n": 14
+   },
+   {
+    "key": "fpe",
+    "label": "Price / forward earnings",
+    "value": 18.0,
+    "unit": "x",
+    "note": "Next twelve months, analyst estimates",
+    "sector_median": 20.97,
+    "sector_n": 15
+   },
+   {
+    "key": "pfcf",
+    "label": "Price / free cash flow",
+    "value": 14.92,
+    "unit": "x",
+    "note": "Before deducting stock-based pay",
+    "sector_median": 20.81,
+    "sector_n": 15
+   },
+   {
+    "key": "evebitda",
+    "label": "EV / EBITDA",
+    "value": 14.12,
+    "unit": "x",
+    "note": "Enterprise value includes debt",
+    "sector_median": 16.64,
+    "sector_n": 15
+   },
+   {
+    "key": "dy",
+    "label": "Dividend yield",
+    "value": 3.51,
+    "unit": "%",
+    "note": "Trailing dividends ÷ price",
+    "sector_median": 3.04,
+    "sector_n": 15
+   }
+  ],
+  "peer_group": "Consumer staples",
+  "peers": [
+   {
+    "ticker": "COST",
+    "company": "Costco",
+    "value": 53.29
+   },
+   {
+    "ticker": "WMT",
+    "company": "Walmart",
+    "value": 46.41
+   },
+   {
+    "ticker": "MNST",
+    "company": "Monster Beverage",
+    "value": 42.92
+   },
+   {
+    "ticker": "CL",
+    "company": "Colgate-Palmolive",
+    "value": 39.4
+   },
+   {
+    "ticker": "KO",
+    "company": "Coca-Cola",
+    "value": 29.28
+   },
+   {
+    "ticker": "PM",
+    "company": "Philip Morris International",
+    "value": 29.05
+   },
+   {
+    "ticker": "PG",
+    "company": "Procter & Gamble",
+    "value": 25.57
+   },
+   {
+    "ticker": "MDLZ",
+    "company": "Mondelez International",
+    "value": 24.74
+   },
+   {
+    "ticker": "HSY",
+    "company": "The Hershey Company",
+    "value": 22.62
+   },
+   {
+    "ticker": "SYY",
+    "company": "Sysco",
+    "value": 22.42
+   },
+   {
+    "ticker": "PEP",
+    "company": "PepsiCo",
+    "value": 18.29
+   },
+   {
+    "ticker": "MO",
+    "company": "Altria",
+    "value": 16.56
+   },
+   {
+    "ticker": "TGT",
+    "company": "Target",
+    "value": 15.41
+   },
+   {
+    "ticker": "STZ",
+    "company": "Constellation Brands",
+    "value": 12.19
+   }
+  ]
+ },
+ "market": {
+  "rating": "Hold",
+  "target": 181.67,
+  "beta": 0.07,
+  "as_of": "2026-10-30",
+  "low52": 156.16,
+  "high52": 239.48,
+  "range_pos": 11,
+  "below_high": 30.8,
+  "target_vs_price": 9.7,
+  "target_vs_fair": 49.5,
+  "above_low": 6.1
+ },
+ "summary": {
+  "sentence": "America's chocolate leader, working through a cocoa-cost shock.",
+  "strengths": [
+   "Revenue has grown every year in the record.",
+   "Free cash flow has held steady through the cost shock.",
+   "Very low share-price volatility."
+  ],
+  "risks": [
+   "Gross margin fell sharply in fiscal 2025.",
+   "Earnings per share more than halved in fiscal 2025.",
+   "Dividends exceeded earnings that year."
+  ],
+  "swing": [
+   "Cocoa prices",
+   "Price elasticity",
+   "Weight-loss drugs"
+  ]
+ },
+ "dollar": {
+  "cogs": 61.6,
+  "opex": 20.4,
+  "op_profit": 18.0,
+  "net": 12.3,
+  "fcf": 18.3
+ },
+ "cash_use": {
+  "years": 5,
+  "first": "FY21",
+  "last": "FY25",
+  "ocf": "$11.5B",
+  "capex": 25,
+  "dividends": 39,
+  "buybacks": 15,
+  "left": 21,
+  "sbc": 3,
+  "capex_reported": true
+ },
+ "meaning": {
+  "score": 10,
+  "what_it_does": "The largest chocolate maker in the United States, with Hershey's, Reese's and Kit Kat (under licence), and a growing salty-snacks business.",
+  "how_it_makes_money": "Sells confectionery and snacks to grocers, convenience stores and mass retailers, mostly in North America.",
+  "how_it_keeps_making_money": "Dominant brands in US chocolate with decades of loyalty and prime shelf space.",
+  "how_it_could_stop": "Cocoa costs stay high and price rises drive shoppers away."
+ },
+ "moat": {
+  "score": 8,
+  "strength": "Wide",
+  "sources": [
+   "Brand",
+   "Scale and cost advantage"
+  ],
+  "summary": "The leading share of the US chocolate market, with brands that have held their place for generations."
+ },
+ "industry": {
+  "score": 8,
+  "pace": "Stable",
+  "summary": "Confectionery changes very slowly; cocoa prices and appetite-suppressing drugs are the open questions."
+ },
+ "management": {
+  "score": 7,
+  "summary": "Controlled by a charitable trust, which favours stability; a new chief executive is managing a cocoa-cost shock."
+ },
+ "financial_health": {
+  "score": 8,
+  "checks": [
+   {
+    "name": "Revenue trend",
+    "value": "+6.8% a year, 0 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": true
+   },
+   {
+    "name": "Net income trend",
+    "value": "-12.1% a year, 1 down year(s)",
+    "threshold": "Rising, at most one down year",
+    "pass": false
+   },
+   {
+    "name": "Net profit margin",
+    "value": "12.3%",
+    "threshold": "≥ 5%",
+    "pass": true
+   },
+   {
+    "name": "Debt to assets",
+    "value": "0.42",
+    "threshold": "≤ 0.40",
+    "pass": false
+   },
+   {
+    "name": "Shareholders' equity",
+    "value": "$2.8B → $4.6B, 1 dip(s)",
+    "threshold": "Rising, at most one dip",
+    "pass": true
+   },
+   {
+    "name": "ROIC",
+    "value": "17.7%",
+    "threshold": "≥ 10%",
+    "pass": true
+   },
+   {
+    "name": "Free cash flow",
+    "value": "$1.6B → $1.8B; TTM $2.2B",
+    "threshold": "Positive every year and rising",
+    "pass": true
+   },
+   {
+    "name": "Interest cover",
+    "value": "Operating income covers interest 9.6x",
+    "threshold": "Operating income ≥ 5x interest",
+    "pass": true
+   },
+   {
+    "name": "Earnings backed by cash",
+    "value": "Operating cash flow was 143% of net income over 5 fiscal years",
+    "threshold": "Operating cash flow ≥ net income",
+    "pass": true
+   }
+  ],
+  "red_flags": [],
+  "note": "Fiscal 2025 margins and earnings fell sharply as cocoa costs rose; the valuation uses free cash flow, which held up better than earnings.",
+  "history": [
+   {
+    "period": "FY21",
+    "revenue": 8971.0,
+    "net_income": 1478.0,
+    "fcf": 1587.0
+   },
+   {
+    "period": "FY22",
+    "revenue": 10419.0,
+    "net_income": 1645.0,
+    "fcf": 1808.0
+   },
+   {
+    "period": "FY23",
+    "revenue": 11165.0,
+    "net_income": 1862.0,
+    "fcf": 1552.0
+   },
+   {
+    "period": "FY24",
+    "revenue": 11202.0,
+    "net_income": 2221.0,
+    "fcf": 1926.0
+   },
+   {
+    "period": "FY25",
+    "revenue": 11693.0,
+    "net_income": 883.26,
+    "fcf": 1823.0
+   },
+   {
+    "period": "TTM",
+    "revenue": 12160.0,
+    "net_income": 1490.0,
+    "fcf": 2230.0
+   }
+  ],
+  "ratios": [
+   {
+    "group": "Profitability",
+    "rows": [
+     {
+      "name": "Gross margin",
+      "value": "38.4%",
+      "threshold": "≥ 40% signals pricing power",
+      "pass": false
+     },
+     {
+      "name": "Operating margin",
+      "value": "18.0%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Net profit margin",
+      "value": "12.3%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow margin",
+      "value": "18.3%",
+      "threshold": "≥ 10%",
+      "pass": true
+     },
+     {
+      "name": "Return on equity",
+      "value": "32.7%",
+      "threshold": "≥ 15%",
+      "pass": true
+     },
+     {
+      "name": "Return on invested capital",
+      "value": "17.7%",
+      "threshold": "≥ 12%",
+      "pass": true
+     },
+     {
+      "name": "Return on assets",
+      "value": "10.8%",
+      "threshold": "≥ 6%",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Debt and solvency",
+    "rows": [
+     {
+      "name": "Debt to equity",
+      "value": "1.30x",
+      "threshold": "≤ 1.0x",
+      "pass": false
+     },
+     {
+      "name": "Debt to assets",
+      "value": "0.42",
+      "threshold": "≤ 0.40",
+      "pass": false
+     },
+     {
+      "name": "Net debt to EBITDA",
+      "value": "1.9x",
+      "threshold": "≤ 2.5x",
+      "pass": true
+     },
+     {
+      "name": "Interest cover",
+      "value": "9.6x",
+      "threshold": "≥ 5x",
+      "pass": true
+     },
+     {
+      "name": "Years of free cash flow to repay debt",
+      "value": "2.7",
+      "threshold": "≤ 4 years",
+      "pass": true
+     },
+     {
+      "name": "Current ratio",
+      "value": "1.18",
+      "threshold": "≥ 1.0 (Graham asked for 2.0)",
+      "pass": true
+     },
+     {
+      "name": "Altman Z-score",
+      "value": "4.49",
+      "threshold": "≥ 3.0 safe; below 1.8 distress",
+      "pass": true
+     }
+    ]
+   },
+   {
+    "group": "Cash quality",
+    "rows": [
+     {
+      "name": "Operating cash flow to net income",
+      "value": "143% over 5 years",
+      "threshold": "≥ 100%: earnings arrive as cash",
+      "pass": true
+     },
+     {
+      "name": "Free cash flow to net income",
+      "value": "108% over 5 years",
+      "threshold": "≥ 80%",
+      "pass": true
+     },
+     {
+      "name": "Capex share of operating cash flow",
+      "value": "16%",
+      "threshold": "≤ 50%: a capital-light business",
+      "pass": true
+     },
+     {
+      "name": "Capex to depreciation",
+      "value": "0.8x",
+      "threshold": "For reference: above 1.0x means spending beyond replacement",
+      "pass": null
+     },
+     {
+      "name": "Stock-based pay",
+      "value": "$69M, 3% of operating cash flow",
+      "threshold": "≤ 10% of operating cash flow",
+      "pass": true
+     },
+     {
+      "name": "Piotroski F-score",
+      "value": "6 of 9",
+      "threshold": "≥ 7 strong; ≤ 3 weak",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Growth (4-year annual rate)",
+    "rows": [
+     {
+      "name": "Revenue",
+      "value": "+6.8%",
+      "threshold": "≥ 5%",
+      "pass": true
+     },
+     {
+      "name": "Earnings per share",
+      "value": "-11.6%",
+      "threshold": "≥ 7%",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow",
+      "value": "+3.5%",
+      "threshold": "≥ 5%",
+      "pass": false
+     },
+     {
+      "name": "Book value per share",
+      "value": "+14.5%",
+      "threshold": "For reference: buybacks above book value shrink it",
+      "pass": null
+     }
+    ]
+   },
+   {
+    "group": "Returns to shareholders",
+    "rows": [
+     {
+      "name": "Dividend yield",
+      "value": "3.5%",
+      "threshold": "For reference; 10-year Treasury 5.10%",
+      "pass": null
+     },
+     {
+      "name": "Payout ratio",
+      "value": "79%",
+      "threshold": "≤ 60% of earnings",
+      "pass": false
+     },
+     {
+      "name": "Dividends covered by free cash flow",
+      "value": "2.0x",
+      "threshold": "≥ 1.5x",
+      "pass": true
+     },
+     {
+      "name": "Buyback yield",
+      "value": "1.4%",
+      "threshold": "For reference: gross repurchases ÷ market value",
+      "pass": null
+     },
+     {
+      "name": "Share count",
+      "value": "-2.1% over 4 years",
+      "threshold": "Falling: buybacks exceed stock issued",
+      "pass": true
+     },
+     {
+      "name": "Return on retained earnings",
+      "value": "-20%",
+      "threshold": "≥ 12%",
+      "pass": false
+     }
+    ]
+   },
+   {
+    "group": "Yield against bonds",
+    "rows": [
+     {
+      "name": "Earnings yield",
+      "value": "4.4%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     },
+     {
+      "name": "Free cash flow yield after stock pay",
+      "value": "6.5%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": true
+     },
+     {
+      "name": "Owner-earnings yield",
+      "value": "4.8%",
+      "threshold": "≥ 10-year Treasury (5.10%)",
+      "pass": false
+     }
+    ]
+   }
+  ],
+  "ratio_summary": {
+   "passed": 19,
+   "total": 28
+  },
+  "ratio_gaps": "Not available from the data source, so not shown: a ten-year record, inventory and receivables turnover, the quick ratio, goodwill and tangible book value, and maintenance capex split from growth capex. Owner earnings therefore deduct all capex, which is conservative."
+ },
+ "valuation": {
+  "score": 3,
+  "lifecycle_stage": "4 · Capital return",
+  "primary_metric": {
+   "name": "Trailing P/E",
+   "value": "22.6"
+  },
+  "secondary_metric": {
+   "name": "Trailing P/FCF",
+   "value": "14.9"
+  },
+  "three_numbers": {
+   "pe": "22.6",
+   "forward_pe": "18.0",
+   "peg": "0.99"
+  },
+  "multiples": [
+   {
+    "name": "EV/Sales",
+    "value": "3.2"
+   },
+   {
+    "name": "EV/EBITDA",
+    "value": "14.1"
+   },
+   {
+    "name": "EV/EBIT",
+    "value": "17.5"
+   },
+   {
+    "name": "P/E",
+    "value": "22.6"
+   },
+   {
+    "name": "EV/FCF",
+    "value": "17.2"
+   },
+   {
+    "name": "P/FCF",
+    "value": "14.9"
+   },
+   {
+    "name": "P/B",
+    "value": "7.3"
+   }
+  ],
+  "intrinsic_value_low": 102.47,
+  "intrinsic_value_high": 140.55,
+  "margin_of_safety_pct": -36.3,
+  "interesting_below": 85.06,
+  "method": "Fair value is the average of two methods: (1) Owner cash flow: $1.8B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM). (2) Damodaran: cash flow to the firm: Sales grow 1–7% for five years, fading to 3%; operating margin held at 18%; cost of capital 8.3%. Cash added, debt subtracted. The owner cash flow method grows the cash for five years, then at half that rate, 3% after year ten, discounted at 10%. Stock-based pay is deducted because it is a real cost to owners.",
+  "fair_value": 121.51,
+  "methods": [
+   {
+    "name": "Owner cash flow",
+    "low": 113.38,
+    "high": 160.25,
+    "basis": "$1.8B a year: free cash flow less stock-based pay (median of the last three fiscal years and TTM)."
+   },
+   {
+    "name": "Damodaran: cash flow to the firm",
+    "low": 91.55,
+    "high": 120.85,
+    "basis": "Sales grow 1–7% for five years, fading to 3%; operating margin held at 18%; cost of capital 8.3%. Cash added, debt subtracted."
+   }
+  ],
+  "stress_case": null,
+  "damodaran": {
+   "growth": 4,
+   "growth_low": 1,
+   "growth_high": 7,
+   "margin": 18.0,
+   "tax": 25.0,
+   "roc": 17.7,
+   "reinvestment": 23,
+   "beta": 0.85,
+   "cost_of_equity": 8.9,
+   "cost_of_debt": 4.9,
+   "debt_weight": 15,
+   "cost_of_capital": 8.3,
+   "terminal_growth": 3.0,
+   "terminal_roc": 13.3,
+   "revenue_now": "$12.2B",
+   "revenue_year10": "$17.5B",
+   "low": 91.55,
+   "high": 120.85,
+   "implied_growth": 13.9,
+   "implied_note": null
+  }
+ },
+ "lenses": {
+  "graham": {
+   "passed": 3,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Strong current position",
+     "value": "1.18",
+     "threshold": "Current ratio ≥ 2.0",
+     "pass": false
+    },
+    {
+     "name": "Earnings stability",
+     "value": "5 of 5 fiscal years profitable; TTM profit",
+     "threshold": "No loss in the last five years",
+     "pass": true
+    },
+    {
+     "name": "Dividend record",
+     "value": "$5.81 a share (3.5% yield)",
+     "threshold": "Pays a dividend",
+     "pass": true
+    },
+    {
+     "name": "Earnings growth",
+     "value": "+3% ($7.11 → $7.32)",
+     "threshold": "EPS up at least 15% in four years",
+     "pass": false
+    },
+    {
+     "name": "Moderate P/E",
+     "value": "20.4x three-year average earnings ($8.11); 22.6x trailing",
+     "threshold": "Price ≤ 15x average earnings of the last three years",
+     "pass": false
+    },
+    {
+     "name": "Graham number",
+     "value": "P/E × P/B = 165; Graham number $61 vs price $166",
+     "threshold": "P/E × P/B ≤ 22.5",
+     "pass": false
+    },
+    {
+     "name": "Earnings beat bonds",
+     "value": "Earnings yield 4.4% vs 10-year Treasury 5.10%",
+     "threshold": "Earnings yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "No financial distress",
+     "value": "Altman Z-score 4.49",
+     "threshold": "Altman Z ≥ 3.0",
+     "pass": true
+    }
+   ]
+  },
+  "buffett": {
+   "passed": 4,
+   "total": 8,
+   "tests": [
+    {
+     "name": "Owner-earnings yield beats bonds",
+     "value": "Owner earnings $1.6B (net income + depreciation − capex) = 4.8% yield vs 10-year Treasury 5.10%",
+     "threshold": "Yield ≥ Treasury yield",
+     "pass": false
+    },
+    {
+     "name": "High return on equity without heavy debt",
+     "value": "ROE 32.7%, debt/equity 1.30",
+     "threshold": "ROE ≥ 15% and debt/equity ≤ 1.0",
+     "pass": false
+    },
+    {
+     "name": "Retained earnings put to good use",
+     "value": "EPS rose $-2.77 on $13.54 a share retained over 4 years: -20% return",
+     "threshold": "Each dollar kept back earns ≥ 12%",
+     "pass": false
+    },
+    {
+     "name": "Pricing power",
+     "value": "Gross margin 38%, 13.9-point range over five years",
+     "threshold": "Gross margin ≥ 40% and stable (≤ 6-point range)",
+     "pass": false
+    },
+    {
+     "name": "Low capital intensity",
+     "value": "Capex is 29% of net income",
+     "threshold": "Capex ≤ 50% of net income",
+     "pass": true
+    },
+    {
+     "name": "Light interest burden",
+     "value": "Operating income covers interest 9.6x",
+     "threshold": "Interest < 15% of operating income (cover ≥ 6.7x)",
+     "pass": true
+    },
+    {
+     "name": "Debt repayable from earnings",
+     "value": "4.0 years of net income",
+     "threshold": "Total debt ≤ 4 years of net income",
+     "pass": true
+    },
+    {
+     "name": "Shrinking share count",
+     "value": "-2.1% over four fiscal years",
+     "threshold": "Fewer shares than four years ago",
+     "pass": true
+    }
+   ]
+  },
+  "lynch": {
+   "passed": 3,
+   "total": 7,
+   "tests": [
+    {
+     "name": "The two-minute drill",
+     "value": "Meaning score 10 / 10",
+     "threshold": "The story can be told simply (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a hot stock in a hot industry",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Growth at a reasonable price",
+     "value": "PEG 0.99",
+     "threshold": "PEG ≤ 1.0 (above 2.0 fails)",
+     "pass": true
+    },
+    {
+     "name": "Growth plus yield against P/E",
+     "value": "(-12% EPS growth + 3.5% yield) ÷ P/E 22.6 = -0.36",
+     "threshold": "≥ 1.5 is attractive (below 1.0 fails)",
+     "pass": false
+    },
+    {
+     "name": "Consistent earnings",
+     "value": "EPS -11.6% a year, 1 down year(s)",
+     "threshold": "EPS higher than four years ago, at most one down year",
+     "pass": false
+    },
+    {
+     "name": "Strong balance sheet",
+     "value": "Debt is 1.30x equity",
+     "threshold": "Net cash, or debt ≤ 0.5x equity (above 1.0x fails)",
+     "pass": false
+    },
+    {
+     "name": "Dividend is safe",
+     "value": "Pays out 79% of earnings",
+     "threshold": "Payout ≤ 60% of earnings",
+     "pass": false
+    }
+   ],
+   "category": "Slow grower",
+   "category_note": "Earnings growing more slowly than 6% a year, or sales barely growing. Lynch held these only for the dividend, so the payout and its safety matter most."
+  },
+  "munger": {
+   "passed": 4,
+   "total": 5,
+   "tests": [
+    {
+     "name": "Inside the circle of competence",
+     "value": "Meaning score 10 / 10",
+     "threshold": "Simple enough to explain and predict (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Not a technology war",
+     "value": "Stable",
+     "threshold": "Industry is not changing rapidly",
+     "pass": true
+    },
+    {
+     "name": "Skin in the game",
+     "value": "Insiders own 0.27%",
+     "threshold": "Insiders own ≥ 1%",
+     "pass": false
+    },
+    {
+     "name": "No dilution of owners",
+     "value": "Share count +0.16% over the last year",
+     "threshold": "Share count flat or falling",
+     "pass": null
+    },
+    {
+     "name": "Modest stock-based pay",
+     "value": "$69M, 3% of operating cash flow",
+     "threshold": "Stock pay ≤ 10% of operating cash flow",
+     "pass": true
+    },
+    {
+     "name": "Earnings are real cash",
+     "value": "Operating cash flow was 143% of net income over 5 fiscal years",
+     "threshold": "Operating cash flow ≥ net income over five years",
+     "pass": true
+    },
+    {
+     "name": "Accounting quality check",
+     "value": "Piotroski F-score 6 of 9",
+     "threshold": "F-score ≥ 7 (≤ 3 is a warning)",
+     "pass": null
+    }
+   ],
+   "inversion": [
+    "Cocoa prices stay elevated for years.",
+    "Weight-loss drugs cut confectionery demand."
+   ]
+  },
+  "pabrai": {
+   "passed": 4,
+   "total": 7,
+   "tests": [
+    {
+     "name": "A simple, existing business",
+     "value": "Meaning score 10 / 10",
+     "threshold": "Easy to understand (≥ 8)",
+     "pass": true
+    },
+    {
+     "name": "Slow rate of change",
+     "value": "Stable",
+     "threshold": "Stable industry",
+     "pass": true
+    },
+    {
+     "name": "Durable moat",
+     "value": "Wide moat",
+     "threshold": "Wide moat",
+     "pass": true
+    },
+    {
+     "name": "Out of favour",
+     "value": "Share price -6% over 52 weeks",
+     "threshold": "Down 20% or more: bargains come from distress",
+     "pass": false
+    },
+    {
+     "name": "Bought well below value",
+     "value": "Margin of safety -36%",
+     "threshold": "≥ 30%",
+     "pass": false
+    },
+    {
+     "name": "Low risk of permanent loss",
+     "value": "Debt is 4.0 years of net income",
+     "threshold": "Net cash, or debt ≤ 4 years of earnings",
+     "pass": true
+    },
+    {
+     "name": "Heads I win, tails I don't lose much",
+     "value": "No upside even to the high-case value ($141); 38% downside to the low case",
+     "threshold": "Upside at least 3x the downside",
+     "pass": false
+    }
+   ],
+   "upside_pct": -15.1,
+   "downside_pct": 38.1
+  }
+ },
+ "rules_of_the_road": [
+  {
+   "name": "Clear-cut competitive advantage",
+   "value": "Wide moat: Brand, Scale and cost advantage.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "Small share of a huge market",
+   "value": "Already dominant in US chocolate.",
+   "threshold": "",
+   "pass": false
+  },
+  {
+   "name": "Best days still ahead",
+   "value": "Snacks and pricing add to sales.",
+   "threshold": "",
+   "pass": true
+  },
+  {
+   "name": "A growing industry is not the same as a profitable one",
+   "value": "ROIC of 18%.",
+   "threshold": "",
+   "pass": true
+  }
+ ],
+ "bull_case": [
+  "Revenue has grown every year in the record.",
+  "Free cash flow has held steady through the cost shock.",
+  "Very low share-price volatility."
+ ],
+ "bear_case": [
+  "Gross margin fell sharply in fiscal 2025.",
+  "Earnings per share more than halved in fiscal 2025.",
+  "Dividends exceeded earnings that year."
+ ],
+ "framework_version": "2.5.0",
+ "sources": [
+  {
+   "title": "The Hershey Company statistics — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/hsy/statistics/"
+  },
+  {
+   "title": "The Hershey Company income statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/hsy/financials/"
+  },
+  {
+   "title": "The Hershey Company balance sheet — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/hsy/financials/balance-sheet/"
+  },
+  {
+   "title": "The Hershey Company cash flow statement — StockAnalysis.com",
+   "url": "https://stockanalysis.com/stocks/hsy/financials/cash-flow-statement/"
+  }
+ ]
+}

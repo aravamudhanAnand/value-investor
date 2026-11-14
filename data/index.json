@@ -5,6 +5,50 @@
  "treasury_10y": 5.1,
  "companies": [
   {
+   "ticker": "CPRT",
+   "slug": "CPRT",
+   "company": "Copart",
+   "sector": "Industrials",
+   "verdict": "WATCHLIST",
+   "score": 83,
+   "price": 31.95,
+   "mos": -13.2,
+   "moat": "Wide",
+   "quality": 9.12,
+   "value_per_dollar": 0.883,
+   "interesting_below": 19.75,
+   "scores": {
+    "meaning": 9,
+    "moat": 9,
+    "industry": 8,
+    "management": 9,
+    "financial_health": 10,
+    "valuation": 5
+   },
+   "lenses": {
+    "graham": [
+     4,
+     8
+    ],
+    "buffett": [
+     5,
+     7
+    ],
+    "lynch": [
+     4,
+     5
+    ],
+    "munger": [
+     6,
+     6
+    ],
+    "pabrai": [
+     5,
+     7
+    ]
+   }
+  },
+  {
    "ticker": "BRK.B",
    "slug": "BRK-B",
    "company": "Berkshire Hathaway",
@@ -357,6 +401,94 @@
    }
   },
   {
+   "ticker": "PAYX",
+   "slug": "PAYX",
+   "company": "Paychex",
+   "sector": "Industrials",
+   "verdict": "WATCHLIST",
+   "score": 75,
+   "price": 115.7,
+   "mos": -33.3,
+   "moat": "Wide",
+   "quality": 8.62,
+   "value_per_dollar": 0.75,
+   "interesting_below": 60.76,
+   "scores": {
+    "meaning": 9,
+    "moat": 8,
+    "industry": 8,
+    "management": 8,
+    "financial_health": 10,
+    "valuation": 3
+   },
+   "lenses": {
+    "graham": [
+     4,
+     8
+    ],
+    "buffett": [
+     5,
+     7
+    ],
+    "lynch": [
+     3,
+     7
+    ],
+    "munger": [
+     6,
+     6
+    ],
+    "pabrai": [
+     4,
+     7
+    ]
+   }
+  },
+  {
+   "ticker": "STZ",
+   "slug": "STZ",
+   "company": "Constellation Brands",
+   "sector": "Consumer staples",
+   "verdict": "PASS",
+   "score": 75,
+   "price": 135.62,
+   "mos": 27.2,
+   "moat": "Wide",
+   "quality": 7.38,
+   "value_per_dollar": 1.373,
+   "interesting_below": 130.38,
+   "scores": {
+    "meaning": 9,
+    "moat": 8,
+    "industry": 7,
+    "management": 6,
+    "financial_health": 7,
+    "valuation": 8
+   },
+   "lenses": {
+    "graham": [
+     2,
+     7
+    ],
+    "buffett": [
+     5,
+     7
+    ],
+    "lynch": [
+     3,
+     6
+    ],
+    "munger": [
+     5,
+     6
+    ],
+    "pabrai": [
+     4,
+     7
+    ]
+   }
+  },
+  {
    "ticker": "WM",
    "slug": "WM",
    "company": "Waste Management",
@@ -528,6 +660,50 @@
     ],
     "pabrai": [
      3,
+     7
+    ]
+   }
+  },
+  {
+   "ticker": "FAST",
+   "slug": "FAST",
+   "company": "Fastenal",
+   "sector": "Industrials",
+   "verdict": "WATCHLIST",
+   "score": 74,
+   "price": 52.99,
+   "mos": -161.4,
+   "moat": "Wide",
+   "quality": 8.94,
+   "value_per_dollar": 0.383,
+   "interesting_below": 14.19,
+   "scores": {
+    "meaning": 10,
+    "moat": 8,
+    "industry": 8,
+    "management": 9,
+    "financial_health": 10,
+    "valuation": 1
+   },
+   "lenses": {
+    "graham": [
+     5,
+     8
+    ],
+    "buffett": [
+     6,
+     7
+    ],
+    "lynch": [
+     4,
+     7
+    ],
+    "munger": [
+     4,
+     5
+    ],
+    "pabrai": [
+     4,
      7
     ]
    }
@@ -797,6 +973,50 @@
    }
   },
   {
+   "ticker": "AME",
+   "slug": "AME",
+   "company": "AMETEK",
+   "sector": "Industrials",
+   "verdict": "WATCHLIST",
+   "score": 72,
+   "price": 242.81,
+   "mos": -114.3,
+   "moat": "Wide",
+   "quality": 8.69,
+   "value_per_dollar": 0.467,
+   "interesting_below": 79.3,
+   "scores": {
+    "meaning": 8,
+    "moat": 8,
+    "industry": 8,
+    "management": 9,
+    "financial_health": 10,
+    "valuation": 1
+   },
+   "lenses": {
+    "graham": [
+     4,
+     8
+    ],
+    "buffett": [
+     3,
+     7
+    ],
+    "lynch": [
+     5,
+     7
+    ],
+    "munger": [
+     6,
+     7
+    ],
+    "pabrai": [
+     4,
+     7
+    ]
+   }
+  },
+  {
    "ticker": "CL",
    "slug": "CL",
    "company": "Colgate-Palmolive",
@@ -877,6 +1097,50 @@
     "munger": [
      4,
      5
+    ],
+    "pabrai": [
+     4,
+     7
+    ]
+   }
+  },
+  {
+   "ticker": "GWW",
+   "slug": "GWW",
+   "company": "W.W. Grainger",
+   "sector": "Industrials",
+   "verdict": "WATCHLIST",
+   "score": 72,
+   "price": 1344.87,
+   "mos": -71.5,
+   "moat": "Wide",
+   "quality": 8.81,
+   "value_per_dollar": 0.583,
+   "interesting_below": 548.84,
+   "scores": {
+    "meaning": 9,
+    "moat": 8,
+    "industry": 8,
+    "management": 9,
+    "financial_health": 10,
+    "valuation": 1
+   },
+   "lenses": {
+    "graham": [
+     5,
+     8
+    ],
+    "buffett": [
+     6,
+     8
+    ],
+    "lynch": [
+     4,
+     6
+    ],
+    "munger": [
+     6,
+     6
     ],
     "pabrai": [
      4,
@@ -973,6 +1237,50 @@
    }
   },
   {
+   "ticker": "MSCI",
+   "slug": "MSCI",
+   "company": "MSCI",
+   "sector": "Financials",
+   "verdict": "WATCHLIST",
+   "score": 72,
+   "price": 617.67,
+   "mos": -58.2,
+   "moat": "Wide",
+   "quality": 8.44,
+   "value_per_dollar": 0.632,
+   "interesting_below": 273.27,
+   "scores": {
+    "meaning": 9,
+    "moat": 9,
+    "industry": 8,
+    "management": 8,
+    "financial_health": 8,
+    "valuation": 2
+   },
+   "lenses": {
+    "graham": [
+     4,
+     8
+    ],
+    "buffett": [
+     6,
+     8
+    ],
+    "lynch": [
+     4,
+     7
+    ],
+    "munger": [
+     6,
+     6
+    ],
+    "pabrai": [
+     3,
+     7
+    ]
+   }
+  },
+  {
    "ticker": "NFLX",
    "slug": "NFLX",
    "company": "Netflix",
@@ -1013,6 +1321,50 @@
     "pabrai": [
      4,
      6
+    ]
+   }
+  },
+  {
+   "ticker": "OTIS",
+   "slug": "OTIS",
+   "company": "Otis Worldwide",
+   "sector": "Industrials",
+   "verdict": "PASS",
+   "score": 72,
+   "price": 75.27,
+   "mos": -15.4,
+   "moat": "Wide",
+   "quality": 7.94,
+   "value_per_dollar": 0.866,
+   "interesting_below": 45.64,
+   "scores": {
+    "meaning": 9,
+    "moat": 8,
+    "industry": 8,
+    "management": 7,
+    "financial_health": 8,
+    "valuation": 4
+   },
+   "lenses": {
+    "graham": [
+     5,
+     8
+    ],
+    "buffett": [
+     5,
+     8
+    ],
+    "lynch": [
+     4,
+     7
+    ],
+    "munger": [
+     5,
+     6
+    ],
+    "pabrai": [
+     3,
+     7
     ]
    }
   },
@@ -1589,6 +1941,50 @@
    }
   },
   {
+   "ticker": "HSY",
+   "slug": "HSY",
+   "company": "The Hershey Company",
+   "sector": "Consumer staples",
+   "verdict": "WATCHLIST",
+   "score": 70,
+   "price": 165.61,
+   "mos": -36.3,
+   "moat": "Wide",
+   "quality": 8.06,
+   "value_per_dollar": 0.734,
+   "interesting_below": 85.06,
+   "scores": {
+    "meaning": 10,
+    "moat": 8,
+    "industry": 8,
+    "management": 7,
+    "financial_health": 8,
+    "valuation": 3
+   },
+   "lenses": {
+    "graham": [
+     3,
+     8
+    ],
+    "buffett": [
+     4,
+     8
+    ],
+    "lynch": [
+     3,
+     7
+    ],
+    "munger": [
+     4,
+     5
+    ],
+    "pabrai": [
+     4,
+     7
+    ]
+   }
+  },
+  {
    "ticker": "JPM",
    "slug": "JPM",
    "company": "JPMorgan Chase",
@@ -1672,6 +2068,50 @@
     ],
     "pabrai": [
      3,
+     7
+    ]
+   }
+  },
+  {
+   "ticker": "MNST",
+   "slug": "MNST",
+   "company": "Monster Beverage",
+   "sector": "Consumer staples",
+   "verdict": "WATCHLIST",
+   "score": 70,
+   "price": 46.35,
+   "mos": -130.4,
+   "moat": "Wide",
+   "quality": 8.56,
+   "value_per_dollar": 0.434,
+   "interesting_below": 14.08,
+   "scores": {
+    "meaning": 10,
+    "moat": 8,
+    "industry": 7,
+    "management": 9,
+    "financial_health": 9,
+    "valuation": 1
+   },
+   "lenses": {
+    "graham": [
+     4,
+     8
+    ],
+    "buffett": [
+     6,
+     8
+    ],
+    "lynch": [
+     3,
+     6
+    ],
+    "munger": [
+     5,
+     6
+    ],
+    "pabrai": [
+     4,
      7
     ]
    }
@@ -1884,6 +2324,138 @@
     ],
     "lynch": [
      4,
+     7
+    ],
+    "munger": [
+     5,
+     6
+    ],
+    "pabrai": [
+     3,
+     7
+    ]
+   }
+  },
+  {
+   "ticker": "URI",
+   "slug": "URI",
+   "company": "United Rentals",
+   "sector": "Industrials",
+   "verdict": "WATCHLIST",
+   "score": 70,
+   "price": 1160.91,
+   "mos": -19.0,
+   "moat": "Narrow",
+   "quality": 7.81,
+   "value_per_dollar": 0.84,
+   "interesting_below": 682.79,
+   "scores": {
+    "meaning": 8,
+    "moat": 7,
+    "industry": 7,
+    "management": 8,
+    "financial_health": 9,
+    "valuation": 4
+   },
+   "lenses": {
+    "graham": [
+     4,
+     8
+    ],
+    "buffett": [
+     2,
+     8
+    ],
+    "lynch": [
+     4,
+     6
+    ],
+    "munger": [
+     5,
+     6
+    ],
+    "pabrai": [
+     1,
+     5
+    ]
+   }
+  },
+  {
+   "ticker": "VRSK",
+   "slug": "VRSK",
+   "company": "Verisk Analytics",
+   "sector": "Industrials",
+   "verdict": "WATCHLIST",
+   "score": 70,
+   "price": 204.59,
+   "mos": -33.7,
+   "moat": "Wide",
+   "quality": 8.0,
+   "value_per_dollar": 0.748,
+   "interesting_below": 107.09,
+   "scores": {
+    "meaning": 9,
+    "moat": 9,
+    "industry": 8,
+    "management": 7,
+    "financial_health": 7,
+    "valuation": 3
+   },
+   "lenses": {
+    "graham": [
+     4,
+     8
+    ],
+    "buffett": [
+     5,
+     8
+    ],
+    "lynch": [
+     3,
+     7
+    ],
+    "munger": [
+     5,
+     6
+    ],
+    "pabrai": [
+     3,
+     7
+    ]
+   }
+  },
+  {
+   "ticker": "YUM",
+   "slug": "YUM",
+   "company": "Yum! Brands",
+   "sector": "Consumer discretionary",
+   "verdict": "WATCHLIST",
+   "score": 70,
+   "price": 149.7,
+   "mos": -39.2,
+   "moat": "Wide",
+   "quality": 8.06,
+   "value_per_dollar": 0.719,
+   "interesting_below": 75.3,
+   "scores": {
+    "meaning": 10,
+    "moat": 8,
+    "industry": 8,
+    "management": 7,
+    "financial_health": 8,
+    "valuation": 3
+   },
+   "lenses": {
+    "graham": [
+     4,
+     8
+    ],
+    "buffett": [
+     4,
+     8
+    ],
+    "lynch": [
+     3,
      7
     ],
     "munger": [
@@ -2117,6 +2689,50 @@
    }
   },
   {
+   "ticker": "CMI",
+   "slug": "CMI",
+   "company": "Cummins",
+   "sector": "Industrials",
+   "verdict": "WATCHLIST",
+   "score": 68,
+   "price": 450.07,
+   "mos": -41.8,
+   "moat": "Narrow",
+   "quality": 7.81,
+   "value_per_dollar": 0.705,
+   "interesting_below": 222.18,
+   "scores": {
+    "meaning": 9,
+    "moat": 7,
+    "industry": 6,
+    "management": 8,
+    "financial_health": 9,
+    "valuation": 3
+   },
+   "lenses": {
+    "graham": [
+     5,
+     8
+    ],
+    "buffett": [
+     6,
+     8
+    ],
+    "lynch": [
+     4,
+     6
+    ],
+    "munger": [
+     3,
+     4
+    ],
+    "pabrai": [
+     2,
+     5
+    ]
+   }
+  },
+  {
    "ticker": "HD",
    "slug": "HD",
    "company": "Home Depot",
@@ -2333,6 +2949,50 @@
     "pabrai": [
      2,
      6
+    ]
+   }
+  },
+  {
+   "ticker": "PCAR",
+   "slug": "PCAR",
+   "company": "PACCAR",
+   "sector": "Industrials",
+   "verdict": "PASS",
+   "score": 68,
+   "price": 104.37,
+   "mos": -27.6,
+   "moat": "Narrow",
+   "quality": 7.5,
+   "value_per_dollar": 0.783,
+   "interesting_below": 57.24,
+   "scores": {
+    "meaning": 9,
+    "moat": 7,
+    "industry": 6,
+    "management": 9,
+    "financial_health": 7,
+    "valuation": 4
+   },
+   "lenses": {
+    "graham": [
+     6,
+     8
+    ],
+    "buffett": [
+     1,
+     7
+    ],
+    "lynch": [
+     4,
+     6
+    ],
+    "munger": [
+     4,
+     4
+    ],
+    "pabrai": [
+     1,
+     5
     ]
    }
   },
@@ -2777,6 +3437,50 @@
    }
   },
   {
+   "ticker": "NSC",
+   "slug": "NSC",
+   "company": "Norfolk Southern",
+   "sector": "Industrials",
+   "verdict": "PASS",
+   "score": 66,
+   "price": 333.99,
+   "mos": -169.9,
+   "moat": "Wide",
+   "quality": 7.94,
+   "value_per_dollar": 0.371,
+   "interesting_below": 86.63,
+   "scores": {
+    "meaning": 10,
+    "moat": 9,
+    "industry": 8,
+    "management": 6,
+    "financial_health": 7,
+    "valuation": 1
+   },
+   "lenses": {
+    "graham": [
+     2,
+     8
+    ],
+    "buffett": [
+     1,
+     8
+    ],
+    "lynch": [
+     4,
+     7
+    ],
+    "munger": [
+     5,
+     6
+    ],
+    "pabrai": [
+     3,
+     7
+    ]
+   }
+  },
+  {
    "ticker": "NVDA",
    "slug": "NVDA",
    "company": "NVIDIA",
@@ -2817,6 +3521,138 @@
     "pabrai": [
      2,
      7
+    ]
+   }
+  },
+  {
+   "ticker": "ODFL",
+   "slug": "ODFL",
+   "company": "Old Dominion Freight Line",
+   "sector": "Industrials",
+   "verdict": "WATCHLIST",
+   "score": 66,
+   "price": 173.32,
+   "mos": -106.3,
+   "moat": "Wide",
+   "quality": 8.06,
+   "value_per_dollar": 0.485,
+   "interesting_below": 58.81,
+   "scores": {
+    "meaning": 9,
+    "moat": 8,
+    "industry": 8,
+    "management": 9,
+    "financial_health": 7,
+    "valuation": 1
+   },
+   "lenses": {
+    "graham": [
+     4,
+     8
+    ],
+    "buffett": [
+     5,
+     8
+    ],
+    "lynch": [
+     4,
+     6
+    ],
+    "munger": [
+     6,
+     6
+    ],
+    "pabrai": [
+     4,
+     7
+    ]
+   }
+  },
+  {
+   "ticker": "ROK",
+   "slug": "ROK",
+   "company": "Rockwell Automation",
+   "sector": "Industrials",
+   "verdict": "WATCHLIST",
+   "score": 66,
+   "price": 436.2,
+   "mos": -158.5,
+   "moat": "Wide",
+   "quality": 7.94,
+   "value_per_dollar": 0.387,
+   "interesting_below": 118.11,
+   "scores": {
+    "meaning": 9,
+    "moat": 8,
+    "industry": 6,
+    "management": 7,
+    "financial_health": 9,
+    "valuation": 1
+   },
+   "lenses": {
+    "graham": [
+     3,
+     8
+    ],
+    "buffett": [
+     4,
+     8
+    ],
+    "lynch": [
+     3,
+     6
+    ],
+    "munger": [
+     6,
+     7
+    ],
+    "pabrai": [
+     3,
+     6
+    ]
+   }
+  },
+  {
+   "ticker": "TDG",
+   "slug": "TDG",
+   "company": "TransDigm Group",
+   "sector": "Industrials",
+   "verdict": "WATCHLIST",
+   "score": 66,
+   "price": 1146.81,
+   "mos": -61.9,
+   "moat": "Wide",
+   "quality": 7.75,
+   "value_per_dollar": 0.618,
+   "interesting_below": 495.83,
+   "scores": {
+    "meaning": 8,
+    "moat": 9,
+    "industry": 7,
+    "management": 7,
+    "financial_health": 7,
+    "valuation": 2
+   },
+   "lenses": {
+    "graham": [
+     4,
+     8
+    ],
+    "buffett": [
+     3,
+     7
+    ],
+    "lynch": [
+     3,
+     5
+    ],
+    "munger": [
+     5,
+     6
+    ],
+    "pabrai": [
+     2,
+     6
     ]
    }
   },
@@ -3657,6 +4493,50 @@
    }
   },
   {
+   "ticker": "PWR",
+   "slug": "PWR",
+   "company": "Quanta Services",
+   "sector": "Industrials",
+   "verdict": "WATCHLIST",
+   "score": 64,
+   "price": 620.73,
+   "mos": -289.7,
+   "moat": "Narrow",
+   "quality": 7.81,
+   "value_per_dollar": 0.257,
+   "interesting_below": 111.51,
+   "scores": {
+    "meaning": 8,
+    "moat": 7,
+    "industry": 7,
+    "management": 8,
+    "financial_health": 9,
+    "valuation": 1
+   },
+   "lenses": {
+    "graham": [
+     4,
+     8
+    ],
+    "buffett": [
+     2,
+     8
+    ],
+    "lynch": [
+     4,
+     5
+    ],
+    "munger": [
+     4,
+     5
+    ],
+    "pabrai": [
+     1,
+     5
+    ]
+   }
+  },
+  {
    "ticker": "PYPL",
    "slug": "PYPL",
    "company": "PayPal",
@@ -4361,6 +5241,50 @@
    }
   },
   {
+   "ticker": "GIS",
+   "slug": "GIS",
+   "company": "General Mills",
+   "sector": "Consumer staples",
+   "verdict": "PASS",
+   "score": 61,
+   "price": 35.51,
+   "mos": 22.6,
+   "moat": "Narrow",
+   "quality": 5.62,
+   "value_per_dollar": 1.292,
+   "interesting_below": 32.12,
+   "scores": {
+    "meaning": 10,
+    "moat": 6,
+    "industry": 7,
+    "management": 6,
+    "financial_health": 2,
+    "valuation": 8
+   },
+   "lenses": {
+    "graham": [
+     2,
+     8
+    ],
+    "buffett": [
+     1,
+     7
+    ],
+    "lynch": [
+     2,
+     4
+    ],
+    "munger": [
+     5,
+     6
+    ],
+    "pabrai": [
+     4,
+     6
+    ]
+   }
+  },
+  {
    "ticker": "JNJ",
    "slug": "JNJ",
    "company": "Johnson & Johnson",
@@ -4845,6 +5769,94 @@
    }
   },
   {
+   "ticker": "SYY",
+   "slug": "SYY",
+   "company": "Sysco",
+   "sector": "Consumer staples",
+   "verdict": "PASS",
+   "score": 60,
+   "price": 82.07,
+   "mos": -39.6,
+   "moat": "Narrow",
+   "quality": 6.75,
+   "value_per_dollar": 0.716,
+   "interesting_below": 41.14,
+   "scores": {
+    "meaning": 10,
+    "moat": 7,
+    "industry": 8,
+    "management": 7,
+    "financial_health": 4,
+    "valuation": 3
+   },
+   "lenses": {
+    "graham": [
+     4,
+     8
+    ],
+    "buffett": [
+     4,
+     8
+    ],
+    "lynch": [
+     2,
+     7
+    ],
+    "munger": [
+     5,
+     6
+    ],
+    "pabrai": [
+     2,
+     6
+    ]
+   }
+  },
+  {
+   "ticker": "JCI",
+   "slug": "JCI",
+   "company": "Johnson Controls International",
+   "sector": "Industrials",
+   "verdict": "WATCHLIST",
+   "score": 59,
+   "price": 135.03,
+   "mos": -171.4,
+   "moat": "Narrow",
+   "quality": 7.12,
+   "value_per_dollar": 0.368,
+   "interesting_below": 34.82,
+   "scores": {
+    "meaning": 8,
+    "moat": 7,
+    "industry": 7,
+    "management": 7,
+    "financial_health": 7,
+    "valuation": 1
+   },
+   "lenses": {
+    "graham": [
+     3,
+     7
+    ],
+    "buffett": [
+     6,
+     8
+    ],
+    "lynch": [
+     3,
+     5
+    ],
+    "munger": [
+     6,
+     7
+    ],
+    "pabrai": [
+     2,
+     5
+    ]
+   }
+  },
+  {
    "ticker": "MDT",
    "slug": "MDT",
    "company": "Medtronic",
@@ -5232,6 +6244,50 @@
     ],
     "munger": [
      4,
+     6
+    ],
+    "pabrai": [
+     1,
+     5
+    ]
+   }
+  },
+  {
+   "ticker": "TGT",
+   "slug": "TGT",
+   "company": "Target",
+   "sector": "Consumer staples",
+   "verdict": "PASS",
+   "score": 57,
+   "price": 148.53,
+   "mos": -39.0,
+   "moat": "Narrow",
+   "quality": 6.38,
+   "value_per_dollar": 0.719,
+   "interesting_below": 74.78,
+   "scores": {
+    "meaning": 9,
+    "moat": 6,
+    "industry": 6,
+    "management": 6,
+    "financial_health": 6,
+    "valuation": 3
+   },
+   "lenses": {
+    "graham": [
+     3,
+     8
+    ],
+    "buffett": [
+     2,
+     8
+    ],
+    "lynch": [
+     3,
+     7
+    ],
+    "munger": [
+     5,
      6
     ],
     "pabrai": [
@@ -6249,6 +7305,50 @@
     "pabrai": [
      1,
      6
+    ]
+   }
+  },
+  {
+   "ticker": "CARR",
+   "slug": "CARR",
+   "company": "Carrier Global",
+   "sector": "Industrials",
+   "verdict": "PASS",
+   "score": 50,
+   "price": 53.63,
+   "mos": -98.8,
+   "moat": "Narrow",
+   "quality": 5.94,
+   "value_per_dollar": 0.503,
+   "interesting_below": 18.89,
+   "scores": {
+    "meaning": 8,
+    "moat": 7,
+    "industry": 7,
+    "management": 6,
+    "financial_health": 3,
+    "valuation": 1
+   },
+   "lenses": {
+    "graham": [
+     1,
+     8
+    ],
+    "buffett": [
+     1,
+     8
+    ],
+    "lynch": [
+     2,
+     4
+    ],
+    "munger": [
+     4,
+     6
+    ],
+    "pabrai": [
+     1,
+     5
     ]
    }
   },
