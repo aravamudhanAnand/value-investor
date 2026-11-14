@@ -1,7 +1,7 @@
 """One-off check of which free data sources answer from GitHub's servers. Writes tools/probe/result.txt."""
 import json, urllib.request, time
 
-UA = {"User-Agent": "value-investor-site (github.com/aravamudhanAnand/value-investor)"}
+UA = {"User-Agent": "Value Investor site aravamudhanAnand@users.noreply.github.com", "Accept-Encoding": "identity"}
 out = []
 
 
