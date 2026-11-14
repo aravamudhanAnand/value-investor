@@ -163,16 +163,16 @@
   ]
  },
  "market": {
-  "rating": "Buy",
-  "target": 398.52,
-  "beta": 0.93,
+  "rating": null,
+  "target": null,
+  "beta": null,
   "as_of": "2026-10-27",
   "low52": 139.57,
   "high52": 432.33,
   "range_pos": 62,
   "below_high": 25.5,
-  "target_vs_price": 23.7,
-  "target_vs_fair": 965.8,
+  "target_vs_price": null,
+  "target_vs_fair": null,
   "above_low": 130.9
  },
  "summary": {
@@ -298,7 +298,7 @@
    "At least one loss-making year in the period.",
    "Rapidly changing industry."
   ],
-  "note": "The source showed two different recent prices for this company; the price here comes from the weekly price feed. Fiscal 2026 includes a large acquisition paid for in shares, which lifted assets, equity and the share count.",
+  "note": "The source's overview page showed a price that did not match the price feed, so its analyst rating and price target are not shown. Fiscal 2026 includes a large acquisition paid for in shares, which lifted assets, equity and the share count.",
   "history": [
    {
     "period": "FY22",
