@@ -34,7 +34,7 @@
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 25.16,
-    "sector_n": 14
+    "sector_n": 18
    },
    {
     "key": "fpe",
@@ -42,8 +42,8 @@
     "value": 42.64,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 20.97,
-    "sector_n": 15
+    "sector_median": 18.94,
+    "sector_n": 19
    },
    {
     "key": "pfcf",
@@ -52,7 +52,7 @@
     "unit": "x",
     "note": "Before deducting stock-based pay",
     "sector_median": 20.58,
-    "sector_n": 15
+    "sector_n": 19
    },
    {
     "key": "evebitda",
@@ -60,8 +60,8 @@
     "value": 24.49,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 16.64,
-    "sector_n": 15
+    "sector_median": 14.76,
+    "sector_n": 19
    },
    {
     "key": "dy",
@@ -69,8 +69,8 @@
     "value": 0.77,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 2.85,
-    "sector_n": 15
+    "sector_median": 2.83,
+    "sector_n": 19
    }
   ],
   "peer_group": "Consumer staples",
@@ -94,6 +94,16 @@
     "ticker": "CL",
     "company": "Colgate-Palmolive",
     "value": 39.4
+   },
+   {
+    "ticker": "KR",
+    "company": "The Kroger Co.",
+    "value": 38.82
+   },
+   {
+    "ticker": "CHD",
+    "company": "Church & Dwight",
+    "value": 33.88
    },
    {
     "ticker": "KO",
@@ -131,9 +141,19 @@
     "value": 18.29
    },
    {
+    "ticker": "CLX",
+    "company": "The Clorox Company",
+    "value": 18.0
+   },
+   {
     "ticker": "TGT",
     "company": "Target",
     "value": 16.75
+   },
+   {
+    "ticker": "DG",
+    "company": "Dollar General",
+    "value": 16.68
    },
    {
     "ticker": "MO",

@@ -1,0 +1,17 @@
+# CLX - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=86.40; date=2026-10-23; shares=120.93M; fpe=15.16; peg=2.80; cash=143.00M; debt=5.60B; equity=252.00M; eps=$4.81; cr=0.66; ic=6.84; roic=14.86%; gm=42.32%; rev=6.72B; ni=587.00M; ebitda=1.14B; ebit=889.00M; ocf=612.00M; capex=-207.00M; fcf=405.00M; dps=$5.00; sc=-1.73%; ins=0.28%; z=2.23; f=4; c52=-26.89%
+F FY22,7107,35.81,462,3.73,535
+F FY23,7389,39.31,149,1.20,930
+F FY24,7093,43.21,280,2.25,483
+F FY25,7104,45.16,810,6.52,761
+F FY26,6720,42.32,587,4.81,405
+B FY22,6158,3122,729
+B FY23,5945,2954,388
+B FY24,5751,2937,492
+B FY25,5561,2916,482
+B FY26,7794,5598,252
+C FY22,216,52,786,-251,-571,-25
+C FY23,226,73,1158,-228,-583,n/a
+C FY24,236,74,695,-212,-595,n/a
+C FY25,227,81,981,-220,-602,-332
+C FY26,251,48,612,-207,-602,-256

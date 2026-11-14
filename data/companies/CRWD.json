@@ -42,8 +42,8 @@
     "value": 160.48,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 22.44,
-    "sector_n": 23
+    "sector_median": 19.94,
+    "sector_n": 29
    },
    {
     "key": "pe",
@@ -52,7 +52,7 @@
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 34.13,
-    "sector_n": 32
+    "sector_n": 40
    },
    {
     "key": "evebitda",
@@ -60,8 +60,8 @@
     "value": 2145.04,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 25.75,
-    "sector_n": 33
+    "sector_median": 24.03,
+    "sector_n": 41
    }
   ],
   "peer_group": "Technology",

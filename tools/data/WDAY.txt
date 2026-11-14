@@ -1,0 +1,18 @@
+# WDAY - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=208.50; date=2026-10-26; shares=241.00M; fpe=17.28; peg=0.92; cash=3.40B; debt=3.77B; equity=6.46B; eps=$4.86; cr=0.91; ic=11.10; roic=18.35%; gm=75.80%; rev=10.16B; ni=1.25B; ebitda=1.59B; ebit=1.22B; ocf=3.08B; capex=-237.00M; fcf=2.84B; dps=n/a; sc=-4.32%; ins=18.71%; z=3.86; f=7; c52=-14.11%
+F FY22,5139,72.21,29,0.11,1387
+F FY23,6216,72.49,-367,-1.44,1293
+F FY24,7259,75.60,1381,5.21,1917
+F FY25,8446,75.50,526,1.95,2192
+F FY26,9552,75.70,693,2.59,2777
+B FY22,10499,2103,4535
+B FY23,13486,3249,5585
+B FY24,16452,3296,8082
+B FY25,17977,3362,9034
+B FY26,18074,3821,7805
+C FY22,344,1101,1651,-264,n/a,n/a
+C FY23,364,1295,1657,-364,n/a,n/a
+C FY24,282,1416,2149,-232,n/a,-445
+C FY25,326,1519,2461,-269,n/a,-1336
+C FY26,347,1626,2939,-162,n/a,-3511
+C TTM,365,1646,3081,-237,n/a,-5747

@@ -1,0 +1,18 @@
+# GEHC - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=71.52; date=2026-10-27; shares=451.69M; fpe=13.85; peg=1.60; cash=2.08B; debt=10.54B; equity=11.22B; eps=$4.34; cr=1.26; ic=7.84; roic=11.83%; gm=39.53%; rev=21.27B; ni=1.99B; ebitda=3.59B; ebit=2.99B; ocf=2.10B; capex=-522.00M; fcf=1.58B; dps=$0.16; sc=-0.55%; ins=0.22%; z=1.92; f=5; c52=-8.47%
+F FY21,17585,40.80,2247,4.95,1359
+F FY22,18341,39.14,1916,4.22,1803
+F FY23,19552,40.52,1385,3.03,1714
+F FY24,19672,41.71,1993,4.34,1550
+F FY25,20625,39.98,2084,4.55,1505
+B FY21,26308,437,16896
+B FY22,27539,8635,9592
+B FY23,32454,9863,7310
+B FY24,33089,9376,8652
+B FY25,36906,10463,10599
+C FY21,625,76,1607,-248,n/a,n/a
+C FY22,633,67,2113,-310,n/a,n/a
+C FY23,610,114,2101,-387,-41,-33
+C FY24,580,125,1951,-401,-55,-93
+C FY25,578,130,1987,-482,-64,-242
+C TTM,607,154,2101,-522,-64,-430

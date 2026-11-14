@@ -1,0 +1,18 @@
+# IQV - figures as shown on StockAnalysis.com (statistics, income statement, balance sheet, cash flow statement). USD; statements in millions.
+S price=273.60; date=2026-10-26; shares=164.60M; fpe=20.09; peg=1.80; cash=2.08B; debt=16.26B; equity=6.30B; eps=$8.08; cr=0.71; ic=3.07; roic=9.80%; gm=32.97%; rev=16.98B; ni=1.38B; ebitda=3.05B; ebit=2.37B; ocf=2.82B; capex=-635.00M; fcf=2.18B; dps=n/a; sc=-4.89%; ins=0.97%; z=1.93; f=6; c52=+24.07%
+F FY21,13874,33.45,966,4.95,2302
+F FY22,14410,34.89,1091,5.72,1586
+F FY23,14984,34.96,1358,7.29,1500
+F FY24,15405,34.89,1373,7.49,2114
+F FY25,16310,33.29,1360,7.84,2051
+B FY21,24689,12462,6042
+B FY22,25337,13011,5765
+B FY23,26681,13947,6112
+B FY24,26899,14161,6067
+B FY25,29944,16305,6630
+C FY21,1053,170,2942,-640,n/a,-406
+C FY22,711,194,2260,-674,n/a,-1168
+C FY23,650,217,2149,-649,n/a,-992
+C FY24,642,206,2716,-602,n/a,-1350
+C FY25,640,247,2654,-603,n/a,-1244
+C TTM,679,275,2819,-635,n/a,-1162

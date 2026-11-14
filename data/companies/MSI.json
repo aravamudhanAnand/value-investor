@@ -34,7 +34,7 @@
     "unit": "x",
     "note": "Trailing twelve months",
     "sector_median": 34.13,
-    "sector_n": 32
+    "sector_n": 40
    },
    {
     "key": "fpe",
@@ -42,8 +42,8 @@
     "value": 29.29,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 22.44,
-    "sector_n": 23
+    "sector_median": 19.94,
+    "sector_n": 29
    },
    {
     "key": "pfcf",
@@ -51,8 +51,8 @@
     "value": 32.8,
     "unit": "x",
     "note": "Before deducting stock-based pay",
-    "sector_median": 30.23,
-    "sector_n": 20
+    "sector_median": 25.82,
+    "sector_n": 26
    },
    {
     "key": "evebitda",
@@ -60,8 +60,8 @@
     "value": 25.75,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 25.75,
-    "sector_n": 33
+    "sector_median": 24.03,
+    "sector_n": 41
    },
    {
     "key": "dy",
@@ -69,8 +69,8 @@
     "value": 0.91,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 0.61,
-    "sector_n": 31
+    "sector_median": 0.75,
+    "sector_n": 39
    }
   ],
   "peer_group": "Technology · established operating business",
@@ -106,6 +106,11 @@
     "value": 44.32
    },
    {
+    "ticker": "WDAY",
+    "company": "Workday",
+    "value": 42.9
+   },
+   {
     "ticker": "MSI",
     "company": "Motorola Solutions",
     "value": 41.83
@@ -119,6 +124,11 @@
     "ticker": "AAPL",
     "company": "Apple",
     "value": 39.67
+   },
+   {
+    "ticker": "KEYS",
+    "company": "Keysight Technologies",
+    "value": 37.38
    },
    {
     "ticker": "ADSK",
@@ -141,9 +151,19 @@
     "value": 27.36
    },
    {
+    "ticker": "TEL",
+    "company": "TE Connectivity",
+    "value": 21.61
+   },
+   {
     "ticker": "IBM",
     "company": "IBM",
     "value": 21.09
+   },
+   {
+    "ticker": "FICO",
+    "company": "Fair Isaac",
+    "value": 21.0
    },
    {
     "ticker": "INTU",
@@ -166,6 +186,11 @@
     "value": 19.65
    },
    {
+    "ticker": "DELL",
+    "company": "Dell Technologies",
+    "value": 19.17
+   },
+   {
     "ticker": "ROP",
     "company": "Roper Technologies",
     "value": 19.1
@@ -174,6 +199,11 @@
     "ticker": "ACN",
     "company": "Accenture",
     "value": 18.47
+   },
+   {
+    "ticker": "CDW",
+    "company": "CDW",
+    "value": 18.32
    },
    {
     "ticker": "ADBE",

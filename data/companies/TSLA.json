@@ -33,8 +33,8 @@
     "value": 428.81,
     "unit": "x",
     "note": "Trailing twelve months",
-    "sector_median": 24.64,
-    "sector_n": 18
+    "sector_median": 24.43,
+    "sector_n": 20
    },
    {
     "key": "fpe",
@@ -42,8 +42,8 @@
     "value": 182.53,
     "unit": "x",
     "note": "Next twelve months, analyst estimates",
-    "sector_median": 26.96,
-    "sector_n": 17
+    "sector_median": 26.6,
+    "sector_n": 19
    },
    {
     "key": "pfcf",
@@ -52,7 +52,7 @@
     "unit": "x",
     "note": "Before deducting stock-based pay",
     "sector_median": 26.68,
-    "sector_n": 16
+    "sector_n": 18
    },
    {
     "key": "evebitda",
@@ -60,8 +60,8 @@
     "value": 153.7,
     "unit": "x",
     "note": "Enterprise value includes debt",
-    "sector_median": 18.02,
-    "sector_n": 18
+    "sector_median": 17.9,
+    "sector_n": 20
    },
    {
     "key": "dy",
@@ -69,8 +69,8 @@
     "value": 0.0,
     "unit": "%",
     "note": "Trailing dividends ÷ price",
-    "sector_median": 0.8,
-    "sector_n": 18
+    "sector_median": 0.95,
+    "sector_n": 20
    }
   ],
   "peer_group": "Consumer discretionary · established operating business",
@@ -121,6 +121,11 @@
     "value": 24.88
    },
    {
+    "ticker": "EBAY",
+    "company": "eBay",
+    "value": 24.46
+   },
+   {
     "ticker": "HD",
     "company": "Home Depot",
     "value": 24.4
@@ -144,6 +149,11 @@
     "ticker": "YUM",
     "company": "Yum! Brands",
     "value": 20.32
+   },
+   {
+    "ticker": "RCL",
+    "company": "Royal Caribbean Group",
+    "value": 19.37
    },
    {
     "ticker": "LOW",
