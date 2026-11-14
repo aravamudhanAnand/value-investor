@@ -63,7 +63,7 @@ NOTES = {'AMGN': 'Trailing figures are from the latest full fiscal year; the sha
     "EW": "Fiscal 2024 profit includes a large gain on the sale of the critical-care business, so that year's earnings are not comparable with the others.",
     "EBAY": "Fiscal 2021 profit includes a very large gain on businesses sold, and fiscal 2022 shows a loss from falls in the value of shares it held; neither reflects the marketplace's own earnings.",
     "RCL": "The source's cash flow statement was one quarter behind its statistics page when collected, and trailing capital spending differs sharply between the two. Fiscal 2021 and 2022 reflect the pandemic shutdown.",
-    "MCHP": "Fiscal 2025 and 2026 reflect a severe inventory correction among customers; the dividend was maintained although it exceeded free cash flow.",
+    "MCHP": "Fiscal 2025 and 2026 reflect a severe inventory correction among customers; the dividend was maintained although it exceeded free cash flow. The shares fell in early November 2026, so the analyst target shown may predate that fall.",
     "KR": "Fiscal 2026 earnings were reduced by one-off charges; cash flow held up better than reported profit.",
     "CAH": "Fiscal 2022 shows a loss because of write-downs in the medical-products business.",
 }

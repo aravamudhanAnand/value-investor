@@ -120,7 +120,7 @@ N("GEHC", "GE HealthCare Technologies", "NASDAQ", H, 5, 4,
   ("Steady change", 7, DEVICE),
   (7, "Independent since 2023; working to lift margins that trail its main rivals."),
   (False, "Already one of the largest imaging companies."), (True, "An ageing population needs more scans."),
-  ["Revenue has grown every year in the record.", "Recurring service and imaging-agent sales.", "Low forward multiple."],
+  ["Revenue has grown every year in the record.", "Recurring service and imaging-agent sales.", "Earnings cover interest comfortably."],
   ["Low Altman Z-score.", "Free cash flow has not grown in four years.", "Debt is about as large as shareholders' equity."],
   ["Chinese hospitals move to domestic suppliers.", "Margin improvement stalls."])
 

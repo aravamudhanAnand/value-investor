@@ -62,7 +62,7 @@ P = {
        "Kroger is valued on P/E and dividend yield at a low multiple typical of grocers. Investors watch identical-store sales and gross margin."),
 "CLX": ("The Clorox Company makes cleaning and disinfecting products, bags and wraps, charcoal, cat litter, dressings, water filters and personal-care products. In 2026 it bought the maker of Purell.",
         "It sells through grocers, mass retailers, club stores and distributors to institutions. Most sales are in the United States.",
-        "Clorox is valued on P/E and dividend yield. The multiple has fallen as sales weakened and debt rose with the acquisition."),
+        "Clorox is valued on P/E and dividend yield. The multiple depends on a return to sales growth and on paying down the acquisition debt."),
 "CHD": ("Church & Dwight makes household, personal-care and speciality products. Its brands include Arm & Hammer, OxiClean, Trojan, Batiste, Waterpik, TheraBreath and Hero.",
         "A handful of leading brands provide most of the sales and profit. It sells through mass merchants, grocers, drugstores and online.",
         "Church & Dwight is valued on P/E at a premium to household-products peers for its steady growth. The multiple depends on organic sales and acquisitions."),
